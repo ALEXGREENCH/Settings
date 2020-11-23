@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="timezone_filters">
+<item>امریکہ</item>
+<item>"یورپ"</item>
+<item>"افريكا"</item>
+<item>"ایشيا"</item>
+<item>"آسٹریلیا"</item>
+<item>"پیسفک"</item>
+<item>تمام "</item>
+</string-array>
+<string-array name="screen_timeout_entries">
+<item>15 سیکنڈ</item>
+<item>"30 سیکنڈ"</item>
+<item>"1 منٹ"</item>
+<item>2 منٹ</item>
+<item>5 منٹس</item>
+<item>10 منٹس</item>
+<item>30 منٹس</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>1.5 سیکنڈ</item>
+<item>6 سیکنڈ</item>
+<item>ہمیش يللي</item>
+<item>همیش کرییو بند</item>
+</string-array>
+<string-array name="dream_timeout_entries">
+<item>"قطعی نء"</item>
+<item>15 سیکنڈ</item>
+<item>"30 سیکنڈ"</item>
+<item>"1 منٹ"</item>
+<item>2 منٹ</item>
+<item>5 منٹس</item>
+<item>10 منٹس</item>
+<item>30 منٹس</item>
+</string-array>
+<string-array name="lock_after_timeout_entries">
+<item>"فوری"</item>
+<item>5 سیکنڈ</item>
+<item>15 سیکنڈ</item>
+<item>"30 سیکنڈ"</item>
+<item>"1 منٹ"</item>
+<item>2 منٹ</item>
+<item>5 منٹس</item>
+<item>10 منٹس</item>
+<item>30 منٹس</item>
+</string-array>
+<string-array name="entries_font_size">
+<item>لكٹ</item>
+<item>عام</item>
+<item>بوڈھ</item>
+<item>واریہاہ</item>
+</string-array>
+<string-array name="tts_rate_entries">
+<item>"واریہاہ لوت"</item>
+<item>لوت</item>
+<item>عام</item>
+<item>تیز</item>
+<item>"ذیادء تیز"</item>
+<item>"کافی تیز"</item>
+<item>"تیز"</item>
+<item>"کافی تیز"</item>
+<item>"ساروي كھوت تیز"</item>
+</string-array>
+<string-array name="tts_pitch_entries">
+<item>"واریہاہ کم"</item>
+<item>کم</item>
+<item>عام</item>
+<item>تھود</item>
+<item>"کافی ذیادء"</item>
+</string-array>
+<string-array name="wifi_status">
+<item></item>
+<item>"اسکین گسسن ..."</item>
+<item>"جڈن ..."</item>
+<item>"تصدیق کرن ..."</item>
+<item>"حاصل کرن کاءم پی جاۓ ..."</item>
+<item>"جڑن امت"</item>
+<item>"موتل گمت"</item>
+<item>"ژٹنء ایوان  ..."</item>
+<item>"ژٹنء آو"</item>
+<item>"ناکاءم"</item>
+<item>"بند گمت"</item>
+<item>"عام طور نظر انداز کرن کمزور کنکشن"</item>
+</string-array>
+<string-array name="wifi_status_with_ssid">
+<item></item>
+<item>"اسکین گسسن ..."</item>
+<item>"جڑن <xliff:g id="network_name">%1$s</xliff:g> ..."</item>
+<item>"تصدیق گسسن <xliff:g id="network_name">%1$s</xliff:g> ..."</item>
+<item>"حاصل کرن کاءم پی جاۓ <xliff:g id="network_name">%1$s</xliff:g> ..."</item>
+<item>"جڈيتھ <xliff:g id="network_name">%1$s</xliff:g>"</item>
+<item>"موتل گمت"</item>
+<item>"ژیونمت یتء پیٹھ <xliff:g id="network_name">%1$s</xliff:g> ..."</item>
+<item>"ژٹنء آو"</item>
+<item>"ناکاءم"</item>
+<item>"بند گمت"</item>
+<item>"عام طور نظر انداز کرن کمزور کنکشن"</item>
+</string-array>
+<string-array name="wifi_security">
+<item>"@string/wifi_security_none"</item>
+<item>"@string/wifi_security_wep"</item>
+<item>"@string/wifi_security_psk_generic"</item>
+<item>"@string/wifi_security_eap"</item>
+<item>"@string/wifi_security_wapi_psk"</item>
+<item>"@string/wifi_security_wapi_cert"</item>
+</string-array>
+<string-array name="wifi_p2p_wps_setup">
+<item>"دباونک بٹن"</item>
+<item>پیر ال پیچھ PIN</item>
+<item>یمء ال پیٹھ PIN</item>
+</string-array>
+<string-array name="wifi_p2p_status">
+<item>"جڑن امت"</item>
+<item>دعوت کرن</item>
+<item>"ناکاءم"</item>
+<item>"دستياب"</item>
+<item>حد-نشء-نیبر</item>
+</string-array>
+<string-array name="bluetooth_visibility_timeout_entries">
+<item>2 منٹ</item>
+<item>5 منٹس</item>
+<item>"1 گنٹء"</item>
+<item>ذاه ن ٹائم آؤٹ</item>
+</string-array>
+<string-array name="wifi_signal">
+<item>غریب</item>
+<item>صاف</item>
+<item>اصل</item>
+<item>سیٹھا جان</item>
+</string-array>
+<string-array name="wifi_sleep_policy_entries">
+<item>"همیشه"</item>
+<item>سرپھ یلء پلگ یالء كریتھ اس</item>
+<item>" زہاننء ( ہرایو ڈیٹاک استعمال )"</item>
+</string-array>
+<string-array name="wifi_sleep_policy_entries_wifi_only">
+<item>"همیشه"</item>
+<item>سرپھ یلء پلگ یالء كریتھ اس</item>
+<item>"قطعی نء"</item>
+</string-array>
+<string-array name="wifi_frequency_band_entries">
+<item>"آٹو"</item>
+<item>سرپھ 5 GHz</item>
+<item>سرپھ 2.4 GHz</item>
+</string-array>
+<string-array name="usage_stats_display_order_types">
+<item>ٹائم استعمال</item>
+<item>" جاری کریو شمار"</item>
+<item>ایپ ناو</item>
+</string-array>
+<string-array name="wifi_peap_phase2_entries">
+<item>"کہانء"</item>
+<item>"MSCHAPV2"</item>
+<item>"GTC"</item>
+</string-array>
+<string-array name="wifi_phase2_entries">
+<item>"کہانء"</item>
+<item>"PAP"</item>
+<item>"MSCHAP"</item>
+<item>"MSCHAPV2"</item>
+<item>"GTC"</item>
+</string-array>
+<string-array name="wifi_ip_settings">
+<item>"DHCP"</item>
+<item>جامد</item>
+</string-array>
+<string-array name="wifi_proxy_settings">
+<item>"کہانء"</item>
+<item>دستی</item>
+</string-array>
+<string-array name="emergency_tone_entries">
+<item>"بند"</item>
+<item>الرٹ</item>
+<item>تھرتھر</item>
+</string-array>
+<string-array name="apn_auth_entries">
+<item>"کہانء"</item>
+<item>"PAP"</item>
+<item>"CHAP"</item>
+<item>PAP یا CHAP</item>
+</string-array>
+<string-array name="bearer_entries">
+<item>"LTE"</item>
+<item>"eHRPD"</item>
+<item>گیرمخصوص</item>
+</string-array>
+<string-array name="app_install_location_entries">
+<item>اندروني الء سٹوریج</item>
+<item>"کارڈ sd ہٹاونک"</item>
+<item>سسٹم كر فاصلء</item>
+</string-array>
+<string-array name="app_ums_install_location_entries">
+<item>اندروني الء سٹوریج</item>
+<item>" موبایل اندرم جمع جاۓ"</item>
+<item>سسٹم كر فاصلء</item>
+</string-array>
+<string-array name="dualsim_summaries">
+<item>" SIM 1 "</item>
+<item>" SIM 2 "</item>
+<item>" پریتھ ساتء فوری طور"</item>
+</string-array>
+<string-array name="dualsim_primary_summaries">
+<item>" SIM 1 "</item>
+<item>" SIM 2 "</item>
+</string-array>
+<string-array name="dualsim_mms_summaries">
+<item>" SIM 1 "</item>
+<item>" SIM 2 "</item>
+<item>" پریتھ ساتء فوری طور"</item>
+<item>"آٹو"</item>
+</string-array>
+<string-array name="dualsim_entries">
+<item>"SIM 1"</item>
+<item>"SIM 2"</item>
+</string-array>
+<string-array name="dualsim_setting_entries">
+<item>"SIM 1"</item>
+<item>"SIM 2"</item>
+<item>" پریتھ ساتء فوری طور"</item>
+</string-array>
+<string-array name="silent_mode_entries">
+<item>"بند"</item>
+<item>تھرتھر</item>
+<item>"ژوپ"</item>
+</string-array>
+<string-array name="app_ops_categories">
+<item>"جائی"</item>
+<item>"ذاتی"</item>
+<item>میسیج کرن</item>
+<item>میڈیا</item>
+<item>ال</item>
+</string-array>
+<string-array name="app_ops_summaries">
+<item>کورسچ جاۓ</item>
+<item>ٹھیک جاۓ</item>
+<item>"GPS"</item>
+<item>تھرتھر</item>
+<item>رابطء پرییو</item>
+<item>رابطء ہراییو</item>
+<item>"پرريیو کال لاگ"</item>
+<item>کال لاگ ہراییو</item>
+<item>کیلنڈر پرییو</item>
+<item>کیلنڈر ہراییو</item>
+<item>Wi-Fi سكین</item>
+<item>نوٹیفکیشن</item>
+<item>سیل سكین</item>
+<item>کال فون</item>
+<item>SMS پرییو</item>
+<item>SMS لیکھیو</item>
+<item>SMS کرییو موصول</item>
+<item>ہنگامی SMS کرییو موصول</item>
+<item>MMS کرییو موصول</item>
+<item>WAP دباییو موصول</item>
+<item>سوزیو SMS</item>
+<item>ICC SMS پرییو</item>
+<item>ICC SMS لیکھیو</item>
+<item>ترتیبات ہراییو</item>
+<item>"پیٹھ کن بناییو"</item>
+<item>"داخل اشتيار"</item>
+<item>"کیمرا"</item>
+<item>"ریکارڈ آواز"</item>
+<item>"آڈییو چلاییو"</item>
+<item>"پرییو کلپ بورڈ"</item>
+<item>كلپبورڈ ہراییو</item>
+<item>میڈیا بٹن</item>
+<item>آوازء ہند توجہ</item>
+<item>ماسٹر آواز</item>
+<item>وايس آواز</item>
+<item>رنگ آواز</item>
+<item>"میڈیا آواز"</item>
+<item>"الارم آواز"</item>
+<item>"نوٹیفکیشن آواز"</item>
+<item>"بلوٹوت آواز"</item>
+<item>ہوشیار روذو</item>
+<item>مانیٹر جاۓ</item>
+<item>مانیٹر ہائی پآو‌ر جاۓ</item>
+</string-array>
+<string-array name="app_ops_labels">
+<item>"جائی"</item>
+<item>"جائی"</item>
+<item>"جائی"</item>
+<item>تھرتھر</item>
+<item>رابطء پرییو</item>
+<item>رابطء ہراییو</item>
+<item>"پرريیو کال لاگ"</item>
+<item>کال لاگ ہراییو</item>
+<item>کیلنڈر پرییو</item>
+<item>کیلنڈر ہراییو</item>
+<item>"جائی"</item>
+<item>نوٹیفکیشن کرییو پوسٹ</item>
+<item>"جائی"</item>
+<item>کال فون</item>
+<item>پرییو SMS / MMS</item>
+<item>ليكھو SMS / MMS</item>
+<item>موصول SMS / MMS</item>
+<item>موصول SMS / MMS</item>
+<item>موصول SMS / MMS</item>
+<item>موصول SMS / MMS</item>
+<item>سوذو SMS / MMS</item>
+<item>پرییو SMS / MMS</item>
+<item>ليكھو SMS / MMS</item>
+<item>ترتیبات ہراییو</item>
+<item>"پیٹھ کن بناییو"</item>
+<item>"داخل اشتيار"</item>
+<item>"کیمرا"</item>
+<item>"ریکارڈ آواز"</item>
+<item>"آڈییو چلاییو"</item>
+<item>"پرییو کلپ بورڈ"</item>
+<item>كلپبورڈ ہراییو</item>
+<item>میڈیا بٹن</item>
+<item>آوازء ہند توجہ</item>
+<item>ماسٹر آواز</item>
+<item>وايس آواز</item>
+<item>رنگ آواز</item>
+<item>"میڈیا آواز"</item>
+<item>"الارم آواز"</item>
+<item>"نوٹیفکیشن آواز"</item>
+<item>"بلوٹوت آواز"</item>
+<item>ہوشیار روذو</item>
+<item>"جائی"</item>
+<item>"جائی"</item>
+</string-array>
+<string-array name="long_press_timeout_selector_titles">
+<item>مختصر</item>
+<item>درمیان</item>
+<item>زیچھرس</item>
+</string-array>
+<string-array name="captioning_typeface_selector_titles">
+<item>ڈیفالٹ</item>
+<item>"Sans-serif"</item>
+<item>"Sans-serif condensed"</item>
+<item>"Serif"</item>
+<item>" مونوسپیس"</item>
+</string-array>
+<string-array name="captioning_font_size_selector_titles">
+<item>کافی لوكٹ</item>
+<item>لكٹ</item>
+<item>عام</item>
+<item>بوڈھ</item>
+<item>کافی بورڈ آف ڈائریکٹرز</item>
+</string-array>
+<string-array name="captioning_edge_type_selector_titles">
+<item>"کہانء"</item>
+<item>اٹلان</item>
+<item>شیڈو کرییو ڈراپ</item>
+</string-array>
+<string-array name="captioning_preset_selector_titles">
+<item>كرهنس پیٹھ سفید</item>
+<item>صفیدس پیٹھ كرهن</item>
+<item>كرهنس پیٹھ لدر</item>
+<item>نیلس پیٹھ لدر</item>
+<item>"ریواج"</item>
+</string-array>
+<string-array name="select_runtime_titles">
+<item>"Dalvik"</item>
+<item>"ART"</item>
+<item>"ART (ڈیبگ)"</item>
+</string-array>
+<string-array name="select_runtime_summaries">
+<item>" استعمال کریو Dalvik"</item>
+<item>" استعمال کریو ART"</item>
+<item>" استعمال کرییو ART ڈیبگ بناون"</item>
+</string-array>
+<string-array name="hdcp_checking_titles">
+<item>"مء وچھیو"</item>
+<item>DRM خاطر كرتو چیک</item>
+<item>همیش کرییو چیک</item>
+</string-array>
+<string-array name="hdcp_checking_summaries">
+<item>HDCP چیکنگ م کرییو ذاگ استعمال</item>
+<item>HDCP چیکنگ سرپھ DRM كٹینٹ خاطر</item>
+<item>همیش کرییو HDCP چیکنگ استعمال</item>
+</string-array>
+<string-array name="window_animation_scale_entries">
+<item>اینمیشن بند</item>
+<item>انیمیشن پیمانی .5x</item>
+<item>انیمیشن پیمانی 1x</item>
+<item>انیمیشن پیمانی 1.5x</item>
+<item>انیمیشن پیمانی 2x</item>
+<item>انیمیشن پیمانی 5x</item>
+<item>انیمیشن پیمانی 10x</item>
+</string-array>
+<string-array name="transition_animation_scale_entries">
+<item>اینمیشن بند</item>
+<item>انیمیشن پیمانی .5x</item>
+<item>انیمیشن پیمانی 1x</item>
+<item>انیمیشن پیمانی 1.5x</item>
+<item>انیمیشن پیمانی 2x</item>
+<item>انیمیشن پیمانی 5x</item>
+<item>انیمیشن پیمانی 10x</item>
+</string-array>
+<string-array name="animator_duration_scale_entries">
+<item>اینمیشن بند</item>
+<item>انیمیشن پیمانی .5x</item>
+<item>انیمیشن پیمانی 1x</item>
+<item>انیمیشن پیمانی 1.5x</item>
+<item>انیمیشن پیمانی 2x</item>
+<item>انیمیشن پیمانی 5x</item>
+<item>انیمیشن پیمانی 10x</item>
+</string-array>
+<string-array name="overlay_display_devices_entries">
+<item>"کہانء"</item>
+<item>"720x480 mdpi"</item>
+<item>"720x480 mdpi  ( محفوظ)"</item>
+<item>"1280x720 tvdpi"</item>
+<item>"1280x720 tvdpi ( محفوظ)"</item>
+<item>"1920x1080 xhdpi"</item>
+<item>"1920x1080 xhdpi ( محفوظ)"</item>
+<item>"1280x720 tvdpi تء 1920x1080 xhdpi"</item>
+</string-array>
+<string-array name="enable_opengl_traces_entries">
+<item>"کہانء"</item>
+<item>"Logcat"</item>
+<item>Systrace (گریپھكس)</item>
+<item>glGetError پیٹھ دور سٹیک</item>
+</string-array>
+<string-array name="show_non_rect_clip_entries">
+<item>"بند"</item>
+<item>غیر باكيد الاك کرییو بلیو سیتھ کلپ</item>
+<item>ٹیسٹڈ ڈراوگ كماڈس کرییو کچا سیتھ نمایاں</item>
+</string-array>
+<string-array name="track_frame_time_entries">
+<item>"بند"</item>
+<item>آن سکرین بتور باریں</item>
+<item>" سکرینس پیٹھ لانء پاٹھ"</item>
+<item>adb shell dumpsys gfxinfo منز</item>
+</string-array>
+<string-array name="debug_hw_overdraw_entries">
+<item>"بند"</item>
+<item>"ہاییو اور ڈرا جاۓ"</item>
+<item>ڈیٹیرانوملي خاطر هايو الاك</item>
+<item>هايو اوورڈرا کاؤنٹر</item>
+</string-array>
+<string-array name="app_process_limit_entries">
+<item>مياري حد</item>
+<item>كاه پوتمنزر پراسیس چھن</item>
+<item>ذياد تر 1 پراسیس</item>
+<item>ذياد تر 2 پراسیس</item>
+<item>ذياد تر 3 پراسیس</item>
+<item>ذياد تر 4 پراسیس</item>
+</string-array>
+<string-array name="vpn_types_long">
+<item>"PPTP VPN"</item>
+<item>برونٹھي-اسٹاک كرد كيذو سان L2TP / IPSec VPN</item>
+<item>سرٹیفکیٹ۔ و سیتھ L2TP / IPSec VPN</item>
+<item>برونٹھي-اسٹاک كرد چابیاں ت Xauth اتھنٹكیشن سان IPSec VPN</item>
+<item>سرٹیفکیٹ ت Xauth اتھنٹكیشن سان IPSec VPN</item>
+<item>سرٹیفکیٹ ت ہائبرڈ اتھنٹكیشن سان IPSec VPN</item>
+</string-array>
+<string-array name="vpn_states">
+<item>"ژٹنء آو"</item>
+<item>"شروع ..."</item>
+<item>"جڈن ..."</item>
+<item>"جڑن امت"</item>
+<item>وقت مكلیوو</item>
+<item>"ناکاءم"</item>
+</string-array>
+<string-array name="security_settings_premium_sms_values">
+<item>پرچھو</item>
+<item>"ذه نہ اجازت"</item>
+<item>"ہمیش اجازت"</item>
+</string-array>
+<string-array name="ram_states">
+<item>عام</item>
+<item>اعتدال پسند</item>
+<item>کم</item>
+<item>نازک</item>
+</string-array>
+<string-array name="alarm_set">
+<item>ي چھ ونك پیٹھ 1 منٹ كھوت کم مقرر كرن كرن امت.</item>
+<item>"ي چھ سیٹ كرن امت <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ونك پیٹھ."</item>
+<item>"ي چھ سیٹ كرن امت <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> ونك پیٹھ."</item>
+<item>"ي چھ سیٹ كرن امت <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ت <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> ونك پیٹھ. "</item>
+<item>"ي چھ سیٹ كرن امت <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ننك پیٹھ."</item>
+<item>"ي چھ سیٹ كرن امت <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ت <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ونك پیٹھ. "</item>
+<item>"ي چھ سیٹ كرن امت <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> ت <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ونك پیٹھ. "</item>
+<item>"ي چھ سیٹ كرن امت <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>، ت <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ونك پیٹھ. "</item>
+</string-array>
+<string-array name="mobile_to_wlan">
+<item>آٹو مربوط</item>
+<item>دستی مربوط</item>
+<item>ہمیش ونو</item>
+</string-array>
+<string-array name="agps_setting_entries">
+<item>"كھولیو"</item>
+<item>بند</item>
+</string-array>
+<string-array name="auto_time_entries">
+<item>نیٹ ورک-فراہم كرد وقت کرییو استعمال</item>
+<item>GPS- فراہم كرد وقت کرییو استعمال</item>
+<item>"بند"</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>نیٹ ورک-فراہم كرد وقت کرییو استعمال</item>
+<item>"بند"</item>
+</string-array>
+<string-array name="color_picker">
+<item>چیتی</item>
+<item>نيول</item>
+<item>انڈگو</item>
+<item>واگني</item>
+<item> گولئب</item>
+<item>ووذول</item>
+</string-array>
+</resources>

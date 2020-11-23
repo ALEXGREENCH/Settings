@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="timezone_filters">
+<item>"अमेरिका"</item>
+<item>"यूरोप"</item>
+<item>"आफ्रिका"</item>
+<item>"जम्बूद्वीपः"</item>
+<item>"ऑस्ट्रेलिया"</item>
+<item>"प्रशान्तः"</item>
+<item>"सर्वाः"</item>
+</string-array>
+<string-array name="screen_timeout_entries">
+<item>"15 पलानि"</item>
+<item>"30 पलानि"</item>
+<item>"1 निमेषः"</item>
+<item>"2 निमेषाः"</item>
+<item>"5 निमेषाः"</item>
+<item>"10 निमेषाः"</item>
+<item>"30 निमेषाः"</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>"1.5 पलानि"</item>
+<item>"6 पलानि"</item>
+<item>"सर्वदा सक्रियम्"</item>
+<item>"सर्वदा पिदधातु"</item>
+</string-array>
+<string-array name="dream_timeout_entries">
+<item>"न कदापि"</item>
+<item>"15 पलानि"</item>
+<item>"30 पलानि"</item>
+<item>"1 निमेषः"</item>
+<item>"2 निमेषाः"</item>
+<item>"5 निमेषाः"</item>
+<item>"10 निमेषाः"</item>
+<item>"30 निमेषाः"</item>
+</string-array>
+<string-array name="lock_after_timeout_entries">
+<item>"तत्कालरूपेण"</item>
+<item>"5 पलानि"</item>
+<item>"15 पलानि"</item>
+<item>"30 पलानि"</item>
+<item>"1 निमेषः"</item>
+<item>"2 निमेषाः"</item>
+<item>"5 निमेषाः"</item>
+<item>"10 निमेषाः"</item>
+<item>"30 निमेषाः"</item>
+</string-array>
+<string-array name="entries_font_size">
+<item>"सूक्ष्मः"</item>
+<item>"सामान्यः"</item>
+<item>"बृहत्"</item>
+<item>"महत्"</item>
+</string-array>
+<string-array name="tts_rate_entries">
+<item>"अतीव मन्दम्"</item>
+<item>"मन्दम्"</item>
+<item>"सामान्यः"</item>
+<item>"त्वरितम्"</item>
+<item>"त्वरिततरः"</item>
+<item>"त्वरिततमः"</item>
+<item>"त्विरत्"</item>
+<item>"अतित्विरत्"</item>
+<item>"त्वरिततमः"</item>
+</string-array>
+<string-array name="tts_pitch_entries">
+<item>"अतिनिम्नम्"</item>
+<item>"निम्नम्"</item>
+<item>"सामान्यः"</item>
+<item>"उच्चम्"</item>
+<item>"अत्युन्नतम्"</item>
+</string-array>
+<string-array name="wifi_status">
+<item></item>
+<item>"पठति..."</item>
+<item>"योजयति..."</item>
+<item>"अधिकृतं करोति..."</item>
+<item>"IP सङ्केतं स्वीकरोति..."</item>
+<item>"संयुक्तम्"</item>
+<item>"निलम्बितम्"</item>
+<item>"विच्छिनत्ति..."</item>
+<item>"विच्छेदयतु"</item>
+<item>"असफलम्"</item>
+<item>"प्रतिबन्धितम्"</item>
+<item>"मन्दसंयोगं अस्थायिरूपेण अवगणति"</item>
+</string-array>
+<string-array name="wifi_status_with_ssid">
+<item></item>
+<item>"पठति..."</item>
+<item>"<xliff:g id="network_name">%1$s</xliff:g>प्रति संयोजयति..."</item>
+<item>"<xliff:g id="network_name">%1$s</xliff:g> सह अधिकृतं करोति..."</item>
+<item>"<xliff:g id="network_name">%1$s</xliff:g> तः IP सङ्केतं स्वीकरोति..."</item>
+<item>"<xliff:g id="network_name">%1$s</xliff:g>प्रति संयोजितम्..."</item>
+<item>"निलम्बितम्"</item>
+<item>"<xliff:g id="network_name">%1$s</xliff:g> तः विच्छन्नं भवति..."</item>
+<item>"विच्छेदयतु"</item>
+<item>"असफलम्"</item>
+<item>"प्रतिबन्धितम्"</item>
+<item>"मन्दसंयोगं अस्थायिरूपेण अवगणति"</item>
+</string-array>
+<string-array name="wifi_security">
+<item>"@string/wifi_security_none"</item>
+<item>"@string/wifi_security_wep"</item>
+<item>"@string/wifi_security_psk_generic"</item>
+<item>"@string/wifi_security_eap"</item>
+<item>"@string/wifi_security_wapi_psk"</item>
+<item>"@string/wifi_security_wapi_cert"</item>
+</string-array>
+<string-array name="wifi_p2p_wps_setup">
+<item>"स्थगनकुञ्जिका"</item>
+<item>"समानोपकरणात् PIN"</item>
+<item>"एतस्मात् उपकरणात् PIN"</item>
+</string-array>
+<string-array name="wifi_p2p_status">
+<item>"संयुक्तम्"</item>
+<item>"निमन्त्रणम्"</item>
+<item>"असफलम्"</item>
+<item>"उपलब्धम्"</item>
+<item>"समीयाः बहिः"</item>
+</string-array>
+<string-array name="bluetooth_visibility_timeout_entries">
+<item>"2 निमेषाः"</item>
+<item>"5 निमेषाः"</item>
+<item>"1 होरा"</item>
+<item>"कादपि समयः न समापयेत्"</item>
+</string-array>
+<string-array name="wifi_signal">
+<item>"दीनः"</item>
+<item>"शुभ्रः"</item>
+<item>"शोभनम्"</item>
+<item>"अत्युत्तमम्"</item>
+</string-array>
+<string-array name="wifi_sleep_policy_entries">
+<item>"सर्वदा"</item>
+<item>"तदैव यदा संयुक्तम् अस्ति"</item>
+<item>"नैव कदापि (दत्तांशोपयोगं वर्धयति)"</item>
+</string-array>
+<string-array name="wifi_sleep_policy_entries_wifi_only">
+<item>"सर्वदा"</item>
+<item>"तदैव यदा संयुक्तम् अस्ति"</item>
+<item>"न कदापि"</item>
+</string-array>
+<string-array name="wifi_frequency_band_entries">
+<item>"स्वतः"</item>
+<item>"5 GHz केवलम्"</item>
+<item>"2.4 GHz केवलम्"</item>
+</string-array>
+<string-array name="usage_stats_display_order_types">
+<item>"उपयोगस्य समयः"</item>
+<item>"स्थापनस्य गणना"</item>
+<item>"अनुप्रयोगस्य नाम"</item>
+</string-array>
+<string-array name="wifi_peap_phase2_entries">
+<item>"नैकमपि"</item>
+<item>"MSCHAPV2"</item>
+<item>"GTC"</item>
+</string-array>
+<string-array name="wifi_phase2_entries">
+<item>"नैकमपि"</item>
+<item>"PAP"</item>
+<item>"MSCHAP"</item>
+<item>"MSCHAPV2"</item>
+<item>"GTC"</item>
+</string-array>
+<string-array name="wifi_ip_settings">
+<item>"DHCP"</item>
+<item>"साङ्ख्यिकी"</item>
+</string-array>
+<string-array name="wifi_proxy_settings">
+<item>"नैकमपि"</item>
+<item>"मार्गदर्शिका"</item>
+</string-array>
+<string-array name="emergency_tone_entries">
+<item>"निष्क्रियम्"</item>
+<item>"पूर्वसूचना"</item>
+<item>"कम्पनम्"</item>
+</string-array>
+<string-array name="apn_auth_entries">
+<item>"नैकमपि"</item>
+<item>"PAP"</item>
+<item>"CHAP"</item>
+<item>"PAP अथवा CHAP"</item>
+</string-array>
+<string-array name="bearer_entries">
+<item>"LTE"</item>
+<item>"eHRPD"</item>
+<item>"अनिर्धारितम्"</item>
+</string-array>
+<string-array name="app_install_location_entries">
+<item>"आन्तरिकः उपकरणसङ्ग्रहः"</item>
+<item>"SD-पत्रं निष्कासनयोग्यम्"</item>
+<item>"प्रणालिः एव निर्धारयेत्"</item>
+</string-array>
+<string-array name="app_ums_install_location_entries">
+<item>"आन्तरिकः उपकरणसङ्ग्रहः"</item>
+<item>"दूरभाषस्य आन्तरिकसङ्ग्रहः"</item>
+<item>"प्रणालिः एव निर्धारयेत्"</item>
+</string-array>
+<string-array name="dualsim_summaries">
+<item>" SIM 1 "</item>
+<item>" SIM 2 "</item>
+<item>"सर्वदा उत्सूचयतु"</item>
+</string-array>
+<string-array name="dualsim_primary_summaries">
+<item>" SIM 1 "</item>
+<item>" SIM 2 "</item>
+</string-array>
+<string-array name="dualsim_mms_summaries">
+<item>" SIM 1 "</item>
+<item>" SIM 2 "</item>
+<item>"सर्वदा उत्सूचयतु"</item>
+<item>"स्वतः"</item>
+</string-array>
+<string-array name="dualsim_entries">
+<item>"SIM 1"</item>
+<item>"SIM 2"</item>
+</string-array>
+<string-array name="dualsim_setting_entries">
+<item>"SIM 1"</item>
+<item>"SIM 2"</item>
+<item>"सर्वदा उत्सूचयतु"</item>
+</string-array>
+<string-array name="silent_mode_entries">
+<item>"निष्क्रियम्"</item>
+<item>"कम्पनम्"</item>
+<item>"मूकम्"</item>
+</string-array>
+<string-array name="app_ops_categories">
+<item>"स्थितिः"</item>
+<item>"वैय्यक्तिकम्"</item>
+<item>"सन्देशः"</item>
+<item>"माध्यमानि"</item>
+<item>"उपकरणम्"</item>
+</string-array>
+<string-array name="app_ops_summaries">
+<item>"अपरिष्कृत् स्थितिः"</item>
+<item>"योग्या स्थितिः"</item>
+<item>"GPS"</item>
+<item>"कम्पनम्"</item>
+<item>"सम्पर्कान् पठतु"</item>
+<item>"सम्पर्कान् सम्पादयतु"</item>
+<item>"आह्वानस्य इतिवृत्तं पठ्यताम्।"</item>
+<item>"आह्वाहनसंरक्षितावलिः सम्पाद्यताम्"</item>
+<item>"पञ्चाङ्गः पठ्यताम्"</item>
+<item>"पङ्चाङ्गः सम्पाद्यताम्"</item>
+<item>"wi-fi अन्विषति"</item>
+<item>"विज्ञप्तिः"</item>
+<item>"पेटिकां अन्विषति"</item>
+<item>"दूरभाषाह्वाहनम्"</item>
+<item>"SMS पठ्यताम्"</item>
+<item>"SMS लिख्यताम्"</item>
+<item>"SMS प्राप्यताम्"</item>
+<item>"आप्ताकीलनं SMS प्राप्यताम्"</item>
+<item>"MMS प्राप्यताम्"</item>
+<item>"WAP प्रेरकं प्राप्यताम्"</item>
+<item>"सन्देशं प्रेषयतु"</item>
+<item>"ICC, SMS पठ्यताम्"</item>
+<item>"ICC, SMS लिख्यताम्"</item>
+<item>"अभिविन्यासाः सम्पाद्यताम्"</item>
+<item>"शीर्षे नीयताम्"</item>
+<item>"सूचनाः प्राप्यन्ताम्"</item>
+<item>"छायाङ्ककः।"</item>
+<item>"अभिलेख श्रव्य"</item>
+<item>"ध्वनिं चालयतु"</item>
+<item>"गवेषकोपकरणं पठतु"</item>
+<item>"गवेषकोपकरणं सम्पाद्यताम्"</item>
+<item>"माध्यमाकुञ्जिकाः"</item>
+<item>"ध्वनिकेन्द्रितम्"</item>
+<item>"मुख्यध्वनिः"</item>
+<item>"ध्वनिवेगः"</item>
+<item>"रववेगः"</item>
+<item>"माध्यमस्य ध्वनिः"</item>
+<item>"क्वणनघट्याः ध्वनिः"</item>
+<item>"पूर्वसूचना ध्वनिः"</item>
+<item>"ब्लूटूथ-मध्ये ध्वनिः"</item>
+<item>"जागृतेन स्थाप्यताम्"</item>
+<item>"स्थितिः नियन्त्र्यताम्"</item>
+<item>"उच्चविद्युत्स्थितिं नियन्त्रयतु"</item>
+</string-array>
+<string-array name="app_ops_labels">
+<item>"स्थितिः"</item>
+<item>"स्थितिः"</item>
+<item>"स्थितिः"</item>
+<item>"कम्पनम्"</item>
+<item>"सम्पर्कान् पठतु"</item>
+<item>"सम्पर्कान् सम्पादयतु"</item>
+<item>"आह्वानस्य इतिवृत्तं पठ्यताम्।"</item>
+<item>"आह्वाहनसंरक्षितावलिः सम्पाद्यताम्"</item>
+<item>"पञ्चाङ्गः पठ्यताम्"</item>
+<item>"पङ्चाङ्गः सम्पाद्यताम्"</item>
+<item>"स्थितिः"</item>
+<item>"पश्चात्सूचना"</item>
+<item>"स्थितिः"</item>
+<item>"दूरभाषाह्वाहनम्"</item>
+<item>"पठ्यताम् SMS/MMS"</item>
+<item>"लिख्यताम् SMS/MMS"</item>
+<item>"प्राप्यताम् SMS/MMS"</item>
+<item>"प्राप्यताम् SMS/MMS"</item>
+<item>"प्राप्यताम् SMS/MMS"</item>
+<item>"प्राप्यताम् SMS/MMS"</item>
+<item>"प्रेषयतु SMS/MMS"</item>
+<item>"पठ्यताम् SMS/MMS"</item>
+<item>"लिख्यताम् SMS/MMS"</item>
+<item>"अभिविन्यासाः सम्पाद्यताम्"</item>
+<item>"शीर्षे नीयताम्"</item>
+<item>"सूचनाः प्राप्यन्ताम्"</item>
+<item>"छायाङ्ककः।"</item>
+<item>"अभिलेख श्रव्य"</item>
+<item>"ध्वनिं चालयतु"</item>
+<item>"गवेषकोपकरणं पठतु"</item>
+<item>"गवेषकोपकरणं सम्पाद्यताम्"</item>
+<item>"माध्यमाकुञ्जिकाः"</item>
+<item>"ध्वनिकेन्द्रितम्"</item>
+<item>"मुख्यध्वनिः"</item>
+<item>"ध्वनिवेगः"</item>
+<item>"रववेगः"</item>
+<item>"माध्यमस्य ध्वनिः"</item>
+<item>"क्वणनघट्याः ध्वनिः"</item>
+<item>"पूर्वसूचना ध्वनिः"</item>
+<item>"ब्लूटूथ-मध्ये ध्वनिः"</item>
+<item>"जागृतेन स्थाप्यताम्"</item>
+<item>"स्थितिः"</item>
+<item>"स्थितिः"</item>
+</string-array>
+<string-array name="long_press_timeout_selector_titles">
+<item>"लघुः"</item>
+<item>"माध्यमः"</item>
+<item>"बृहन्"</item>
+</string-array>
+<string-array name="captioning_typeface_selector_titles">
+<item>"पूर्वन्यस्तः"</item>
+<item>"Sans-serif"</item>
+<item>"Sans-serif condensed"</item>
+<item>"Serif"</item>
+<item>"एकाकिरिक्तस्थानम्"</item>
+</string-array>
+<string-array name="captioning_font_size_selector_titles">
+<item>"अतिलघुः"</item>
+<item>"सूक्ष्मः"</item>
+<item>"सामान्यः"</item>
+<item>"बृहत्"</item>
+<item>"अतिबृहन्"</item>
+</string-array>
+<string-array name="captioning_edge_type_selector_titles">
+<item>"नैकमपि"</item>
+<item>"बाह्यरेखा"</item>
+<item>"बिन्दुछाया"</item>
+</string-array>
+<string-array name="captioning_preset_selector_titles">
+<item>"पृष्ठे श्वेतः"</item>
+<item>"पृष्ठे कृष्णः"</item>
+<item>"पृष्ठे पीतः"</item>
+<item>"पृष्ठे नीलः"</item>
+<item>"स्वानुकूलनम्"</item>
+</string-array>
+<string-array name="select_runtime_titles">
+<item>"Dalvik"</item>
+<item>"ART"</item>
+<item>"ART (दोषान्वेषणम्)"</item>
+</string-array>
+<string-array name="select_runtime_summaries">
+<item>"Dalvik उपयुज्यताम्"</item>
+<item>"ART उपयुज्यताम्"</item>
+<item>"ART-दोषान्वेषण-निर्माणम् उपयुज्यताम्"</item>
+</string-array>
+<string-array name="hdcp_checking_titles">
+<item>"नैव परीक्ष्यताम्"</item>
+<item>"केवलं DRM सम्पर्काय परिशीलयतु"</item>
+<item>"सर्वदा परिशीलयतु"</item>
+</string-array>
+<string-array name="hdcp_checking_summaries">
+<item>"कदापि HDCP परिशीलनं मा प्रयुञ्जतु"</item>
+<item>"केवलं DRM सम्पर्काय HDCP परिशीलनस्य उपयोगं करोतु"</item>
+<item>"सर्वदा HDCP परिशीलनं प्रयुञ्जतु"</item>
+</string-array>
+<string-array name="window_animation_scale_entries">
+<item>"चित्रचालनं पिदधातु"</item>
+<item>"चित्रचालनस्य मापनं .5x"</item>
+<item>"चित्रचालनस्य मापनं 1x"</item>
+<item>"चित्रचालनस्य मापनं 1.5x"</item>
+<item>"चित्रचालनस्य मापनं 2x"</item>
+<item>"चित्रचालनस्य मापनं 5x"</item>
+<item>"चित्रचालनस्य मापनं 10x"</item>
+</string-array>
+<string-array name="transition_animation_scale_entries">
+<item>"चित्रचालनं पिदधातु"</item>
+<item>"चित्रचालनस्य मापनं .5x"</item>
+<item>"चित्रचालनस्य मापनं 1x"</item>
+<item>"चित्रचालनस्य मापनं 1.5x"</item>
+<item>"चित्रचालनस्य मापनं 2x"</item>
+<item>"चित्रचालनस्य मापनं 5x"</item>
+<item>"चित्रचालनस्य मापनं 10x"</item>
+</string-array>
+<string-array name="animator_duration_scale_entries">
+<item>"चित्रचालनं पिदधातु"</item>
+<item>"चित्रचालनस्य मापनं .5x"</item>
+<item>"चित्रचालनस्य मापनं 1x"</item>
+<item>"चित्रचालनस्य मापनं 1.5x"</item>
+<item>"चित्रचालनस्य मापनं 2x"</item>
+<item>"चित्रचालनस्य मापनं 5x"</item>
+<item>"चित्रचालनस्य मापनं 10x"</item>
+</string-array>
+<string-array name="overlay_display_devices_entries">
+<item>"नैकमपि"</item>
+<item>"720x480 mdpi"</item>
+<item>"720x480 mdpi (रक्षितम्)"</item>
+<item>"1280x720 tvdpi"</item>
+<item>"1280x720 tvdpi (रक्षितम्)"</item>
+<item>"1920x1080 xhdpi"</item>
+<item>"1920x1080 xhdpi (रक्षितम्)"</item>
+<item>"1280x720 tvdpi तथा च 1920x1080 xhdpi"</item>
+</string-array>
+<string-array name="enable_opengl_traces_entries">
+<item>"नैकमपि"</item>
+<item>"Logcat"</item>
+<item>"Systrace (ग्राफिक्स)"</item>
+<item>"glGetError इत्यस्मिन् स्टेक् आह्वाहनम्"</item>
+</string-array>
+<string-array name="show_non_rect_clip_entries">
+<item>"निष्क्रियम्"</item>
+<item>"नीलवर्णे चतुष्कोणभिन्न-भागस्य स्थानं चित्रयतु"</item>
+<item>"परीक्षितचित्रादेशान् हरितरङ्गेन उद्वर्ण्यताम्"</item>
+</string-array>
+<string-array name="track_frame_time_entries">
+<item>"निष्क्रियम्"</item>
+<item>"पटले पट्टिकात्वेन"</item>
+<item>"पङ्क्त्यानुसारं पटले"</item>
+<item>"adb shell dumpsys gfxinfo इत्यस्मिन् सूचना"</item>
+</string-array>
+<string-array name="debug_hw_overdraw_entries">
+<item>"निष्क्रियम्"</item>
+<item>"चित्रभागस्य बहिस्स्थानं प्रदर्शयतु"</item>
+<item>"डीयूटीरेनोमाली स्थानं प्रदर्शयतु"</item>
+<item>"चित्रबाह्यभागस्य गणकं प्रदर्शयतु"</item>
+</string-array>
+<string-array name="app_process_limit_entries">
+<item>"सामान्या सीमा"</item>
+<item>"पृष्ठभूमिप्रक्रियाः न सन्ति"</item>
+<item>"अधिकाधिकं 1 प्रक्रिया"</item>
+<item>"अधिकाधिकं 2 प्रक्रियाः"</item>
+<item>"अधिकाधिकं 3 प्रक्रियाः"</item>
+<item>"अधिकाधिकं 4 प्रक्रियाः"</item>
+</string-array>
+<string-array name="vpn_types_long">
+<item>"PPTP VPN"</item>
+<item>"L2TP/IPSec VPN सह पूर्ववितरिता कुञ्जिकाः"</item>
+<item>"L2TP/IPSec VPN सह प्रमाणपत्राणि"</item>
+<item>"IPSec VPN सह पूर्ववितरिता कुञ्जिकाः, Xauth प्रमाणीकरणञ्च"</item>
+<item>"IPSec VPN सह प्रणाणपत्राणि, Xauth प्रमाणीकरणञ्च"</item>
+<item>"IPSec VPN सह प्रणाणपत्राणि, हाइब्रिड प्रमाणीकरणञ्च"</item>
+</string-array>
+<string-array name="vpn_states">
+<item>"विच्छेदयतु"</item>
+<item>"आरम्भं करोति..."</item>
+<item>"योजयति..."</item>
+<item>"संयुक्तम्"</item>
+<item>"समयः समाप्तः"</item>
+<item>"असफलम्"</item>
+</string-array>
+<string-array name="security_settings_premium_sms_values">
+<item>"पृच्छतु"</item>
+<item>"न कदापि स्वीक्रियताम्"</item>
+<item>"सर्वदा स्वीक्रियताम्"</item>
+</string-array>
+<string-array name="ram_states">
+<item>"सामान्यः"</item>
+<item>"सीमितः"</item>
+<item>"निम्नम्"</item>
+<item>"गम्भीरः"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>"सद्यःकालात् 1 निमेषात् अपि पूर्वम् एतत् प्रस्थापितं भवति।"</item>
+<item>"वर्तमानकालात् <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> कृते एतत् स्थापयति।"</item>
+<item>"वर्तमानकालात् <xliff:g id="HOURS" example="2 days">%2$s</xliff:g> कृते एतत् स्थापयति।"</item>
+<item>"वर्तमानकालात्  <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>  तथा च <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> कृते एतत् स्थापयति।"</item>
+<item>"वर्तमानकालात् <xliff:g id="MINUTES" example="2 days">%3$s</xliff:g> कृते एतत् स्थापयति।"</item>
+<item>"वर्तमानकालात्  <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> तथा च <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> कृते एतत् स्थापयति।"</item>
+<item>"वर्तमानकालात्   <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> तथा च <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> कृते एतत् स्थापयति।"</item>
+<item>"वर्तमानकालात् <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> तथा च <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> कृते एतत् स्थापयति।"</item>
+</string-array>
+<string-array name="mobile_to_wlan">
+<item>"स्वतः परिष्कारः"</item>
+<item>"हस्तेन संयोजनम्"</item>
+<item>"सर्वदा पृच्छतु"</item>
+</string-array>
+<string-array name="agps_setting_entries">
+<item>"उद्घाट्यताम्"</item>
+<item>"पिदधातु"</item>
+</string-array>
+<string-array name="auto_time_entries">
+<item>"जालप्रदत्तस्य समयः उपयुज्यताम्"</item>
+<item>"GPS-प्रदायकस्य समयः उपयुज्यताम्"</item>
+<item>"निष्क्रियम्"</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>"जालप्रदत्तस्य समयः उपयुज्यताम्"</item>
+<item>"निष्क्रियम्"</item>
+</string-array>
+<string-array name="color_picker">
+<item>"टील्"</item>
+<item>"नीलः"</item>
+<item>"जम्बुकी"</item>
+<item>"लोहितः"</item>
+<item>"पाटलः"</item>
+<item>"रक्तम्"</item>
+</string-array>
+</resources>

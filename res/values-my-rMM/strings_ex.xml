@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"apn ပံုစံ ဆက္တင္"</string>
+<string name="user_could_input_apn_type">"သံုးစြဲသူ apn ပံုစံအင္ပြတ္နိုင္"</string>
+<string name="could_not_input_the_same_apn_type">"apn ပံုစံတူ အင္ပြတ္မရနိုင္"</string>
+<string name="apn_type_message">"သင္၏ APNအသစ္တြင္ဒီေဖါ့ပံုစံမပါ, APN ေရြးခ်ယ္မရနိုင္."</string>
+<string name="error_apn_type_message">"APN ပံုစံဗလာမျဖစ္ရ"</string>
+<string name="error_apn_type">"သင္ထည့္သည့္ Apn မေထာက္ပံ့, ေက်းဇူးျပဳ၍ ျပန္ထည့္ပါ!"</string>
+<string name="same_apn_type">"APNပံုစံတူရွိျပီး, ေက်းဇူးျပဳ၍ထပ္1င္ပါ!"</string>
+<string name="empty_apn_type">"မည္သည့္ APNပံုစံ၀င္(သို ့) ေရြးခ်ယ္ မရ, ေက်းဇူးျပဳ၍ထပ္1င္ပါ!"</string>
+<string name="dual_settings_title_uui">"SIM ကဒ္ စီမံခန္႕ခြဲမႈ"</string>
+<string name="dual_voice_setting_title">"အသံ ဆက္တင္"</string>
+<string name="dual_video_setting_title">"ဗြီဒီယို ဆက္တင္"</string>
+<string name="dual_mms_setting_title">"SMS  ဆက္တင္"</string>
+<string name="dual_primary_setting_title">"မူလကဒ္ ဆက္တင္"</string>
+<string name="dual_settings_title">"SIM နွစ္ကဒ္သံုး ဆက္တင္မ်ား "</string>
+<string name="sim_name_setting_title">"SIM အမည္ကို တည္းျဖတ္ပါ"</string>
+<string name="sim_number_setting_title">"တည္းျဖတ္ပါ sim နံပါတ္ကို"</string>
+<string name="sim_number_setting_null">မတပ္ဆင္ပါ</string>
+<string name="sim_color_setting_title">"ေနာက္ခံအေရာင္ဆက္တင္"</string>
+<string name="dual_settings_always_prompt">"အျမဲ သတိေပး"</string>
+<string name="mms_settings_auto">"အလိုအေလ်ာက္"</string>
+<string name="no_need_set_data_subscription">"ဖုန္းေခၚဆိုခေဒတာဆက္တင္မလို ."</string>
+<string name="voice_setting_title">"အသံဖုန္း ဆက္တင္မ်ား"</string>
+<string name="video_setting_title">"ဗီဒီယိုဖုန္း ဆက္တင္မ်ား"</string>
+<string name="mms_setting_title">"MMS နွင့္ SMS ဆက္တင္မ်ား"</string>
+<string name="sim_reply_setting">"Sim ျပန္ေခၚမွဳဆက္တင္မ်ား"</string>
+<string name="reply_message_setting">" Mms သို ့မဟုတ္ Sms ျဖင့္ အေျကာင္းျပန္"</string>
+<string name="closeData">"ပိတ္ပါ"</string>
+<string name="data_title">"ေဒတာခ်ိတ္ဆက္မွဳဆက္တင္မ်ား."</string>
+<string name="sel_sub_title">"အရံဆက္တင္မ်ား"</string>
+<string name="sel_sub_summary">"SIM ကဒ္ ဖြင့္ သို ့မဟုတ္  ပိတ္ရန္"</string>
+<string name="set_data_subscription_timeout">"ေဒတာခ်ိတ္ဆက္မွဳ ဆက္တင္ ကန့္သတ္ခ်ိန္ထက္ ေက်ာ္လြန္သြားျပီ."</string>
+<string name="set_dds_failed">"အမွား!ေဒတာခ်ိတ္ဆက္မွဳမ်ား အားလံုး ပယ္ဖ်က္ျပီးထပ္ ျကိဳးစားပါ!"</string>
+<string name="set_dds_success">"ေအာင္ျမင္စြာဆက္တင္လုပ္"</string>
+<string name="set_dds_success_gsm">"ေအာင္ျမင္စြာဆက္တင္လုပ္.ဒုတိယ ကဒ္ေပါက္သို ့ ေဒတာခ်ိတ္ဆက္ျပီး, LTE ၀န္ေဆာင္္မႈ မရွိ"</string>
+<string name="set_data_subscription_progress">"ဆက္တင္လုပ္ေန, ေက်းဇူးျပဳ၍ေစာင့္ပါ ..."</string>
+<string name="set_data_subscription_error_ok">"စဥ္းစား"</string>
+<string name="set_data_subscription_error_title">"အမွား"</string>
+<string name="set_data_subscription_error">"ဤ SIMကဒ္မဟုတ္, ေက်းဇူးျပဳ၍အတည္ျပဳျပီးထပ္ျကိဳးစားပါ!"</string>
+<string name="sim_retries_left">"လက္က်န္နံပါတ္"</string>
+<string name="menu_kill_apps_services">"ေအပီပီအားလံုးပိတ္"</string>
+<string name="back_groud_data_usage_restrict_protocal">"ေနာက္ခံ ေဒတာသံုးစြဲႏႈန္း ပရိုတိုကိုး."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"ေနာက္ခံ ေဒတာ သံုးစြဲႏႈန္း ပရိုတိုကိုး လက္ခံမလား?"</string>
+<string name="apn_edit_quit">"ထြက္သည္"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> လက္ခံအမွတ္ တည္းျဖတ္"</string>
+<string name="input_pin_limit">"ေက်းဇူးျပဳ၍ နံပါတ္ 4 - 8 လံုး အင္ပြတ္လုပ္ပါ"</string>
+<string name="agps_supl_manual_settings">"SUPL ဆာဗာလူအားျဖင့္ဆက္တင္ "</string>
+<string name="agps_supl_manual_settings_summary">"လူအားျဖင့္ဆက္တင္ SUPL ဆာဗာနွင့္ပလပ္"</string>
+<string name="str_clear">"ျကည္လင္ေသာ"</string>
+<string name="str_save">"သိမ္းပါ"</string>
+<string name="gps_location_suplserver">"ဆာဗာ"</string>
+<string name="agps_setting">"Agps ဆက္တင္"</string>
+<string name="open">"ဖြင့္ပါ"</string>
+<string name="close">"ပိတ္ပါ"</string>
+<string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> မိုဘိုင္းကြန္ရက္ဆက္တင္မ်ား"</string>
+<string name="pin_enabled_success">"SIM PIN ဖြင့္ထား"</string>
+<string name="pin_disabled_success">"SMS PIN ပိတ္ထား"</string>
+<string name="gps_time_sync_attention_gps_on">"GPS ေနရာကုိ ရယူရန္ အမ်ားဆံုး 1 မိနစ္သာ ၾကာပါမည္။ ထုိ႕အျပင္ GPS သည္ အားနည္းသည့္ ပတ္ဝန္းက်င္မွ လုိင္းဆြဲအားေၾကာင့္ အခ်ိန္ကုိ ပံ့ပုိးေပးျခင္း မေအာင္ျမင္ႏုိင္ပါ။\n\nGPS မွပံ့ပုိးေပးေသာ အခ်ိန္ကုိ အသံုးျပဳရန္ ေသခ်ာပါသလား?"</string>
+<string name="gps_time_sync_attention_gps_off">"GPS ပံ့ပုိးေပးသည့္အခ်ိန္ကုိ အသံုးျပဳရန္ သင္သည္ GPS ကုိေရွးဦးစြာ ဖြင့္ရမည္။ ၿပီးေနာက္ GPS ျပင္ဆင္မႈကုိ ရယူရန္ အမ်ားဆံုး 1 မိနစ္ခန္႕ၾကာသည္။ ထုိ႕အျပင္ GPS သည္ အားနည္းေသာ ပိတ္ဝန္းက်င္လုိင္းဆြဲအားမ်ားေၾကာင့္ အခ်ိန္ပံ့ပိုးေပးမႈ မေအာင္မျမင္ျဖစ္ႏုိင္သည္။ \n\nGPS ကုိ ယခုဖြင့္ၿပီး GPS ပံ့ပုိးေပးသည့္အခ်ိန္ကုိ ေစာင့္လုိသည္မွာ ေသခ်ာပါသလား?"</string>
+<string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> အေပါက္မ်ား"</string>
+<string name="sim_lock_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> ေသာ့ဆက္တင္မ်ား"</string>
+<string name="device_status_ex">"SIM<xliff:g id="SIM">%s</xliff:g> အေျခအေန"</string>
+<string name="lte_service">"4G ဝန္ေဆာင္မႈ/ဦးစားေပးကတ္ကုိ ေရြးခ်ယ္ပါ"</string>
+<string name="lte_enabled">"ဖြင့္ပါ 4G ၀န္ေဆာင္မႈ"</string>
+<string name="lte_service_network_mode_settings_dialog_title">"ကြန္ရက္မုဒ္ကုိ ေရြးခ်ယ္ပါ"</string>
+<string name="whether_close_lte_service">"4G ဝန္ေဆာင္မႈကုိ သင္ပိတ္လုိသည္ကုိ အတည္ျပဳမလား?"</string>
+<string name="whether_enable_lte_service">"4G ဝန္ေဆာင္မႈကုိ သင္ဖြင့္လုိသည္ကုိ အတည္ျပဳမလား?"</string>
+<string name="whether_switch_lte_service_sim">"ေက်းဇူးျပဳ၍ SIM ကဒ္အတြက္ 4G ၀န္ေဆာင္မႈေျပာင္းမေျပာင္း အတည္ျပဳပါ？"</string>
+<string name="lte_service_attention">"သတိထားရန္"</string>
+<string name="lte_service_switch">"ေျပာင္းေန 4G ၀န္ေဆာင္မႈ, ေက်းဇူးျပဳ၍  ခဏေစာင့္..."</string>
+<string name="wifi_alarm_category_title">"Wi-Fi ႏႈိးစက္ဆက္တင္"</string>
+<string name="wifi_connect_alarm_title">"Wi-Fiျဖင့္ အလိုအေလ်ာက္ ခ်ိတ္ဆက္သည္"</string>
+<string name="wifi_disconnect_alarm_title">"Wi-Fi ကုိ အလိုအေလ်ာက္ ခ်ိတ္ဆက္မႈျဖဳတ္သည္"</string>
+<string name="wifi_alarm_time_title">အခ်ိန္ကို သတ္မွတ္ပါ</string>
+<string name="not_stand_by">တားျမစ္ထားသည္</string>
+<string name="main_card_slot">"PRI. "</string>
+<string name="gsm_card_slot">"SEC ""</string>
+<string name="cellular_data_title">"ဆယ္လူလာေဒတာ"</string>
+<string name="sim_selection_required_pref">"ေရြးခ်ယ္ရန္ လိုအပ္သည္"</string>
+<string name="stand_by_set_changed_prompt">"Sim ကုိအသက္သြင္းျခင္း အေျခအေန ေျပာင္းပါလိမ့္မည္၊ ေက်းဇူးျပဳ၍ ဆက္လက္လုပ္ေဆာင္ရန္ အတည္ျပဳမည္လား?"</string>
+<string name="okay">"အိုေက"</string>
+<string name="primary_card_switching">"ဆက္တင္ \uff0c ေက်းဇူးျပဳ၍ ခဏေစာင့္..."</string>
+<string name="select_primary_card">ဦးစားေပးကတ္ကို ေရြးခ်ယ္ပါ</string>
+<string name="sim_calls_ask_first_prefs_title">"အခ်ိန္တိုင္း ေမးပါ"</string>
+<string name="sim_preferred_title">"ဦးစားေပး SIM ကဒ္ အပ္ဒိတ္လုပ္မလား?"</string>
+<string name="sim_preferred_message">"<xliff:g id="new_sim">%1$s</xliff:g> သင့္စက္ရွိ SIM အတြက္သာ . ဆဲလ္ ေဒတာ, ဖုန္းမ်ား, နွင့္ SMS မက္ေဆ့ခ်္မ်ားအတြက္ ဤ SIM ကို သံုးလိုပါသလား?"</string>
+<string name="select_sim_for_data">"ေဒတာအတြက္ SIMတစ္ခု ေရြးခ်ယ္ပါ"</string>
+<string name="select_sim_for_calls">"နွင့္ ဖုန္းေခၚပါ"</string>
+<string name="sim_card_select_title">"SIM ကဒ္ေရြးပါ"</string>
+<string name="select_primary_slot_description_4g">"(မူလကဒ္ 4G/2G ၀န္ေဆာင္မႈ ေထာက္ပံ့, ဒုတိယကဒ္ 2G ၀န္ေဆာင္မႈသာ ေထာက္ပံ့.)"</string>
+<string name="whether_switch_primary_card">"ေက်းဇူးျပဳ၍ မူလကဒ္မွ ယခုကဒ္သို႕ ေျပာင္းမေျပာင္း အတည္ျပဳပါ ?\n(ဆဲလ္ေဒတာမ်ားလည္း ကဒ္သို႕ ေရႊ႕သြားလိမ့္မည္.)"</string>
+<string name="select_primary_slot_description">"ပဏာမ ကဒ္သည္ WCDMA/GSM ကူညီေထာက္ပံ့မႈ ေပးသည္။ ဒုတိယေျမာက္ ကဒ္သည္ GSM mode တစ္ခုတည္းကိုသာ ကူညီေထာက္ပံ့မႈေပးသည္။"</string>
+<string name="sim_pref_divider">"အတြက္ဦးစားေပး SIM"</string>
+<string name="calls_title">"ဖုန္းေခၚဆိုမူမ်ား"</string>
+<string name="sms_messages_title">"SMS မက္ေဆ့ခ်္မ်ား"</string>
+<string name="feature_bar_softkey_edit">တည္းျဖတ္သည္</string>
+<string name="feature_bar_softkey_off">ပိတ္သည္</string>
+<string name="feature_bar_softkey_on">"ဖြင့္"</string>
+<string name="feature_bar_softkey_options">"ေ႐ြးခ်ယ္ပါ"</string>
+<string name="dialog_restore_default_apn">"သင္ထည့္သည့္ APN အားလံုး ဖယ္ျပီးေနာက္,ဒီေဖါ့ဆက္တင္မ်ားမွ က်န္သည့္ APN ဆက္တင္ျပန္လုပ္လိမ့္မည္.ဆက္လုပ္မွာလား?"</string>
+    <string-array name="lte_preferred_networks_choices">
+        <item>"4G/3G/2G မ်ိဳးစံုမုဒ္"</item>
+        <item>"3G/2G သီးသန္႔မုဒ္"</item>
+    </string-array>
+     <string-array name="light_color_picker">
+        <item>"အစိမ္း"</item>
+        <item>"အျပာေရာင္"</item>
+        <item>"မဲနယ္"</item>
+        <item>"ခရမ္းေရာင္"</item>
+        <item>"အပန္းေရာင္"</item>
+        <item>"အနီ"</item>
+        <item>"အ၀ါ"</item>
+    </string-array>
+
+</resources>

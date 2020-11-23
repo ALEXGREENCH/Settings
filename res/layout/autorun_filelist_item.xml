@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:id="@+id/app_icon"
+        android:layout_width="40dip"
+        android:layout_height="40dip"
+        android:layout_margin="8dip" />
+
+    <CheckBox
+        android:id="@+id/select_checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/app_icon"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="@*android:dimen/padding_start_new"
+        android:layout_marginEnd="@*android:dimen/padding_start_new"
+        android:layout_centerVertical="true"
+        android:clickable="false"
+        android:focusableInTouchMode="false" />
+
+    <TextView
+        android:id="@+id/app_name"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/single_listview_height_size"
+        android:layout_alignTop="@+id/select_checkbox"
+        android:layout_toEndOf="@+id/app_icon"
+        android:layout_toStartOf="@+id/select_checkbox"
+        android:layout_marginStart="@*android:dimen/padding_start_new"
+        android:gravity="center_vertical"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:textIsSelectable="false"
+        android:textAppearance="@style/TextAppearance.Perference.Title" />
+
+</RelativeLayout>

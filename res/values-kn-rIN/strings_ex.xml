@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"APN ವಿಧವನ್ನು ಸೆಟ್ ಮಾಡುಲಾಗುತ್ತಿದೆ+E7559"</string>
+<string name="user_could_input_apn_type">"ಯುಸರ್ರು APN ವಿಧವನ್ನು ಆದಾನ ಮಾಡಬಹುದು"</string>
+<string name="could_not_input_the_same_apn_type">"ಅದೇ APN ವಿಧವನ್ನು ಆದಾನ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ"</string>
+<string name="apn_type_message">"ನಿಮ್ಮ ಹೊಸ APN ನಲ್ಲಿ ಡೀಫಾಲ್ಟ್ ವಿಧವಿಲ್ಲ, APN ಆಯ್ಕೆ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ"</string>
+<string name="error_apn_type_message">"APN ವಿಧ ಖಾಲಿ ಇರುವಂತಿಲ್ಲ"</string>
+<string name="error_apn_type">"ನೀವು ನಮೂದಿಸಿದ APN ವಿಧ ಬೆಂಬಲಿತವಾಗಿಲ್ಲ, ದಯವಿಟ್ಟು ಮರುನಮೂದಿಸಿ !"</string>
+<string name="same_apn_type">"ನೀವು ಒಂದೇ ವಿಧದ APN ನಮೂದಿಸಿರುವಿರಿ, ದಯವಿಟ್ಟು ಮರುನಮೂದಿಸಿ !"</string>
+<string name="empty_apn_type">"ನೀವು ಯಾವುದೇ ವಿಧದ APN,ನಮೂದಿಸುವುದು ಅಥವಾ ಆರಿಸುವುದನ್ನು ಮಾಡಲಿಲ್ಲ,ದಯವಿಟ್ಟು ಮರುನಮೂದಿಸಿ !"</string>
+<string name="dual_settings_title_uui">"Sim ಕಾರ್ಡ್ ನಿರ್ವಹಣೆ"</string>
+<string name="dual_voice_setting_title">"ಧ್ವನಿ ಸೆಟ್ಟಿಂಗ್"</string>
+<string name="dual_video_setting_title">"ವೀಡಿಯೊ ಸೆಟ್ಟಿಂಗ್"</string>
+<string name="dual_mms_setting_title">"SMS ಸೆಟ್ಟಿಂಗ್"</string>
+<string name="dual_primary_setting_title">"ಪ್ರೈಮರಿ ಕಾರ್ಡ್ ಸೆಟ್ಟಿಂಗ್"</string>
+<string name="dual_settings_title">"ಡ್ಯುಯಲ್ Sim ಸೆಟ್ಟಿಂಗ್ಗಳು"</string>
+<string name="sim_name_setting_title">"SIM ಹೆಸರು ಬದಲಾಯಿಸಿ"</string>
+<string name="sim_number_setting_title">"ಸಿಮ್ ಸಂಖ್ಯೆಯನ್ನು ಸಂಪಾದಿಸಿ"</string>
+<string name="sim_number_setting_null">"ಸ್ಥಾಪಿತವಾಗಿಲ್ಲ"</string>
+<string name="sim_color_setting_title">"ಬ್ಯಾಕ್ ಗ್ರೌಂಡ್ ಬಣ್ಣವನ್ನು ಸೆಟ್ ಮಾಡಿ"</string>
+<string name="dual_settings_always_prompt">"ಯಾವಾಗಲೂ ಪ್ರಚೋದಿಸಿ"</string>
+<string name="mms_settings_auto">"ಸ್ವಯಂಚಾಲನೆ"</string>
+<string name="no_need_set_data_subscription">"ಡೇಟಾ ಚಂದಾದಾರಿಕೆಯನ್ನು ಸೆಟ್ ಮಾಡುವ ಅಗತ್ಯವಿಲ್ಲ."</string>
+<string name="voice_setting_title">"ಧ್ವನಿ ಕರೆ ಸೆಟ್ಟಿಂಗ್ಗಳು"</string>
+<string name="video_setting_title">"ವೀಡಿಯೊ ಕರೆ ಸೆಟ್ಟಿಂಗ್ಗ್ಗಳು"</string>
+<string name="mms_setting_title">"MMS ಮತ್ತು SMS ಸೆಟ್ಟಿಂಗ್ಗ್ಗಳು"</string>
+<string name="sim_reply_setting">"Sim ಉತ್ತರ ಸೆಟ್ಟಿಂಗ್ಗ್ಗಳು"</string>
+<string name="reply_message_setting">"MMS ಅಥವಾ SMS ಉತ್ತರ"</string>
+<string name="closeData">"ಸಮಾಪ್ತಿಗೊಳಿಸಿ"</string>
+<string name="data_title">"ಡೇಟಾ ಸಂಪರ್ಕ ಸೆಟ್ಟಿಂಗ್ಗಳು"</string>
+<string name="sel_sub_title">"ಸ್ಟ್ಯಾಂಡ್ ಬೈ ಸೆಟ್ಟಿಂಗ್ಗಳು"</string>
+<string name="sel_sub_summary">"SIM ಕಾರ್ಡ್ ಸಕ್ರಿಯ ಅಥವಾ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲು"</string>
+<string name="set_data_subscription_timeout">"ಡೇಟಾ ಸಂಪರ್ಕ ಸೆಟ್ಟಿಂಗ್ಗಳು ಟೈಮ್ ಔಟ್!"</string>
+<string name="set_dds_failed">"ದೋಷ! ಎಲ್ಲಾ ದತ್ತ ಸಂಪರ್ಕಗಳನ್ನು ತೆರವುಗೊಳಿಸಿ ಮತ್ತು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ!"</string>
+<string name="set_dds_success">"ಯಶಸ್ವಿಯಾಗಿ ಸೆಟ್ ಮಾಡಲಾಗಿದೆ"</string>
+<string name="set_dds_success_gsm">"ಯಶಸ್ವಿಯಾಗಿ ಹೊಂದಿಸಿ. ದ್ವಿತೀಯ ಸ್ಲಾಟ್‌ಗೆ ಡೇಟಾ ಸಂಪರ್ಕವನ್ನು ಬದಲಾಯಿಸಿ, LTE ಸೇವೆಯು ಲಭ್ಯವಿಲ್ಲ."</string>
+<string name="set_data_subscription_progress">"ಸೆಟ್ ಮಾಡಲಾಗುತ್ತಿದೆ, ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ …"</string>
+<string name="set_data_subscription_error_ok">"ನಿರ್ಧರಿಸಿ"</string>
+<string name="set_data_subscription_error_title">"ದೋಷ"</string>
+<string name="set_data_subscription_error">"ಈ SIM ಕಾರ್ಡ್ ಇಲ್ಲದೆ,ದಯವಿಟ್ಟು ಪರಿಶೀಲಿಸಿ ಹಾಗೂ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ!"</string>
+<string name="sim_retries_left">ಉಳಿದ ಸಂಖ್ಯೆ</string>
+<string name="menu_kill_apps_services">"ಎಲ್ಲಾ ಅಪ್ಲಿಕೇಶನ್ಗಳನ್ನು ಮುಚ್ಚಿ"</string>
+<string name="back_groud_data_usage_restrict_protocal">"ಬ್ಯಾಕ್ ಗ್ರೌಂಡ್ ಡೇಟಾ ಬಳಕೆಯ ಪ್ರೋಟೋಕಾಲ್."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"ಬ್ಯಾಕ್ ಗ್ರೌಂಡ್ ಡೇಟಾ ಬಳಕೆಯ ಪ್ರೋಟೋಕಾಲ್ ಅನ್ನು ಸ್ವೀಕರಿಸಬೇಕೇ?"</string>
+<string name="apn_edit_quit">"ಬಿಟ್ಟುಬಿಡಿ"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> ಅಕ್ಸೆಸ್ ಪಾಯಿಂಟ್ ಬದಲಾಯಿಸಿ"</string>
+<string name="input_pin_limit">"ದಯವಿಟ್ಟು 4 - 8 ಸಂಖ್ಯೆಗಳನ್ನು ನಮೂದಿಸಿ."</string>
+<string name="agps_supl_manual_settings">"SUPL ಸರ್ವರ್ ಮಾನವಚಾಲಿತ ಸೆಟ್ಟಿಂಗ್"</string>
+<string name="agps_supl_manual_settings_summary">"SUPL ಸರ್ವರ್ ಮತ್ತು ಪೋರ್ಟ್ ಮ್ಯಾನುಯಲ್ ಸೆಟ್ ಮಾಡಿ"</string>
+<string name="str_clear">"ತೆರವುಗೊಳಿಸಿ"</string>
+<string name="str_save">"ಉಳಿಸಿ"</string>
+<string name="gps_location_suplserver">"ಸರ್ವರ್"</string>
+<string name="agps_setting">"AGPS ಸೆಟ್ಟಿಂಗ್"</string>
+<string name="open">"ತೆಗೆಯಿರಿ"</string>
+<string name="close">"ಸಮಾಪ್ತಿಗೊಳಿಸಿ"</string>
+<string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g>ಮೊಬೈಲ್ ನೆಟ್ವರ್ಕ್ ಸೆಟ್ಟಿಂಗ್ಗಳು"</string>
+<string name="pin_enabled_success">"SIM PIN ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="pin_disabled_success">"SIM PIN ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="gps_time_sync_attention_gps_on">"GPS ಫಿಕ್ಸ್ ಪಡೆದುಕೊಳ್ಳಲು ಹೆಚ್ಚೆಂದರೆ 1 ನಿಮಿಷ ತೆಗೆದುಕೊಳ್ಳುತ್ತದ., ಜೊತೆಗೆ,ದುರ್ಬಲ ಪರಿಸರೀಯ ಸಿಗ್ನಲ್ ನ ಕಾರಣದಿಂದ ಸಮಯವನ್ನು ಒದಗಿಸಲು GPS ವಿಫಲಗೊಳ್ಳಬಹುದು.\n\nನೀವು GPS ಒದಗಿಸಿದ ಸಮಯವನ್ನು ಬಳಸಲು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?"</string>
+<string name="gps_time_sync_attention_gps_off">"GPS ಒದಗಿಸಿದ ಸಮಯವನ್ನು ಬಳಸಲು,ನೀವು ಮೊದಲು GPS ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಬೇಕು.ಇದು ನಂತರ GPS ಫಿಕ್ಸ್ ಪಡೆದುಕೊಳ್ಳಲು ಹೆಚ್ಚೆಂದರೆ 1 ನಿಮಿಷವನ್ನು ತೆಗೆದುಕೊಳ್ಳಬಹುದು. ಜೊತೆಗೆ,ದುರ್ಬಲ ಪರಿಸರೀಯ ಸಿಗ್ನಲ್ ನ ಕಾರಣದಿಂದ ಸಮಯವನ್ನು ಒದಗಿಸಲು GPS ವಿಫಲಗೊಳ್ಳಬಹುದು.\n\n ನೀವು ಈಗ GPS ಸಕ್ರಿಯಗೊಳಿಸಲು ಮತ್ತು GPS ಒದಗಿಸಿದ ಸಮಯಕ್ಕಾಗಿ ಕಾಯಲು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?"</string>
+<string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNಗಳು"</string>
+<string name="sim_lock_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> ಲಾಕ್ ಸೆಟ್ಟಿಂಗ್ಗಳು"</string>
+<string name="device_status_ex">"SIM<xliff:g id="SIM">%s</xliff:g> ಸ್ಥಿತಿ"</string>
+<string name="lte_service">4ಜಿ ಸೇವೆ/ ಪ್ರಾಥಮಿಕ ಕಾರ್ಡ್ ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಿ."</string>
+<string name="lte_enabled">"4G ಸೇವೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"</string>
+<string name="lte_service_network_mode_settings_dialog_title">"ನೆಟ್ವರ್ಕ್ ಸ್ಥಿತಿಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿ"</string>
+<string name="whether_close_lte_service">"ನೀವು 4ಜಿ ಸೇವೆಯನ್ನು ಸ್ಥಗಿತಗೊಳಿಸಲು ಇಚ್ಛಿಸುವಿರೇ? ದಯವಿಟ್ಟು ದೃಢೀಕರಿಸಿ"</string>
+<string name="whether_enable_lte_service">ನೀವು 4ಜಿ ಸೇವೆಯನ್ನು ಪಡೆಯಲು ಇಚ್ಛಿಸುವಿರೇ? ದಯವಿಟ್ಟು ದೃಢೀಕರಿಸಿ"</string>
+<string name="whether_switch_lte_service_sim">"ನೀವು ಈ ಸಿಮ್ ಕಾರ್ಡ್ಗೆ 4G ಸೇವೆ ಬದಲಾಯಿಸಲು ಬಯಸುವಿರೇ ಇಲ್ಲವೇ ಎಂಬುದನ್ನು ದಯವಿಟ್ಟು ಖಚಿತಪಡಿಸಿ?"</string>
+<string name="lte_service_attention">"ಗಮನ"</string>
+<string name="lte_service_switch">"4G ಸೇವೆಗೆ ಬದಲಾಯಿಸುವುದು, ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ ... "</string>
+<string-array name="lte_preferred_networks_choices">
+<item>"4ಜಿ/3ಜಿ/ ಬಹು ಸ್ಥಿತಿ"</item>
+<item>"3ಜಿ/2ಜಿ ಒಂದೇ ಸ್ಥಿತಿ"</item>
+</string-array>
+<string name="wifi_alarm_category_title">"Wi-Fi ಅಲಾರಂ ಸೆಟ್ಟಿಂಗ್"</string>
+<string name="wifi_connect_alarm_title">"ಸ್ವಯಂಚಾಲಿತವಾಗಿ Wi-Fi ಸಂಪರ್ಕಿಸಿ"</string>
+<string name="wifi_disconnect_alarm_title">"ಸ್ವಯಂಚಾಲಿತವಾಗಿ Wi-Fi ಕಡಿತಗೊಂಡಿದೆ"</string>
+<string name="wifi_alarm_time_title">"ಸಮಯವನ್ನು ಸೆಟ್ ಮಾಡಿ"</string>
+<string name="not_stand_by">"ನಿಷೇಧಿತ"</string>
+<string name="main_card_slot">"PRI."</string>
+<string name="gsm_card_slot">"SEC.."</string>
+<string name="cellular_data_title">"ಸೆಲ್ಯೂಲಾರ್ ಡೇಟಾ"</string>
+<string name="sim_selection_required_pref">"ಆಯ್ಕೆ ಅಗತ್ಯವಿದೆ"</string>
+<string name="stand_by_set_changed_prompt">"ಸಿಮ್ ಸಕ್ರಿಯಗೊಳಿಸುವ ಸ್ಥಿತಿಯು ಬದಲಾಗುತ್ತದೆ, ದಯವಿಟ್ಟು ಮುಂದುವರಿಕೆಯನ್ನು ದೃಢೀಕರಿಸುತ್ತೀರಾ?</string>
+<string name="okay">"ಸರಿ"</string>
+<string name="primary_card_switching">"ಸೆಟ್ಟಿಂಗ್\uff0cದಯವಿಟ್ಟು ಕಾಯಿರಿ..."</string>
+<string name="select_primary_card">"ಪ್ರಾಥಮಿಕ ಕಾರ್ಡ್ ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಿ"</string>
+<string name="sim_calls_ask_first_prefs_title">"ಪ್ರತೀಬಾರಿ  ಕೇಳಿರಿ"</string>
+<string name="sim_preferred_title">"ಆದ್ಯತೆ ನೀಡಿದ SIM ಕಾರ್ಡ್ಅನ್ನು ಅಪ್ಡೇಟ್ ಮಾಡಿ?"</string>
+<string name="sim_preferred_message">"<xliff:g id="new_sim">%1$s</xliff:g>ನಿಮ್ಮ ಡಿವೈಸ್ ನಲ್ಲಿರುವ ಏಕೈಕ SIM ಆಗಿದೆ. ಈ SIMಅನ್ನು ಸೆಲ್ಯೂಲರ್ ಡೇಟಾಗಾಗಿ, ಕರೆಗಳಿಗಾಗಿ, ಮತ್ತು SMS ಮೆಸೇಜ್‌ಗಳಿಗಾಗಿ ಬಳಸಲು ನೀವು ಬಯಸುವಿರಾ?"</string>
+<string name="select_sim_for_data">"ಡೇಟಾಗಾಗಿ SIM ಒಂದನ್ನು ಆಯ್ಕೆಮಾಡಿ"</string>
+<string name="select_sim_for_calls">"ನೊಂದಿಗೆ ಕರೆ ಮಾಡಿ"</string>
+<string name="sim_card_select_title">"SIM ಕಾರ್ಡ್ ಆಯ್ಕೆ ಮಾಡಿ"</string>
+<string name="select_primary_slot_description_4g">"(ಪ್ರಾಥಮಿಕ ಕಾರ್ಡ್ 4G/2G ಸೇವೆಯನ್ನು ಬೆ೦ಬಲಿಸುತ್ತದೆ,ಅನಂತರದ  ಕಾರ್ಡ್ 2G ಸೇವೆಯನ್ನು ಮಾತ್ರ ಬೆ೦ಬಲಿಸುತ್ತದೆ.)"</string>
+<string name="whether_switch_primary_card">"ಈ ಕಾರ್ಡಿಗೆ ಪ್ರಾಥಮಿಕ್ ಕಾರ್ಡ್ ಸ್ವಿಚ್ ಮಾಡಬೇಕೆ ಅಥವಾ ಬೇಡವೆ? ಎಂಬುದನ್ನು ದಯವಿಟ್ಟು ದೃಢೀಕರಿಸಿ\n(ಸೆಲ್ಯುಲರ್ ಡೇಟಾ ಕೂಡಾ ಕಾರ್ಡಿಗೆ ವರ್ಗಾವಣೆಯಾಗುತ್ತದೆ.)"</string>
+<string-array name="light_color_picker">
+<item>"ಹಸಿರು"</item>
+<item>"ನೀಲಿ"</item>
+<item>"ಇಂಡಿಗೋ"</item>
+<item>"ನೇರಳೆ"</item>
+<item>"ಪಿಂಕ್"</item>
+<item>"ಕೆಂಪು"</item>
+<item>"ಹಳದಿ"</item>
+</string-array>
+<string name="select_primary_slot_description">"ಪ್ರಾಥಮಿಕ ಕಾರ್ಡ್ WCDMA/GSM  ಸ್ಥಿತಿಯನ್ನು ಬೆಂಬಲಿಸುತ್ತದೆ, ಎರಡನೇ ಕಾರ್ಡ್ ಕೇವಲ ಜಿಎಸ್ ಎಮ್ ಅನ್ನು ಬೆಂಬಲಿಸುತ್ತದೆ.</string>
+<string name="sim_pref_divider">"ಆದ್ಯತೆ ನೀಡಿದ  SIMಗಾಗಿ"</string>
+<string name="calls_title">"ಕರೆಗಳು"</string>
+<string name="sms_messages_title">"SMS ಸಂದೇಶಗಳು"</string>
+<string name="feature_bar_softkey_edit">"ಸಂಪಾದಿಸಿ"</string>
+<string name="feature_bar_softkey_off">"ಆಫ್"</string>
+<string name="feature_bar_softkey_on">"ಆನ್"</string>
+<string name="feature_bar_softkey_options">"ಆಯ್ಕೆ ಮಾಡಿ"</string>
+    <string name="dialog_restore_default_apn">"ನೀವು ಸೇರಿಸುವ ಎಲ್ಲಾ APN ಗಳು ತೆಗೆಯಲ್ಪಡುತ್ತವೆ, ಮತ್ತು ಉಳಿದ APN ಗಳನ್ನು ಹಾಲಿ(ಪೂರ್ವ ನಿಯೋಜಿತ)ವ್ಯವಸ್ಥೆ(ಡಿಫಾಲ್ಟ್)ಗೆ ರೀಸೆಟ್(ಮರುಸ್ಥಾಪನೆ) ಮಾಡಲಾಗುತ್ತದೆ.ನೀವು ಖಂಡಿತವಾಗಿ ಮು೦ದುವಿರಿಯುವಿರಾ?"</string>
+
+</resources>

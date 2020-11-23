@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"apn মখল সেট তৌরি"</string>
+<string name="user_could_input_apn_type">"য়ুজরনা apn মখল ইনপুত তৌবা ঙম্মি"</string>
+<string name="could_not_input_the_same_apn_type">"চপ মান্নবা apn মখল ইনপুত তৌবা ঙমখিদে"</string>
+<string name="apn_type_message">"নহাক্কি অনৌবা APN দা দিফাওল্ট মখল অমা য়াওদে, APN অদু খনবা ঙম্মোই."</string>
+<string name="error_apn_type_message">"APN মখল অদু হাংহনবা য়াদে"</string>
+<string name="error_apn_type">"নহাক্না মেনশিনবা Apn মখল অদু সপোর্ট তৌদে, হন্না মেনশিনবিয়ু!"</string>
+<string name="same_apn_type">"নহাক্না চপ মান্নবা মখলগী APN মেনশিনখ্রে, হন্না মেনশিনবিয়ু!"</string>
+<string name="empty_apn_type">"নহাক APN মখল অমত্তা মেনশিনখিদে নত্ত্রগা খনখিদে, হন্না মেনশিনবিয়ু!"</string>
+<string name="dual_settings_title_uui">"Sim কার্দ মেনেজমেন্ট"</string>
+<string name="dual_voice_setting_title">"খোনজেল সেটিং"</string>
+<string name="dual_video_setting_title">"ভিদিও সেটিংশীং"</string>
+<string name="dual_mms_setting_title">"SMS সেটিং"</string>
+<string name="dual_primary_setting_title">"প্রাইমারি কার্দ সেটিং"</string>
+<string name="dual_settings_title">"Sim অনি লৈবগী সেটিংশীং"</string>
+<string name="sim_name_setting_title">"SIM মমিং এদিত তৌ"</string>
+<string name="sim_number_setting_title">"SIM নম্বর এদিত তৌ"</string>
+<string name="sim_number_setting_null">"সেট তৌদে"</string>
+<string name="sim_color_setting_title">"বেকগ্রাওন্দ মচু সেট তৌ"</string>
+<string name="dual_settings_always_prompt">"মতম চুপ্পদা প্রোমপ্ট তৌ"</string>
+<string name="mms_settings_auto">"ওটো"</string>
+<string name="no_need_set_data_subscription">"দাতা সবসক্রিপ্সন সেট তৌবা দরকার ওইদে ."</string>
+<string name="voice_setting_title">"ভোইস কোল সেটিংশীং"</string>
+<string name="video_setting_title">"ভিদিও কোল সেটিংশীং"</string>
+<string name="mms_setting_title">"MMS অমসুং SMS সেটিংশীং"</string>
+<string name="sim_reply_setting">"Sim পাওখুম পীবা সেটিংশীং"</string>
+<string name="reply_message_setting">"MMS নত্ত্রগা SMS পাওখুম পীয়ু"</string>
+<string name="closeData">"খুমজিল্লু"</string>
+<string name="data_title">"দাতা শম্নবা য়াহনবা সেটিং"</string>
+<string name="sel_sub_title">"স্টেন্দবাই সেটিংশীং"</string>
+<string name="sel_sub_summary">"SIM কার্দ অদু য়াহন্নবা নত্ত্রগা য়াহন্দনবা"</string>
+<string name="set_data_subscription_timeout">"দাতা শম্নবা সেটিংশীংগী টাইমআওট!"</string>
+<string name="set_dds_failed">"অরানবা! দাতা শম্নবশীং লোইনমক হাংহল্লু অমসুং হন্না হোৎনৌ!"</string>
+<string name="set_dds_success">"মায় পাক্না সেট তৌরে"</string>
+<string name="set_dds_success_gsm">"মায় পাক্না সেট তৌরে. দাতা শম্নবা সেকেন্দরি স্লোটতা হোংলে, LTE সার্ভিস ফংদে."</string>
+<string name="set_data_subscription_progress">"সেট তোরি, ঙাইবিয়ু ..."</string>
+<string name="set_data_subscription_error_ok">"ওকে"</string>
+<string name="set_data_subscription_error_title">"অশোয়বা"</string>
+<string name="set_data_subscription_error">"SIM কার্দ অসি য়াওদনা, চুম্মি প্রমান তৌবিয়ু অমসুং হন্না হোৎনবিয়ু!"</string>
+<string name="sim_retries_left">"লেমহৌরিবা নম্বর গী"</string>
+<string name="menu_kill_apps_services">"এপ্লিকেসনশীং লোইনমক লোনশিল্লু"</string>
+<string name="back_groud_data_usage_restrict_protocal">"বেকগ্রাওন্দ দাতা শীজিন্নবগী প্রোটোকোল."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"বেকগ্রাওন্দ দাতা শীজিন্নবগী প্রোটোকোল লৌগদ্রা?"</string>
+<string name="apn_edit_quit">"থাদোকউ"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> এক্সেস পোইন্ট এদিত তৌ"</string>
+<string name="input_pin_limit">"4 - 8 নম্বরশীং ইনপুত তৌবিয়ু"</string>
+<string name="agps_supl_manual_settings">"SUPL সার্ভর মেনুয়েল সেটিংশীং"</string>
+<string name="agps_supl_manual_settings_summary">"SUPL সার্ভর অমসুং পোর্ট খুৎনা সেট তৌ"</string>
+<string name="str_clear">"ক্লিয়র তৌ"</string>
+<string name="str_save">"সেব তৌ"</string>
+<string name="gps_location_suplserver">"সার্ভর"</string>
+<string name="agps_setting">"Agps স্বিচ"</string>
+<string name="open">"হাংদোকউ"</string>
+<string name="close">"খুমজিল্লু"</string>
+<string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> মোবাইল নেটৱার্ক সেটিংশীং"</string>
+<string name="pin_enabled_success">"SIM PIN য়াহল্লে"</string>
+<string name="pin_disabled_success">"SIM PIN য়াহন্দ্রে"</string>
+<string name="gps_time_sync_attention_gps_on">"GPS ফিক্স ফংবদা য়াম্লবদা মিনট 1 চংগনি. মদুগী মথক্তা, ইনভাইরনমেন্টেল সিগ্নেল শোনবনা মরম ওইদুনা GPS না মতম পীবা মায় পাক্তবা য়াই.\n\n নহাক GPS না পীবা মতম শীজিন্নগনি হায়বা শোয়দ্রব্রা?"</string>
+<string name="gps_time_sync_attention_gps_off">"GPS না পীবা মতম শীজিন্ননবা, নহাক অহানবদা GPS য়াহনগদবনি. অদুদগী মদু GPS ফিক্স ফংবদা য়াম্লবদা মিনট 1 চংগনি. মদুগী মথক্তা, ইনভাইরনমেন্টেল সিগ্নেল শোনবনা মরম ওইদুনা GPS না মতম পীবা মায় পাক্তবা য়াই.\n\n নহাক হৌজিক GPS য়াহল্লগনি হায়বা শোয়দ্রব্রা নত্ত্রগা GPS না পীবা মতম ঙাইগদ্রা?"</string>
+<string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APN শীং"</string>
+<string name="sim_lock_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> লোক সেটিংশীং"</string>
+<string name="device_status_ex">"SIM<xliff:g id="SIM">%s</xliff:g> স্টেটস"</string>
+<string name="lte_service">"4G সার্ভিস/প্রাইমারি কার্দ খল্লু"</string>
+<string name="lte_enabled">"4G সার্ভিস য়াহল্লু"</string>
+<string name="lte_service_network_mode_settings_dialog_title">"নেটৱার্ক মোদ খল্লু"</string>
+<string name="whether_close_lte_service">"নহাক 4G সার্ভিস খুমজিনবা পাম্ব্রা কনফোর্ম তৌবিয়ু?"</string>
+<string name="whether_enable_lte_service">"নহাক 4G সার্ভিস য়াহনবা পাম্ব্রা কনফোর্ম তৌবিয়ু?"</string>
+<string name="whether_switch_lte_service_sim">"SIM কার্দ অসিদা নহাক 4G সার্ভিস ওনবা পাম্মি হায়বা চুম্ব্রা হায়বিয়ু？"</string>
+<string name="lte_service_attention">"পুক্নিং চংবা"</string>
+<string name="lte_service_switch">"4G সার্ভিসতা ওনগে তৌরি, ঙাইবিয়ু..."</string>
+<string-array name="lte_preferred_networks_choices">
+<item>"4G/3G/2G মশীং য়াম্বা মোদ"</item>
+<item>"3G/2G খক্তংগী মোদ"</item>
+</string-array>
+<string name="wifi_alarm_category_title">"Wi-Fi অলার্ম সেটিং"</string>
+<string name="wifi_connect_alarm_title">"মশা মথন্তা Wi-Fi শম্নহল্লু"</string>
+<string name="wifi_disconnect_alarm_title">"মশা মথন্তা Wi-Fi শম্নবা লৌথোকউ"</string>
+<string name="wifi_alarm_time_title">"মতম সেট তৌ"</string>
+<string name="not_stand_by">"থিংবা"</string>
+<string name="main_card_slot">"PRI. "</string>
+<string name="gsm_card_slot">"SEC. "</string>
+<string name="cellular_data_title">"সেল্লুলর দাতা"</string>
+<string name="sim_selection_required_pref">"খনবা দরকার ওই"</string>
+<string name="stand_by_set_changed_prompt">"Sim এক্টিবেসন স্টেট হোংগনি, মখা চত্থখিগদ্রা কনফার্ম তৌবিয়ু?"</string>
+<string name="okay">"ওকে"</string>
+<string name="primary_card_switching">"সেটিং, ঙাইবিয়ু..."</string>
+<string name="select_primary_card">"প্রাইমারি কার্দ খল্লু"</string>
+<string name="sim_calls_ask_first_prefs_title">"মতম খুদিংগী হংঙু"</string>
+<string name="sim_preferred_title">"হেন্না পাম্বা SIM কার্দ অপদেত তৌগদ্রা?"</string>
+<string name="sim_preferred_message">"<xliff:g id="new_sim">%1$s</xliff:g> নহাক্কি দিভাইসতা য়াওবা SIM অদুখক্তংনি. নহাক SIM অসি সেল্লুলর দাতা, কোলশীং, অমসুং SMS মেসেজশীংগী শীজিন্নবা পাম্ব্রা?"</string>
+<string name="select_sim_for_data">"দাতাগী SIM অমা খল্লু"</string>
+<string name="select_sim_for_calls">"কোল তৌ লোয়ননা"</string>
+<string name="sim_card_select_title">"SIM কার্দ খল্লু"</string>
+<string name="select_primary_slot_description_4g">"(প্রাইমারি কার্দনা 4G/2G সপোর্ট তৌই, সেকেন্দরি কার্দনা 2G সার্ভিস খক্তং সপোর্ট তৌই. )"</string>
+<string name="whether_switch_primary_card">"কার্দ অসিদা প্রাইমারি কার্দ ওনগদ্রা হায়বা কনফার্ম তৌবিয়ু ?\n(সেল্লুলর দাতাসু কার্দ অদুদা হোংলগনি.)"</string>
+<string-array name="light_color_picker">
+<item>"অশংবা"</item>
+<item>"হিগোক"</item>
+<item>"ইন্দিগো"</item>
+<item>"তিম্বুন নাপুন মচু"</item>
+<item>"লৈ মচু"</item>
+<item>"অঙাংবা"</item>
+<item>"নাপু মচু"</item>
+</string-array>
+<string name="select_primary_slot_description">"(প্রাইমারি কার্দনা WCDMA/GSM মোদ সপোর্ট তৌই, সেকেন্দরি কার্দ GSM মোদ খক্তং সপোর্ট তৌই.)"</string>
+<string name="sim_pref_divider">"হেন্না পাম্বা SIM গী"</string>
+<string name="calls_title">"কোলশীং"</string>
+<string name="sms_messages_title">"SMS মেসেজশীং"</string>
+<string name="feature_bar_softkey_edit">"এদিট"</string>
+<string name="feature_bar_softkey_off">"ওফ"</string>
+<string name="feature_bar_softkey_on">"ওন"</string>
+<string name="feature_bar_softkey_options">"খল্লু"</string>
+<string name="dialog_restore_default_apn">"নহাক্না হাপচিনবা APN লোইনমক লৌথোক্লগনি,অমসুং লেমহৌরিবা APN অদু দিফাওল্ট সেটিংশীংদা হন্না সেট তৌগনি. নহাক মখা চত্থগনি হায়বা শোয়দ্রব্রা?"</string>
+</resources>

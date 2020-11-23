@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"הגדרת סוג APN"</string>
+<string name="user_could_input_apn_type">"המשתמשים יכולים להזין את סוג ה-APN"</string>
+<string name="could_not_input_the_same_apn_type">"לא ניתן להזין את אותו סוג APN"</string>
+<string name="apn_type_message">"לא קיימת ברירת מחדל לסוג ב-APN החדש שלכם, לא ניתן לבחור את ה-APN מסיבה זו."</string>
+<string name="error_apn_type_message">"לא ניתן להשאיר את סוג ה-APN כשדה ריק"</string>
+<string name="error_apn_type">"סוג APN שהזנתם אינו נתמך, אנא הזינו סוג אחר!"</string>
+<string name="same_apn_type">"הזנתם את אותו סוג APN, בבקשה הזינו שוב!"</string>
+<string name="empty_apn_type">"לא הזנתם או בחרתם סוג APN, בבקשה הזינו שוב!"</string>
+<string name="dual_settings_title_uui">ניהול כרטיס SIM</string>
+<string name="dual_voice_setting_title">הגדרות קול </string>
+<string name="dual_video_setting_title">"הגדרות וידאו"</string>
+<string name="dual_mms_setting_title">"הגדרות מסרון"</string>
+<string name="dual_settings_title">הגדרות כרטיס SIM כפול </string>
+<string name="sim_name_setting_title">ערוך את שם כרטיס ה-SIM</string>
+<string name="sim_color_setting_title">"הגדר צבע רקע"</string>
+<string name="dual_settings_always_prompt">בקש תמיד</string>
+<string name="mms_settings_auto">CDMA ללא EvDo</string>
+<string name="no_need_set_data_subscription">אין צורך להגדיר מנוי נתונים. </string>
+<string name="voice_setting_title">"הגדרות שיחות קוליות"</string>
+<string name="video_setting_title">"הגדרות שיחות וידאו"</string>
+<string name="mms_setting_title">"הגדרות הודעות MMS ומסרונים"</string>
+<string name="sim_reply_setting">"הגדרות מענה למסרון"</string>
+<string name="reply_message_setting">"מענה להודעת מולטימדיה או מסרון"</string>
+<string name="closeData">סגור</string>
+<string name="data_title">הגדרות חיבור נתונים </string>
+<string name="sel_sub_title">"הגדרות מצב המתנה"</string>
+<string name="sel_sub_summary">"לאפשר או לנטרל את כרטיס ה-SIM"</string>
+<string name="set_data_subscription_timeout">"עבר זמנן של הגדרות חיבור הנתונים!"</string>
+<string name="set_dds_failed">"שגיאה! מחקו את כל חיבורי הנתונים ונסו שוב!"</string>
+<string name="set_dds_success">"הוגדר בהצלחה"</string>
+<string name="set_data_subscription_progress">"מגדיר, אנא המתינו..."</string>
+<string name="set_data_subscription_error_ok">"קבע"</string>
+<string name="set_data_subscription_error_title">שגיאה</string>
+<string name="set_data_subscription_error">"בלי כרטיס SIM זה, בבקשה ודאו ונסו שוב!"</string>
+<string name="sim_retries_left">"הכמות הנותרת של"</string>
+<string name="menu_kill_apps_services">"סגור את כל היישומים"</string>
+<string name="back_groud_data_usage_restrict_protocal">"פרוטוקול שימוש רקע בנתונים."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"לקבל פרוטוקול שימוש רקע בנתונים?"</string>
+<string name="apn_edit_quit">צא</string>
+<string name="apn_edit_ex">"ערוך נקודת גישה SIM<xliff:g id="SIM">%s</xliff:g>"</string>
+<string name="input_pin_limit">"בבקשה הזינו 8-4 מספרים"</string>
+<string name="agps_supl_manual_settings">"הגדרות ידניות לשרת SUPL"</string>
+<string name="agps_supl_manual_settings_summary">"הגדירו ידנית את שרת וכניסת SUPL"</string>
+<string name="str_clear">נקה</string>
+<string name="str_save">שמור</string>
+<string name="gps_location_suplserver">שרת</string>
+<string name="agps_setting">"הגדרות AGPS"</string>
+<string name="open">פתח</string>
+<string name="close">סגור</string>
+<string name="mobile_network_settings_ex">"הגדרות רשת נייד SIM<xliff:g id="SIM">%s</xliff:g>"</string>
+<string name="pin_enabled_success">PIN של  SIM מופעל</string>
+<string name="pin_disabled_success">PIN של  SIM מנוטרל</string>
+<string name="gps_time_sync_attention_gps_on">"תדרש לכל היותר דקה אחת כדי להתקבע על מיקום GPS. מלבד זה, ה-GPS עשוי שלא להצליח לספק נתוני זמן עקב אות סביבתי חלש.\n\nהאם אתם בטוחים שתרצו להשתמש בנתוני הזמן המסופקים על ידי ה-GPS?"</string>
+<string name="gps_time_sync_attention_gps_off">"על מנת להשתמש בנתוני הזמן של ה-GPS עליכם להפעיל את ה-GPS קודם. לאחר מכן, תדרש כדקה אחת על מנת להשיג מיקום GPS. מלבד זה, ה-GPS עשוי שלא להצליח לספק נתוני זמן עקב אות סביבתי חלש.\n\nהאם אתם בטוחים שתרצו להשתמש בנתוני הזמן המסופקים על ידי ה-GPS?"</string>
+<string name="apn_settings_ex">"שמות נקודות גישה SIM<xliff:g id="SIM">%s</xliff:g>"</string>
+<string name="sim_lock_settings_ex">"נעילת הגדרות SIM<xliff:g id="SIM">%s</xliff:g>"</string>
+<string name="device_status_ex">"סטטוס SIM<xliff:g id="SIM">%s</xliff:g>"</string>
+ 
+       <string name="dual_primary_setting_title">"קביעת כרטיס ראשי"</string>
+     <string name="sim_number_setting_title">"ערכו מספר SIM"</string>
+     <string name="sim_number_setting_null">לא הוגדר</string>
+     <string name="set_dds_success_gsm">"הקביעת בהצלחה. חיבור נתונים מחליף לחריץ משני, שירות LTE אינו זמין."</string>
+     <string name="lte_service">"שירות 4G / בחרו כרטיס ראשי"</string>
+     <string name="lte_enabled">"לאפשר שירות 4G"</string>
+     <string name="lte_service_network_mode_settings_dialog_title">"בחרו מצב רשת"</string>
+     <string name="whether_close_lte_service">"בבקשה אשרו האם תרצו לסגור את שירות 4G?"</string>
+     <string name="whether_enable_lte_service">"בבקשה אשרו האם תרצו להפעיל את שירות 4G?"</string>
+     <string name="whether_switch_lte_service_sim">"אנא לאשר אם ברצונך להעביר את שירות ה- 4G לכרטיס ה- SIM הזה?"</string>
+     <string name="lte_service_attention">"לידיעתך"</string>
+     <string name="lte_service_switch">"החלפת שירות 4G, אנא לחכות ..."</string>
+     <string-array name="lte_preferred_networks_choices">
+        <item>ריבוי מצבים 4G/3G/2G"</item>
+        <item>"מצבי 3G/2G בלבד"</item>
+    </string-array>
+     <string name="wifi_alarm_category_title">הגדרות התראת רשת אל-חוטית</string>
+     <string name="wifi_connect_alarm_title">התחבר לרשת אל-חוטית באופן אוטומטי</string>
+     <string name="wifi_disconnect_alarm_title">התנתק מהרשת האל-חוטית באופן אוטומטי</string>
+     <string name="wifi_alarm_time_title">"הגדר שעה"</string>
+     <string name="not_stand_by">אסור</string>
+     <string name="main_card_slot">"ראשי"</string>
+     <string name="gsm_card_slot">"משני"</string>
+     <string name="cellular_data_title">"נתונים סלולריים"</string>
+     <string name="sim_selection_required_pref">"נדרשת בחירה"</string>
+     <string name="stand_by_set_changed_prompt">"מצב ההפעלה של כרטיס ה-SIM יישתנה, בבקשה אשרו האם להמשיך?"</string>
+     <string name="okay">"אישור"</string>
+     <string name="primary_card_switching">מגדיר, אנא המתינו...</string>
+     <string name="select_primary_card">"בחרו בכרטיס ראשי"</string>
+     <string name="sim_calls_ask_first_prefs_title">"שואל בכל זמן"</string>
+     <string name="sim_preferred_title">"עדכון כרטיס ה- SIM המועדף?"</string>
+     <string name="sim_preferred_message">"היחיד במכשיר שלך. האם ברצומך  SIM הוא ה- <xliff:g id="new_sim">%1$s</xliff:g>? SMS עבור נתונים סלולריים, שיחות או מידע SIM להשתמש ב-"</string>
+     <string name="select_sim_for_data">"בחר SIM עבור נתונים"</string>
+     <string name="select_sim_for_calls">"מתקשר עם"</string>
+     <string name="sim_card_select_title">בחרו בכרטיס SIM</string>
+     <string name="select_primary_slot_description_4g">"כרטיס ראשי תומך שירות 4G/2G, כרטיס משני תומך רק שירות 2G."</string>
+     <string name="whether_switch_primary_card">בבקשה אשרו האם לעבור לכרטיס הראשי מכרטיס זה?\n(נתונים סלולרים יעברו גם הם אל הכרטיס.)</string>
+     <string-array name="light_color_picker">
+        <item>ירוק</item>
+        <item>"כחול"</item>
+        <item>"אינדיגו"</item>
+        <item>סגול</item>
+        <item>"ורוד"</item>
+        <item>"אדום"</item>
+        <item>"צהוב"</item>
+    </string-array>
+     <string name="select_primary_slot_description">"(הכרטיס הראשי תומך במצב WCDMA/GSM, הכרטיס המשני תומך רק במצב GSM.)"</string>
+     <string name="sim_pref_divider">"מועדף SIM עבור"</string>
+     <string name="calls_title">"שיחות"</string>
+     <string name="sms_messages_title">"מידע SMS"</string>
+     <string name="feature_bar_softkey_edit">"ערוך"</string>
+     <string name="feature_bar_softkey_off">"כבוי"</string>
+     <string name="feature_bar_softkey_on">"ב-"</string>
+     <string name="feature_bar_softkey_options">"בחר"</string>
+     <string name="dialog_restore_default_apn">"כל APN שתוסיף יוסר, וה-APN הנותרים APN יאותחלו להגדרות ברירת המחדל. האם אתה בטוח שברצונך להמשיך?"</string>
+</resources>

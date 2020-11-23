@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="timezone_filters">
+<item>" آمريڪا"</item>
+<item>"يورپ"</item>
+<item>"آفريڪا"</item>
+<item>"ايشيا"</item>
+<item>"آسٽريليا"</item>
+<item>"پئسيفڪ"</item>
+<item>" سمورا"</item>
+</string-array>
+<string-array name="screen_timeout_entries">
+<item>15 سيڪنڊ"</item>
+<item>"30 سيڪنڊ"</item>
+<item>" 1 منٽ"</item>
+<item>2 منٽ"</item>
+<item>" 5 منٽَ"</item>
+<item>" 10 منٽَ"</item>
+<item>" 30 منٽَ"</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>1.5 سيڪنڊ"</item>
+<item>6 سيڪنڊ"</item>
+<item>" سدائين کليل آهي"</item>
+<item>"سدائين بند ڪريو"</item>
+</string-array>
+<string-array name="dream_timeout_entries">
+<item>" ڪڏهن به نه"</item>
+<item>15 سيڪنڊ"</item>
+<item>"30 سيڪنڊ"</item>
+<item>" 1 منٽ"</item>
+<item>2 منٽ"</item>
+<item>" 5 منٽَ"</item>
+<item>" 10 منٽَ"</item>
+<item>" 30 منٽَ"</item>
+</string-array>
+<string-array name="lock_after_timeout_entries">
+<item>"جلدي"</item>
+<item>5 سيڪنڊ"</item>
+<item>15 سيڪنڊ"</item>
+<item>"30 سيڪنڊ"</item>
+<item>" 1 منٽ"</item>
+<item>2 منٽ"</item>
+<item>" 5 منٽَ"</item>
+<item>" 10 منٽَ"</item>
+<item>" 30 منٽَ"</item>
+</string-array>
+<string-array name="entries_font_size">
+<item>" ننڍو"</item>
+<item>" پورو پنو"</item>
+<item>" وڏو"</item>
+<item>" تمام وڏو"</item>
+</string-array>
+<string-array name="tts_rate_entries">
+<item>"تمام آهستي"</item>
+<item>"آهستي"</item>
+<item>" پورو پنو"</item>
+<item>"تيز"</item>
+<item>"تيز تر"</item>
+<item>"تمام ترين"</item>
+<item>"تڪڙو"</item>
+<item>"تمام تڪڙو"</item>
+<item>"تيز ترين"</item>
+</string-array>
+<string-array name="tts_pitch_entries">
+<item>"تمام هيٺ"</item>
+<item>" گهٽ"</item>
+<item>" پورو پنو"</item>
+<item>" اوچي"</item>
+<item>"تمام اوچو"</item>
+</string-array>
+<string-array name="wifi_status">
+<item></item>
+<item>"اسڪين ٿي رهيو آهي..."</item>
+<item>"منسلڪ ٿي رهيو آهي..."</item>
+<item>"تصديق ٿي رهي آهي..."</item>
+<item>"IP ايڊريس زيرِ حصول آهي..."</item>
+<item>" منسلڪ ٿي ويو"</item>
+<item>"موقوف ٿي ويو"</item>
+<item>"غير منسلڪ ٿي رهيو آهي..."</item>
+<item>"غير منسلڪ ٿي ويو"</item>
+<item>" ناڪام"</item>
+<item>"بلاڪ ٿي ويو"</item>
+<item>"عارضي طور ڪمزور نيٽ ورڪ کان لنوائي رهيو آهي"</item>
+</string-array>
+<string-array name="wifi_status_with_ssid">
+<item></item>
+<item>"اسڪين ٿي رهيو آهي..."</item>
+<item>"<xliff:g id="network_name">%1$s</xliff:g> سان منسلڪ ٿي رهيو آهي..."</item>
+<item>"<xliff:g id="network_name">%1$s</xliff:g> سان تصديق ٿي رهيو آهي..."</item>
+<item>"<xliff:g id="network_name">%1$s</xliff:g> کان IP ايڊريس زيرِ حصول آهي..."</item>
+<item>"<xliff:g id="network_name">%1$s</xliff:g> سان منسلڪ ٿي ويو"</item>
+<item>"موقوف ٿي ويو"</item>
+<item>"<xliff:g id="network_name">%1$s</xliff:g> سان غير منسلڪ ٿي رهيو آهي..."</item>
+<item>"غير منسلڪ ٿي ويو"</item>
+<item>" ناڪام"</item>
+<item>"بلاڪ ٿي ويو"</item>
+<item>"عارضي طور ڪمزور نيٽ ورڪ کان لنوائي رهيو آهي"</item>
+</string-array>
+<string-array name="wifi_security">
+<item>"@string/wifi_security_none"</item>
+<item>"@string/wifi_security_wep"</item>
+<item>"@string/wifi_security_psk_generic"</item>
+<item>"@string/wifi_security_eap"</item>
+<item>"@string/wifi_security_wapi_psk"</item>
+<item>"@string/wifi_security_wapi_cert"</item>
+</string-array>
+<string-array name="wifi_p2p_wps_setup">
+<item>"ڌڪڻ جو بٽڻ"</item>
+<item>"جوڙيدار ڊيوائس پاران PIN"</item>
+<item>"هن ڊيوائس پاران PIN"</item>
+</string-array>
+<string-array name="wifi_p2p_status">
+<item>" منسلڪ ٿي ويو"</item>
+<item>"مدعو ڪيو ويو"</item>
+<item>" ناڪام"</item>
+<item>" ميسر آهي"</item>
+<item>"پهچ کان ٻاهر"</item>
+</string-array>
+<string-array name="bluetooth_visibility_timeout_entries">
+<item>2 منٽ"</item>
+<item>" 5 منٽَ"</item>
+<item>" 1 ڪلاڪُ"</item>
+<item>"وقت ڪڏهن به نه ختم ٿئي"</item>
+</string-array>
+<string-array name="wifi_signal">
+<item>"ڪمزور"</item>
+<item>"مناسب"</item>
+<item>"سٺو"</item>
+<item>"عمدو"</item>
+</string-array>
+<string-array name="wifi_sleep_policy_entries">
+<item>" سدائين"</item>
+<item>"صرف لڳل هئڻ وقت"</item>
+<item>"ڪڏهن به نه (ڊيٽا جي استعمال کي وڌائي ٿو)"</item>
+</string-array>
+<string-array name="wifi_sleep_policy_entries_wifi_only">
+<item>" سدائين"</item>
+<item>"صرف لڳل هئڻ وقت"</item>
+<item>" ڪڏهن به نه"</item>
+</string-array>
+<string-array name="wifi_frequency_band_entries">
+<item>" پاڻمرادو"</item>
+<item>"صرف 5 GHz تي"</item>
+<item>"صرف 2.3 GHz تي"</item>
+</string-array>
+<string-array name="usage_stats_display_order_types">
+<item>"استعمال جو وقت"</item>
+<item>"ڳڻپ کي هلايو"</item>
+<item>"اطلاق جو نالو"</item>
+</string-array>
+<string-array name="wifi_peap_phase2_entries">
+<item>" ڪو به نه"</item>
+<item>"MSCHAPV2"</item>
+<item>"GTC"</item>
+</string-array>
+<string-array name="wifi_phase2_entries">
+<item>" ڪو به نه"</item>
+<item>"PAP"</item>
+<item>"MSCHAP"</item>
+<item>"MSCHAPV2"</item>
+<item>"GTC"</item>
+</string-array>
+<string-array name="wifi_ip_settings">
+<item>"DHCP"</item>
+<item>"بيٺل"</item>
+</string-array>
+<string-array name="wifi_proxy_settings">
+<item>" ڪو به نه"</item>
+<item>" مينوئل"</item>
+</string-array>
+<string-array name="emergency_tone_entries">
+<item>"بند ڪريو"</item>
+<item>"خبردار ڪريو"</item>
+<item>" ٿرٿراهٽ"</item>
+</string-array>
+<string-array name="apn_auth_entries">
+<item>" ڪو به نه"</item>
+<item>"PAP"</item>
+<item>"CHAP"</item>
+<item>"PAP يا CHAP"</item>
+</string-array>
+<string-array name="bearer_entries">
+<item>"LTE"</item>
+<item>"eHRPD"</item>
+<item>"غير مخصوصه"</item>
+</string-array>
+<string-array name="app_install_location_entries">
+<item>"ڊيوائس جو اندروني ذخيرهگاه"</item>
+<item>"هٽي سگهندڙ SD ڪارڊ"</item>
+<item>"سسٽم کي فيصلو ڪرڻ ڏيو"</item>
+</string-array>
+<string-array name="app_ums_install_location_entries">
+<item>"ڊيوائس جو اندروني ذخيرهگاه"</item>
+<item>"موبائل جو اندروني ذخيرهگاه"</item>
+<item>"سسٽم کي فيصلو ڪرڻ ڏيو"</item>
+</string-array>
+<string-array name="dualsim_summaries">
+<item>" SIM 1 "</item>
+<item>" SIM 2 "</item>
+<item>"هميشه حڪم تي هلايو"</item>
+</string-array>
+<string-array name="dualsim_primary_summaries">
+<item>" SIM 1 "</item>
+<item>" SIM 2 "</item>
+</string-array>
+<string-array name="dualsim_mms_summaries">
+<item>" SIM 1 "</item>
+<item>" SIM 2 "</item>
+<item>"هميشه حڪم تي هلايو"</item>
+<item>" پاڻمرادو"</item>
+</string-array>
+<string-array name="dualsim_entries">
+<item>"SIM 1"</item>
+<item>"SIM 2"</item>
+</string-array>
+<string-array name="dualsim_setting_entries">
+<item>"SIM 1"</item>
+<item>"SIM 2"</item>
+<item>"هميشه حڪم تي هلايو"</item>
+</string-array>
+<string-array name="silent_mode_entries">
+<item>"بند ڪريو"</item>
+<item>" ٿرٿراهٽ"</item>
+<item>" خاموش ڪريو"</item>
+</string-array>
+<string-array name="app_ops_categories">
+<item>" مڪانيت"</item>
+<item>"ذاتي"</item>
+<item>" پيغام ٿي رهيو آهي"</item>
+<item>"مِيڊيا"</item>
+<item>"ڊيوائس"</item>
+</string-array>
+<string-array name="app_ops_summaries">
+<item>"کهري مڪانيت"</item>
+<item>"لسي مڪانيت"</item>
+<item>"GPS"</item>
+<item>" ٿرٿراهٽ"</item>
+<item>"رابطا پڙهو"</item>
+<item>"رابطن جي ترميم ڪريو"</item>
+<item>" ڪال لاگ کي پڙهو"</item>
+<item>"ڪال لاگ جي ترميم ڪريو"</item>
+<item>"ڪئلينڊر پڙهو"</item>
+<item>"ڪئلينڊر جي ترميم ڪريو"</item>
+<item>"wi-fi اسڪين ڪريو"</item>
+<item>" اطلاع"</item>
+<item>"سيل اسڪين ڪريو"</item>
+<item>"ڪال فون"</item>
+<item>"ايس ايم ايس پڙهو"</item>
+<item>"ايس ايم ايس لکو"</item>
+<item>"ايس ايم ايس وصول ڪريو"</item>
+<item>"هنگامي ايس ايم ايس وصول ڪريو"</item>
+<item>"ايم ايم ايس وصول ڪريو"</item>
+<item>"WAP PUSH وصول ڪريو"</item>
+<item>" ايس ايم ايس موڪليو"</item>
+<item>"ICC ايس ايم ايس پڙهو"</item>
+<item>"ICC ايس ايم ايس لکو"</item>
+<item>"ترتيبن جي ترميم ڪريو"</item>
+<item>"چوٽي تي ٺاهيو"</item>
+<item>" اطلاعات تي رسائي ڪريو"</item>
+<item>"ڪيمرا"</item>
+<item>" آڊيو ريڪارڊ ڪريو"</item>
+<item>"آڊيو هلايو"</item>
+<item>"ڪلپ بورڊ پڙهو"</item>
+<item>"ڪلپ بورڊ جي ترميم ڪريو"</item>
+<item>"ميڊيا جا بٽڻ"</item>
+<item>"آڊيو جو فوڪس"</item>
+<item>"ماسٽر واليوم"</item>
+<item>"آواز جو واليوم"</item>
+<item>"گهنٽي جو واليوم"</item>
+<item>"ميڊيا جو واليوم"</item>
+<item>" خبردار ڪندڙ واليوم"</item>
+<item>" اطلاعات جو واليوم"</item>
+<item>" بلو ٽٿ جو واليوم"</item>
+<item>"جاڳندڙ رکو"</item>
+<item>"مڪانيت جي جانچ ڪريو"</item>
+<item>"اوچي پاور جي مڪانيت جي جانچ ڪريو"</item>
+</string-array>
+<string-array name="app_ops_labels">
+<item>" مڪانيت"</item>
+<item>" مڪانيت"</item>
+<item>" مڪانيت"</item>
+<item>" ٿرٿراهٽ"</item>
+<item>"رابطا پڙهو"</item>
+<item>"رابطن جي ترميم ڪريو"</item>
+<item>" ڪال لاگ کي پڙهو"</item>
+<item>"ڪال لاگ جي ترميم ڪريو"</item>
+<item>"ڪئلينڊر پڙهو"</item>
+<item>"ڪئلينڊر جي ترميم ڪريو"</item>
+<item>" مڪانيت"</item>
+<item>"اعلان ٽپال ڪريو"</item>
+<item>" مڪانيت"</item>
+<item>"ڪال فون"</item>
+<item>"ايس ايم ايس/ايم ايم ايس پڙهو"</item>
+<item>"ايس ايم ايس/ايم ايم ايس لکو"</item>
+<item>"ايس ايم ايس/ايم ايم ايس وصول ڪريو"</item>
+<item>"ايس ايم ايس/ايم ايم ايس وصول ڪريو"</item>
+<item>"ايس ايم ايس/ايم ايم ايس وصول ڪريو"</item>
+<item>"ايس ايم ايس/ايم ايم ايس وصول ڪريو"</item>
+<item>"ايس ايم ايس/ايم ايم ايس موڪليو"</item>
+<item>"ايس ايم ايس/ايم ايم ايس پڙهو"</item>
+<item>"ايس ايم ايس/ايم ايم ايس لکو"</item>
+<item>"ترتيبن جي ترميم ڪريو"</item>
+<item>"چوٽي تي ٺاهيو"</item>
+<item>" اطلاعات تي رسائي ڪريو"</item>
+<item>"ڪيمرا"</item>
+<item>" آڊيو ريڪارڊ ڪريو"</item>
+<item>"آڊيو هلايو"</item>
+<item>"ڪلپ بورڊ پڙهو"</item>
+<item>"ڪلپ بورڊ جي ترميم ڪريو"</item>
+<item>"ميڊيا جا بٽڻ"</item>
+<item>"آڊيو جو فوڪس"</item>
+<item>"ماسٽر واليوم"</item>
+<item>"آواز جو واليوم"</item>
+<item>"گهنٽي جو واليوم"</item>
+<item>"ميڊيا جو واليوم"</item>
+<item>" خبردار ڪندڙ واليوم"</item>
+<item>" اطلاعات جو واليوم"</item>
+<item>" بلو ٽٿ جو واليوم"</item>
+<item>"جاڳندڙ رکو"</item>
+<item>" مڪانيت"</item>
+<item>" مڪانيت"</item>
+</string-array>
+<string-array name="long_press_timeout_selector_titles">
+<item>"ڇوٽو"</item>
+<item>وچولو"</item>
+<item>"ڊگهو"</item>
+</string-array>
+<string-array name="captioning_typeface_selector_titles">
+<item>" طئي شده"</item>
+<item>"Sans-serif"</item>
+<item>"Sans-serif condensed"</item>
+<item>"Serif"</item>
+<item>"مونو اسپيس"</item>
+</string-array>
+<string-array name="captioning_font_size_selector_titles">
+<item>"تمام ننڍو"</item>
+<item>" ننڍو"</item>
+<item>" پورو پنو"</item>
+<item>" وڏو"</item>
+<item>"تمام وڏو"</item>
+</string-array>
+<string-array name="captioning_edge_type_selector_titles">
+<item>" ڪو به نه"</item>
+<item>"بيروني لڪير"</item>
+<item>"پاڇو ڪيرايو"</item>
+</string-array>
+<string-array name="captioning_preset_selector_titles">
+<item>"ڪاري تي اڇو"</item>
+<item>"اڇي تي ڪارو"</item>
+<item>"ڪاري تي پيلو"</item>
+<item>"بلو تي پيلو"</item>
+<item>" تبديل ڪريو"</item>
+</string-array>
+<string-array name="select_runtime_titles">
+<item>"Dalvik"</item>
+<item>"ART"</item>
+<item>"ART (خرابي دور ڪريو)"</item>
+</string-array>
+<string-array name="select_runtime_summaries">
+<item>"Dalvik کي استعمال ڪريو"</item>
+<item>" ART کي استعمال ڪريو"</item>
+<item>"ART خرابي دور ڪرڻ جي بلڊ کي استعمال ڪريو"</item>
+</string-array>
+<string-array name="hdcp_checking_titles">
+<item>" ڪڏهن به پڙتال نه ڪريو"</item>
+<item>"صرف DRM مواد جي پڙتال ڪريو"</item>
+<item>"سدائين پڙتال ڪريو"</item>
+</string-array>
+<string-array name="hdcp_checking_summaries">
+<item>" ڪڏهن به  HDCP پڙتال نه ڪريو"</item>
+<item>"DRM مواد جي پڙتال لاءِ صرف HDCP استعمال ڪريو"</item>
+<item>"سدائين HDCP پڙتال استعمال ڪريو"</item>
+</string-array>
+<string-array name="window_animation_scale_entries">
+<item>"تحرڪ بند آهي"</item>
+<item>" تحرڪ جو پيمانو  0.5x آهي"</item>
+<item>" تحرڪ جو پيمانو  1x آهي"</item>
+<item>" تحرڪ جو پيمانو  1.5x آهي"</item>
+<item>" تحرڪ جو پيمانو  2x آهي"</item>
+<item>" تحرڪ جو پيمانو  5x آهي"</item>
+<item>" تحرڪ جو پيمانو  10x آهي"</item>
+</string-array>
+<string-array name="transition_animation_scale_entries">
+<item>"تحرڪ بند آهي"</item>
+<item>" تحرڪ جو پيمانو  0.5x آهي"</item>
+<item>" تحرڪ جو پيمانو  1x آهي"</item>
+<item>" تحرڪ جو پيمانو  1.5x آهي"</item>
+<item>" تحرڪ جو پيمانو  2x آهي"</item>
+<item>" تحرڪ جو پيمانو  5x آهي"</item>
+<item>" تحرڪ جو پيمانو  10x آهي"</item>
+</string-array>
+<string-array name="animator_duration_scale_entries">
+<item>"تحرڪ بند آهي"</item>
+<item>" تحرڪ جو پيمانو  0.5x آهي"</item>
+<item>" تحرڪ جو پيمانو  1x آهي"</item>
+<item>" تحرڪ جو پيمانو  1.5x آهي"</item>
+<item>" تحرڪ جو پيمانو  2x آهي"</item>
+<item>" تحرڪ جو پيمانو  5x آهي"</item>
+<item>" تحرڪ جو پيمانو  10x آهي"</item>
+</string-array>
+<string-array name="overlay_display_devices_entries">
+<item>" ڪو به نه"</item>
+<item>"720x480 mdpi"</item>
+<item>"720x480 mdpi (محفوظ)"</item>
+<item>"1280x720 tvdpi"</item>
+<item>"1280x720 tvdpi (محفوظ)"</item>
+<item>"1920x1080 xhdpi"</item>
+<item>"1920x1080 xhdpi (محفوظ)"</item>
+<item>"1280x720 tvdpi ۽ 1920x1080 xhdpi"</item>
+</string-array>
+<string-array name="enable_opengl_traces_entries">
+<item>" ڪو به نه"</item>
+<item>"Logcat"</item>
+<item>"Systrace (گرافڪس)"</item>
+<item>"ڪال glGetError جي ڪناري تي آهي"</item>
+</string-array>
+<string-array name="show_non_rect_clip_entries">
+<item>"بند ڪريو"</item>
+<item>"بلو ۾ غير-مستطيل ڪلپ جو ريجن تيار ڪيو"</item>
+<item>"چڪاسيل ڊرائنگ جي ڪمانڊن کي سائي رنگ ۾ هائي لائٽ ڪريو"</item>
+</string-array>
+<string-array name="track_frame_time_entries">
+<item>"بند ڪريو"</item>
+<item>"اسڪرين تي پٽين وانگر"</item>
+<item>"لڪيرن طور اسڪرين تي"</item>
+<item>"adb shell dumpsys gfxinfo ۾"</item>
+</string-array>
+<string-array name="debug_hw_overdraw_entries">
+<item>"بند ڪريو"</item>
+<item>"وڌاءُ ٿيل ايراضين کي ڏيکاريو"</item>
+<item>"ڊيوٽر  جي بي قائده ايراضين کي ڏيکاريو"</item>
+<item>"وڌاءُ ٿيل ڳڻپ ڪندڙ کي ڏيکاريو"</item>
+</string-array>
+<string-array name="app_process_limit_entries">
+<item>"معياري حد"</item>
+<item>"ڪي به پسمنظر جي مرحلا ڪونه آهن"</item>
+<item>"وڌ کان وڌ 1 مرحلو"</item>
+<item>"وڌ کان وڌ 2 مرحلا"</item>
+<item>"وڌ کان وڌ 3 مرحلا"</item>
+<item>"وڌ کان وڌ 4 مرحلا"</item>
+</string-array>
+<string-array name="vpn_types_long">
+<item>"PPTP VPN"</item>
+<item>" اڳ-شراڪت ڪيل ڪيز سان L2TP/IPSec VPN"</item>
+<item>" سَنَدن سان L2TP/IPSec VPN"</item>
+<item>"اڳ-شراڪت ڪيل ڪيز سان IPSec VPN ۽  Xauth جي تصديق"</item>
+<item>"سَنَدن سان IPSec VPN ۽  Xauth جي تصديق"</item>
+<item>"سَنَدن سان IPSec VPN ۽  هائبرڊ تصديق"</item>
+</string-array>
+<string-array name="vpn_states">
+<item>"غير منسلڪ ٿي ويو"</item>
+<item>"شروعات ڪري رهيو آهي..."</item>
+<item>"منسلڪ ٿي رهيو آهي..."</item>
+<item>" منسلڪ ٿي ويو"</item>
+<item>" وقت ختم ٿي ويو"</item>
+<item>" ناڪام"</item>
+</string-array>
+<string-array name="security_settings_premium_sms_values">
+<item>"پڇو"</item>
+<item>" ڪڏهن به اجازت نه ڏيو"</item>
+<item>" سدائين اجازت ڏيو"</item>
+</string-array>
+<string-array name="ram_states">
+<item>" پورو پنو"</item>
+<item>"پورو پنو"</item>
+<item>" گهٽ"</item>
+<item>"نازڪ"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>" هي هاڻي کان 1 منٽ کان گهٽ تي مرتب ٿيل آهي."</item>
+<item>"هي هاڻي کان <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> لاءِ مرتب ٿيل آهي."</item>
+<item>"هي هاڻي کان <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> تي مرتب ٿيل آهي."</item>
+<item>"هي هاڻي کان  <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ۽ <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> تي مرتب ٿيل آهي."</item>
+<item>" هي هاڻي کان <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> تي مرتب ٿيل آهي."</item>
+<item>"هي هاڻي کان <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ۽  <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> تي مرتب ٿيل آهي."</item>
+<item>"هي  <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> ۽ <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> تي مرتب ٿيل آهي."</item>
+<item>هي هاڻي کان <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>، <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>، ۽ <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> مرتب ٿيل آهي."</item>
+</string-array>
+<string-array name="mobile_to_wlan">
+<item>"پاڻمرادو منسلڪ ڪريو"</item>
+<item>"هٿراڌو طور منسلڪ ڪريو"</item>
+<item>"سدائين پڇو"</item>
+</string-array>
+<string-array name="agps_setting_entries">
+<item>" کوليو"</item>
+<item>" بند ڪريو"</item>
+</string-array>
+<string-array name="auto_time_entries">
+<item>"نيٽ ورڪ جو ميسر ڪيل وقت"</item>
+<item>"GPS پاران ميسر ڪيل وقت"</item>
+<item>"بند ڪريو"</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>"نيٽ ورڪ جو ميسر ڪيل وقت"</item>
+<item>"بند ڪريو"</item>
+</string-array>
+<string-array name="color_picker">
+<item>"ٽيل"</item>
+<item>" نيرو"</item>
+<item>"انڊيگو"</item>
+<item>"واڱڻائي"</item>
+<item>" گلابي"</item>
+<item>" ڳاڙهو"</item>
+</string-array>
+</resources>

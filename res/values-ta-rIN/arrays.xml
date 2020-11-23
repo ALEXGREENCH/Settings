@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="timezone_filters">
+<item>"அமெரிக்கா"</item>
+<item>"ஐரோப்பா"</item>
+<item>"ஆப்பிரிக்கா"</item>
+<item>"ஆசியா"</item>
+<item>"ஆஸ்திரேலியா"</item>
+<item>"பெசிஃபிக்"</item>
+<item>"அனைத்தும்"</item>
+</string-array>
+<string-array name="screen_timeout_entries">
+<item>"15 வினாடிகள்"</item>
+<item>"30 வினாடிகள்"</item>
+<item>1 நிமிடம்</item>
+<item>"2 நிமிடங்கள்"</item>
+<item>"5 நிமிடங்கள்"</item>
+<item>"10 நிமிடங்கள்"</item>
+<item>"30 நிமிடங்கள்"</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>1.5 வினாடிகள்</item>
+<item>"6 வினாடிகள்"</item>
+<item>"எப்போதும் செயல்படுகிறது"</item>
+<item>எப்போதும் மூடவும்</item>
+</string-array>
+<string-array name="dream_timeout_entries">
+<item>எப்போதுமில்லை</item>
+<item>"15 வினாடிகள்"</item>
+<item>"30 வினாடிகள்"</item>
+<item>1 நிமிடம்</item>
+<item>"2 நிமிடங்கள்"</item>
+<item>"5 நிமிடங்கள்"</item>
+<item>"10 நிமிடங்கள்"</item>
+<item>"30 நிமிடங்கள்"</item>
+</string-array>
+<string-array name="lock_after_timeout_entries">
+<item>"உடனடியாக"</item>
+<item>"5 வினாடிகள்"</item>
+<item>"15 வினாடிகள்"</item>
+<item>"30 வினாடிகள்"</item>
+<item>1 நிமிடம்</item>
+<item>"2 நிமிடங்கள்"</item>
+<item>"5 நிமிடங்கள்"</item>
+<item>"10 நிமிடங்கள்"</item>
+<item>"30 நிமிடங்கள்"</item>
+</string-array>
+<string-array name="entries_font_size">
+<item>சிறிய</item>
+<item>"இயல்பான"</item>
+<item>சுற்று</item>
+<item>"பெரியது"</item>
+</string-array>
+<string-array name="tts_rate_entries">
+<item>"மிகவும் மெதுவாக"</item>
+<item>"மெதுவாக"</item>
+<item>"இயல்பான"</item>
+<item>"வேகமாக"</item>
+<item>"மிக வேகமாக"</item>
+<item>"மிகவும் வேகம்"</item>
+<item>"அதிவேகம்"</item>
+<item>"மிகவும் அதிவேகம்"</item>
+<item>"அதி வேகம்"</item>
+</string-array>
+<string-array name="tts_pitch_entries">
+<item>"மிகவும் குறைவு"</item>
+<item>குறைவு</item>
+<item>"இயல்பான"</item>
+<item>உயரமான</item>
+<item>"மிகவும் அதிகம்"</item>
+</string-array>
+<string-array name="wifi_status">
+<item></item>
+<item>"ஸ்கேன் செய்யப்படுகிறது …"</item>
+<item>இணைக்கிறது\u2026</item>
+<item>அங்கீகாரமளிக்கிறது\u2026</item>
+<item>"IP முகவரி பெறப்படுகிறது …"</item>
+<item>இணைக்கப்பட்டது</item>
+<item>நிறுத்தப்பட்டது</item>
+<item>துண்டிக்கிறது\u2026</item>
+<item>துண்டிக்கப்பட்டது</item>
+<item>வெற்றிகரமில்லை</item>
+<item>"முடக்கப்பட்டது"</item>
+<item>"மோசமான இணைப்பை தற்காலிகமாய் தவிர்க்கின்றது"</item>
+</string-array>
+<string-array name="wifi_status_with_ssid">
+<item></item>
+<item>"ஸ்கேன் செய்யப்படுகிறது …"</item>
+<item>"இணைக்கபடுகிறது <xliff:g id="network_name">%1$s</xliff:g>..."</item>
+<item>"இதனுடன் அங்கீகரிக்கப்படுகிறது <xliff:g id="network_name">%1$s</xliff:g>..."</item>
+<item>"IP முகவரி பெறப்படுகிறது <xliff:g id="network_name">%1$s</xliff:g>..."</item>
+<item>"இணைக்கப்படுகிறது <xliff:g id="network_name">%1$s</xliff:g>"</item>
+<item>நிறுத்தப்பட்டது</item>
+<item>"இணைப்பு இதிலிருந்து துண்டிக்கப்படுகிறது <xliff:g id="network_name">%1$s</xliff:g>..."</item>
+<item>துண்டிக்கப்பட்டது</item>
+<item>வெற்றிகரமில்லை</item>
+<item>"முடக்கப்பட்டது"</item>
+<item>"மோசமான இணைப்பை தற்காலிகமாய் தவிர்க்கின்றது"</item>
+</string-array>
+<string-array name="wifi_security">
+<item>@string/wifi_security_none</item>
+<item>@string/wifi_security_wep</item>
+<item>@string/wifi_security_psk_generic</item>
+<item>@string/wifi_security_eap</item>
+<item>@string/wifi_security_wapi_psk</item>
+<item>@string/wifi_security_wapi_cert</item>
+</string-array>
+<string-array name="wifi_p2p_wps_setup">
+<item>"தள்ளு பட்டன்"</item>
+<item>"பியர் சாதனத்திலிருந்து PIN"</item>
+<item>"இந்த சாதனத்திலிருந்து PIN"</item>
+</string-array>
+<string-array name="wifi_p2p_status">
+<item>இணைக்கப்பட்டது</item>
+<item>"அழைப்பட்டது"</item>
+<item>வெற்றிகரமில்லை</item>
+<item>கிடைக்கிறது</item>
+<item>"அவுட் ஆஃப் ரேன்ஞ்"</item>
+</string-array>
+<string-array name="bluetooth_visibility_timeout_entries">
+<item>"2 நிமிடங்கள்"</item>
+<item>"5 நிமிடங்கள்"</item>
+<item>1 குழு</item>
+<item>"டயம் அவுட் ஆனதில்லை"</item>
+</string-array>
+<string-array name="wifi_signal">
+<item>"மோசம்"</item>
+<item>"சுமார்"</item>
+<item>நல்லது</item>
+<item>"சிறப்பு"</item>
+</string-array>
+<string-array name="wifi_sleep_policy_entries">
+<item>எப்போதும்</item>
+<item>"பிள்க் இன் செய்யும் போது மட்டும்"</item>
+<item>"ஒரு போதும் இல்லை(டேட்டா பயன்பாட்டை அதிகரிக்கிறது)"</item>
+</string-array>
+<string-array name="wifi_sleep_policy_entries_wifi_only">
+<item>எப்போதும்</item>
+<item>"பிள்க் இன் செய்யும் போது மட்டும்"</item>
+<item>எப்போதுமில்லை</item>
+</string-array>
+<string-array name="wifi_frequency_band_entries">
+<item>தானியக்கம்</item>
+<item>"5 GHz மட்டும்"</item>
+<item>"2.4 GHz மட்டும்"</item>
+</string-array>
+<string-array name="usage_stats_display_order_types">
+<item>பயன்பாட்டு நேரம்</item>
+<item>"கணக்கை தொடக்கவும்"</item>
+<item>"ஆப் பெயர்"</item>
+</string-array>
+<string-array name="wifi_peap_phase2_entries">
+<item>ஏதுமில்லை</item>
+<item>"MSCHAPV2"</item>
+<item>"GTC"</item>
+</string-array>
+<string-array name="wifi_phase2_entries">
+<item>ஏதுமில்லை</item>
+<item>"PAP"</item>
+<item>"MSCHAP"</item>
+<item>"MSCHAPV2"</item>
+<item>"GTC"</item>
+</string-array>
+<string-array name="wifi_ip_settings">
+<item>"DHCP"</item>
+<item>"நிலையான"</item>
+</string-array>
+<string-array name="wifi_proxy_settings">
+<item>ஏதுமில்லை</item>
+<item>"கைமுறை"</item>
+</string-array>
+<string-array name="emergency_tone_entries">
+<item>ஆஃப்</item>
+<item>"எச்சரிக்கை"</item>
+<item>"அதிர்வு"</item>
+</string-array>
+<string-array name="apn_auth_entries">
+<item>ஏதுமில்லை</item>
+<item>"PAP"</item>
+<item>"CHAP"</item>
+<item>PAP அல்லது CHAP</item>
+</string-array>
+<string-array name="bearer_entries">
+<item>"LTE"</item>
+<item>"eHRPD"</item>
+<item>"குறிப்பிடப்படாதது"</item>
+</string-array>
+<string-array name="mvno_type_entries">
+<item>ஏதுமில்லை</item>
+<item>"SPN"</item>
+<item>"IMSI"</item>
+<item>"GID"</item>
+</string-array>
+<string-array name="app_install_location_entries">
+<item>"சாதனத்தின் அகச் சேமிப்பு"</item>
+<item>"SD கார்டினை அகற்றவும்"</item>
+<item>"முறை முடிவு செய்யட்டும்"</item>
+</string-array>
+<string-array name="app_ums_install_location_entries">
+<item>"சாதனத்தின் அகச் சேமிப்பு"</item>
+<item>"மொபைலின் அகச் சேமிப்பு"</item>
+<item>"முறை முடிவு செய்யட்டும்"</item>
+</string-array>
+<string-array name="dualsim_summaries">
+<item>சிம்1</item>
+<item>சிம்2</item>
+<item>எப்போதும் முனையசெய்யவும்</item>
+</string-array>
+<string-array name="dualsim_primary_summaries">
+<item>சிம்1</item>
+<item>சிம்2</item>
+</string-array>
+<string-array name="dualsim_mms_summaries">
+<item>சிம்1</item>
+<item>சிம்2</item>
+<item>எப்போதும் முனையசெய்யவும்</item>
+<item>தானியக்கம்</item>
+</string-array>
+<string-array name="dualsim_entries">
+<item>"SIM 1"</item>
+<item>"SIM 2"</item>
+</string-array>
+<string-array name="dualsim_setting_entries">
+<item>"SIM 1"</item>
+<item>"SIM 2"</item>
+<item>எப்போதும் முனையசெய்யவும்</item>
+</string-array>
+<string-array name="silent_mode_entries">
+<item>ஆஃப்</item>
+<item>"அதிர்வு"</item>
+<item>நிசப்தமாக்கவும்</item>
+</string-array>
+<string-array name="app_ops_categories">
+<item>"இருப்பிடம்"</item>
+<item>தனிநபர் சார்ந்த</item>
+<item>"தகவல்"</item>
+<item>ஊடகம்</item>
+<item>சாதனம்</item>
+</string-array>
+<string-array name="app_ops_summaries">
+<item>"கோர்ஸ் இருப்பிடம்"</item>
+<item>"ஃபைன் இருப்பிடம்"</item>
+<item>"GPS"</item>
+<item>"அதிர்வு"</item>
+<item>"தொடர்புகளை வாசி"</item>
+<item>"தொடர்புகளைத் திருத்துக"</item>
+<item>அழைப்பு பதிவை வாசி</item>
+<item>"அழைப்பு பதிவைத் திருத்துக"</item>
+<item>"நாட்காட்டியை வாசி"</item>
+<item>"நாட்காட்டியைத் திருத்து"</item>
+<item>"wi-fi ஸ்கேன்"</item>
+<item>"அறிவிக்கை"</item>
+<item>"செல் ஸ்கேன்"</item>
+<item>"ஃபோனை அழைக்கவும்"</item>
+<item>"SMS ஐ வாசி"</item>
+<item>"SMS ஐ எழுது"</item>
+<item>"SMS ஐப் பெறுக"</item>
+<item>"அவசரநிலை SMS ஐப் பெறுக"</item>
+<item>"MMS ஐப் பெறுக"</item>
+<item>"WAP புஷ்-ஐப் பெறுக"</item>
+<item>"SMS அனுப்பு"</item>
+<item>"ICC SMS ஐ வாசி"</item>
+<item>"ICC SMS ஐ எழுது"</item>
+<item>"அமைவுகளைத் திருத்துக"</item>
+<item>"மேலே வரையவும்"</item>
+<item>"அணுகல் அறிவிப்புகள்"</item>
+<item>கேமிரா</item>
+<item>"ஆடியஒ பதிவு செய்க"</item>
+<item>"ஆடியோவை இயக்குக"</item>
+<item>"கிளிப்போர்டை வாசி"</item>
+<item>"கிளிப்போர்டைத் திருத்து"</item>
+<item>"மீடியா பொத்தான்கள்"</item>
+<item>"ஆடியோ ஃபோகஸ்"</item>
+<item>"மாஸ்டர் ஒலியளவு"</item>
+<item>"குரல் ஒலியளவு"</item>
+<item>"ரிங் ஒலியளவு"</item>
+<item>"ஊடக கொள்ளளவு"</item>
+<item>"அலாரம் ஒலியளவு"</item>
+<item>"அறிவிக்கை கொள்ளளவு"</item>
+<item>"புளூடூத் கொள்ளளவு"</item>
+<item>விழித்திருக்க வைக்கவும்</item>
+<item>"மானிட்டர் இருப்பிடம்"</item>
+<item>"மானிட்டர் உயர் பவர் இருப்பிடம்"</item>
+</string-array>
+<string-array name="app_ops_labels">
+<item>"இருப்பிடம்"</item>
+<item>"இருப்பிடம்"</item>
+<item>"இருப்பிடம்"</item>
+<item>"அதிர்வு"</item>
+<item>"தொடர்புகளை வாசி"</item>
+<item>"தொடர்புகளைத் திருத்துக"</item>
+<item>அழைப்பு பதிவை வாசி</item>
+<item>"அழைப்பு பதிவைத் திருத்துக"</item>
+<item>"நாட்காட்டியை வாசி"</item>
+<item>"நாட்காட்டியைத் திருத்து"</item>
+<item>"இருப்பிடம்"</item>
+<item>"அறிவிப்பை இடுக"</item>
+<item>"இருப்பிடம்"</item>
+<item>"ஃபோனை அழைக்கவும்"</item>
+<item>"SMS/MMS ஐ வாசி"</item>
+<item>"SMS/MMS ஐ எழுது"</item>
+<item>"SMS/MMS ஐ பெறுக"</item>
+<item>"SMS/MMS ஐ பெறுக"</item>
+<item>"SMS/MMS ஐ பெறுக"</item>
+<item>"SMS/MMS ஐ பெறுக"</item>
+<item>"SMS/MMS ஐ அனுப்புக"</item>
+<item>"SMS/MMS ஐ வாசி"</item>
+<item>"SMS/MMS ஐ எழுது"</item>
+<item>"அமைவுகளைத் திருத்துக"</item>
+<item>"மேலே வரையவும்"</item>
+<item>"அணுகல் அறிவிப்புகள்"</item>
+<item>கேமிரா</item>
+<item>"ஆடியஒ பதிவு செய்க"</item>
+<item>"ஆடியோவை இயக்குக"</item>
+<item>"கிளிப்போர்டை வாசி"</item>
+<item>"கிளிப்போர்டைத் திருத்து"</item>
+<item>"மீடியா பொத்தான்கள்"</item>
+<item>"ஆடியோ ஃபோகஸ்"</item>
+<item>"மாஸ்டர் ஒலியளவு"</item>
+<item>"குரல் ஒலியளவு"</item>
+<item>"ரிங் ஒலியளவு"</item>
+<item>"ஊடக கொள்ளளவு"</item>
+<item>"அலாரம் ஒலியளவு"</item>
+<item>"அறிவிக்கை கொள்ளளவு"</item>
+<item>"புளூடூத் கொள்ளளவு"</item>
+<item>விழித்திருக்க வைக்கவும்</item>
+<item>"இருப்பிடம்"</item>
+<item>"இருப்பிடம்"</item>
+</string-array>
+<string-array name="long_press_timeout_selector_titles">
+<item>"குறுகிய"</item>
+<item>நடுநிலை</item>
+<item>"நீண்ட"</item>
+</string-array>
+<string-array name="captioning_typeface_selector_titles">
+<item>இயல்பான</item>
+<item>"Sans-serif"</item>
+<item>"Sans-serif condensed"</item>
+<item>"Serif"</item>
+<item>"மோனோஸ்பேஸ்"</item>
+</string-array>
+<string-array name="captioning_font_size_selector_titles">
+<item>"மிகவும் சிறியது"</item>
+<item>சிறிய</item>
+<item>"இயல்பான"</item>
+<item>சுற்று</item>
+<item>"மிகப் பெரியது"</item>
+</string-array>
+<string-array name="captioning_edge_type_selector_titles">
+<item>ஏதுமில்லை</item>
+<item>"அவுட்லைன்"</item>
+<item>"நிழல் விழ வை"</item>
+</string-array>
+<string-array name="captioning_preset_selector_titles">
+<item>"கருப்பில் வெள்ளை"</item>
+<item>"வெள்ளையில் கருப்பு"</item>
+<item>"கருப்பில் மஞ்சள்"</item>
+<item>"நீலத்தில் மஞ்சள்"</item>
+<item>"தனிப்பயன்"</item>
+</string-array>
+<string-array name="select_runtime_titles">
+<item>"Dalvik"</item>
+<item>"ART"</item>
+<item>"ART (பிழைநீக்கு)"</item>
+</string-array>
+<string-array name="select_runtime_summaries">
+<item>"தால்விக்கை பயன்படுத்துக"</item>
+<item>"ART ஐப் பயன்படுத்துக "</item>
+<item>"ART டீபக் பில்டைப் பயன்படுத்துக"</item>
+</string-array>
+<string-array name="hdcp_checking_titles">
+<item>"ஒருபோதும் சோதிக்க வேண்டாம்"</item>
+<item>"DRM உள்ளடகத்தை மட்டும் சோதிக்கவும்"</item>
+<item>"எப்போதும் சோதிக்கவும்"</item>
+</string-array>
+<string-array name="hdcp_checking_summaries">
+<item>"HDCP சோதனையை ஒருபோதும் பயன்படுத்த வேண்டாம்"</item>
+<item>"HDCP சோதனையை DRM உள்ளடகத்தை சோதிக்க மட்டும் பயன்படுத்தவும்"</item>
+<item>"HDCP சோதனையை எப்போதும் பயன்படுத்தவும்"</item>
+</string-array>
+<string-array name="window_animation_scale_entries">
+<item>அனிமேஷன் ஆஃப்</item>
+<item>அனிமேஷன் அளவுகோல் .5x</item>
+<item>அனிமேஷன் அளவுகோல் 1x</item>
+<item>அனிமேஷன் அளவுகோல் 1.5x</item>
+<item>அனிமேஷன் அளவுகோல் 2x</item>
+<item>அனிமேஷன் அளவுகோல் 5x</item>
+<item>அனிமேஷன் அளவுகோல் 10x</item>
+</string-array>
+<string-array name="transition_animation_scale_entries">
+<item>அனிமேஷன் ஆஃப்</item>
+<item>அனிமேஷன் அளவுகோல் .5x</item>
+<item>அனிமேஷன் அளவுகோல் 1x</item>
+<item>அனிமேஷன் அளவுகோல் 1.5x</item>
+<item>அனிமேஷன் அளவுகோல் 2x</item>
+<item>அனிமேஷன் அளவுகோல் 5x</item>
+<item>அனிமேஷன் அளவுகோல் 10x</item>
+</string-array>
+<string-array name="animator_duration_scale_entries">
+<item>அனிமேஷன் ஆஃப்</item>
+<item>அனிமேஷன் அளவுகோல் .5x</item>
+<item>அனிமேஷன் அளவுகோல் 1x</item>
+<item>அனிமேஷன் அளவுகோல் 1.5x</item>
+<item>அனிமேஷன் அளவுகோல் 2x</item>
+<item>அனிமேஷன் அளவுகோல் 5x</item>
+<item>அனிமேஷன் அளவுகோல் 10x</item>
+</string-array>
+<string-array name="overlay_display_devices_entries">
+<item>ஏதுமில்லை</item>
+<item>"720x480 mdpi"</item>
+<item>"720x480 mdpi (பாதுகாப்பானது)"</item>
+<item>"1280x720 tvdpi"</item>
+<item>"1280x720 tvdpi (பாதுகாப்பானது)"</item>
+<item>"1920x1080 xhdpi"</item>
+<item>"1920x1080 xhdpi (பாதுகாப்பானது)"</item>
+<item>"1280x720 tvdpi மற்றும் 1920x1080 xhdpi"</item>
+</string-array>
+<string-array name="enable_opengl_traces_entries">
+<item>ஏதுமில்லை</item>
+<item>"Logcat"</item>
+<item>"சிஸ்ட்ரேஸ் (கிராஃபிக்ஸ்)"</item>
+<item>"glGetError இல் அழைப்பை அடுக்கு"</item>
+</string-array>
+<string-array name="show_non_rect_clip_entries">
+<item>ஆஃப்</item>
+<item>"நீலநிறத்தில் செவ்வகமற்ற கிளிப் பகுதியை வரையவும்"</item>
+<item>"சோதிக்கப்பட்ட வரைதல் கட்டளைகளை பச்சைநிறத்தில் ஹைலைட் செய்க"</item>
+</string-array>
+<string-array name="track_frame_time_entries">
+<item>ஆஃப்</item>
+<item>"திரையில் பட்டிகளாக"</item>
+<item>"திரையில் கோடுகளாக"</item>
+<item>"adb shell dumpsys gfxinfo இல்"</item>
+</string-array>
+<string-array name="debug_hw_overdraw_entries">
+<item>ஆஃப்</item>
+<item>"மிகைபயன்பாட்டு பகுதிகளைக் காட்டுக"</item>
+<item>"இயற்கையிழந்த வண்ணக்காட்சிகளுக்கு பகுதியைக் காட்டுக"</item>
+<item>"மிகைபயன்பாட்டு கவுண்டரைக் காட்டுக"</item>
+</string-array>
+<string-array name="app_process_limit_entries">
+<item>"நிலையான வரம்பு"</item>
+<item>"பின்புல செயல்முறைகள் இல்லை"</item>
+<item>"அதிக அளவாக 1 செயல்முறை"</item>
+<item>"அதிக அளவாக 2 செயல்முறைகள்"</item>
+<item>"அதிக அளவாக 3 செயல்முறைகள்"</item>
+<item>"அதிக அளவாக 4 செயல்முறைகள்"</item>
+</string-array>
+<string-array name="vpn_types_long">
+<item>"PPTP VPN"</item>
+<item>"முன்னதாக பகிரப்பட்ட கீயுடன் L2TP/IPSec VPN"</item>
+<item>"சான்றிதழ்களுடன் L2TP/IPSec VPN"</item>
+<item>""முன்னதாக பகிரப்பட்ட கீ மற்றும் க்ஸௌத் அங்கீகாரத்துடன் IPSec VPN" "</item>
+<item>"சான்றிதழ்கள் மற்றும் க்ஸௌத் அங்கீகாரத்துடன் IPSec VPN"</item>
+<item>"சான்றிதழ்கள் மற்றும் ஹைபிர்ட் அங்கீகாரத்துடன் IPSec VPN"</item>
+</string-array>
+<string-array name="vpn_states">
+<item>துண்டிக்கப்பட்டது</item>
+<item>"முயற்சிக்கப்படுகிறது…"</item>
+<item>இணைக்கிறது\u2026</item>
+<item>இணைக்கப்பட்டது</item>
+<item>"நேரம் முடிந்தது"</item>
+<item>வெற்றிகரமில்லை</item>
+</string-array>
+<string-array name="security_settings_premium_sms_values">
+<item>"கேட்கவும்"</item>
+<item>"ஒருபோதும் அனுமதிக்காதே"</item>
+<item>"எப்போதும் அனுமதி"</item>
+</string-array>
+<string-array name="ram_states">
+<item>"இயல்பான"</item>
+<item>"மிதமானது"</item>
+<item>குறைவு</item>
+<item>"முக்கியமானது"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>"இது இப்போதிலிருந்து குறைந்தபட்சம் 1 நிமிடத்திற்கு அமைக்கப்பட்டுள்ளது."</item>
+<item>"இது இப்போதிலிருந்து <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> க்கு அமைக்கப்பட்டுள்ளது." </item>
+<item>"இது இப்போதிலிருந்து <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> க்கு அமைக்கப்பட்டுள்ளது." </item>
+<item>"இது இப்போதிலிருந்து <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> மற்றும் <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>  க்கு அமைக்கப்பட்டுள்ளது." </item>
+<item>"இது இப்போதிலிருந்து <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> க்கு அமைக்கப்பட்டுள்ளது." </item>
+<item>"இது இப்போதிலிருந்து <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> மற்றும் <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> க்கு அமைக்கப்பட்டுள்ளது." </item>
+<item>"இது இப்போதிலிருந்து <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> மற்றும் <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> க்கு அமைக்கப்பட்டுள்ளது." </item>
+<item>"இது இப்போதிலிருந்து <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, மற்றும் <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> க்கு அமைக்கப்பட்டுள்ளது." </item>
+</string-array>
+<string-array name="mobile_to_wlan">
+<item>தன்னியக்க இணைப்பு</item>
+<item>கையால் செய்யும் இணைப்பு</item>
+<item>எப்போதும் கேட்கவும்</item>
+</string-array>
+<string-array name="agps_setting_entries">
+<item>திற</item>
+<item>மூடு</item>
+</string-array>
+<string-array name="auto_time_entries">
+<item>வலைப்பின்னல் வழங்கிய நேரம் பயன்படுத்தவும்</item>
+<item>"GPS வழங்கிய நேரத்தைப் பயன்படுத்தவும்"</item>
+<item>ஆஃப்</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>வலைப்பின்னல் வழங்கிய நேரம் பயன்படுத்தவும்</item>
+<item>ஆஃப்</item>
+</string-array>
+<string-array name="color_picker">
+<item>"நீலம்"</item>
+<item>"நீலம்"</item>
+<item>"இண்டிகோ"</item>
+<item>"ஊதா"</item>
+<item>"பிங்க்"</item>
+<item>"சிகப்பு"</item>
+</string-array>
+</resources>

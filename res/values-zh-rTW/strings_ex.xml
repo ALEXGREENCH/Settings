@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: for Bug257276,add new function that user can do multi choice for apn type, and also can edit @{ -->
+    <string name="apn_type_setting">"APN 類型設定"</string>
+    <string name="user_could_input_apn_type">"可自訂APN類型"</string>
+    <string name="could_not_input_the_same_apn_type">"不能輸入與預設APN相同的類型，請重新輸入!"</string>
+    <string name="apn_type_message">"您輸入的 APN 中不包含 default 類型， APN清單中該APN將不能被選擇用於上網！"</string>
+    <string name="error_apn_type_message">"APN 類型不能爲空"</string>
+    <string name="error_apn_type">"您輸入的 APN 類型不支援，請重新輸入 !"</string>
+    <string name="same_apn_type">"您輸入了相同的 APN 類型，請重新輸入 !"</string>
+    <string name="empty_apn_type">"APN 類型未輸入或者未選擇，請重新輸入或選擇!"</string>
+    <!-- @} -->
+    <!-- SPRD: add for SimManagerActivity -->
+    <string name="dual_settings_title_uui">SIM 卡管理</string>
+    <string name="dual_settings_title">雙卡設定</string>
+    <string name="dual_voice_setting_title">語音設定</string>
+    <string name="dual_video_setting_title">視頻設定</string>
+    <string name="dual_mms_setting_title">短多媒體訊息設定</string>
+    <string name="data_title">數據連接設定</string>
+    <string name="sim_reply_setting">本卡回覆</string>
+    <string name="reply_message_setting">回覆訊息</string>
+    <string name="sel_sub_title">是否啟用SIM卡</string>
+    <string name="sel_sub_summary">啟用或者關閉SIM卡</string>
+    <string name="set_data_subscription_timeout">數據連接設定超時！</string>
+    <string name="set_dds_failed">錯誤！請清除所有的數據連接後再試！</string>
+    <string name="set_dds_success">設定成功</string>
+    <string name="set_dds_success_gsm">設定成功！ 數據連接切換至副卡槽， LTE 服務不可用。</string>
+    <!-- SPRD: modify for bug270356 -->
+    <string name="set_data_subscription_progress">正在設定，請等候...</string>
+    <string name="set_data_subscription_error_ok">確定</string>
+    <string name="set_data_subscription_error_title">錯誤提示</string>
+    <string name="set_data_subscription_error">沒有此SIM卡，請核實後再試！</string>
+    <string name="sim_retries_left">剩餘次數</string>
+    <string name="sim_name_setting_title">編輯 SIM 卡名稱</string>
+    <string name="sim_number_setting_title">編輯 SIM 卡號碼</string>
+    <string name="sim_number_setting_null">未設定</string>
+    <string name="sim_color_setting_title">設定背景顏色</string>
+    <string name="no_need_set_data_subscription">不需要再次設定預設數據連接。</string>
+    <string name="dual_settings_always_prompt">始終提示</string>
+    <string name="mms_settings_auto">自動</string>
+    <string name="voice_setting_title">"語音撥號設定"</string>
+    <string name="video_setting_title">"視頻撥號設定"</string>
+    <string name="mms_setting_title">"短多媒體訊息設定"</string>
+    <string name="closeData">關閉</string>
+    <string name="menu_kill_apps_services">"關閉全部應用程式"</string>
+    <!-- @} -->
+    <!-- SPRD: add for DataUsageRestrictBackground @{ -->
+   <string name="back_groud_data_usage_restrict_protocal">"背景數據協定"</string>
+   <string name="accept_back_groud_data_usage_restrict_protocal">"是否接受背景數據協定？"</string>
+   <!-- @} -->
+   <!-- SPRD: add for ApnSettings @{ -->
+   <string name="apn_edit_quit">"退出"</string>
+       <string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> 編輯存取點"</string>
+   <!-- @} -->
+   <string name="input_pin_limit">請輸入4-8位數字</string>
+   <string name="agps_supl_manual_settings">"SUPL伺服器手動設定"</string>
+  <string name="agps_supl_manual_settings_summary">"支援手動設定 SUPL 伺服器位址和埠"</string>
+  <string name="str_clear">刪除</string>
+  <string name="str_save">存儲</string>
+  <string name="gps_location_suplserver">伺服器設定</string>
+  <string name="agps_setting">Agps 開關</string>
+  <string name="open">開啟</string>
+  <string name="close">關閉</string>
+  <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> 行動網路設定"</string>
+  <string name="pin_enabled_success">"SIM卡PIN碼功能，已開啟"</string>
+  <string name="pin_disabled_success">"SIM卡PIN碼功能，已關閉"</string>
+  <!-- SPRD：ADD for Auto GPS time for bug320995 @{ -->
+  <string name="gps_time_sync_attention_gps_on">最多需要 1 分鐘才能取得 GPS 定位。此外，GPS 可能會因為環境訊號微弱而無法提供時間。\n\n是否確定使用 GPS 提供的時間?</string>  
+  <string name="gps_time_sync_attention_gps_off">若要使用 GPS 提供的時間，必須先啟用 GPS 。此外，GPS 可能會因為環境訊號微弱而無法提供時間。\n\n是否立即啟用 GPS 並等待 GPS 提供時間?</string>
+  <!-- @} -->
+  <string name="apn_settings_ex">SIM<xliff:g id="SIM">%s</xliff:g> 存取點名稱</string>
+  <string name="sim_lock_settings_ex">SIM<xliff:g id="SIM">%s</xliff:g> 鎖定設定</string>
+  <string name="device_status_ex">SIM<xliff:g id="SIM">%s</xliff:g> 狀態</string>
+
+    <string name="lte_enabled">啓用4G服務</string>
+    <string name="lte_service">4G服務/主卡選擇</string>
+    <string name="lte_service_network_mode_settings_dialog_title">網路模式選擇</string>
+    <string name="whether_close_lte_service">確認要關閉4G服務嗎？</string>
+    <string name="whether_enable_lte_service">確認要啓用4G服務嗎？</string>
+    <string name="whether_switch_lte_service_sim">確認要將4G服務切換到此SIM卡？</string>
+    <string name="lte_service_attention">注意</string>
+    <string name="lte_service_switch">4G服務切換中，請等待...</string>
+    <string-array name="lte_preferred_networks_choices">
+        <item>4G/3G/2G多模式</item>
+        <item>僅3G/2G模式</item>
+    </string-array>
+    <!-- SPRD: add for cmcc wifi on/off alarm feature @{ -->
+    <string name="wifi_alarm_category_title">Wi-Fi定時設定</string>
+    <string name="wifi_connect_alarm_title">定時自動連接Wi-Fi</string>
+    <string name="wifi_disconnect_alarm_title">定時斷開Wi-Fi開關</string>
+    <string name="wifi_alarm_time_title">設定時間</string>
+    <string name="dual_primary_setting_title">主卡設定</string>
+    <string name="not_stand_by">"未啟用"</string>
+    <string name="main_card_slot">"主卡 "</string>
+    <string name="gsm_card_slot">"副卡 "</string>
+    <string name="toggle_data_change_message">網路數據連接切換至卡<xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, 將可能產生數據流量和相關費用, 請知悉。</string>
+    <string name="cellular_data_title" msgid="2525947635539415202">"行動數據"</string>
+    <string name="sim_selection_required_pref" msgid="3446721423206414652">"請選取偏好設定"</string>
+    <string name="stand_by_set_changed_prompt">"此操作將改變SIM卡的激活狀態，是否繼續？"</string>
+    <string name="okay" msgid="1997666393121016642">"確定"</string>
+    <string name="primary_card_switching">設定中，請等待...</string>
+    <string name="select_primary_card">"主卡選擇"</string>
+    <string name="sim_calls_ask_first_prefs_title" msgid="7941299533514115976">"每次都詢問"</string>
+    <string name="sim_preferred_title" msgid="5567909634636045268">"更新慣用的 SIM 卡？"</string>
+    <string name="sim_preferred_message" msgid="301251431163650167">"「<xliff:g id="NEW_SIM">%1$s</xliff:g>」是裝置中唯一的 SIM 卡。您要使用這張 SIM 卡連線到行動網路、通話及傳送簡訊嗎？"</string>
+    <string name="select_sim_for_data" msgid="2366081042162853044">"選擇數據連線 SIM 卡"</string>
+    <string name="select_sim_for_calls" msgid="3503094771801109334">"選擇通話 SIM 卡"</string>
+    <string name="sim_card_select_title" msgid="6668492557519243456">"選取 SIM 卡"</string>
+    <string name="select_primary_slot_description_4g">(主卡支援4G/2G服務，副卡僅支援2G服務。)</string>
+    <string name="select_primary_slot_description_4g_3g_2g">(主卡支援4G/3G/2G服務，副卡僅支援2G服務。)</string>
+    <string name="whether_switch_primary_card">確認要將主卡切換到此卡？\n(行動數據也將切換到此卡。)</string>
+      <!-- SPRD: Add for SignalCluster colorful. @{ -->
+    <string-array name="light_color_picker">
+          <item>綠色</item>
+          <item>藍色</item>
+          <item>靛藍色</item>
+          <item>紫色</item>
+          <item>粉紅色</item>
+          <item>紅色</item>
+          <item>黃色</item>
+    </string-array>
+     <!-- @} -->
+    <string name="select_primary_slot_description">(主卡支援WCDMA/GSM模式，副卡僅支援GSM。)</string>
+    <string name="sim_pref_divider" msgid="6778907671867621874">"適用於以下用途的偏好 SIM 卡"</string>
+    <string name="calls_title" msgid="3544471959217176768">"通話"</string>
+    <string name="sms_messages_title" msgid="1778636286080572535">"訊息"</string>
+    <string name="feature_bar_softkey_edit">編輯</string>
+    <string name="feature_bar_softkey_off">關閉</string>
+    <string name="feature_bar_softkey_on">開啟</string>
+    <string name="feature_bar_softkey_options">選擇</string>
+    <!-- SPRD: add for bug 631492 -->
+    <string name="dialog_restore_default_apn">您新增的所有APN都將被移除，其餘APN將重置爲預設設定。確認要繼續嗎？</string>
+    <!-- SPRD: feature 810275 @{ -->
+    <string name="use_pref">啓用</string>
+    <string name="edit_pref">編輯</string>
+    <!-- @} -->
+</resources>

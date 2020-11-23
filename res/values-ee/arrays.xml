@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="timezone_filters">
+<item>"অমেরিকা"</item>
+<item>"য়ুরোপ"</item>
+<item>"অফ্রিকা"</item>
+<item>"এসিয়া"</item>
+<item>"অস্ট্রেলিয়া"</item>
+<item>"পেসিফিক"</item>
+<item>"লোইনমক"</item>
+</string-array>
+<string-array name="screen_timeout_entries">
+<item>"সেকেন্দ 15"</item>
+<item>"সেকেন্দ 30"</item>
+<item>"মিনট 1"</item>
+<item>"মিনট 2"</item>
+<item>"মিনট 5"</item>
+<item>"মিনট 10"</item>
+<item>"মিনট 30"</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>"সেকেন্দ 1.5"</item>
+<item>"সেকেন্দ 6"</item>
+<item>"মতম চুপ্পদা ওন"</item>
+<item>"মতম চুপ্পদা খুমজিল্লু"</item>
+</string-array>
+<string-array name="dream_timeout_entries">
+<item>"কৈদৌঙৈদা ওইদবা"</item>
+<item>"সেকেন্দ 15"</item>
+<item>"সেকেন্দ 30"</item>
+<item>"মিনট 1"</item>
+<item>"মিনট 2"</item>
+<item>"মিনট 5"</item>
+<item>"মিনট 10"</item>
+<item>"মিনট 30"</item>
+</string-array>
+<string-array name="lock_after_timeout_entries">
+<item>"খুদক্তা"</item>
+<item>"সেকেন্দ 5"</item>
+<item>"সেকেন্দ 15"</item>
+<item>"সেকেন্দ 30"</item>
+<item>"মিনট 1"</item>
+<item>"মিনট 2"</item>
+<item>"মিনট 5"</item>
+<item>"মিনট 10"</item>
+<item>"মিনট 30"</item>
+</string-array>
+<string-array name="entries_font_size">
+<item>"অপিকপা"</item>
+<item>"সধারন"</item>
+<item>"অচৌবা"</item>
+<item>"য়াম্না চাওবা"</item>
+</string-array>
+<string-array name="tts_rate_entries">
+<item>"য়াম্না তপ্না"</item>
+<item>"তপ্না"</item>
+<item>"সধারন"</item>
+<item>"য়াংনা"</item>
+<item>"হেন্না য়াংনা"</item>
+<item>"য়াম্না য়াংনা"</item>
+<item>"থুনা"</item>
+<item>"য়াম্না থুনা"</item>
+<item>"খ্বাইদগী য়াংনা"</item>
+</string-array>
+<string-array name="tts_pitch_entries">
+<item>"য়াম্না নেম্না"</item>
+<item>"নেম্বা"</item>
+<item>"সধারন"</item>
+<item>"ৱাংবা"</item>
+<item>"য়াম্না ৱাংনা"</item>
+</string-array>
+<string-array name="wifi_status">
+<item></item>
+<item>"স্কেন তৌরি..."</item>
+<item>"শম্নরি..."</item>
+<item>"ওথেন্টিকেত তৌরি..."</item>
+<item>"IP এদ্রেশ লৌরি..."</item>
+<item>"শম্নরে"</item>
+<item>"মতম খরগী ককথৎলে"</item>
+<item>"শম্নবা ককথৎলি..."</item>
+<item>"শম্নবা ককথৎলে"</item>
+<item>"মায় পাক্তে"</item>
+<item>"থিংলে"</item>
+<item>"কনেক্সন ফত্তবা মতম খরা লৌদ্রি"</item>
+</string-array>
+<string-array name="wifi_status_with_ssid">
+<item></item>
+<item>"স্কেন তৌরি..."</item>
+<item>"শম্নরি দা <xliff:g id="network_name">%1$s</xliff:g>..."</item>
+<item>"ওথেন্টিকেত তৌরি গা লোয়ননা <xliff:g id="network_name">%1$s</xliff:g>..."</item>
+<item>"IP এদ্রেশ লৌরি দগী <xliff:g id="network_name">%1$s</xliff:g>..."</item>
+<item>"শম্নরে দা <xliff:g id="network_name">%1$s</xliff:g>"</item>
+<item>"মতম খরগী ককথৎলে"</item>
+<item>"শম্নবা তোক্লি দগী <xliff:g id="network_name">%1$s</xliff:g>..."</item>
+<item>"শম্নবা ককথৎলে"</item>
+<item>"মায় পাক্তে"</item>
+<item>"থিংলে"</item>
+<item>"কনেক্সন ফত্তবা মতম খরা লৌদ্রি"</item>
+</string-array>
+<string-array name="wifi_security">
+<item>"@string/wifi_security_none"</item>
+<item>"@string/wifi_security_wep"</item>
+<item>"@string/wifi_security_psk_generic"</item>
+<item>"@string/wifi_security_eap"</item>
+<item>"@string/wifi_security_wapi_psk"</item>
+<item>"@string/wifi_security_wapi_cert"</item>
+</string-array>
+<string-array name="wifi_p2p_wps_setup">
+<item>"বট্টন ইল্লু"</item>
+<item>"পিয়র দিভাইসতগী PIN"</item>
+<item>"দিভাইস অসিদগী PIN"</item>
+</string-array>
+<string-array name="wifi_p2p_status">
+<item>"শম্নরে"</item>
+<item>"বার্তন তৌই"</item>
+<item>"মায় পাক্তে"</item>
+<item>"ফংই"</item>
+<item>"আওট-ওফ-রেনজ"</item>
+</string-array>
+<string-array name="bluetooth_visibility_timeout_entries">
+<item>"মিনট 2"</item>
+<item>"মিনট 5"</item>
+<item>"পুং 1"</item>
+<item>"কৈদৌঙৈদা টাইম আওট ওইদে"</item>
+</string-array>
+<string-array name="wifi_signal">
+<item>"ফত্তবা"</item>
+<item>"অদুম য়াবা"</item>
+<item>"অফবা"</item>
+<item>"য়াম্না ফবা"</item>
+</string-array>
+<string-array name="wifi_sleep_policy_entries">
+<item>"মতম চুপ্পদা"</item>
+<item>"প্লগ ইন তৌরবা মতমদা খক্তং"</item>
+<item>"কৈদৌঙৈদা তৌদবা (দাতা শীজিন্নবা হেনগৎলি)"</item>
+</string-array>
+<string-array name="wifi_sleep_policy_entries_wifi_only">
+<item>"মতম চুপ্পদা"</item>
+<item>"প্লগ ইন তৌরবা মতমদা খক্তং"</item>
+<item>"কৈদৌঙৈদা ওইদবা"</item>
+</string-array>
+<string-array name="wifi_frequency_band_entries">
+<item>"ওটো"</item>
+<item>"5 GHz খক্তং"</item>
+<item>"2.4 GHz খক্তং"</item>
+</string-array>
+<string-array name="usage_stats_display_order_types">
+<item>"শীজিন্নবা মতম"</item>
+<item>"লোনচ তৌবা মশীং থীবা"</item>
+<item>"এপ মমিং"</item>
+</string-array>
+<string-array name="wifi_peap_phase2_entries">
+<item>"অমত্তা লৈতে"</item>
+<item>"MSCHAPV2"</item>
+<item>"GTC"</item>
+</string-array>
+<string-array name="wifi_phase2_entries">
+<item>"অমত্তা লৈতে"</item>
+<item>"PAP"</item>
+<item>"MSCHAP"</item>
+<item>"MSCHAPV2"</item>
+<item>"GTC"</item>
+</string-array>
+<string-array name="wifi_ip_settings">
+<item>"DHCP"</item>
+<item>"লেংদবা"</item>
+</string-array>
+<string-array name="wifi_proxy_settings">
+<item>"অমত্তা লৈতে"</item>
+<item>"খুৎনা তৌবা"</item>
+</string-array>
+<string-array name="emergency_tone_entries">
+<item>"ওফ"</item>
+<item>"এলর্ট"</item>
+<item>"নিকপা-হাইবা তৌই"</item>
+</string-array>
+<string-array name="apn_auth_entries">
+<item>"অমত্তা লৈতে"</item>
+<item>"PAP"</item>
+<item>"CHAP"</item>
+<item>"PAP নত্ত্রগা CHAP"</item>
+</string-array>
+<string-array name="bearer_entries">
+<item>"LTE"</item>
+<item>"eHRPD"</item>
+<item>"তাংদাংবা তাক্তবা"</item>
+</string-array>
+<string-array name="app_install_location_entries">
+<item>"মনুংগী দিভাইস স্টোরেজ"</item>
+<item>"লৌথোকপা য়াবা SD কার্দ"</item>
+<item>"সিস্টেম অদুনা লেপসনু"</item>
+</string-array>
+<string-array name="app_ums_install_location_entries">
+<item>"মনুংগী দিভাইস স্টোরেজ"</item>
+<item>"মোবাইল মনুংগী স্টোরেজ"</item>
+<item>"সিস্টেম অদুনা লেপসনু"</item>
+</string-array>
+<string-array name="dualsim_summaries">
+<item>" SIM 1 "</item>
+<item>" SIM 2 "</item>
+<item>"মতম চুপ্পদা প্রোমপ্ট তৌ"</item>
+</string-array>
+<string-array name="dualsim_primary_summaries">
+<item>" SIM 1 "</item>
+<item>" SIM 2 "</item>
+</string-array>
+<string-array name="dualsim_mms_summaries">
+<item>" SIM 1 "</item>
+<item>" SIM 2 "</item>
+<item>"মতম চুপ্পদা প্রোমপ্ট তৌ"</item>
+<item>"ওটো"</item>
+</string-array>
+<string-array name="dualsim_entries">
+<item>"SIM 1"</item>
+<item>"SIM 2"</item>
+</string-array>
+<string-array name="dualsim_setting_entries">
+<item>"SIM 1"</item>
+<item>"SIM 2"</item>
+<item>"মতম চুপ্পদা প্রোমপ্ট তৌ"</item>
+</string-array>
+<string-array name="silent_mode_entries">
+<item>"ওফ"</item>
+<item>"নিকপা-হাইবা তৌই"</item>
+<item>"মখোল থোকহন্দবা"</item>
+</string-array>
+<string-array name="app_ops_categories">
+<item>"মফম"</item>
+<item>"ইশাগী ওইবা"</item>
+<item>"মেসেজ থারি"</item>
+<item>"মেদিয়া"</item>
+<item>"দিভাইস"</item>
+</string-array>
+<string-array name="app_ops_summaries">
+<item>"কোর্স মফম"</item>
+<item>"অফবা মফম"</item>
+<item>"GPS"</item>
+<item>"নিকপা-হাইবা তৌই"</item>
+<item>"কন্টেক্টশীং পাও"</item>
+<item>"কন্টেক্টশীং শেমদোকউ"</item>
+<item>"কোল লোগ পাও"</item>
+<item>"কোল লোগ শেমদেকোউ"</item>
+<item>"কেলেন্দর পাও"</item>
+<item>"কেলেন্দর শেমদোকউ"</item>
+<item>"wi-fi স্কেন"</item>
+<item>"নোটিফিকেশন"</item>
+<item>"সেল স্কেন"</item>
+<item>"কোল ফোন"</item>
+<item>"SMS পাও"</item>
+<item>"SMS ইয়ু"</item>
+<item>"SMS ফংঙু"</item>
+<item>"ইমর্জেন্সি SMS ফংঙু"</item>
+<item>"MMS ফংঙু"</item>
+<item>"WAP push ফংঙু"</item>
+<item>"SMS থাও"</item>
+<item>"ICC SMS পাও"</item>
+<item>"ICC SMS ইয়ু"</item>
+<item>"সেটিংশীং শেমদোকউ"</item>
+<item>"মতোন্দা য়েকউ"</item>
+<item>"নোটিফিকেশনশীং চংঙু"</item>
+<item>"কেমরা"</item>
+<item>"ওদিও রেকোর্দ তৌ"</item>
+<item>"ওদিও প্লে তৌ"</item>
+<item>"ক্লিপবোর্দ পাও"</item>
+<item>"ক্লিপবোর্দ শেমদোকউ"</item>
+<item>"মেদিয়া বট্টনশীং"</item>
+<item>"ওদিও ফোকস"</item>
+<item>"মাস্টর ভোল্যুম"</item>
+<item>"ভোইস ভোল্যুম"</item>
+<item>"রিং ভোল্যুম"</item>
+<item>"মেদিয়া ভোল্যুম"</item>
+<item>"অলার্ম ভোল্যুম"</item>
+<item>"নোটিফিকেশন ভোল্যুম"</item>
+<item>"ব্লুটুথ ভোল্যুম"</item>
+<item>"হৌগৎতুনা লৈয়ু"</item>
+<item>"মফম য়েংশিল্লু"</item>
+<item>"অৱাংবা পাৱরগী মফম য়েংশিল্লু"</item>
+</string-array>
+<string-array name="app_ops_labels">
+<item>"মফম"</item>
+<item>"মফম"</item>
+<item>"মফম"</item>
+<item>"নিকপা-হাইবা তৌই"</item>
+<item>"কন্টেক্টশীং পাও"</item>
+<item>"কন্টেক্টশীং শেমদোকউ"</item>
+<item>"কোল লোগ পাও"</item>
+<item>"কোল লোগ শেমদেকোউ"</item>
+<item>"কেলেন্দর পাও"</item>
+<item>"কেলেন্দর শেমদোকউ"</item>
+<item>"মফম"</item>
+<item>"নোটিফিকেসন পোস্ট তৌ"</item>
+<item>"মফম"</item>
+<item>"কোল ফোন"</item>
+<item>"SMS/MMS পাও"</item>
+<item>"SMS/MMS ইয়ু"</item>
+<item>"SMS/MMS ফংই"</item>
+<item>"SMS/MMS ফংই"</item>
+<item>"SMS/MMS ফংই"</item>
+<item>"SMS/MMS ফংই"</item>
+<item>"SMS/MMS থাও"</item>
+<item>"SMS/MMS পাও"</item>
+<item>"SMS/MMS ইয়ু"</item>
+<item>"সেটিংশীং শেমদোকউ"</item>
+<item>"মতোন্দা য়েকউ"</item>
+<item>"নোটিফিকেশনশীং চংঙু"</item>
+<item>"কেমরা"</item>
+<item>"ওদিও রেকোর্দ তৌ"</item>
+<item>"ওদিও প্লে তৌ"</item>
+<item>"ক্লিপবোর্দ পাও"</item>
+<item>"ক্লিপবোর্দ শেমদোকউ"</item>
+<item>"মেদিয়া বট্টনশীং"</item>
+<item>"ওদিও ফোকস"</item>
+<item>"মাস্টর ভোল্যুম"</item>
+<item>"ভোইস ভোল্যুম"</item>
+<item>"রিং ভোল্যুম"</item>
+<item>"মেদিয়া ভোল্যুম"</item>
+<item>"অলার্ম ভোল্যুম"</item>
+<item>"নোটিফিকেশন ভোল্যুম"</item>
+<item>"ব্লুটুথ ভোল্যুম"</item>
+<item>"হৌগৎতুনা লৈয়ু"</item>
+<item>"মফম"</item>
+<item>"মফম"</item>
+</string-array>
+<string-array name="long_press_timeout_selector_titles">
+<item>"অতেনবা"</item>
+<item>"ময়ায় ওইনা চাওবা"</item>
+<item>"শাংবা"</item>
+</string-array>
+<string-array name="captioning_typeface_selector_titles">
+<item>"দিফাওল্ট"</item>
+<item>"Sans-serif"</item>
+<item>"Sans-serif condensed"</item>
+<item>"Serif"</item>
+<item>"মোনোস্পেস"</item>
+</string-array>
+<string-array name="captioning_font_size_selector_titles">
+<item>"য়াম্না পিকই"</item>
+<item>"অপিকপা"</item>
+<item>"সধারন"</item>
+<item>"অচৌবা"</item>
+<item>"য়াম্না চাওই"</item>
+</string-array>
+<string-array name="captioning_edge_type_selector_titles">
+<item>"অমত্তা লৈতে"</item>
+<item>"আওটলাইন"</item>
+<item>"মমি থাদৌ"</item>
+</string-array>
+<string-array name="captioning_preset_selector_titles">
+<item>"অমুবদা অঙৌবা"</item>
+<item>"অঙৌবদা অমুবা"</item>
+<item>"অমুবদা নাপু মচু"</item>
+<item>"হিগোকতা নাপু মচু"</item>
+<item>"কস্টম"</item>
+</string-array>
+<string-array name="select_runtime_titles">
+<item>"Dalvik"</item>
+<item>"ART"</item>
+<item>"ART (দিবগ)"</item>
+</string-array>
+<string-array name="select_runtime_summaries">
+<item>"Dalvik শীজিন্নৌ"</item>
+<item>"ART শীজিন্নৌ"</item>
+<item>"ART দিবগ বিল্দ শীজিন্নৌ"</item>
+</string-array>
+<string-array name="hdcp_checking_titles">
+<item>"কৈদৌঙৈদা চেক তৌগনু"</item>
+<item>"DRM কন্টেন্ট খক্তংগী চেক তৌ"</item>
+<item>"মতম চুপ্পদা চেক তৌ"</item>
+</string-array>
+<string-array name="hdcp_checking_summaries">
+<item>"HDCP চেকিং কৈদৌঙৈদা শীজিন্নগনু"</item>
+<item>"DRM কন্টেন্ট খক্তংগী HDCP চেকিং শীজিন্নৌ"</item>
+<item>"মতম চুপ্পদা HDCP চেকিং শীজিন্নৌ"</item>
+</string-array>
+<string-array name="window_animation_scale_entries">
+<item>"এনিমেসন মুথৎলে"</item>
+<item>"এনিমেসন স্কেল .5x"</item>
+<item>"এনিমেসন স্কেল 1x"</item>
+<item>"এনিমেসন স্কেল 1.5x"</item>
+<item>"এনিমেসন স্কেল 2x"</item>
+<item>"এনিমেসন স্কেল 5x"</item>
+<item>"এনিমেসন স্কেল 10x"</item>
+</string-array>
+<string-array name="transition_animation_scale_entries">
+<item>"এনিমেসন মুথৎলে"</item>
+<item>"এনিমেসন স্কেল .5x"</item>
+<item>"এনিমেসন স্কেল 1x"</item>
+<item>"এনিমেসন স্কেল 1.5x"</item>
+<item>"এনিমেসন স্কেল 2x"</item>
+<item>"এনিমেসন স্কেল 5x"</item>
+<item>"এনিমেসন স্কেল 10x"</item>
+</string-array>
+<string-array name="animator_duration_scale_entries">
+<item>"এনিমেসন মুথৎলে"</item>
+<item>"এনিমেসন স্কেল .5x"</item>
+<item>"এনিমেসন স্কেল 1x"</item>
+<item>"এনিমেসন স্কেল 1.5x"</item>
+<item>"এনিমেসন স্কেল 2x"</item>
+<item>"এনিমেসন স্কেল 5x"</item>
+<item>"এনিমেসন স্কেল 10x"</item>
+</string-array>
+<string-array name="overlay_display_devices_entries">
+<item>"অমত্তা লৈতে"</item>
+<item>"720x480 mdpi"</item>
+<item>"720x480 mdpi (সেক্যুর)"</item>
+<item>"1280x720 tvdpi"</item>
+<item>"1280x720 tvdpi (সেক্যুর)"</item>
+<item>"1920x1080 xhdpi"</item>
+<item>"1920x1080 xhdpi (সেক্যুর)"</item>
+<item>"1280x720 tvdpi অমসুং 1920x1080 xhdpi"</item>
+</string-array>
+<string-array name="enable_opengl_traces_entries">
+<item>"অমত্তা লৈতে"</item>
+<item>"Logcat"</item>
+<item>"Systrace (গ্রাফিক্স)"</item>
+<item>"glGetError দা কোল স্টেক তৌ"</item>
+</string-array>
+<string-array name="show_non_rect_clip_entries">
+<item>"ওফ"</item>
+<item>"রেক্তেঙ্গল মওংগী নত্তবা ক্লিপকি রিজন অদু হিগোক্না য়েকউ"</item>
+<item>"চাংয়েং তৌরবা য়েকপগী কমান্দশীং অশংবনা হাইলাইট তৌ"</item>
+</string-array>
+<string-array name="track_frame_time_entries">
+<item>"ওফ"</item>
+<item>"স্ক্রীন মথক বারশীং ওইনা"</item>
+<item>"লৈইশীং ওইনা স্ক্রীন মথক্তা"</item>
+<item>"adb shell dumpsys gfxinfo দা"</item>
+</string-array>
+<string-array name="debug_hw_overdraw_entries">
+<item>"ওফ"</item>
+<item>"ওভরদ্রো এরিয়াশীং উৎলু"</item>
+<item>"দিয়ুতরএনোমেলি এরিয়াশীং উৎলু"</item>
+<item>"ওভরদ্রো কাওন্টর উৎলু"</item>
+</string-array>
+<string-array name="app_process_limit_entries">
+<item>"স্টেন্দর্দ লিমিত"</item>
+<item>"বেকগ্রাওন্দ প্রোসেসশীং লৈতে"</item>
+<item>"য়াম্লবদা প্রোসেস 1"</item>
+<item>"য়াম্লবদা প্রোসেসশীং 2"</item>
+<item>"য়াম্লবদা প্রোসেসশীং 3"</item>
+<item>"য়াম্লবদা প্রোসেসশীং 4"</item>
+</string-array>
+<string-array name="vpn_types_long">
+<item>"PPTP VPN"</item>
+<item>"L2TP/IPSec VPN হান্না শরুক য়াবা কীশীংগা লোয়ননা"</item>
+<item>"L2TP/IPSec VPN সার্তিফিকেতশীংগা লোয়ননা"</item>
+<item>"IPSec VPN হান্না শরুক য়াবা কীশীংগা লোয়ননা অমসুং Xauth ওথেন্টিকেসন"</item>
+<item>"IPSec VPN সার্তিফিকেতশীংগা লোয়ননা অমসুং Xauth ওথেন্টিকেসন"</item>
+<item>"IPSec VPN সার্তিফিকেতশীংগা লোয়ননা অমসুং হাইব্রিদ ওথেন্টিকেসন"</item>
+</string-array>
+<string-array name="vpn_states">
+<item>"শম্নবা ককথৎলে"</item>
+<item>"ইনিসিয়েলাইজ তৌরি..."</item>
+<item>"শম্নরি..."</item>
+<item>"শম্নরে"</item>
+<item>"টাইম আওট"</item>
+<item>"মায় পাক্তে"</item>
+</string-array>
+<string-array name="security_settings_premium_sms_values">
+<item>"হংঙু"</item>
+<item>"কৈদৌঙৈদা য়াহনগনু"</item>
+<item>"মতম চুপ্পদা য়াহল্লু"</item>
+</string-array>
+<string-array name="ram_states">
+<item>"সধারন"</item>
+<item>"ময়ায় ওইরপ্পা"</item>
+<item>"নেম্বা"</item>
+<item>"ফিভম ফত্তবা"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>"মসি হৌজিক্তগী মিনট 1 দগী হন্থনা সেট তৌই."</item>
+<item>"মসি সেট তৌই গী <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> হৌজিক্তগী."</item>
+<item>"মসি সেট তৌই গী <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> হৌজিক্তগী."</item>
+<item>"মসি সেট তৌই গী <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> অমসুং <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> হৌজিক্তগী."</item>
+<item>"মসি সেট তৌই গী <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> হৌজিক্তগী."</item>
+<item>"মসি সেট তৌই গী <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> অমসুং <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> হৌজিক্তগী."</item>
+<item>"মসি সেট তৌই গী <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> অমসুং <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> হৌজিক্তগী."</item>
+<item>"মসি সেট তৌই গী <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, অমসুং <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> হৌজিক্তগী."</item>
+</string-array>
+<string-array name="mobile_to_wlan">
+<item>"মথন্তা শম্নবা"</item>
+<item>"খুৎনা শম্নবা"</item>
+<item>"মতম চুপ্পা হংঙু"</item>
+</string-array>
+<string-array name="agps_setting_entries">
+<item>"হাংদোকউ"</item>
+<item>"খুমজিল্লু"</item>
+</string-array>
+<string-array name="auto_time_entries">
+<item>"নেটৱার্কনা-পীবা মতম শীজিন্নৌ"</item>
+<item>"GPS-পীবা মতম শীজিন্নৌ"</item>
+<item>"ওফ"</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>"নেটৱার্কনা-পীবা মতম শীজিন্নৌ"</item>
+<item>"ওফ"</item>
+</string-array>
+<string-array name="color_picker">
+<item>"তীল"</item>
+<item>"হিগোক"</item>
+<item>"ইন্দিগো"</item>
+<item>"তিম্বুন নাপুন মচু"</item>
+<item>"লৈ মচু"</item>
+<item>"অঙাংবা"</item>
+</string-array>
+</resources>

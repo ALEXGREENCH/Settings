@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"apn रोखोमखौ सेटिं खालामगासिनो दं"</string>
+<string name="user_could_input_apn_type">"इउजारआ apn रोखोमखौ सेट खालामनो हायो"</string>
+<string name="could_not_input_the_same_apn_type">"एखे apn रोखोमखौ सेट खालामनो हायाखै"</string>
+<string name="apn_type_message">"नोंथांनि गोदान APN आव मोनसे डिफल्ट रोखोम गैया, APN खौ सायख\'नो हानाय नङा।"</string>
+<string name="error_apn_type_message">"APN रोखोमआ लांदां जानो हाया"</string>
+<string name="error_apn_type">"नोंथाङा होनाय APN रोखोमा सापर्ट जायाखै, अननानै होफिन!"</string>
+<string name="same_apn_type">"नोंथाङा एखे रोखोमनि APN होदों, अननानै होफिन!"</string>
+<string name="empty_apn_type">"नोंथाङा मोनसेबो रोखोमनि APN होआखै एबा सायख\'आखै, अननानै होफिन!"</string>
+<string name="dual_settings_title_uui">"SIM कार्ड सामलायनाय"</string>
+<string name="dual_voice_setting_title">"भइस सेटिं"</string>
+<string name="dual_video_setting_title">"भिडिअ\' सेटिं"</string>
+<string name="dual_mms_setting_title">"SMS सेटिं"</string>
+<string name="dual_primary_setting_title">"प्राइमारि कार्ड सेटिं"</string>
+<string name="dual_settings_title">"डुयेल SIM सेटिंस"</string>
+<string name="sim_name_setting_title">"SIM नि मुंखौ सोलाय"</string>
+<string name="sim_number_setting_title">"SIM नि नाम्बारखौ सोलाय"</string>
+<string name="sim_number_setting_null">"सेट खालामाखै"</string>
+<string name="sim_color_setting_title">"बेकग्राउन्ड गाबखौ सेट खालाम"</string>
+<string name="dual_settings_always_prompt">"जेब्लाबो जौगाहो"</string>
+<string name="mms_settings_auto">"अट\'"</string>
+<string name="no_need_set_data_subscription">"डेटा साबस्क्रिप्शनखौ सेट खालामनांलाया।"</string>
+<string name="voice_setting_title">"भइस कल सेटिंस"</string>
+<string name="video_setting_title">"भिडिअ\' कल सेटिंस"</string>
+<string name="mms_setting_title">"MMS आरो SMS सेटिंस"</string>
+<string name="sim_reply_setting">"SIM रिप्लाइ सेटिंस"</string>
+<string name="reply_message_setting">"MMS एबा SMS नि फिननाय"</string>
+<string name="closeData">"बन्द\'"</string>
+<string name="data_title">"डेता फोनांजाबनाया सेटिंग्सखौ इनाबल खालामो"</string>
+<string name="sel_sub_title">"स्टेन्डबाइ सेटिंस"</string>
+<string name="sel_sub_summary">"SIM कार्डखौ एनेबोल एबा डिसएबोल खालामनो"</string>
+<string name="set_data_subscription_timeout">"डेटा कानेक्शन सेटिंसनि समा बारबाय!"</string>
+<string name="set_dds_failed">"गोरोन्थि! गासैबो डेटा कानेक्शनफोरखौ स्रां खालाम आरो नाजाफिन!"</string>
+<string name="set_dds_success">"सेट खालामनाया जाफुंबाय"</string>
+<string name="set_dds_success_gsm">"सेट खालामनाया जाफुंबाय। डेटा कानेक्शनआ सेकेन्डारि स्लटआव जाबाय, LTE सार्भिसआ गैया।"</string>
+<string name="set_data_subscription_progress">"सेट खालामगासिनो, अननानै नेथ\'....."</string>
+<string name="set_data_subscription_error_ok">"अके"</string>
+<string name="set_data_subscription_error_title">"गोरोन्थि"</string>
+<string name="set_data_subscription_error">"बे SIM कार्डनि अनगायै, अननानै थारनायफिन आरो नाजाफिन!"</string>
+<string name="sim_retries_left">"नि आद्रा थानाय अनजिमा"</string>
+<string name="menu_kill_apps_services">"गासैबो एप्लिकेशनफोरखौ बन्द\' खालाम"</string>
+<string name="back_groud_data_usage_restrict_protocal">"बेकग्राउन्ड डेटा इउजेस प्रट\'कल।"</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"बेकग्राउन्ड डेटा इउजेस प्रट\'कलखौ गनायगोनना?"</string>
+<string name="apn_edit_quit">"कुवाइट"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> एक्सेस पइन्टखौ सोलाय"</string>
+<string name="input_pin_limit">"अननानै 4 - 8 अनजिमा हो"</string>
+<string name="agps_supl_manual_settings">"SUPL सार्भार मेनुएल सेटिंस"</string>
+<string name="agps_supl_manual_settings_summary">"SUPL सार्भार आरो पर्टखौ मेनुएलि सेट खालाम"</string>
+<string name="str_clear">"खोमोर"</string>
+<string name="str_save">"सेभ"</string>
+<string name="gps_location_suplserver">"सारभार"</string>
+<string name="agps_setting">"Agps स्वुट्स"</string>
+<string name="open">"खुलि"</string>
+<string name="close">"बन्द\'"</string>
+<string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> मबाइल नेटवार्क सेटिंस"</string>
+<string name="pin_enabled_success">"SIM PIN आ एनेबोल दं"</string>
+<string name="pin_disabled_success">"SIM PIN आ डिसएबोल दं"</string>
+<string name="gps_time_sync_attention_gps_on">"GPS खौ मोननो 1 मिनिटनि बारा सम लाया। बेनि अनगायैबो, GPS आ लोरबां मिथिंगायारि सिगनेलनि थाखाय सम होनायाव फेलें जानोबो हागौ। \n\n नोंथाङा GPS होनाय समखौ बाहायमारनोना?"</string>
+<string name="gps_time_sync_attention_gps_off">"GPS होनाय समखौ बाहायनो थाखाय, गिबियाव नोंथाङा GPS खौ एनेबोल खालामग्रोनांगोन। बेनि उनाव GPS आ खामानि मावनो 1 मिनिट लागोन। बेनि अनगायैबो, GPS आ लोरबां मिथिंगायारि सिगनेलनि थाखाय सम होनायाव फेलें जानोबो हागौ। \n\n नोंथाङा दानो GPS खौ एनेबोल खालामनोना आरो GPS होनाय समखौ नेनो?"</string>
+<string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APN फोर"</string>
+<string name="sim_lock_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> लक सेटिंस"</string>
+<string name="device_status_ex">"SIM<xliff:g id="SIM">%s</xliff:g> स्टेटास"</string>
+<string name="lte_service">"4G सार्भिस/प्राइमारि कार्डखौ सायख\'"</string>
+<string name="lte_enabled">"4G सार्भिसखौ एनेबोल खालाम"</string>
+<string name="lte_service_network_mode_settings_dialog_title">"नेटवार्क मडखौ सायख"</string>
+<string name="whether_close_lte_service">"नोंथाङा 4G सार्भिसखौ बन्द खालामगोन नामा थि खालाम?"</string>
+<string name="whether_enable_lte_service">"नोंथाङा 4G सार्भिसखौ इनाबल खालामगोन नामा थि खालाम?"</string>
+<string name="whether_switch_lte_service_sim">"नोंथाङा बे SIM कार्डआव 4G सार्भिसखौ बाहायनो गोसो दं ना गैया बेखौ अननानै गोजोर खालाम?"</string>
+<string name="lte_service_attention">"नोजोरहो"</string>
+<string name="lte_service_switch">"4G सार्भिसखौ खुलिगासिनो, अननानै नेथ\'..."</string>
+<string-array name="lte_preferred_networks_choices">
+<item>"4G/3G/2G मालटि मड"</item>
+<item>"3G/2G ल मड"</item>
+</string-array>
+<string name="wifi_alarm_category_title">"Wi-Fi एलार्म सेटिं"</string>
+<string name="wifi_connect_alarm_title">"गावनोगाव Wi-Fi कानेक्ट जायो"</string>
+<string name="wifi_disconnect_alarm_title">"गावनोगाव Wi-Fi डिसकानेक्ट जायो"</string>
+<string name="wifi_alarm_time_title">"समखौ सेट खालाम"</string>
+<string name="not_stand_by">"बावनाय"</string>
+<string name="main_card_slot">"PRI."</string>
+<string name="gsm_card_slot">"SEC."</string>
+<string name="cellular_data_title">"सेलुलार डेटा"</string>
+<string name="sim_selection_required_pref">"सायख\'नांगोन"</string>
+<string name="stand_by_set_changed_prompt">"SIM एक्टिभेशन स्टेटआ सोलायगोन, अननानै जाहोगोनना जाहोआ गोजोर खालाम?"</string>
+<string name="okay">"अके"</string>
+<string name="primary_card_switching">"सेट खालामगासिनो, अननानै नेथ\'..."</string>
+<string name="select_primary_card">"प्राइमारि कार्डखौ सेलेक खालाम"</string>
+<string name="sim_calls_ask_first_prefs_title">"खेबफ्रोमबो सों"</string>
+<string name="sim_preferred_title">"बाहायनाय SIM कार्डखौ आपडेट खालामनो?"</string>
+<string name="sim_preferred_message">"नोंथांनि डिभाइसआव <xliff:g id="new_sim">%1$s</xliff:g> SIM ल\' दं। नोंथाङा बे SIM खौ सेलुलार डेटा, कल आरो SMS नि थाखाय बाहायनोना?"</string>
+<string name="select_sim_for_data">"डेटानि थाखाय SIM खौ सेलेक खालाम"</string>
+<string name="select_sim_for_calls">"जों कल खालाम"</string>
+<string name="sim_card_select_title">"SIM कार्डखौ सेलेक खालाम"</string>
+<string name="select_primary_slot_description_4g">"(प्राइमारि कार्डआ 4G/2G सार्भिस सापर्ट खालामो, सेकेन्डारि कार्डआ खालि 2G सार्भिसल\' सापर्ट खालामो।)"</string>
+<string name="whether_switch_primary_card">"अननानै गोजोर खालामदि नोंथाङा प्राइमारि कार्डखौ बे कार्डआव सोलायनो?\n (सेलुलार डेटायाबो कार्डआव सोलायगोन।)"</string>
+<string-array name="light_color_picker">
+<item>"सोमखोर"</item>
+<item>"गोथां"</item>
+<item>"इनडिग"</item>
+<item>"फानथाव गाब"</item>
+<item>"गलापि गाब"</item>
+<item>"गोजा"</item>
+<item>"गोमो"</item>
+</string-array>
+<string name="select_primary_slot_description">"(प्राइमारि कार्डआव WCDMA/GSM मडआ खामानि होयो, सेकेन्डारि कार्डआव GSM मडआल\'  खामानि होयो।)"</string>
+<string name="sim_pref_divider">"नि थाखाय SIM खौ बाहाय"</string>
+<string name="calls_title">"कलफोर"</string>
+<string name="sms_messages_title">"SMS खौरां"</string>
+<string name="feature_bar_softkey_edit">"एडिट"</string>
+<string name="feature_bar_softkey_off">"अफ"</string>
+<string name="feature_bar_softkey_on">"अन"</string>
+<string name="feature_bar_softkey_options">"सायख"</string>
+<string name="dialog_restore_default_apn">"नोंथांजों दाजाबजानाय गासैबो APN फोरा बोखार जागोन आरो आद्रा थानाय APN आ डिप\'ल्ट सेटिंगफोराव रिसेट जागोन।नोंथाङा थारैनो बेखौ आवगायगोन्ना?"</string>
+</resources>

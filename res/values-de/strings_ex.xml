@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"APN-Typ einstellen"</string>
+<string name="user_could_input_apn_type">"Nutzer kann APN-Typ eingeben"</string>
+<string name="could_not_input_the_same_apn_type">"Es konnte nicht der gleiche APN-Typ eingegeben werden"</string>
+<string name="apn_type_message">"In Ihrem neuen APN gibt es keinen Default-Typ, es ist nicht möglich das APN auszuwählen."</string>
+<string name="error_apn_type_message">"APN-Typ darf nicht leer sein"</string>
+<string name="error_apn_type">"Der APN-Typ, den Sie eingegeben haben, wird nicht unterstützt, bitte erneut eingeben!"</string>
+<string name="same_apn_type">"Sie haben den gleichen APN-Typ eingegeben, bitte erneut eingeben!"</string>
+<string name="empty_apn_type">"Sie haben keinen APN-Typ eingegeben oder ausgewählt, bitte erneut eingeben!"</string>
+<string name="dual_settings_title_uui">"SIM-Kartenmanagement"</string>
+<string name="dual_voice_setting_title">"Stimmeinstellung"</string>
+<string name="dual_video_setting_title">"Videoeinstellung"</string>
+<string name="dual_mms_setting_title">"SMS-Einstellung"</string>
+<string name="dual_settings_title">"Duale SIM-Einstellungen"</string>
+<string name="sim_name_setting_title">"SIM-Name bearbeiten"</string>
+<string name="sim_color_setting_title">"Hintergrundfarbe einstellen"</string>
+<string name="dual_settings_always_prompt">"Immer sofort"</string>
+<string name="mms_settings_auto">"Auto "</string>
+<string name="no_need_set_data_subscription">"Kein Einstellen der Datenunterschrift erforderlich ."</string>
+<string name="voice_setting_title">"Sprachanruf-Einstellungen"</string>
+<string name="video_setting_title">"Videoanruf-Einstellungen"</string>
+<string name="mms_setting_title">"MMS- und SMS-Einstellungen"</string>
+<string name="sim_reply_setting">"SIM-Antworteinstellungen"</string>
+<string name="reply_message_setting">"MMS oder SMS beantworten"</string>
+<string name="closeData">"schließen"</string>
+<string name="data_title">"Datenverbindungs-Einstellungen"</string>
+<string name="sel_sub_title">"Standby-Einstellungen"</string>
+<string name="sel_sub_summary">"SIM-Karte aktivieren oder deaktivieren"</string>
+<string name="set_data_subscription_timeout">"Datenverbindungs-Einstellungen-Timeout!"</string>
+<string name="set_dds_failed">"Fehler! Alle Datenverbindungen löschen und erneut versuchen!"</string>
+<string name="set_dds_success">"erfolgreich eingestellt"</string>
+<string name="set_data_subscription_progress">"Vorbereiten, bitte warten ..."</string>
+<string name="set_data_subscription_error_ok">"Bestimmen"</string>
+<string name="set_data_subscription_error_title">"Fehler"</string>
+<string name="set_data_subscription_error">"Ohne diese SIM-Karte, bitte verifizieren und erneut versuchen!"</string>
+<string name="sim_retries_left">"Verbleibende Anzahl an"</string>
+<string name="menu_kill_apps_services">"Alle Anwendungen schließen"</string>
+<string name="back_groud_data_usage_restrict_protocal">"Hintergrund-Datennutzungs-Protokoll."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"Hintergrund-Datennutzungs-Protokoll akzeptieren?"</string>
+<string name="apn_edit_quit">"Verlassen"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Zugangspunkt bearbeiten"</string>
+<string name="input_pin_limit">"Bitte geben Sie 4 - 8 Ziffern ein"</string>
+    <string name="str_clear">"C"</string>
+    <string name="str_save">"Diese Aufnahme verwenden"</string>
+    <string name="gps_location_suplserver">"Server"</string>
+    <string name="open">"Offen"</string>
+    <string name="close">"Nah"</string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Mobilnetzwerkeinstellungen"</string>
+    <string name="pin_enabled_success">"PIN für SIM-Karte aktiviert"</string>
+    <string name="pin_disabled_success">"PIN-Abfrage für SIM-Karte deaktiviert"</string>
+    <string name="sim_lock_settings_ex">SIM<xliff:g id="SIM">%s</xliff:g> Verschlusseinstellungen</string>
+
+    <string name="dual_primary_setting_title">"Einstellungen der Hauptkarte"</string>
+     <string name="sim_number_setting_title">"SIM-Nummer bearbeiten"</string>
+     <string name="sim_number_setting_null">"Nicht festgelegt"</string>
+     <string name="set_dds_success_gsm">"Erfolgreich eingestellt. Die Datenverbindung wechselt zum Sekundärfach. Der LTE-Dienst ist nicht verfügbar."</string>
+     <string name="agps_supl_manual_settings">"SUPL Server manuelle Einstellung "</string>
+     <string name="agps_supl_manual_settings_summary">"Manuelle Einstellung SUPL Server und Schnittstelle"</string>
+     <string name="agps_setting">"Agps Einstellung"</string>
+     <string name="gps_time_sync_attention_gps_on">"Es dauert mindestens 1 Minute für GPS Fix. Ausserdem kann GPS wegen schwacher Umweltsignale die Zeit nicht angeben.\n\nWollen Sie sicher die GPS Zeit benutzen?"</string>
+     <string name="gps_time_sync_attention_gps_off">"Zur Benutzung der GPS gelieferten Zeit, müssen Sie erst GPS aktivieren. Danach dauert es maximal 1 Minute für den GPS Fix. Außerdem kann GPS wegen schwacher Umweltsignale die Zeit nicht angeben. \n\nWollen Sie GPS jetzt aktivieren und auf die GPS gelieferte Zeit warten?"</string>
+     <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+     <string name="device_status_ex">"SIM<xliff:g id="SIM">%s</xliff:g>-Status"</string>
+     <string name="lte_service">"4G-Service/Hauptkarte auswählen"</string>
+     <string name="lte_enabled">"4G-Service aktivieren"</string>
+     <string name="lte_service_network_mode_settings_dialog_title">"Netzwerkmodus auswählen"</string>
+     <string name="whether_close_lte_service">"Möchten Sie den 4G-Service wirklich schließen?"</string>
+     <string name="whether_enable_lte_service">"Möchten Sie den 4G-Service wirklich aktivieren?"</string>
+     <string name="whether_switch_lte_service_sim">"Bitte bestätigen Sie, dass Sie den 4G-Service zu dieser SIM-Karte umschalten wollen."</string>
+     <string name="lte_service_attention">"Achtung"</string>
+     <string name="lte_service_switch">"Der 4G-Service wird umgeschaltet. Bitte warten..."</string>
+     <string-array name="lte_preferred_networks_choices">
+        <item>"4G/3G/2G-Multi-Modus"</item>
+        <item>"nur 3G/2G-Modus"</item>
+    </string-array>
+     <string name="wifi_alarm_category_title">"W-LAN-Alarm-Einstellung"</string>
+     <string name="wifi_connect_alarm_title">"Automatisch W-LAN verbinden"</string>
+     <string name="wifi_disconnect_alarm_title">"Automatisch W-LAN-Verbindung trennen"</string>
+     <string name="wifi_alarm_time_title">"Uhrzeit festlegen"</string>
+     <string name="not_stand_by">"VERBOTEN"</string>
+     <string name="main_card_slot">"PRI. "</string>
+     <string name="gsm_card_slot">"SEC. "</string>
+     <string name="cellular_data_title">"Handydaten"</string>
+     <string name="sim_selection_required_pref">"Auswahl erforderlich"</string>
+     <string name="stand_by_set_changed_prompt">"SIM-Aktivierungsstatus wird geändert. Möchten Sie fortfahren?"</string>
+     <string name="okay">OK</string>
+     <string name="primary_card_switching">"Einstellen\uff0cbitte warten..."</string>
+     <string name="select_primary_card">"Hauptkarte auswählen"</string>
+     <string name="sim_calls_ask_first_prefs_title">"Jedes Mal fragen"</string>
+     <string name="sim_preferred_title">"Bevorzugte SIM-Karte aktualisieren?"</string>
+     <string name="sim_preferred_message">"<xliff:g id="new_sim">%1$s</xliff:g> ist die einzige SIM in Ihrem Gerät. Wollen Sie diese SIM für Handydaten, Anrufe und SMS-Nachrichten verwenden?"</string>
+     <string name="select_sim_for_data">"Eine SIM für die Daten auswählen"</string>
+     <string name="select_sim_for_calls">"Anrufen mit"</string>
+     <string name="sim_card_select_title">"SIM-Karte auswählen"</string>
+     <string name="select_primary_slot_description_4g">"(Die Hauptkarte unterstützt den 4G/2G-Service, die Sekundärkarte unterstützt nur den 2G-Service. )"</string>
+     <string name="whether_switch_primary_card">"Soll die Primärkarte auf diese Karte gewechselt werden?\n(Telefondaten werden auch auf die Karte verschoben.)"</string>
+     <string-array name="light_color_picker">
+        <item>"Grün"</item>
+        <item>"Blau"</item>
+        <item>"Indigo"</item>
+        <item>"violett"</item>
+        <item>"Pink"</item>
+        <item>"Rot"</item>
+        <item>"Gelb"</item>
+    </string-array>
+     <string name="select_primary_slot_description">"(Die Hauptkarte unterstützt den WCDMA/GSM-Modus, die Zweitkarte unterstützt nur den GSM-Modus.)"</string>
+     <string name="sim_pref_divider">"Bevorzugte SIM für"</string>
+     <string name="calls_title">"Anrufe"</string>
+     <string name="sms_messages_title">"SMS-Nachrichten"</string>
+     <string name="feature_bar_softkey_edit">Bearbeiten</string>
+     <string name="feature_bar_softkey_off">"Aus"</string>
+     <string name="feature_bar_softkey_on">"An"</string>
+     <string name="feature_bar_softkey_options">"Auswählen"</string>
+     <string name="dialog_restore_default_apn">"Alle APN, die Sie hinzufügen, werden entfernt und die verbleibenden APN auf Default zurückgestellt. Wollen Sie wirklich fortfahren?"</string>
+</resources>

@@ -1,0 +1,2267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="yes">হ্যাঁ</string>
+<string name="no">না</string>
+<string name="create">সৃষ্টি</string>
+<string name="allow">"অনুমতি প্রদান করা হবে"</string>
+<string name="deny">"অস্বীকার করা"</string>
+<string name="device_info_default">অজানা</string>
+<plurals name="show_dev_countdown">
+<item quantity="one"> আপনি এখন একজন ডেভেলপার হউয়া থেকে <xliff:g id="step_count">%1$d</xliff:g> পদক্ষেপ  দূরে আছেন। </item>
+<item quantity="other"> আপনি এখন একজন ডেভেলপার হউয়া থেকে <xliff:g id="step_count">%1$d</xliff:g> পদক্ষেপ  দূরে আছেন। </item>
+</plurals>
+<string name="show_dev_on">এখন আপনি একজন ডেভেলপার!</string>
+<string name="show_dev_already">কোন প্রয়োজন নেই, আপনি ইতিমধ্যেই একজন ডেভেলপার। </string>
+<string name="header_category_wireless_networks">"বেতার &amp; নেটওয়ার্ক সেটিংস"</string>
+<string name="header_category_device">"যন্ত্র "</string>
+<string name="header_category_personal">"ব্যক্তিগত"</string>
+<string name="header_category_system">পদ্ধতি</string>
+<string name="turn_on_radio">"রেডিও চালু করুন"</string>
+<string name="turn_off_radio">"রেডিও বন্ধ"</string>
+<string name="sms_over_ims_on">"আপনাকে IMS উপর এসএমএস চালু করুন"</string>
+<string name="sms_over_ims_off">"আপনাকে IMS উপর চালু এসএমএস বন্ধ"</string>
+<string name="ims_reg_required_on">"আপনাকে IMS নিবন্ধন প্রয়োজনীয় চালু করুন"</string>
+<string name="ims_reg_required_off">"আপনাকে IMS নিবন্ধন প্রয়োজনীয় বন্ধ করুন"</string>
+<string name="lte_ram_dump_on">"Lte ডাম্প চালু করুন"</string>
+<string name="lte_ram_dump_off">"Lte ডাম্প বন্ধ করুন"</string>
+<string name="radioInfo_menu_viewADN">"SIM ঠিকানা বইয়ের দেখুন"</string>
+<string name="radioInfo_menu_viewFDN">"স্থায়ী ডায়াল নাম্বার দেখুন"</string>
+<string name="radioInfo_menu_viewSDN">"সার্ভিস ডায়াল নাম্বার দেখুন"</string>
+<string name="radioInfo_menu_getPDP">"PDP তালিকা পান"</string>
+<string name="radioInfo_service_in">"পরিষেবা"</string>
+<string name="radioInfo_service_out">"বিকল"</string>
+<string name="radioInfo_service_emergency">"জরুরী কলের শুধুমাত্র"</string>
+<string name="radioInfo_service_off">রেডিও বন্ধ</string>
+<string name="radioInfo_roaming_in">"রোমিং"</string>
+<string name="radioInfo_roaming_not">"রোমিং হচ্ছে না"</string>
+<string name="radioInfo_phone_idle">"নিষ্ক্রিয়"</string>
+<string name="radioInfo_phone_ringing">"বাজন"</string>
+<string name="radioInfo_phone_offhook">"কল চালু অবস্থায়"</string>
+<string name="radioInfo_data_disconnected">"সংযোগহীন "</string>
+<string name="radioInfo_data_connecting">"সংযোজক"</string>
+<string name="radioInfo_data_connected">"স্থগিত"</string>
+<string name="radioInfo_data_suspended">"স্থগিত"</string>
+<string name="radioInfo_unknown">অজানা</string>
+<string name="radioInfo_display_bytes">"বাইট"</string>
+<string name="sdcard_unmount" product="nosdcard">"আনমাউন্ট USB সংগ্রহস্থল"</string>
+<string name="sdcard_unmount" product="default">"আনমাউন্ট SD কার্ড"</string>
+<string name="sdcard_format" product="nosdcard">"USB সংগ্রহস্থল নিশ্চিহ্ন করা"</string>
+<string name="sdcard_format" product="default">"SD কার্ড নিশ্চিহ্ন করা"</string>
+<string name="small_font">"ছোট"</string>
+<string name="medium_font">"মাঝারি"</string>
+<string name="large_font">"বৃহৎ"</string>
+<string name="font_size_save">ওকে</string>
+<string name="sdcard_setting" product="nosdcard">"USB সঞ্চয়স্থান"</string>
+<string name="sdcard_setting" product="default">"SD কার্ড"</string>
+<string name="battery_info_status_label">"ব্যাটারি অবস্থা:"</string>
+<string name="battery_info_power_label">"শক্তি প্লাগ:"</string>
+<string name="battery_info_scale_label">"ব্যাটারি স্কেল:"</string>
+<string name="battery_info_level_label">"ব্যাটারি স্তর:"</string>
+<string name="battery_info_health_label">"ব্যাটারি স্বাস্থ্য:"</string>
+<string name="battery_info_technology_label">"ব্যাটারি প্রযুক্তি:"</string>
+<string name="battery_info_voltage_label">"ব্যাটারি ভোল্টেজ:"</string>
+<string name="battery_info_temperature_label">"ব্যাটারি তাপমাত্রা:"</string>
+<string name="battery_info_temperature_units">"\u00B0 C"</string>
+<string name="battery_info_uptime">"বুট থেকে সময়:"</string>
+<string name="battery_info_awake_battery">"ব্যাটারি উপর জাগ্রত সময়:"</string>
+<string name="battery_info_awake_plugged">"জাগ্রত সময় যখন চার্জিং:"</string>
+<string name="battery_info_screen_on">"সময় স্ক্রিন:"</string>
+<string name="battery_info_status_unknown">অজানা</string>
+<string name="battery_info_status_charging">চার্জ</string>
+<string name="battery_info_status_charging_ac">"(AC)"</string>
+<string name="battery_info_status_charging_wireless">(তারহীন)</string>
+<string name="battery_info_status_discharging">"চার্জিং হচ্ছে না"</string>
+<string name="battery_info_status_not_charging">"চার্জ হচ্ছে না"</string>
+<string name="battery_info_status_full">"পূর্ণ"</string>
+<string name="battery_info_power_unplugged">"আনপ্লাগ"</string>
+<string name="battery_info_power_ac">"AC"</string>
+<string name="battery_info_power_wireless">"তারহীন"</string>
+<string name="battery_info_power_ac_usb">"এসি + USB"</string>
+<string name="battery_info_power_unknown">অজানা</string>
+<string name="battery_info_health_unknown">অজানা</string>
+<string name="battery_info_health_good">"ভাল"</string>
+<string name="battery_info_health_overheat">"অতিতপ্ত করা"</string>
+<string name="battery_info_health_dead">"মৃত"</string>
+<string name="battery_info_health_over_voltage">"ওভার ভোল্টেজ"</string>
+<string name="battery_info_health_unspecified_failure">"অজানা ত্রুটি"</string>
+<string name="battery_info_health_cold">"কোল্ড"</string>
+<string name="bluetooth">"ব্লুটুথ"</string>
+<string name="bluetooth_is_discoverable">"সব কাছাকাছি ব্লুটুথ ডিভাইসে দৃশ্যমান (<xliff:g id="discoverable_time_period">%1$s</xliff:g>)"</string>
+<string name="bluetooth_is_discoverable_always">"সব কাছাকাছি ব্লুটুথ ডিভাইসে দৃশ্যমান"</string>
+<string name="bluetooth_not_visible_to_other_devices">"অন্য ব্লুটুথ ডিভাইসের কাছে দৃশ্যমান নয়"</string>
+<string name="bluetooth_only_visible_to_paired_devices">"জোড়া ডিভাইস শুধু দৃশ্যমান"</string>
+<string name="bluetooth_visibility_timeout">"সময়সীমার আবিস্কার"</string>
+<string name="bluetooth_lock_voice_dialing">"লক ভয়েস ডায়ালিং"</string>
+<string name="bluetooth_lock_voice_dialing_summary">"যখন পর্দা লক করা থাকে তখন ব্লুটুথ ডায়ালার এর ব্যবহার প্রতিরোধ করুন"</string>
+<string name="bluetooth_devices">"ব্লুটুথ ডিভাইস "</string>
+<string name="bluetooth_device_name">"ডিভাইস নাম"</string>
+<string name="bluetooth_device_details">ডিভাইস সেটিংস</string>
+<string name="bluetooth_profile_details">প্রোফাইল সেটিংস</string>
+<string name="bluetooth_name_not_set">"কোন নাম সেট নেই, একাউন্ট নাম ব্যবহার "</string>
+<string name="bluetooth_scan_for_devices">"ডিভাইসের জন্য স্ক্যান"</string>
+<string name="bluetooth_rename_device" product="tablet">"পুনঃনামকরণ ট্যাবলেট"</string>
+<string name="bluetooth_rename_device" product="default">"ফোন পুনঃনামকরণ"</string>
+<string name="bluetooth_rename_button">পুনর্নামকরণ</string>
+<string name="bluetooth_disconnect_title">"বিযুক্ত করা?"</string>
+<string name="bluetooth_disconnect_all_profiles">"এটি আপনার কানেকসান শেষ করে দিবে:&lt;br>&lt;b><xliff:g id="device_name">%1$s</xliff:g>&lt;/b>"</string>
+<string name="bluetooth_disable_profile_title">"প্রফাইল অক্ষম?"</string>
+<string name="bluetooth_disable_profile_message">"নিষ্ক্রিয় করা হবে:&lt;br>&lt;b><xliff:g id="profile_name">%1$s</xliff:g>&lt;/b>&lt;br>&lt;br>হতে:&lt;br>&lt;b><xliff:g id="device_name">%2$s</xliff:g>&lt;/b>"</string>
+<string name="bluetooth_connected">"স্থগিত"</string>
+<string name="bluetooth_connected_no_headset">"সংযুক্ত (কোন ফোন)"</string>
+<string name="bluetooth_connected_no_a2dp">"সংযুক্ত (কোন মিডিয়া)"</string>
+<string name="bluetooth_connected_no_map"> "সংযুক্ত রয়েছে (কোন বার্তা এক্সেস নেই ) "  </string>
+<string name="bluetooth_connected_no_headset_no_a2dp">"সংযুক্ত (কোন ফোন বা মিডিয়া)"</string>
+<string name="bluetooth_disconnected">"সংযোগহীন "</string>
+<string name="bluetooth_disconnecting">"বিযুক্ত করা\u2026"</string>
+<string name="bluetooth_connecting">"সংযুক্ত\u2026"</string>
+<string name="bluetooth_pairing">"পেয়ারিং..."</string>
+<string name="bluetooth_device">"নামহীন Bluetooth ডিভাইস"</string>
+<string name="progress_scanning">"পরীক্ষা করা"</string>
+<string name="bluetooth_no_devices_found">"কাছাকাছি কোন ব্লুটুথ ডিভাইস পাওয়া যায়নি।"</string>
+<string name="bluetooth_notif_ticker">"ব্লুটুথ জোর - বাঁধানো অনুরোধ"</string>
+<string name="bluetooth_notif_title">"অনুরোধ জোর - বাঁধানো"</string>
+<string name="bluetooth_notif_message">"সঙ্গে জোড়া নির্বাচন <xliff:g id="device_name">%1$s</xliff:g>।"</string>
+<string name="bluetooth_show_received_files">"গৃহীত ফাইল দেখান"</string>
+<string name="bluetooth_ftp_switch_on">"এফটিপি সার্ভার চালু করুন"</string>
+<string name="bluetooth_ftp_switch_off">"FTP সার্ভার বন্ধ করুন"</string>
+<string name="bluetooth_ftp_acceptance_dialog_text">"%1$s আপনার ফাইল ট্র্যান্সফার সার্ভারে প্রবেশ করতে চায়। %2$s-কে অনুমতি দিবেন?"</string>
+<string name="bluetooth_ftp_acceptance_dialog_title">"ফাইল ট্র্যান্সফারের জন্যে আবেদন"</string>
+<string name="device_picker">"ব্লুটুথ ডিভাইস পিকার"</string>
+<string name="bluetooth_permission_request">"ব্লুটুথ অনুমতি অনুরোধ"</string>
+<string name="bluetooth_ask_enablement">"একটি অ্যাপ ব্লুটুথ চালু করতে চায়"</string>
+<string name="bluetooth_ask_discovery" product="tablet">"অ্যাপটি <xliff:g id="timeout">%1$d</xliff:g> সেকেন্ডের জন্যে আপনার ট্যাবলেট অন্যান্য ব্লুটুথ ডিভাইসের কাছে দৃশ্যমান করতে চায়।"</string>
+<string name="bluetooth_ask_discovery" product="default">"অ্যাপটি <xliff:g id="timeout">%1$d</xliff:g> সেকেন্ডের জন্যে আপনার ফোন অন্যান্য ব্লুটুথ ডিভাইসের কাছে দৃশ্যমান করতে চায়।"</string>
+<string name="bluetooth_ask_lasting_discovery" product="tablet">"অ্যাপটি আপনার ট্যাবলেটকে অন্যান্য ব্লুটুথ ডিভাইসের কাছে দৃশ্যমান করতে চায়। আপনি পরবর্তীতে তা ব্লুটুথ সেটিংসে যেয়ে‌ পরিবর্তন করতে পারেন।"</string>
+<string name="bluetooth_ask_lasting_discovery" product="default">"অ্যাপটি আপনার ফোনকে অন্যান্য ব্লুটুথ ডিভাইসের কাছে দৃশ্যমান করতে চায়। আপনি পরবর্তীতে তা ব্লুটুথ সেটিংসে যেয়ে‌ পরিবর্তন করতে পারেন।"</string>
+<string name="bluetooth_ask_enablement_and_discovery" product="tablet">"অ্যাপটি <xliff:g id="timeout">%1$d</xliff:g> সেকেন্ডের জন্যে আপনার ট্যাবলেটের ব্লুটুথ সক্রিয় করে অন্যান্য ডিভাইসের কাছে দৃশ্যমান করতে চায়।"</string>
+<string name="bluetooth_ask_enablement_and_discovery" product="default">"অ্যাপটি <xliff:g id="timeout">%1$d</xliff:g> সেকেন্ডের জন্যে আপনার ফোনের ব্লুটুথ সক্রিয় করে অন্যান্য ডিভাইসের কাছে দৃশ্যমান করতে চায়।"</string>
+<string name="bluetooth_ask_enablement_and_lasting_discovery" product="tablet">"অ্যাপটি আপনার ট্যাবলেটের ব্লুটুথ সক্রিয় করে অন্যান্য ডিভাইসের কাছে দৃশ্যমান করতে চায়। আপনি পরবর্তীতে তা ব্লুটুথ সেটিংসে যেয়ে‌ পরিবর্তন করতে পারেন।"</string>
+<string name="bluetooth_ask_enablement_and_lasting_discovery" product="default">"অ্যাপটি আপনার ফোনের ব্লুটুথ সক্রিয় করে অন্যান্য ডিভাইসের কাছে দৃশ্যমান করতে চায়। আপনি পরবর্তীতে তা ব্লুটুথ সেটিংসে যেয়ে‌ পরিবর্তন করতে পারেন।"</string>
+<string name="bluetooth_turning_on">"খোলো ব্লুটুথ \u2026"</string>
+<string name="bluetooth_turning_off">"বন্ধ ব্লুটুথ বাঁক\u2026"</string>
+<string name="bluetooth_auto_connect">"অটো সংযোগ"</string>
+<string name="bluetooth_connection_permission_request">"ব্লুটুথ সংযোগের অনুরোধের"</string>
+<string name="bluetooth_connection_notif_message">"সংযোগ করুন স্পর্শ করার মাধ্যমে \u0022<xliff:g id="device_name">%1$s</xliff:g>\u0022।"</string>
+<string name="bluetooth_connection_dialog_text">"আপনি কি সাথে সংযোগ করতে ইচ্ছুক \u0022<xliff:g id="device_name">%1$s</xliff:g>\u0022?"</string>
+<string name="bluetooth_phonebook_request">"ফোনবুকে প্রবেশের আবেদন"</string>
+<string name="bluetooth_pb_acceptance_dialog_text">"%1$s আপনার পরিচিতিগুলি এবং কল ইতিহাস একসেস চাই। প্রবেশাধিকার দিন %2$s?"</string>
+<string name="bluetooth_remember_choice">"পুনরায় জানতে চাইবেন না"</string>
+<string name="bluetooth_pb_remember_choice">"পুনরায় জানতে চাইবেন না"</string>
+<string name="bluetooth_map_request"> "মেসেজ এক্সেস অনুরোধ "  </string>
+<string name="bluetooth_map_acceptance_dialog_text">"%1$s আপনার বার্তা ব্যবহার করতে চায়.এক্সেস দিন %2$s?" </string>
+<string name="date_and_time">"তারিখ &amp;সময় সেটিংস"</string>
+<string name="choose_timezone">"সময় অঞ্চল নির্বাচন করুন"</string>
+<string name="normal_date_format">"স্বাভাবিক (<xliff:g id="date" example="12-31-2009">%s</xliff:g>)"</string>
+<string name="display_preview_label">"প্রাকদর্শন"</string>
+<string name="display_font_size_label">"ফন্ট সাইজ:"</string>
+<string name="intent_sender_sendbroadcast_text">"পাঠান <xliff:g id="broadcast">ব্রডকাস্ট</xliff:g>"</string>
+<string name="intent_sender_startactivity_text">"শুরু <xliff:g id="activity">কার্যকলাপ</xliff:g>"</string>
+<string name="intent_sender_account_label">"অ্যাকাউন্ট:"</string>
+<string name="proxy_settings_title">"প্রক্সি"</string>
+<string name="proxy_clear_text">"সাফ করুন"</string>
+<string name="proxy_port_label">"বন্দর"</string>
+<string name="proxy_exclusionlist_label">"... এর জন্যে প্রক্সি বাইপাস করুন"</string>
+<string name="proxy_defaultView_text">"ডিফল্ট পুনরুদ্ধার করুন"</string>
+<string name="proxy_action_text">সম্পন্ন</string>
+<string name="proxy_hostname_label">"হোস্ট এর নাম"</string>
+<string name="proxy_error">মনোযোগ</string>
+<string name="proxy_error_dismiss">ওকে</string>
+<string name="proxy_error_invalid_host">"হোস্টনেম আপনি টাইপ করা বৈধ নয়।"</string>
+<string name="proxy_error_invalid_exclusion_list">"বাধাদান তালিকা আপনি টাইপ সঠিকভাবে ফরম্যাট করা না হয়। একটি বহির্ভূত ডোমেইনের কমা চিহ্ন দ্বারা বিভাজিত তালিকায় টাইপ করুন।"</string>
+<string name="proxy_error_empty_port">"আপনি পোর্ট ক্ষেত্র সম্পূর্ণ করা আবশ্যক।"</string>
+<string name="proxy_error_empty_host_set_port">"পোর্ট ক্ষেত্র খালি যদি হোস্ট এর ঘর ফাঁকা থাকা আবশ্যক।"</string>
+<string name="proxy_error_invalid_port">"পোর্ট আপনি টাইপ করা বৈধ নয়।"</string>
+<string name="proxy_warning_limited_support">"HTTP প্রক্সি ব্রাউজার দ্বারা কিন্তু ব্যবহৃত অন্যান্য অ্যাপ্লিকেশন দ্বারা ব্যবহার করা যেতে পারে না।"</string>
+<string name="proxy_url">"PAC URL: "</string>
+<string name="radio_info_signal_location_label">"অবস্থান:"</string>
+<string name="radio_info_neighboring_location_label">"পার্শ্ববর্তী CID:"</string>
+<string name="radio_info_cellinfo_label">"সেলফোনের তথ্যঃ"</string>
+<string name="radio_info_data_attempts_label">"ডেটা প্রচেষ্টা:"</string>
+<string name="radio_info_gprs_service_label">"GPRS পরিষেবা:"</string>
+<string name="radio_info_roaming_label">"রোমিং:"</string>
+<string name="radio_info_imei_label">"IMEI:"</string>
+<string name="radio_info_call_redirect_label">"কল রিডিরেক্ট:"</string>
+<string name="radio_info_ppp_resets_label">"PPP সংখ্যা বুট থেকে রিসেট:"</string>
+<string name="radio_info_gsm_disconnects_label">"জিএসএম সংযোগ বিচ্ছিন্ন:"</string>
+<string name="radio_info_current_network_label">"বর্তমান নেটওয়ার্ক:"</string>
+<string name="radio_info_data_successes_label">"ডেটা সফল:"</string>
+<string name="radio_info_ppp_received_label">"PPP প্রাপ্তি:"</string>
+<string name="radio_info_gsm_service_label">"GSM-এর পরিষেবা:"</string>
+<string name="radio_info_signal_strength_label">"সংকেত শক্তি:"</string>
+<string name="radio_info_call_status_label">"কল অবস্থা:"</string>
+<string name="radio_info_ppp_sent_label">"PPPপাঠানো:"</string>
+<string name="radio_info_radio_resets_label">"রেডিও রিসেট:"</string>
+<string name="radio_info_message_waiting_label">"বার্তা অপেক্ষা:"</string>
+<string name="radio_info_phone_number_label">"ফোন নম্বর:"</string>
+<string name="radio_info_band_mode_label">"রেডিও ব্যান্ড নির্বাচন করুন"</string>
+<string name="radio_info_network_type_label">"নেটওয়ার্ক টাইপ করুন:"</string>
+<string name="radio_info_set_perferred_label">"পছন্দসই নেটওয়ার্ক এর ধরন নির্ধারণ করুন:"</string>
+<string name="radio_info_ping_ipaddr">"Ping IpAddr:"</string>
+<string name="radio_info_ping_hostname">"Ping হোস্ট নাম (www.google.com) :"</string>
+<string name="radio_info_http_client_test">"HTTP-র ক্লায়েন্ট পরীক্ষা:"</string>
+<string name="ping_test_label">"পিং পরীক্ষা চালান"</string>
+<string name="radio_info_smsc_label">"SMSC:"</string>
+<string name="radio_info_smsc_update_label">"আপডেট করুন"</string>
+<string name="radio_info_smsc_refresh_label">"রিফ্রেশ"</string>
+<string name="radio_info_toggle_dns_check_label">"টগল করুন DNS-র চেক"</string>
+<string name="oem_radio_info_label">"OEM-নির্দিষ্ট তথ্য / সেটিংস"</string>
+<string name="band_mode_title">"GSM / UMTS ব্যান্ড সেট"</string>
+<string name="band_mode_loading">"ব্যান্ড তালিকা লোড হচ্ছে..."</string>
+<string name="band_mode_set">"সেট"</string>
+<string name="band_mode_failed">"অসফল"</string>
+<string name="band_mode_succeeded">"সফল"</string>
+<string name="sdcard_changes_instructions">"পরিবর্তন হয় যখন USB তার সংযুক্ত নয়"</string>
+<string name="sdcard_settings_screen_mass_storage_text">"USB বিপুল সঞ্চয়স্থান সক্ষম করুন"</string>
+<string name="sdcard_settings_total_bytes_label">"মোট বাইট:"</string>
+<string name="sdcard_settings_not_present_status" product="nosdcard">"মাউন্ট USB স্টোরেজ না"</string>
+<string name="sdcard_settings_not_present_status" product="default">"কোন SD কার্ড"</string>
+<string name="sdcard_settings_available_bytes_label">"প্রাপ্তিসাধ্য বাইট:"</string>
+<string name="sdcard_settings_mass_storage_status" product="nosdcard">"USB স্টোরেজ মাস স্টোরেজ ডিভাইস রূপে ব্যবহৃত হচ্ছে"</string>
+<string name="sdcard_settings_mass_storage_status" product="default">"SD কার্ড একটি মাস স্টোরেজ ডিভাইস রূপে ব্যবহৃত হচ্ছে"</string>
+<string name="sdcard_settings_unmounted_status" product="nosdcard">"এখন ইউএসবি ডিভাইস বিচ্ছিন্ন করা নিরাপদ"</string>
+<string name="sdcard_settings_unmounted_status" product="default">"এখন SD কার্ড বিচ্ছিন্ন করা নিরাপদ"</string>
+<string name="sdcard_settings_bad_removal_status" product="nosdcard">"USB সংগ্রহস্থল ব্যবহার সরিয়ে দেওয়া হয়েছে যদিও!"</string>
+<string name="sdcard_settings_bad_removal_status" product="default">"SD কার্ড ব্যবহার সরিয়ে দেওয়া হয়েছে যদিও!"</string>
+<string name="sdcard_settings_used_bytes_label">"ব্যবহৃত বাইট:"</string>
+<string name="sdcard_settings_scanning_status" product="nosdcard">"মিডিয়া জন্য USB সংগ্রহস্থল স্ক্যানিং\u2026"</string>
+<string name="sdcard_settings_scanning_status" product="default">"মিডিয়া  জন্য আমার একটা SD কার্ড পরীক্ষা করা\u2026 "</string>
+<string name="sdcard_settings_read_only_status" product="nosdcard">"USB স্টোরেজ মাউন্ট শুধুমাত্র পাঠযোগ্য"</string>
+<string name="sdcard_settings_read_only_status" product="default">"SD কার্ড মাউন্ট শুধুমাত্র পাঠযোগ্য"</string>
+<string name="skip_label">"স্কিপ"</string>
+<string name="next_label">"পরবর্তী"</string>
+<string name="language_picker_title">স্থানীয় </string>
+<string name="activity_picker_label">"কার্যকলাপ নির্বাচন করুন"</string>
+<string name="device_info_label">"ডিভাইস তথ্য"</string>
+<string name="battery_info_label">"ব্যাটারি তথ্য"</string>
+<string name="display_label">"স্ক্রীন"</string>
+<string name="phone_info_label" product="tablet">"ট্যাবলেট তথ্য"</string>
+<string name="phone_info_label" product="default">"ফোন তথ্য"</string>
+<string name="sd_card_settings_label" product="nosdcard">"USB সঞ্চয়স্থান"</string>
+<string name="sd_card_settings_label" product="default">"SD কার্ড"</string>
+<string name="proxy_settings_label">"প্রক্সি সেটিংস"</string>
+<string name="cancel">বাতিল</string>
+<string name="settings_label">সেটিংস</string>
+<string name="settings_label_launcher">সেটিংস</string>
+<string name="settings_shortcut">"সেটিংস"</string>
+<string name="airplane_mode">বিমান মোড</string>
+<string name="radio_controls_title">"বেতার &amp; নেটওয়ার্কগুলো"</string>
+<string name="wireless_networks_settings_title">"বেতার &amp; নেটওয়ার্ক সেটিংস"</string>
+<string name="radio_controls_summary">"Wi-Fi, ব্লুটুথ, বিমান মোড, মোবাইল নেটওয়ার্ক,এবং VPN পরিচালনা"</string>
+<string name="roaming">"রোমিং ডেটা"</string>
+<string name="roaming_enable">"তথ্য পরিষেবার সাথে সংযোগ যখন বিচরণ"</string>
+<string name="roaming_disable">"তথ্য পরিষেবার সাথে সংযোগ যখন বিচরণ"</string>
+<string name="roaming_reenable_message">"আপনি ডাটা সংযোগ হারিয়েছে কারণ আপনি ডাটা বন্ধ পরিণত বিচরণ সঙ্গে আপনার হোম নেটওয়ার্ক বামে।"</string>
+<string name="roaming_turn_it_on_button">"এটি চালু"</string>
+<string name="roaming_warning">"তথ্য সক্ষম বিচরণ? আপনি উল্লেখযোগ্য বিচরণ অভিযোগ আবদ্ধ করা হতে পারে!"</string>
+<string name="roaming_warning_multiuser" product="tablet">আপনি যখন ডাটা রোমিং এর অনুমতি দিবেন, তখন উল্লেখযোগ্য রোমিং চার্জ বহন করতে হতে পারে! \n\nএই সেটিংটি এই ট্যাবলেটের সব ব্যবহারকারীকে প্রভাবিত করবে। </string>
+<string name="roaming_warning_multiuser" product="default">আপনি যখন ডাটা রোমিং এর অনুমতি দিবেন, তখন উল্লেখযোগ্য রোমিং চার্জ বহন করতে হতে পারে! \n\nএই সেটিংটি এই ফোনের সব ব্যবহারকারীকে প্রভাবিত করবে। </string>
+<string name="roaming_reenable_title">"মনোযোগ"</string>
+<string name="networks">"অপারেটর নির্বাচন"</string>
+<string name="sum_carrier_select">"একটি নেটওয়ার্ক অপারেটর নির্বাচন করুন"</string>
+<string name="date_and_time_settings_title">"তারিখ &amp; সময়"</string>
+<string name="date_and_time_settings_title_setup_wizard">"তারিখ এবং সময় নির্ধারণ করুন"</string>
+<string name="date_and_time_settings_summary">"তারিখ, সময়, সময়ের অঞ্চল &amp; বিন্যাসের সেট"</string>
+<string name="date_time_auto">"স্বয়ংক্রিয় তারিখ এবং সময়"</string>
+<string name="date_time_auto_summaryOn">"নেটওয়ার্ক প্রদত্ত সময় ব্যবহার করুন"</string>
+<string name="date_time_auto_summaryOff">"নেটওয়ার্ক প্রদত্ত সময় ব্যবহার করুন"</string>
+<string name="zone_auto">"স্বয়ংক্রিয় সময় অঞ্চল"</string>
+<string name="zone_auto_summaryOn">"নেটওয়ার্ক দেওয়া সময়ের অঞ্চল ব্যবহার করুন"</string>
+<string name="zone_auto_summaryOff">"নেটওয়ার্ক দেওয়া সময়ের অঞ্চল ব্যবহার করুন"</string>
+<string name="date_time_24hour">"24 ঘন্টা বিন্যাস ব্যবহার করুন"</string>
+<string name="date_time_set_time">টাইম সেট করুন</string>
+<string name="date_time_set_timezone">"সময় অঞ্চল নির্বাচন করুন"</string>
+<string name="date_time_set_date">"তারিখ নির্ধারণ"</string>
+<string name="date_time_date_format">"তারিখ বিন্যাস নির্বাচন"</string>
+<string name="zone_list_menu_sort_alphabetically">"সাজান বর্ণানুক্রমে"</string>
+<string name="zone_list_menu_sort_by_timezone">"প্রাদেশিক সময় অনুযায়ী সাজাও"</string>
+<string name="zone_list_menu_sort_by_pinyin">"চীনা পিনইন অনুযায়ী বাছাই করুন"</string>
+<string name="date_picker_title">"তারিখ"</string>
+<string name="time_picker_title">"সময়"</string>
+<string name="biometric_weak_improve_matching_title">"ফেস মিলানো উন্নত করা হোক"</string>
+<string name="biometric_weak_liveliness_title">অন্তরীপ চেক লাইভ</string>
+<string name="biometric_weak_liveliness_summary">আনলক করার সময় চোখ চোখ পিট পিট করার প্রয়োজন</string>
+<string name="lock_after_timeout">"স্বয়ংক্রিয়ভাবে লক"</string>
+<string name="lock_after_timeout_summary">"<xliff:g id="timeout_string">%1$s</xliff:g> ঘুমানোর পরে"</string>
+<string name="show_owner_info_on_lockscreen_label">"লক পর্দায় মালিক তথ্য দেখান"</string>
+<string name="owner_info_settings_title">"মালিক তথ্য"</string>
+<string name="security_enable_widgets_title">"উইজেট সক্রিয় করুন "  </string>
+<string name="security_enable_widgets_disabled_summary">"এডমিনিস্ট্রাটর  দ্বারা অক্ষম" </string>
+<string name="owner_info_settings_edit_text_hint">লক পর্দায় প্রদর্শন প্রকার টেক্সট</string>
+<string name="show_user_info_on_lockscreen_label">লক স্ক্রীণে ব্যবহারকারীর তথ্য দেখান</string>
+<string name="user_info_settings_title">ব্যবহারকারী তথ্য</string>
+<string name="show_profile_info_on_lockscreen_label">"প্রোফাইল তথ্য লক পর্দায় দেখান" </string>
+<string name="profile_info_settings_title">" প্রোফাইল তথ্য"</string>
+<string name="location_settings_title">"অবস্থান"</string>
+<string name="security_settings_title">নিরাপত্তা</string>
+<string name="security_settings_summary">"আমার এলাকা, পর্দা আনলক, SIM কার্ড লক, শংসাপত্র সংগ্রহস্থল লক সেট"</string>
+<string name="cdma_security_settings_summary">"আমার এলাকা, পর্দা আনলক, শংসাপত্র সংগ্রহস্থল লক সেট"</string>
+<string name="security_passwords_title">"পাসওয়ার্ড"</string>
+<string name="crypt_keeper_settings_title">"এনক্রিপ্ট"</string>
+<string name="crypt_keeper_encrypt_title" product="tablet">"এনক্রিপ্ট ট্যাবলেট"</string>
+<string name="crypt_keeper_encrypt_title" product="default">"ফোন এনক্রিপ্ট করুন"</string>
+<string name="crypt_keeper_encrypt_summary" product="tablet">"একটি সাংখ্যিক ডিক্রিপ্ট যাও PIN বা পাসওয়ার্ড আপনার ট্যাবলেট প্রতিটি সময় আপনার প্রয়োজন পাওয়ার চালু"</string>
+<string name="crypt_keeper_encrypt_summary" product="default">"একটি সাংখ্যিক ডিক্রিপ্ট যাও PIN বা পাসওয়ার্ড আপনার ফোন প্রতিটি সময় আপনার প্রয়োজন পাওয়ার চালু"</string>
+<string name="crypt_keeper_encrypted_summary">"এনক্রিপ্ট করা"</string>
+<string name="crypt_keeper_desc" product="tablet">"আপনার অ্যাকাউন্টসমূহ,সেটিংস,ডাউনলোডকৃত অ্যাপ এবং সেগুলোর তথ্য এবং মিডিয়াসহ অন্যান্য ফাইল এনক্রিপ্ট করে নিতে পারেন। একবার এনক্রিপ্ট করে ফেললে প্রত্যেকবার আপনার ট্যাবলেট চালু করে ডিক্রিপ্ট করবার সময়ে একটা পিন নম্বর বা পাসওয়ার্ড প্রদান করতে হবে। ফ্যাক্টরি ডাটা রিসেট ছাড়া আপনার ট্যাবলেট ডিক্রিপ্ট করা সম্ভব নয়,যা আপনার সকল তথ্য মুছে দেবে। \n\nএনক্রিপশন করতে এক ঘণ্টা বা তার একটু বেশী সময় লাগে।  চালু করার আগে ব্যাটারি সম্পূর্ণরূপে চার্জ করে নেয়া আবশ্যক এবং এনক্রিপশন শেষ না হওয়া পর্যন্ত ট্যাবলেট সংযুক্ত রাখতে হবে।  এনক্রিপশন প্রক্রিয়া কোনরূপে ব্যাহত হলে কিছু বা সকল তথ্যই হারাতে পারেন। "</string>
+<string name="crypt_keeper_desc" product="default">"আপনার অ্যাকাউন্টসমূহ,সেটিংস,ডাউনলোডকৃত অ্যাপ এবং সেগুলোর তথ্য এবং মিডিয়াসহ অন্যান্য ফাইল এনক্রিপ্ট করে নিতে পারেন। একবার এনক্রিপ্ট করে ফেললে প্রত্যেকবার আপনার ফোন চালু করে ডিক্রিপ্ট করবার সময়ে একটা পিন নম্বর বা পাসওয়ার্ড প্রদান করতে হবে। ফ্যাক্টরি ডাটা রিসেট ছাড়া আপনার ফোন ডিক্রিপ্ট করা সম্ভব নয়,যা আপনার সকল তথ্য মুছে দেবে। \n\nএনক্রিপশন করতে এক ঘণ্টা বা তার একটু বেশী সময় লাগে।  চালু করার আগে ব্যাটারি সম্পূর্ণরূপে চার্জ করে নেয়া আবশ্যক এবং এনক্রিপশন শেষ না হওয়া পর্যন্ত ফোন সংযুক্ত রাখতে হবে।  এনক্রিপশন প্রক্রিয়া কোনরূপে ব্যাহত হলে কিছু বা সকল তথ্যই হারাতে পারেন। "</string>
+<string name="crypt_keeper_button_text" product="tablet">"এনক্রিপ্ট ট্যাবলেট"</string>
+<string name="crypt_keeper_button_text" product="default">"ফোন এনক্রিপ্ট করুন"</string>
+<string name="crypt_keeper_low_charge_text">"আপনার ব্যাটারী চার্জ এবং আবার চেষ্টা করুন।"</string>
+<string name="crypt_keeper_unplugged_text">"আপনার চার্জার প্লাগ ইন করুন এবং আবার চেষ্টা করুন।"</string>
+<string name="crypt_keeper_dialog_need_password_title">"কোন পর্দা লক PIN বা পাসওয়ার্ড নেই"</string>
+<string name="crypt_keeper_dialog_need_password_message">"এনক্রিপশন সক্রিয় করতে একটি লক স্ক্রীন পিন বা পাসওয়ার্ড নির্ধারণ করুন।"</string>
+<string name="crypt_keeper_confirm_title">"এনক্রিপশন নিশ্চিত করুন"</string>
+<string name="crypt_keeper_final_desc" product="tablet">"এনক্রিপশন প্রক্রিয়াটি অপরিবর্তনীয় এবং এর ব্যাঘাত ঘটলে আপনি সংরক্ষিত তথ্য হারাতে পারেন। এনক্রিপশন এক ঘণ্টা বা তার একটু বেশী সময় নিয়ে থাকে,এর মাঝে স্বয়ংক্রিয়ভাবে আপনার ট্যাবলেট কয়েকবার পুনরায় চালু হবে।"</string>
+<string name="crypt_keeper_final_desc" product="default">"এনক্রিপশন প্রক্রিয়াটি অপরিবর্তনীয় এবং এর ব্যাঘাত ঘটলে আপনি সংরক্ষিত তথ্য হারাতে পারেন। এনক্রিপশনে এক ঘণ্টা বা তার একটু বেশী সময় লেগে যায়,এর মাঝে স্বয়ংক্রিয়ভাবে আপনার ফোন কয়েকবার পুনরায় চালু হবে।"</string>
+<string name="crypt_keeper_setup_title">"এনক্রিপ্ট"</string>
+<string name="crypt_keeper_setup_description" product="tablet">"যখন অপেক্ষা করুন আপনার ট্যাবলেট      এনক্রিপ্ট না করা হচ্ছে। <xliff:g id="percent" example="50">^1</xliff:g>% সমাপ্ত।"</string>
+<string name="crypt_keeper_setup_description" product="default">"যখন অপেক্ষা করুন আপনার ফোন      এনক্রিপ্ট না করা হচ্ছে। <xliff:g id="percent" example="50">^1</xliff:g>% সমাপ্ত।"</string>
+<string name="crypt_keeper_cooldown">"চেষ্ঠা করুন <xliff:g id="delay" example="15">^1</xliff:g> সেকেন্ড।"</string>
+<string name="crypt_keeper_enter_password">"আপনার পাসওয়ার্ড টাইপ করুন"</string>
+<string name="crypt_keeper_failed_title">"এনক্রিপশানের অসফল"</string>
+<string name="crypt_keeper_failed_summary" product="tablet">"এনক্রিপশন প্রক্রিয়াটি ব্যাহত হয়েছে এবং অসম্পূর্ণ রয়ে যাচ্ছে। ফলস্বরূপ,আপনার ট্যাবলেটের তথ্যসমূহ আর ব্যবহার করতে পারবেন না। \n\n ট্যাবলেটটি পুনরায় ব্যবহার করতে হলে এর ফ্যাক্টরি রিসেট করা প্রয়োজন। ট্যাবলেটটি রিসেটের পর Google অ্যাকাউন্টে সংরক্ষিত তথ্যসমূহ এতে আবারো ব্যবহার করার সুযোগ পাবেন।"</string>
+<string name="crypt_keeper_failed_summary" product="default">"এনক্রিপশন প্রক্রিয়াটি ব্যাহত হয়েছে এবং অসম্পূর্ণ রয়ে যাবে। ফলস্বরূপ,আপনার ফোনের তথ্যসমূহ আর ব্যবহার করতে পারবেন না। \n\n ফোনটি পুনরায় ব্যবহার করতে হলে এর ফ্যাক্টরি রিসেট করা প্রয়োজন। ফোন রিসেটের পর Google অ্যাকাউন্টে সংরক্ষিত তথ্যসমূহ এতে আবারো ব্যবহার করার সুযোগ পাবেন।"</string>
+<string name="crypt_keeper_switch_input_method">ইনপুট পদ্ধতি পরিবর্তন করুন</string>
+<string name="lock_settings_picker_title">"স্ক্রিন আনলক নিরাপত্তা"</string>
+<string name="backup_lock_settings_picker_title">"ব্যাকআপ লক চয়ন করুন"</string>
+<string name="unlock_set_unlock_launch_picker_title">"পর্দা লক"</string>
+<string name="unlock_set_unlock_launch_picker_change_title">"স্ক্রীন লক পরিবর্তন করুন"</string>
+<string name="unlock_set_unlock_launch_picker_change_summary">"পরিবর্তন অথবা নিষ্ক্রিয় প্যাটার্ন ,PIN, অথবা পাসওয়ার্ড নিরাপত্তা"</string>
+<string name="unlock_set_unlock_launch_picker_enable_summary">"একটি পদ্ধতি পর্দা লক চয়ন করুন"</string>
+<string name="unlock_backup_info_summary">"যখন মুখ অবরোধমুক্ত আপনি দেখতে পারছি না, কিভাবে আপনি আনলক করতে চান?"</string>
+<string name="unlock_set_unlock_off_title">"কোনো কিছুই নয়"</string>
+<string name="unlock_set_unlock_none_title">"স্লাইড"</string>
+<string name="unlock_set_unlock_none_summary">"পর্দা আনলক নিরাপত্তা নিষ্ক্রিয় করুন"</string>
+<string name="unlock_set_unlock_biometric_weak_title">"মুখ আনলক"</string>
+<string name="unlock_set_unlock_biometric_weak_summary">"নিম্ন নিরাপত্তা, পরীক্ষামূলক"</string>
+<string name="unlock_set_unlock_pattern_title">"প্যাটার্ন"</string>
+<string name="unlock_set_unlock_pattern_summary">"মাঝারি নিরাপত্তা"</string>
+<string name="unlock_set_unlock_pin_summary">"মাঝারি থেকে উচ্চ নিরাপত্তা"</string>
+<string name="unlock_set_unlock_password_title">পাসওয়ার্ড</string>
+<string name="unlock_set_unlock_password_summary">"উচ্চ নিরাপত্তা"</string>
+<string name="unlock_set_unlock_disabled_summary">"প্রশাসক, এনক্রিপশন নীতি, বা ক্রেডেনশিয়াল স্টোরেজ দ্বারা অক্ষমিত"</string>
+<string name="unlock_set_unlock_mode_off">"কোনো কিছুই নয়"</string>
+<string name="unlock_set_unlock_mode_none">"স্লাইড"</string>
+<string name="unlock_set_unlock_mode_biometric_weak">"মুখ আনলক"</string>
+<string name="unlock_set_unlock_mode_pattern">"প্যাটার্ন"</string>
+<string name="unlock_set_unlock_mode_password">পাসওয়ার্ড</string>
+<string name="unlock_disable_lock_title">"পর্দা লক বন্ধ করুন"</string>
+<string name="unlock_disable_lock_pattern_summary">"আনলক প্যাটার্ন সরান"</string>
+<string name="unlock_disable_lock_pin_summary">"PIN উদ্ঘাটিত সরান"</string>
+<string name="unlock_disable_lock_password_summary">"পাসওয়ার্ড উদ্ঘাটিত সরান"</string>
+<string name="unlock_change_lock_pattern_title">"প্যাটার্ন উদ্ঘাটিত পরিবর্তন"</string>
+<string name="unlock_change_lock_pin_title">"আনলক PIN পরিবর্তন"</string>
+<string name="unlock_change_lock_password_title">"আনলক পাসওয়ার্ড পরিবর্তন করুন"</string>
+<string name="lockpassword_password_too_short">"পাসওয়ার্ড অন্তত %d অক্ষর থাকা আবশ্যক"</string>
+<string name="lockpassword_pin_too_short">"পিন অবশ্যই %d ডিজিটের হতে হবে।"</string>
+<string name="lockpassword_press_continue">"টিপুন চালিয়ে যায় যখন সম্পন্ন"</string>
+<string name="lockpassword_continue_label">"অব্যাহত"</string>
+<string name="lockpassword_password_too_long">"পাসওয়ার্ড <xliff:g id="number" example="17">%d</xliff:g> সংখ্যার তুলনায় নেই হতে পারে"</string>
+<string name="lockpassword_pin_too_long">"PIN <xliff:g id="number" example="17">%d</xliff:g> অংকের চেয়ে আর না"</string>
+<string name="lockpassword_pin_contains_non_digits">"PIN 0-9 শুধুমাত্র সংখ্যা ধারণ করা আবশ্যক"</string>
+<string name="lockpassword_pin_recently_used">"ডিভাইস অ্যাডমিনিস্ট্র্যাটর সম্প্রতি ব্যবহৃত পিন গ্রহণ করে না"</string>
+<string name="lockpassword_illegal_character">"পাসওয়ার্ড একটি অবৈধ অক্ষর উপস্থিত রয়েছে"</string>
+<string name="lockpassword_password_requires_alpha">"পাসওয়ার্ড কমপক্ষে একটি অক্ষর অন্তর্ভুক্ত করা আবশ্যক"</string>
+<string name="lockpassword_password_requires_digit">"পাসওয়ার্ড অন্তত এক অঙ্ক ধারণ করা আবশ্যক"</string>
+<string name="lockpassword_password_requires_symbol">"পাসওয়ার্ড অন্তত একটি চিহ্ন ধারণ করা আবশ্যক"</string>
+<plurals name="lockpassword_password_requires_letters">
+<item quantity="one">"পাস ওয়ার্ডে কমপক্ষে 1টি অক্ষর থাকতে হবে।"</item>
+<item quantity="other">"পাস ওয়ার্ডে কমপক্ষে %d টি অক্ষর থাকতে হবে।"</item>
+</plurals>
+<plurals name="lockpassword_password_requires_lowercase">
+<item quantity="one">"পাস ওয়ার্ডে কমপক্ষে 1 টি ছোট হরফের অক্ষর থাকতে হবে।"</item>
+<item quantity="other">"পাস ওয়ার্ডে কমপক্ষে %d টি ছোট হরফের অক্ষর থাকতে হবে।"</item>
+</plurals>
+<plurals name="lockpassword_password_requires_uppercase">
+<item quantity="one">"পাস ওয়ার্ডে কমপক্ষে 1 টি বড় হরফের অক্ষর থাকতে হবে।"</item>
+<item quantity="other">"পাস ওয়ার্ডে কমপক্ষে %d টি বড় হরফের অক্ষর থাকতে হবে।"</item>
+</plurals>
+<plurals name="lockpassword_password_requires_numeric">
+<item quantity="one">"পাস ওয়ার্ডে কমপক্ষে 1 টি ছোট হরফের অক্ষর থাকতে হবে।"</item>
+<item quantity="other">"পাস ওয়ার্ডে কমপক্ষে %d টি সংখ্যা থাকতে হবে।"</item>
+</plurals>
+<plurals name="lockpassword_password_requires_symbols">
+<item quantity="one">"পাস ওয়ার্ডে কমপক্ষে 1 টি বিশেষ চিহ্ন থাকতে হবে।"</item>
+<item quantity="other">"পাস ওয়ার্ডে কমপক্ষে %d বিশেষ চিহ্ন থাকতে হবে।"</item>
+</plurals>
+<plurals name="lockpassword_password_requires_nonletter">
+<item quantity="one">"পাস ওয়ার্ডে কমপক্ষে 1 টি নন-লেটার অক্ষর থাকতে হবে।"</item>
+<item quantity="other">"পাস ওয়ার্ডে কমপক্ষে %d নন-লেটার অক্ষর থাকতে হবে।"</item>
+</plurals>
+<string name="lockpassword_password_recently_used">"ডিভাইস অ্যাডমিনিস্ট্র্যাটর সম্প্রতি ব্যবহৃত পাসওয়ার্ড গ্রহণ করে না"</string>
+<string name="lockpassword_ok_label">ওকে</string>
+<string name="lockpassword_cancel_label">বাতিল</string>
+<string name="lockpattern_tutorial_cancel_label">বাতিল</string>
+<string name="lockpattern_tutorial_continue_label">"পরবর্তী"</string>
+<string name="lock_setup">"সম্পূর্ণ সেটআপ করুন"</string>
+<string name="device_admin_title">"ডিভাইস প্রশাসন"</string>
+<string name="manage_device_admin">"ডিভাইস অ্যাডমিনিস্ট্রেটররা"</string>
+<string name="manage_device_admin_summary">"অপসারণ বা যোগ করুন ডিভাইস অ্যাডমিনিস্ট্রেটর"</string>
+<string name="manage_notification_access">"নোটিফিকেশন প্রবেশাধিকার " </string>
+<string name="manage_notification_access_summary_zero"> "অ্যাপলিকেশনটি বিজ্ঞপ্তি পড়তে পারে না " </string>
+<plurals name="manage_notification_access_summary_nonzero">
+<item quantity="one">"%d অ্যাপ্লিকেশন বিজ্ঞপ্তি পড়তে পারে " </item>
+<item quantity="other">"%d অ্যাপ্লিকেশন বিজ্ঞপ্তি পড়তে পারে " </item>
+</plurals>
+<string name="no_notification_listeners">"কোন বিজ্ঞপ্তি শ্রোতাকে ইনস্টল করা হয়নি" </string>
+<string name="notification_listener_security_warning_title">" <xliff:g id="service" example="NotificationReader">%1$s</xliff:g>চালু করতে চান?"</string>
+<string name="notification_listener_security_warning_summary">"<xliff:g id="notification_listener_name">%1$s</xliff:g> সিস্টেম বা ইন্সটল করা যেকোন অ্যাপলিকেশনের নোটিফিকেশন পড়তে সক্ষম হবে,কোন ধরনের কন্ট্যাক্টের নাম বা মেসেজ,ব্যক্তিগত তথ্য অন্তর্ভুক্ত থাকতে পারে । অ্যাকশন বোতাম স্পর্শ করলে এইসব নোটিফিকেশনবরখাস্ত করতে সক্ষম হবে।"  </string>
+<string name="bluetooth_quick_toggle_title">"ব্লুটুথ"</string>
+<string name="bluetooth_quick_toggle_summary">"ব্লুটুথ চালু করুন"</string>
+<string name="bluetooth_settings">"ব্লুটুথ"</string>
+<string name="bluetooth_settings_title">"ব্লুটুথ"</string>
+<string name="bluetooth_settings_summary">"সংযোগ, সেট ডিভাইসের নাম এবং পরিচালনা"</string>
+<string name="bluetooth_pairing_request">"ব্লুটুথ জোর - বাঁধানো অনুরোধ"</string>
+<string name="bluetooth_enter_pin_msg">":<xliff:g id="bold">&lt;br>&lt;b></xliff:g><xliff:g id="device_name">%1$s</xliff:g><xliff:g id="end_bold">&lt;/b>&lt;br>&lt;br></xliff:g> এর সাথে পেয়ার করতে ডিভাইসের পিন প্রদান করুন।"</string>
+<string name="bluetooth_enter_passkey_msg">":<xliff:g id="bold">&lt;br>&lt;b></xliff:g><xliff:g id="device_name">%1$s</xliff:g><xliff:g id="end_bold">&lt;/b>&lt;br>&lt;br></xliff:g> এর সাথে পেয়ার করতে ডিভাইসের পাস-কি প্রদান করুন।"</string>
+<string name="bluetooth_enable_alphanumeric_pin">"PIN টি অক্ষর বা চিহ্ন রয়েছে"</string>
+<string name="bluetooth_pin_values_hint">"সাধারণত 0000 অথবা 1234"</string>
+<string name="bluetooth_enter_pin_other_device">"আপনাকে অন্যান্য ডিভাইসে এই PIN প্রবেশ করার প্রয়োজন হতে পারে।"</string>
+<string name="bluetooth_enter_passkey_other_device">"আপনাকে অন্যান্য ডিভাইসে এই পাসকীটি লিখুন প্রয়োজন হতে পারে।"</string>
+<string name="bluetooth_confirm_passkey_msg">":&lt;br>&lt;b><xliff:g id="device_name">%1$s</xliff:g>&lt;/b>&lt;br>&lt;br> সাথে পেয়ার করার সময় নিশ্চিত হয়ে নিন যে এটি :&lt;br>&lt;b><xliff:g id="passkey">%2$s</xliff:g>&lt;br> পাসকি প্রদর্শন করছে।""</string>
+<string name="bluetooth_incoming_pairing_msg">":&lt;br>&lt;b><xliff:g id="device_name">%1$s</xliff:g>&lt;/b>&lt;br>&lt;br> হতে।এই ডিভাইসের সাথে পেয়ার করবেন?"</string>
+<string name="bluetooth_display_passkey_pin_msg">":<xliff:g id="bold1">&lt;br>&lt;b></xliff:g><xliff:g id="device_name">%1$s</xliff:g><xliff:g id="end_bold1">&lt;/b>&lt;br>&lt;br></xliff:g> এতাটে টাইপ করুন <xliff:g id="bold2">&lt;br>&lt;b></xliff:g><xliff:g id="passkey">%2$s</xliff:g><xliff:g id="end_bold2">&lt;br></xliff:g> এর সাথে পেয়ার করতে রিটার্ন কিংবা এন্টার চাপুন।"</string>
+<string name="bluetooth_pairing_accept">"জোড়া"</string>
+<string name="bluetooth_pairing_decline">বাতিল</string>
+<string name="bluetooth_pairing_error_message">"একটি সমস্যা জোর - বাঁধানো সঙ্গে ছিল <xliff:g id="device_name">%1$s</xliff:g>।"</string>
+<string name="bluetooth_pairing_pin_error_message">"একটি সমস্যা জোর - বাঁধানো সঙ্গে ছিল <xliff:g id="device_name">%1$s</xliff:g>কারণ PIN অথবা পাসকী ঠিক না।"</string>
+<string name="bluetooth_pairing_device_down_error_message">"যোগাযোগ স্থাপন করতে পারি না <xliff:g id="device_name">%1$s</xliff:g>।"</string>
+<string name="bluetooth_pairing_rejected_error_message">"জোরবাঁধানো প্রত্যাখ্যাত <xliff:g id="device_name">%1$s</xliff:g>।"</string>
+<string name="bluetooth_connecting_error_message">"<xliff:g id="device_name">%1$s</xliff:g> এর সাথে সংযোগ দেয়া সম্ভব হচ্ছে না।"</string>
+<string name="bluetooth_preference_scan_title">"ডিভাইসের জন্য স্ক্যান"</string>
+<string name="bluetooth_search_for_devices">"ডিভাইসের জন্য খোঁজো"</string>
+<string name="bluetooth_searching_for_devices">অনুসন্ধান\u2026</string>
+<string name="bluetooth_preference_device_settings">ডিভাইস সেটিংস</string>
+<string name="bluetooth_preference_paired_devices">"জোড় ডিভাইস"</string>
+<string name="bluetooth_preference_found_devices">"উপলব্ধ ডিভাইসগুলি"</string>
+<string name="bluetooth_device_context_connect">"সংযুক্ত হন"</string>
+<string name="bluetooth_device_context_disconnect">"সংযোগ বিচ্ছিন্ন করুন"</string>
+<string name="bluetooth_device_context_pair_connect">"যুগ্ম &amp;সংযোগ"</string>
+<string name="bluetooth_device_context_unpair">"যুক্ত নয়"</string>
+<string name="bluetooth_device_context_disconnect_unpair">"বিযুক্ত &amp; সংযুক্ত না করা"</string>
+<string name="bluetooth_device_context_connect_advanced">"অপসন\u2026"</string>
+<string name="bluetooth_menu_advanced">"আধুনিকীকরণ"</string>
+<string name="bluetooth_advanced_titlebar">"উন্নত ব্লুটুথ"</string>
+<string name="bluetooth_empty_list_bluetooth_off">"ব্লুটুথ চালু থাকলে আপনার ডিভাইস অন্যান্য ডিভাইসের সাথে যোগাযোগ স্থাপন করতে পারবে।"</string>
+<string name="bluetooth_connect_specific_profiles_title">"সংযোগ\u2026"</string>
+<string name="bluetooth_profile_a2dp">"মিডিয়া"</string>
+<string name="bluetooth_profile_headset">"ফোন"</string>
+<string name="bluetooth_profile_opp">"হস্তান্তর"</string>
+<string name="bluetooth_profile_hid">"হিউম্যান ইন্টারফেস ডিভাইস"</string>
+<string name="bluetooth_profile_pan">"ইন্টারনেট সুবিধা"</string>
+<string name="bluetooth_profile_pan_nap">"ইন্টারনেট কানেকশন শেয়ারিং"</string>
+<string name="bluetooth_profile_map">"মেসেজ এক্সেস" </string>
+<string name="bluetooth_disconnect_a2dp_profile">"<xliff:g id="device_name">%1$s</xliff:g>সংযোগ বিচ্ছিন্ন করা হবে মিডিয়া অডিও থেকে।"</string>
+<string name="bluetooth_disconnect_headset_profile">"<xliff:g id="device_name">%1$s</xliff:g>সংযোগ বিচ্ছিন্ন করা হবে হ্যান্ডফ্রি অডিওটি থেকে।"</string>
+<string name="bluetooth_disconnect_hid_profile">"<xliff:g id="device_name">%1$s</xliff:g> সংযোগ বিচ্ছিন্ন করা হবে ইনপুট যন্ত্র থেকে।"</string>
+<string name="bluetooth_disconnect_pan_user_profile">"ইন্টারনেট সুবিধা<xliff:g id="device_name">%1$s</xliff:g>সংযোগ বিচ্ছিন্ন হবে।"</string>
+<string name="bluetooth_disconnect_pan_nap_profile" product="tablet">"<xliff:g id="device_name">%1$s</xliff:g> সংযোগ বিচ্ছিন্ন করা হবে টেবলেট এর নেট কানেকসান থেকে।"</string>
+<string name="bluetooth_disconnect_pan_nap_profile" product="default">"<xliff:g id="device_name">%1$s</xliff:g> সংযোগ বিচ্ছিন্ন করা হবে ফোন এর নেট কানেকসান থেকে।"</string>
+<string name="bluetooth_device_advanced_title">"যুক্ত Bluetooth ডিভাইস"</string>
+<string name="bluetooth_device_advanced_online_mode_title">"সংযুক্ত হন"</string>
+<string name="bluetooth_device_advanced_online_mode_summary">"ব্লুটুথ ডিভাইস থেকে সংযোগ"</string>
+<string name="bluetooth_device_advanced_profile_header_title">"প্রোফাইল"</string>
+<string name="bluetooth_device_advanced_rename_device">পুনর্নামকরণ</string>
+<string name="bluetooth_device_advanced_enable_opp_title">"অন্তর্মুখী ফাইল স্থানান্তর করার অনুমতি দিন"</string>
+<string name="bluetooth_a2dp_profile_summary_connected">"সংযুক্ত করুন মিডিয়া অডিও থেকে"</string>
+<string name="bluetooth_headset_profile_summary_connected">"সংযুক্ত করুন ফোন অডিও থেকে"</string>
+<string name="bluetooth_opp_profile_summary_connected">"সংযুক্ত ফাইল স্থানান্তর সার্ভার থেকে"</string>
+<string name="bluetooth_map_profile_summary_connected">"ম্যাপ সংযোগ স্থাপন হয়েছে" </string>
+<string name="bluetooth_opp_profile_summary_not_connected">"সংযুক্ত ফাইল স্থানান্তর সার্ভার নয়"</string>
+<string name="bluetooth_hid_profile_summary_connected">"ইনপুট ডিভাইসের সাথে সংযুক্ত"</string>
+<string name="bluetooth_pan_user_profile_summary_connected">"ইন্টারনেট এক্সেস জন্য সংযুক্ত ডিভাইস"</string>
+<string name="bluetooth_pan_nap_profile_summary_connected">"ভাগ স্থানীয় ডিভাইসের সাথে ইন্টারনেট সংযোগ"</string>
+<string name="bluetooth_a2dp_profile_summary_use_for">"মিডিয়া অডিও জন্য ব্যবহার করুন"</string>
+<string name="bluetooth_headset_profile_summary_use_for">"ফোন অডিও জন্য ব্যবহার করুন"</string>
+<string name="bluetooth_opp_profile_summary_use_for">"ফাইল স্থানান্তরের জন্য ব্যবহার করুন"</string>
+<string name="bluetooth_hid_profile_summary_use_for">"ইনপুট জন্য ব্যবহার করুন"</string>
+<string name="bluetooth_pan_profile_summary_use_for">"ইন্টারনেটে এক্সেসের জন্য ব্যবহার করুন"</string>
+<string name="bluetooth_map_profile_summary_use_for">"ম্যাপের জন্য ব্যবহার করুন"</string>
+<string name="bluetooth_dock_settings">"ডক সেটিংস"</string>
+<string name="bluetooth_dock_settings_title">"অডিও জন্য ডক ব্যবহার"</string>
+<string name="bluetooth_dock_settings_headset">"AS স্পিকার ফোন"</string>
+<string name="bluetooth_dock_settings_a2dp">"জন্য সঙ্গীত এবং মিডিয়া"</string>
+<string name="bluetooth_dock_settings_remember">"সেটিংস মনে রেখো"</string>
+<string name="wifi_display_settings_title">"অভিক্ষেপ পর্দা"</string>
+<string name="wifi_display_enable_menu_item">"ওয়্যারলেস ডিসপ্লে চালু করুন"</string>
+<string name="wifi_display_no_devices_found">"আশেপাশে কোন ডিভাইস পাওয়া যায়নি"</string>
+<string name="wifi_display_status_connecting">"সংযোজক"</string>
+<string name="wifi_display_status_connected">"স্থগিত"</string>
+<string name="wifi_display_status_in_use">"ব্যাবহার হয়েছে"</string>
+<string name="wifi_display_status_not_available">"অপ্রাপ্য"</string>
+<string name="wifi_display_details">"সেটিংস প্রদর্শন"</string>
+<string name="wifi_display_options_title">ওয়্যারলেস প্রদর্শনের বিকল্পগুলি</string>
+<string name="wifi_display_options_forget">"ভুলে যান"</string>
+<string name="wifi_display_options_done">সম্পন্ন</string>
+<string name="wifi_display_options_name">VPN নাম</string>
+<string name="nfc_quick_toggle_summary" product="tablet">ট্যাবলেট অন্য ডিভাইসে স্পর্শ তথ্য বিনিময় করার অনুমতি দিন</string>
+<string name="nfc_quick_toggle_summary" product="default">ফোন অন্য ডিভাইসে স্পর্শ তথ্য বিনিময় করার অনুমতি দিন</string>
+<string name="android_beam_on_summary">"যাও NFC মাধ্যমে অ্যাপ্লিকেশন কন্টেন্ট প্রেরণ প্রস্তুত"</string>
+<string name="android_beam_off_summary">বন্ধ</string>
+<string name="android_beam_disabled_summary">"অনুপলব্ধ কারণ NFC বন্ধ পরিণত হয়"</string>
+<string name="android_beam_explained">"এই ফীচার চালু থাকলে আরেকটি এনএফসি সক্রিয় ডিভাইস কাছাকাছি রেখে যেকোন অ্যাপ কন্টেন্ট আদানপ্রদান করা যায়।  যেমন,আপনার ব্রাউজার পেজ, ইউটিউব ভিডিও, মানুষের কন্ট্যাক্ট এবং আরো অন্যান্য।  \n\n ডিভাইসগুলো কাছাকাছি রাখুন(সাধারণত দুটি\'র পেছন দিক মুখোমুখি রেখে)এবং আপনার ডিভাইসের স্ক্রিন স্পর্শ করুন। তথ্যের আদান প্রদান অ্যাপ নির্ধারণ করে দেবে।"</string>
+<string name="nsd_quick_toggle_title">নেটওয়ার্ক সেবা আবিষ্কার</string>
+<string name="nsd_quick_toggle_summary">অন্যান্য ডিভাইসের অ্যাপস এই ডিভাইসে অ্যাপস আবিষ্কার করতে দেয়</string>
+<string name="wifi_quick_toggle_title">"ওয়াই-ফাই"</string>
+<string name="wifi_quick_toggle_summary">"Wi-Fi চালু করুন"</string>
+<string name="wifi_settings">"ওয়াই-ফাই"</string>
+<string name="wifi_settings_category">"Wi-Fi সেটিংস"</string>
+<string name="wifi_settings_title">"ওয়াই-ফাই"</string>
+<string name="wifi_settings_summary">"সেট আপ &amp; বেতার অ্যাক্সেস পয়েন্ট পরিচালনা"</string>
+<string name="wifi_setup_wizard_title">"WLAN নির্বাচন"</string>
+<string name="wifi_starting">"ওয়াই-ফাই চালু হচ্ছে..."</string>
+<string name="wifi_stopping">"ওয়াই-ফাই বন্ধ হচ্ছে..."</string>
+<string name="wifi_error">ভুল</string>
+<string name="wifi_in_airplane_mode">"বিমান মোদে"</string>
+<string name="wifi_fail_to_scan">"নেটওয়ার্কের জন্য স্ক্যান করতে অক্ষম"</string>
+<string name="wifi_wapi_fail_to_init">WAPI সার্টিফিকেটস\nক্রেডেয়নসিয়াল পড়তে অসমর্থ স্টোরেজ সমর্থ করতে নাও পারে</string>
+<string name="wifi_wapi_fail_to_auth">WAPI শনাক্তকরণ ব্যর্থ হয়েছিল\nঅনুগ্রহ করে পাসওয়ার্ড বা সার্টিফিকেটগুলি যাচাই করুন</string>
+<string name="wifi_wapi_cert_lost">বর্তমান সাথে সংযোগ AP জন্য সার্টিফিকেশন খুঁজে পাওয়া যায়নি</string>
+<string name="wifi_notify_open_networks">"নেটওয়ার্ক বিজ্ঞপ্তি"</string>
+<string name="wifi_notify_open_networks_summary">"আমাকে যখন একটি খোলা নেটওয়ার্ক উপলব্ধ জ্ঞাপন করা"</string>
+<string name="wifi_poor_network_detection">দরিদ্র সংযোগ এড়িয়ে চলুন</string>
+<string name="wifi_poor_network_detection_summary">"একটি ভাল ইন্টারনেট সংযোগ ছাড়া WLAN নেটওয়ার্ক ব্যবহার করবেন না"</string>
+<string name="wifi_scan_always_available">"স্ক্যানিং সর্বদা রয়েছে" </string>
+<string name="wifi_scan_always_available_summary">"Wi-Fi বন্ধ থাকলেও গুগল লোকেশন সার্ভিস এবং অন্যান্য অ্যাপ্লিকেশনকে নেটওয়ার্ক সার্ভিস ব্যবহার করতে দিন" </string>
+<string name="wifi_install_credentials">"সার্টিফিকেট ইন্সটল করুন" </string>
+<string name="wifi_scan_notify_text_location_on">"ওয়াই-ফাই বন্ধ থাকলেও সঠিক অবস্থান নির্ণয় এবং অন্যান্য সুবিধা সমূহ উন্নত করতে Google ও অন্যান্য অ্যাপ আশেপাশের নেটওয়ার্ক স্ক্যান করতে পারে। এটা না চাইলে,অ্যাডভান্সড্‌ &gt; সবসময়ে স্ক্যান প্রযোজ্য এ প্রবেশ করুন।"</string>
+<string name="wifi_scan_notify_text_location_off">"ওয়াই-ফাই বন্ধ থাকলেও অ্যাপগুলো আশেপাশের নেটওয়ার্ক স্ক্যান করতে পারে। এটা না চাইলে,অ্যাডভান্সড্‌ &gt; সবসময়ে স্ক্যান প্রযোজ্য এ প্রবেশ করুন।"</string>
+<string name="wifi_scan_notify_remember_choice">"পুনরায় না দেখানো" </string>
+<string name="wifi_setting_sleep_policy_title">"Wi-Fi ঘুম নীতি"</string>
+<string name="wifi_setting_sleep_policy_error">"একটি সমস্যা ঘুম নীতি নির্ধারণের ছিল।"</string>
+<string name="wifi_suspend_optimizations">"Wi\u2011Fi অপটিমাইজেশন" </string>
+<string name="wifi_suspend_optimizations_summary">"Wi\u2011Fi চালু থাকাকালীন ব্যাটারির সর্বনিম্ন ব্যবহার প্রয়োগ করুন" </string>
+<string name="wifi_add_network">"ওয়াইফাই নেটওয়ার্ক যোগ করুন"</string>
+<string name="wifi_access_points">"Wi-Fi নেটওয়ার্কের"</string>
+<string name="wifi_menu_wps_pbc">WPS বাটন ধাক্কা</string>
+<string name="wifi_menu_more_options">আরও অপশন</string>
+<string name="wifi_menu_wps_pin">WPS পিন এণ্ট্রি</string>
+<string name="wifi_menu_p2p">"ওয়াই-ফাই পরিচালনা"</string>
+<string name="wifi_menu_scan">"ছন্দোবিশ্লেষণ করা"</string>
+<string name="wifi_menu_advanced">"আধুনিকীকরণ"</string>
+<string name="wifi_menu_connect">"নেটওয়ার্ক সংযোগ"</string>
+<string name="wifi_menu_forget">"নেটওয়ার্ক ভুলে যান"</string>
+<string name="wifi_menu_modify">"নেটওয়ার্ক পরিবর্তন করুন"</string>
+<string name="wifi_empty_list_wifi_off">"উপলব্ধ নেটওয়ার্ক দেখতে, WLAN চালু করুন।"</string>
+<string name="wifi_empty_list_wifi_on">"WLAN নেটওয়ার্কগুলির জন্য অনুসন্ধান\u2026"</string>
+<string name="wifi_empty_list_user_restricted">"Wi\u2011Fi নেটওয়ার্ক বদলানোর অনুমুতি নেই।"  </string>
+<string name="wifi_other_network">অন্য নেটওয়ার্ক \u2026</string>
+<string name="wifi_more">অধিক</string>
+<string name="wifi_setup_wps">স্বয়ংক্রিয় সেটআপ (WPS)</string>
+<string name="wifi_required_info_text"> সেট-আপ সম্পন্ন করতে আপনাকে অবশ্যই Wi\u2011Fi ব্যবহার করতে হবে । মোবাইল ডাটা এবং  Wi\u2011Fi এর যেকোনটি পরিবর্তন করতে পারেন।" </string>
+<string name="wifi_show_advanced">"উন্নত বিকল্পগুলি দেখান"</string>
+<string name="wifi_wps_setup_title">"WLAN সেটআপ সুরক্ষিত"</string>
+<string name="wifi_wps_setup_msg">শুরু WPS \u2026</string>
+<string name="wifi_wps_onstart_pbc">"আপনার রাউটারে WLAN সুরক্ষিত সেটআপ বোতাম চাপুন। এটি \ "WPS \" অভিহিত হবে বা এই চিহ্ন বহন করবে: "</string>
+<string name="wifi_wps_onstart_pin">"আপনার ওয়াই-ফাই রাউটারে <xliff:g id="number">%1$s</xliff:g> পিনটি প্রবেশ করুন। সেট-আপ সম্পন্ন হতে প্রায় দুই মিনিট লাগতে পারে।"</string>
+<string name="wifi_wps_complete">WPS সফল হয়েছে. নেটওয়ার্ক  সংযুক্ত হচ্ছে\u2026 </string>
+<string name="wifi_wps_connected">"<xliff:g id="number">%1$s</xliff:g> ওয়াই-ফাই নেটওয়ার্কের সাথে সংযুক্ত"</string>
+<string name="wifi_wps_in_progress">"ডাব্লিউপিএস প্রক্রিয়া সম্পন্ন হতে যাচ্ছে এবং প্রায় দুই মিনিট লাগতে পারে।"</string>
+<string name="wifi_wps_failed_generic">WPS ব্যর্থ হয়েছে. কয়েক মিনিটের মধ্যে আবার চেষ্টা করুন.</string>
+<string name="wifi_wps_failed_wep">ওয়্যারলেস রাউটার সুরক্ষা সেটিং (TKIP) সমর্থিত নয়</string>
+<string name="wifi_wps_failed_tkip">ওয়্যারলেস রাউটার সুরক্ষা সেটিং (TKIP) সমর্থিত নয়</string>
+<string name="wifi_wps_failed_auth">প্রমাণীকরণ ব্যর্থ. আবার চেষ্টা করুন.</string>
+<string name="wifi_wps_failed_overlap">ইতিমধ্যেই অন্য অ্যাপ্লিকেশন চলমান যে বন্ধ করার পূর্বে আপনি একটি নতুন এক আরম্ভ করা সম্ভব হবে.</string>
+<string name="wifi_ssid">"নেটওয়ার্ক SSID"</string>
+<string name="wifi_ssid_hint">"SSID লিখুন"</string>
+<string name="wifi_security">নিরাপত্তা</string>
+<string name="wifi_signal">"সংকেত শক্তি"</string>
+<string name="wifi_status">"অবস্থা"</string>
+<string name="wifi_speed">"লিংক গতি"</string>
+<string name="wifi_ip_address">"IP ঠিকানা"</string>
+<string name="wifi_eap_method">"EAP পদ্ধতি"</string>
+<string name="please_select_phase2">"ফেজ 2 প্রমাণীকরণ"</string>
+<string name="wifi_eap_ca_cert">"CA শংসাপত্র"</string>
+<string name="wifi_eap_user_cert">"ব্যবহারকারীর শংসাপত্র"</string>
+<string name="wifi_eap_identity">"ব্যক্তিগত পরিচয়"</string>
+<string name="wifi_eap_anonymous">"বেনামী পরিচয়"</string>
+<string name="wifi_wapi_psk_type">"পাসওয়ার্ড প্রকার"</string>
+<string name="wifi_password">পাসওয়ার্ড</string>
+<string name="wifi_show_password">"পাসওয়ার্ড দেখান।"</string>
+<string name="wifi_wapi_as_certificate">"AS সার্টিফিকেট"</string>
+<string name="wifi_wapi_user_certificate">"ব্যবহারকারীর শংসাপত্র"</string>
+<string name="wifi_ip_settings">"আইপি সেটিংস"</string>
+<string name="wifi_unchanged">"(অপরিবর্তিত)"</string>
+<string name="wifi_unspecified">"(অনির্দিষ্ট)"</string>
+<string name="wifi_remembered">"সংরক্ষিত হয়েছে"</string>
+<string name="wifi_disabled_generic">অক্ষম</string>
+<string name="wifi_disabled_network_failure">"অপবারিত খারাপ ইন্টারনেট সংযোগ"</string>
+<string name="wifi_disabled_password_failure">"প্রমাণীকরণ সমস্যা"</string>
+<string name="wifi_not_in_range">"না পরিসীমা"</string>
+<string name="wifi_wps_available_first_item">"WPS উপলব্ধ"</string>
+<string name="wifi_wps_available_second_item">"\u0020(WPS উপলব্ধ)"</string>
+<string name="wifi_secured_first_item">"সুরক্ষিত <xliff:g id="wifi_security_short">%1$s</xliff:g>"</string>
+<string name="wifi_secured_second_item">", সুরক্ষিত সঙ্গে <xliff:g id="wifi_security_short">%1$s</xliff:g>"</string>
+<string name="wifi_security_none">"খোলা"</string>
+<string name="wifi_security_wapi_psk_hexadecimal">"WAPI PSK হেক্সাডেসিমাল"</string>
+<string name="wifi_scan_always_turnon_message">"ওয়াই-ফাই বন্ধ থাকলেও,সঠিক অবস্থান নির্ণয় এবং অন্যান্য সুবিধা সমূহ উন্নত করতে <xliff:g id="app_name">%1$s</xliff:g> নেটওয়ার্ক স্ক্যান করতে চাইবে। \n\n স্ক্যান করতে চায়- এমন সকল অ্যাপের ক্ষেত্রে অনুমতি আছে?"</string>
+<string name="wifi_scan_always_confirm_allow">"অনুমতি প্রদান করা হবে"</string>
+<string name="wifi_scan_always_confirm_deny">"অস্বীকার করা"</string>
+<string name="wifi_connect">"সংযুক্ত হন"</string>
+<string name="wifi_failed_connect_message">নেটওয়ার্কের সাথে সংযোগ স্থাপন করতে ব্যর্থ হয়েছে</string>
+<string name="wifi_forget">"ভুলে যান"</string>
+<string name="wifi_failed_forget_message">নেটওয়ার্ক ভুলে যান করতে ব্যর্থ হয়েছে</string>
+<string name="wifi_save">সংরক্ষণ</string>
+<string name="wifi_failed_save_message">নেটওয়ার্ক সংরক্ষণ করতে ব্যর্থ হয়েছে</string>
+<string name="wifi_cancel">বাতিল</string>
+<string name="wifi_skip_anyway">যেকোনভাবে এড়িয়ে যাও </string>
+<string name="wifi_dont_skip">এড়িয়ে যাবেন না </string>
+<string name="wifi_skipped_message" product="tablet">সতর্কবাণী: আপনার অতিরিক্ত ক্যারিয়ার ডেটা চার্জ বহন করতে হতে পারে। \n\n ট্যাবলেট সেটআপে উল্লেখযোগ্য নেটওয়ার্ক কার্যকলাপ প্রয়োজন করতে পারে।  </string>
+<string name="wifi_skipped_message" product="default">সতর্কবাণী: আপনার অতিরিক্ত ক্যারিয়ার ডেটা চার্জ বহন করতে হতে পারে। \n\n ফোন সেটআপে উল্লেখযোগ্য নেটওয়ার্ক কার্যকলাপ প্রয়োজন করতে পারে।  </string>
+<string name="wifi_and_mobile_skipped_message" product="tablet">"সতর্কবার্তা: আপনার একটি ইন্টারনেট সংযোগ না থাকা পর্যন্ত, ট্যাবলেট আপনার সফ্টওয়্যার আপ আপডেট যাচাই করতে পারবেনা ."</string>
+<string name="wifi_and_mobile_skipped_message" product="default">"সতর্কবার্তা: আপনার একটি ইন্টারনেট সংযোগ না থাকা পর্যন্ত, ফোন আপনার সফ্টওয়্যার আপডেট যাচাই করতে পারবেনা।"</string>
+<string name="wifi_connect_failed_message" product="tablet">"ট্যাবলেট এই Wi\u2011Fi নেটওয়ার্কের সাথে সংযোগ করতে অক্ষম."</string>
+<string name="wifi_connect_failed_message" product="default">"ফোন এই Wi\u2011Fi নেটওয়ার্কের সাথে সংযোগ করতে অক্ষম."</string>
+<string name="wifi_advanced_titlebar">"অ্যাডভান্সড্‌ ওয়াই-ফাই"</string>
+<string name="wifi_setting_frequency_band_title">"WLAN ফ্রিকোয়েন্সি ব্যান্ড"</string>
+<string name="wifi_setting_frequency_band_summary">"অপারেশন ফ্রিকোয়েন্সি নির্দিষ্ট পরিসীমা"</string>
+<string name="wifi_setting_frequency_band_error">"একটি ত্রুটি ঘটেছে ফ্রিকোয়েন্সি ব্যান্ড সেটিং"</string>
+<string name="wifi_advanced_mac_address_title">"MAC ঠিকানা"</string>
+<string name="wifi_advanced_ip_address_title">"IP ঠিকানা"</string>
+<string name="wifi_advanced_settings_label">"আইপি সেটিংস"</string>
+<string name="wifi_ip_settings_menu_save">সংরক্ষণ</string>
+<string name="wifi_ip_settings_menu_cancel">বাতিল</string>
+<string name="wifi_ip_settings_invalid_ip_address">"একটি বৈধ IP ঠিকানা লিখুন।"</string>
+<string name="wifi_ip_settings_invalid_gateway">"একটি বৈধ গেটওয়ে ঠিকানা টাইপ করুন।"</string>
+<string name="wifi_ip_settings_invalid_dns">"একটি বৈধ DNS ঠিকানা টাইপ করুন।"</string>
+<string name="wifi_ip_settings_invalid_network_prefix_length">"0 এবং 32 এর মধ্যে নেটওয়ার্ক উপসর্গ দ্বারা টাইপ করুন।"</string>
+<string name="wifi_dns1">"DNS1"</string>
+<string name="wifi_dns2">"DNS2"</string>
+<string name="wifi_gateway">"গেট ওয়ে"</string>
+<string name="wifi_network_prefix_length">"নেটওয়ার্ক উপসর্গ দ্বারা"</string>
+<string name="wifi_p2p_settings_title">"ওয়াই-ফাই পরিচালনা"</string>
+<string name="wifi_p2p_device_info">"ডিভাইস তথ্য"</string>
+<string name="wifi_p2p_persist_network">"এই সংযোগ মনে রাখুন"</string>
+<string name="wifi_p2p_menu_search">"ডিভাইসের জন্য খোঁজো"</string>
+<string name="wifi_p2p_menu_searching">অনুসন্ধান\u2026</string>
+<string name="wifi_p2p_menu_rename">ডিভাইস পুনঃনামকরণ</string>
+<string name="wifi_p2p_peer_devices">পিয়ার ডিভাইস</string>
+<string name="wifi_p2p_remembered_groups">স্মরণ রাখা গ্রুপগুলি</string>
+<string name="wifi_p2p_failed_connect_message">সংযোগ করতে পারে নি.</string>
+<string name="wifi_p2p_failed_rename_message">ডিভাইস পরিবর্তন করতে ব্যর্থ.</string>
+<string name="wifi_p2p_disconnect_title">"বিযুক্ত করা?"</string>
+<string name="wifi_p2p_disconnect_message">"আপনি যোগাযোগ বিচ্ছিন্ন করলে<xliff:g id="peer_name">%1$s</xliff:g>\'র সাথে আপনার যোগাযোগ বন্ধ হয়ে যাবে।"</string>
+<string name="wifi_p2p_disconnect_multiple_message">আপনার সাথে সংযোগ বিচ্ছিন্ন হলে, আপনার সংযোগ<xliff:g id="peer_name">%1$s</xliff:g> এবং <xliff:g id="peer_count">%2$s</xliff:g>অন্যান্য ডিভাইস শেষ হয়ে যাবে.</string>
+<string name="wifi_p2p_cancel_connect_title">আমন্ত্রণ বাতিল করবেন?</string>
+<string name="wifi_p2p_cancel_connect_message">আপনার সাথে সংযোগ স্থাপন করার আমন্ত্রণ বাতিল করতে চান<xliff:g id="peer_name">%1$s</xliff:g>?</string>
+<string name="wifi_p2p_delete_group_message">এই গ্রুপ ভুলে যান? </string>
+<string name="wifi_tether_checkbox_text">"পোর্টেবল WLAN হটস্পট"</string>
+<string name="wifi_tether_starting">হটস্পট চালু হচ্ছে\u2026</string>
+<string name="wifi_tether_stopping">হটস্পট বন্ধ হচ্ছে\u2026 </string>
+<string name="wifi_tether_enabled_subtext">"পোর্টেবল হটস্পট <xliff:g id="network_ssid">%1$s</xliff:g>সক্রিয়"</string>
+<string name="wifi_tether_failed_subtext">"পোর্টেবল Wi-Fi হটস্পট ত্রুটি"</string>
+<string name="wifi_tether_configure_ap_text">"ওয়াই-ফাই হটস্পট সেট-আপ"</string>
+<string name="wifi_tether_configure_subtext">"<xliff:g id="network_ssid">%1$s</xliff:g><xliff:g id="network_security">%2$s</xliff:g> সুবহ ওয়াই ফাই হটস্পট"</string>
+<string name="wifi_tether_configure_ssid_default">"অ্যান্ড্রয়েড হটস্পট"</string>
+<string name="home_settings">হোম</string>
+<string name="display_settings_title">"প্রদর্শন"</string>
+<string name="sound_settings">"শব্দ"</string>
+<string name="ringtone_title">"ফোন রিংটোন"</string>
+<string name="all_volume_title">"আয়তন"</string>
+<string name="musicfx_title">"সঙ্গীত প্রভাব"</string>
+<string name="ring_volume_title">"রিঙ্গার ভলিউম"</string>
+<string name="vibrate_in_silent_title">"যখন নীরব কাম্পান"</string>
+<string name="notification_sound_title">"ডিফল্ট নোটিফিকেশন সাউন্ড"</string>
+<string name="notification_pulse_title">"পালস বিজ্ঞপ্তি আলো"</string>
+<string name="incoming_call_volume_title">"মন্তব্য"</string>
+<string name="notification_volume_title">"বিজ্ঞপ্তি"</string>
+<string name="checkbox_notification_same_as_incoming_call">"বিজ্ঞপ্তি জন্য ইনকামিং কল ভলিউম ব্যবহার"</string>
+<string name="notification_sound_dialog_title">"ডিফল্ট নোটিফিকেশন সাউন্ড"</string>
+<string name="media_volume_title">"মিডিয়া"</string>
+<string name="media_volume_summary">"সঙ্গীত এবং ভিডিও জন্য ভলিউম নির্ধারণ করুন"</string>
+<string name="alarm_volume_title">অ্যালার্ম</string>
+<string name="dock_settings_summary">"সংযুক্ত ডক জন্য অডিও সেটিং"</string>
+<string name="dtmf_tone_enable_title">"শ্রাব্য স্পর্শ টোন"</string>
+<string name="sound_effects_enable_title">"স্পর্শ ধ্বনি"</string>
+<string name="lock_sounds_enable_title">"পর্দা লক শব্দ"</string>
+<string name="haptic_feedback_enable_title">"স্পৃশ্য প্রতিক্রিয়া ব্যবহার"</string>
+<string name="audio_record_proc_title">"নয়েজ বাতিল"</string>
+<string name="volume_media_description">"সঙ্গীত, ভিডিও, গেম, &amp; অন্যান্য মিডিয়া"</string>
+<string name="volume_ring_description">"রিংটোন &amp; বিজ্ঞপ্তিসমূহ"</string>
+<string name="volume_notification_description">বিজ্ঞপ্তি</string>
+<string name="volume_alarm_description">"অ্যালার্ম"</string>
+<string name="volume_ring_mute">"নিষ্চুপ রিংটোন &amp; বিজ্ঞপ্তিসমূহ "</string>
+<string name="volume_media_mute">"নিষ্চুপ সংগীত &amp; অন্যান্য মিডিয়া"</string>
+<string name="volume_notification_mute">নিঃশব্দ বিজ্ঞপ্তি</string>
+<string name="volume_alarm_mute">নিঃশব্দ এলার্ম</string>
+<string name="vibrate_when_ringing_title">ধ্বনিত যখন কাম্পান</string>
+<string name="dock_settings">"ডক"</string>
+<string name="dock_settings_title">"ডক সেটিংস"</string>
+<string name="dock_audio_settings_title">"অডিও"</string>
+<string name="dock_audio_summary_desk">"সংযুক্ত ডেস্কটপ ডক জন্য সেটিংস"</string>
+<string name="dock_audio_summary_car">"সংযুক্ত গাড়ী ডক জন্য সেটিংস"</string>
+<string name="dock_audio_summary_none" product="tablet">"ডক ট্যাবলেট না"</string>
+<string name="dock_audio_summary_none" product="default">"ডক ফোন নয়"</string>
+<string name="dock_audio_summary_unknown">"সংযুক্ত ডক জন্য সেটিংস"</string>
+<string name="dock_not_found_title">"ডক পাওয়া যাচ্ছে না"</string>
+<string name="dock_not_found_text" product="tablet">"আপনি সেটিং ডক অডিও আপ করার আগে ট্যাবলেট ডক আবশ্যক।"</string>
+<string name="dock_not_found_text" product="default">"আপনি সেট আপ করার আগে ডক অডিও ফোন ডক আবশ্যক।"</string>
+<string name="dock_sounds_enable_title">"ডক সন্নিবেশ শব্দ"</string>
+<string name="dock_sounds_enable_summary_on" product="tablet">"শব্দ যখন ঢোকাতে অথবা ডক থেকে সরানোর ট্যাবলেট খেলুন"</string>
+<string name="dock_sounds_enable_summary_on" product="default">"শব্দ যখন ঢোকাতে অথবা ডক থেকে ফোন সরানোর খেলুন"</string>
+<string name="dock_sounds_enable_summary_off" product="tablet">"ডকে ট্যাবলেট সংযুক্ত বা বিচ্ছিন্ন অবস্থায় সাউন্ড হবে না"</string>
+<string name="dock_sounds_enable_summary_off" product="default">"ডকে ফোন সংযুক্ত বা বিচ্ছিন্ন অবস্থায় সাউন্ড হবে না"</string>
+<string name="account_settings">অ্যাকাউন্ট:</string>
+<string name="search_settings">সন্ধান করুন</string>
+<string name="search_settings_summary">"অনুসন্ধান সেটিংস এবং ইতিহাস পরিচালনা"</string>
+<string name="display_settings">"প্রদর্শন"</string>
+<string name="accelerometer_title">অটো-ঘুরান পর্দা</string>
+<string name="accelerometer_summary_on" product="tablet">"অভিযোজন স্বয়ংক্রিয়ভাবে পাল্টান যখন ট্যাবলেট আবর্তিত"</string>
+<string name="accelerometer_summary_on" product="default">"অভিযোজন স্বয়ংক্রিয়ভাবে পাল্টান যখন ফোন আবর্তিত"</string>
+<string name="accelerometer_summary_off" product="tablet">"অভিযোজন স্বয়ংক্রিয়ভাবে পাল্টান যখন ট্যাবলেট আবর্তিত"</string>
+<string name="accelerometer_summary_off" product="default">"অভিযোজন স্বয়ংক্রিয়ভাবে পাল্টান যখন ফোন আবর্তিত"</string>
+<string name="brightness">"উজ্জ্বলতা"</string>
+<string name="brightness_summary">"পর্দার উজ্জ্বলতা সামঞ্জস্যবিধান"</string>
+<string name="screen_timeout">"স্ক্রিন সময়সীমার"</string>
+<string name="touch_light_timeout">লাইট টাচ করুন</string>
+<string name="touch_light_timeout_title">লাইট টাইম টাচ করুন</string>
+<string name="touch_light_timeout_summary">"<xliff:g id="timeout_description">%1$s</xliff:g> সেকেন্ড কার্যহীন থাকার পরে"</string>
+<string name="close_screen_bright_automode">স্বয়ংক্রিয়ভাবে পর্দার উজ্জ্বলতা সমন্বয় বন্ধ করুন </string>
+<string name="screen_timeout_summary">" <xliff:g id="timeout_description">%1$s</xliff:g>এর নিষ্কিয়তার পর"</string>
+<string name="wallpaper_settings_title">"ওয়ালপেপার"</string>
+<string name="wallpaper_settings_fragment_title">"থেকে ওয়ালপেপার বেছে নিন"</string>
+<string name="screensaver_settings_title">"দিবাস্বপ্ন"</string>
+<string name="screensaver_settings_summary_either_long">ডক বা অবশ এবং চার্জিংএর সময় </string>
+<string name="screensaver_settings_summary_either_short">উভয় ক্ষেত্রেই</string>
+<string name="screensaver_settings_summary_sleep">চার্জ করার সময়</string>
+<string name="screensaver_settings_summary_dock">"যখন  ডক" </string>
+<string name="screensaver_settings_summary_off">বন্ধ</string>
+<string name="screensaver_settings_disabled_prompt">দিবা স্বপ্ন চালু করুন,যা ঘটে তা নিয়ন্ত্রন করার জন্য যখন ফোন ডক বা ঘুমন্ত অবস্থায় থাকে</string>
+<string name="screensaver_settings_when_to_dream">দিবাস্বপ্নের সময় আরম্ভ </string>
+<string name="screensaver_settings_dream_start">"এখন শুরু"</string>
+<string name="screensaver_settings_button">সেটিংস</string>
+<string name="automatic_brightness">"স্বয়ংক্রিয় উজ্জ্বলতা"</string>
+<string name="title_font_size">"ফন্টের আকার"</string>
+<string name="dialog_title_font_size">"ফন্টের আকার"</string>
+<string name="sim_lock_settings">"সিম কার্ড লক সেটিংস"</string>
+<string name="sim_lock_settings_category">"সিম কার্ড লক সেট আপ করুন"</string>
+<string name="sim_lock_settings_title">"সিম কার্ড লক"</string>
+<string name="sim_pin_toggle">"লক সিম কার্ড"</string>
+<string name="sim_lock_on" product="tablet">"যাও ট্যাবলেট ব্যবহার PIN প্রয়োজন"</string>
+<string name="sim_lock_on" product="default">"ফোন ব্যবহার PIN প্রয়োজন"</string>
+<string name="sim_lock_off" product="tablet">"যাও ট্যাবলেট ব্যবহার PIN প্রয়োজন"</string>
+<string name="sim_lock_off" product="default">"ফোন ব্যবহার PIN প্রয়োজন"</string>
+<string name="sim_pin_change">"সিম PIN পরিবর্তন"</string>
+<string name="sim_enter_pin">"সিম PIN"</string>
+<string name="sim_enable_sim_lock">"লক সিম কার্ড"</string>
+<string name="sim_disable_sim_lock">"আনলক সিম কার্ড"</string>
+<string name="sim_enter_old">"পুরাতন সিম PIN"</string>
+<string name="sim_enter_new">"নতুন সিম PIN"</string>
+<string name="sim_reenter_new">"পুনরায় টাইপ নতুন PIN"</string>
+<string name="sim_change_pin">"সিম PIN"</string>
+<string name="sim_bad_pin">"ভুল PIN!"</string>
+<string name="sim_pins_dont_match">"PIN মিলছে না!"</string>
+<string name="sim_change_failed">"PIN পরিবর্তন করতে অক্ষম। \nহয়ত ভুল PIN।"</string>
+<string name="sim_change_succeeded">"সিম PIN সফলভাবে পরিবর্তিত"</string>
+<string name="sim_lock_failed">"সিম কার্ড লক অবস্থা পরিবর্তন করতে অক্ষম। \nহয়ত ভুল PIN।"</string>
+<string name="sim_enter_ok">ওকে</string>
+<string name="sim_enter_cancel">বাতিল</string>
+<string name="wrong_pin_code_pukked">"SIM PIN কোড ভুল। আপনি এখন আপনাকে ডিভাইস আনলক করতে আপনার ক্যারিয়ার সাথে যোগাযোগ করতে হবে।"</string>
+<plurals name="wrong_pin_code">
+<item quantity="one">"ভুল SIM PIN কোড, আপনার আর  <xliff:g id="number">%d</xliff:g>বার চেষ্টা করার সুয়োগ আছে। আপনি আপনার ডিভাইস আনলক করার আগে আপনার ক্যারিয়ার সাথে যোগাযোগ করতে হবে।"</item>
+<item quantity="other">"ভুল SIM PIN কোড, আপনি <xliff:g id="number">%d</xliff:g>বার অবশিষ্ট প্রচেষ্টা আছে"</item>
+</plurals>
+<string name="pin_failed">"SIM PIN অপারেশন ব্যর্থ!" </string>
+<string name="device_info_settings" product="tablet">"ট্যাবলেট অবস্থা"</string>
+<string name="device_info_settings" product="default">"ফোন অবস্থা"</string>
+<string name="system_update_settings_list_item_title">"সিস্টেম আপডেট"</string>
+<string name="firmware_version">"অ্যান্ড্রয়েড সংস্করণ"</string>
+<string name="model_number">"মডেল সংখ্যা"</string>
+<string name="fcc_equipment_id">যন্ত্রপাতি আইডি</string>
+<string name="baseband_version">"বেজ ব্যান্ড সংস্করণ"</string>
+<string name="kernel_version">"কার্নেল সংস্করণ"</string>
+<string name="build_number">"নাম্ব্বার নির্মাণ"</string>
+<string name="selinux_status">SELinux-এর অবস্থা</string>
+<string name="device_info_not_available">"না পাওয়া"</string>
+<string name="device_status_activity_title">"অবস্থা"</string>
+<string name="device_status">"অবস্থা"</string>
+<string name="device_status_summary" product="tablet">"ব্যাটারি, নেটওয়ার্ক, এবং অন্যান্য তথ্য স্থিতি"</string>
+<string name="device_status_summary" product="default">"ফোন নম্বর, সংকেত, ইত্যাদি"</string>
+<string name="storage_settings">"SDকার্ড &amp; ফোন সংগ্রহস্থল"</string>
+<string name="storage_settings_title">"SDকার্ড &amp; ফোন সংগ্রহস্থল সেটিংস"</string>
+<string name="storage_settings_summary" product="nosdcard">"আনমাউন্ট USB সংগ্রহস্থল, উপলব্ধ সংগ্রহস্থল প্রদর্শন"</string>
+<string name="storage_settings_summary" product="default">"আনমাউন্ট SD কার্ড, ভিউ পাওয়া সংগ্রহস্থল"</string>
+<string name="status_number" product="tablet">"মেডেন"</string>
+<string name="status_number" product="default">"আমার ফোন নম্বর"</string>
+<string name="status_prl_version">"PRL সংস্করণ"</string>
+<string name="status_network_type">"মোবাইল নেটওয়ার্ক টাইপ"</string>
+<string name="status_latest_area_info">অপারেটরের তথ্য</string>
+<string name="status_data_state">"মোবাইল নেটওয়ার্ক রাষ্ট্র"</string>
+<string name="status_service_state">"সার্ভিস রাষ্ট্র"</string>
+<string name="status_signal_strength">"সংকেত শক্তি"</string>
+<string name="status_roaming">"রোমিং"</string>
+<string name="status_operator">"নেটওয়ার্ক"</string>
+<string name="status_wifi_mac_address">"Wi-Fi MAC ঠিকানা"</string>
+<string name="status_bt_address">"অবরুদ্ধ"</string>
+<string name="status_serial_number">"ক্রমিক সংখ্যা"</string>
+<string name="status_unavailable">"অপ্রাপ্য"</string>
+<string name="status_up_time">"সময়"</string>
+<string name="status_awake_time">"জাগ্রত সময়"</string>
+<string name="internal_memory">"অন্তর্নিহিত সঞ্চায়ক ব্যবস্থা"</string>
+<string name="sd_memory" product="nosdcard">"USB সঞ্চয়স্থান"</string>
+<string name="sd_memory" product="default">"SD কার্ড"</string>
+<string name="memory_available">"সহজলভ্য"</string>
+<string name="memory_available_read_only">লভ্য(শুধুমাত্র পাঠযোগ্য)</string>
+<string name="memory_size">"মোট স্থান"</string>
+<string name="memory_calculating_size">"কম্পিউটিং \u2026"</string>
+<string name="memory_apps_usage">""অ্যাপসমূহ (অ্যাপ তথ্য &amp; মিডিয়া কনটেন্ট)"</string>
+<string name="memory_media_usage">"মিডিয়া"</string>
+<string name="memory_downloads_usage">"ডাউনলোডসমূহ"</string>
+<string name="memory_dcim_usage">"ছবিগুলি"</string>
+<string name="memory_music_usage">""অডিও (গান, রিংটোন, পডকাস্ট ইত্যাদি)"</string>
+<string name="memory_media_misc_usage">"অন্যান্য"</string>
+<string name="memory_others_usage">"(অন্য ধরনের ফাইল) ব্যবহার করা হয়েছে" </string>
+<string name="memory_media_cache_usage">সঞ্চিত তথ্য</string>
+<string name="sd_eject" product="nosdcard">"আনমাউন্ট শেয়ার্ড সংগ্রহস্থল"</string>
+<string name="sd_eject" product="default">"আনমাউন্ট SD কার্ড"</string>
+<string name="sd_eject_summary" product="nosdcard">"অভ্যন্তরীণ USB সংগ্রহস্থল আনমাউন্ট"</string>
+<string name="sd_eject_summary" product="default">"SD কার্ড, যাতে আপনি নিশ্চিন্তে এটি সরিয়ে ফেলা যাবে আনমাউন্ট"</string>
+<string name="sd_insert_summary" product="nosdcard">"মাউন্ট জন্য USB সংগ্রহস্থল ঢোকান"</string>
+<string name="sd_insert_summary" product="default">"মাউন্ট জন্য একটা SD কার্ড ঢোকান"</string>
+<string name="sd_mount" product="nosdcard">"মাউন্ট USB সংগ্রহস্থল"</string>
+<string name="sd_mount" product="default">"মাউন্ট SD কার্ড"</string>
+<string name="sd_format" product="nosdcard">"USB সংগ্রহস্থল নিশ্চিহ্ন করা"</string>
+<string name="sd_format" product="default">"SD কার্ড নিশ্চিহ্ন করা"</string>
+<string name="sd_format_summary" product="nosdcard">"যেমন সঙ্গীত এবং ছবি হিসাবে ফোন গুলি USB সংগ্রহস্থল, সমস্ত তথ্য মুছে দেয়া"</string>
+<string name="sd_format_summary" product="default">"যেমন সঙ্গীত এবং ছবি হিসাবে ফোন গুলি SD কার্ড, সমস্ত তথ্য মুছে দেয়া"</string>
+<string name="memory_clear_cache_title">সঞ্চিত তথ্য মুছে ফেলবেন? </string>
+<string name="memory_clear_cache_message">এটা সকল অ্যাপ্লিকেশনের জন্য সঞ্চিত তথ্য মুছে ফেলবে। </string>
+<string name="mtp_ptp_mode_summary">MTP বা PTP ফাংশন সক্রিয়</string>
+<string name="dlg_confirm_unmount_title" product="nosdcard">"আনমাউন্ট USB সংগ্রহস্থল"</string>
+<string name="dlg_confirm_unmount_title" product="default">"আনমাউন্ট SD কার্ড"</string>
+<string name="dlg_confirm_unmount_text" product="nosdcard">"যদি আপনি USB সংগ্রহস্থল আনমাউন্ট, কিছু অ্যাপ্লিকেশন ব্যবহার করা হয় এবং অপ্রাপ্য পর্যন্ত আপনিUSB সংগ্রহস্থল পুনরারোহণ হতে পারে বন্ধ হবে।"</string>
+<string name="dlg_confirm_unmount_text" product="default">"যদি আপনি SD কার্ড আনমাউন্ট, কিছু অ্যাপ্লিকেশন ব্যবহার করা হয় এবং অপ্রাপ্য পর্যন্ত আপনি SD কার্ড পুনরারোহণ হতে পারে বন্ধ হবে।"</string>
+<string name="dlg_error_unmount_text" product="nosdcard">"USB সংগ্রহস্থল না আনমাউন্ট করতে পারেন। পরে আবার চেষ্টা করুন।"</string>
+<string name="dlg_error_unmount_text" product="default">"SD কার্ড না আনমাউন্ট করতে পারেন। পরে আবার চেষ্টা করুন।"</string>
+<string name="unmount_inform_text" product="nosdcard">"USB সংগ্রহস্থল আনমাউন্ট হবে।"</string>
+<string name="unmount_inform_text" product="default">"SD কার্ড আনমাউন্ট হবে।"</string>
+<string name="sd_ejecting_title">"আনমাউন্টিং"</string>
+<string name="sd_ejecting_summary">"অগ্রগতি মধ্যে আনমাউন্ট"</string>
+<string name="storage_low_title">স্টোরেজ স্পেস খুঁজে চলছে</string>
+<string name="storage_low_summary">যেমন সিঙ্ক কিছু সিস্টেম ফাংশন, সঠিকভাবে কাজ নাও করতে পারে. যেমন অ্যাপস বা মিডিয়া বিষয়বস্তু আইটেম, মুছে ফেলা বা  দ্বারা ফাঁকা স্থান চেষ্টা করুন.</string>
+<string name="storage_menu_usb">"ইউএসবি কম্পিউটার সংযোগ"</string>
+<string name="storage_title_usb">"ইউএসবি কম্পিউটার সংযোগ"</string>
+<string name="usb_connection_category">"যুক্ত করুন"</string>
+<string name="usb_mtp_title">"মিডিয়া ডিভাইস (MTP)"</string>
+<string name="usb_mtp_summary">"আপনাকে উইন্ডোজ মিডিয়া ফাইল, হস্তান্তর বা Mac-MocorDroid এর ফাইল স্থানান্তর ব্যবহার করে (www.android.com/filetransfer)"</string>
+<string name="usb_ptp_title">"ক্যামেরা (PTP)"</string>
+<string name="usb_ptp_summary">"ক্যামেরা সফটওয়্যারের মাধ্যমে ছবি আদান প্রদান করতে দেয়, এমটিপি নেই এমন কম্পিউটারের সাথেও ফাইল আদান প্রদান করতে দেয়।"</string>
+<string name="usb_label_installer_cd">"ফাইল স্থানান্তর সরঞ্জামগুলি ইনস্টল করুন"</string>
+<string name="storage_other_users">অন্যান্য ব্যবহারকারীরা</string>
+<string name="battery_status_title">"ব্যাটারি অবস্থা"</string>
+<string name="battery_level_title">"ব্যাটারি স্তর"</string>
+<string name="apn_settings">"APN"</string>
+<string name="apn_edit">"অ্যাক্সেস পয়েন্ট সম্পাদনা করুন"</string>
+<string name="apn_not_set">"সেট করা নেই"</string>
+<string name="apn_name">VPN নাম</string>
+<string name="apn_http_proxy">"প্রক্সি"</string>
+<string name="apn_http_port">"বন্দর"</string>
+<string name="apn_user">ব্যবহারকারীর নাম</string>
+<string name="apn_password">পাসওয়ার্ড</string>
+<string name="apn_server">"সার্ভার"</string>
+<string name="apn_mms_proxy">"MMS প্রক্সি"</string>
+<string name="apn_mms_port">"MMS পোর্ট"</string>
+<string name="apn_auth_type">"অনুমোদনের ধরণ"</string>
+<string name="apn_auth_type_none">"কোনো কিছুই নয়"</string>
+<string name="apn_auth_type_pap_chap">"PAP বা CHAP"</string>
+<string name="apn_type">"APN টাইপ"</string>
+<string name="apn_protocol">"APN নিউজ অ্যান্ড প্রোটোকল"</string>
+<string name="apn_roaming_protocol">"APN বিচরণ প্রোটোকল"</string>
+<string name="carrier_enabled">"APN সক্রিয়করণ/নিষ্ক্রিয়করণ"</string>
+<string name="carrier_enabled_summaryOn">"APN সক্রিয়করণ"</string>
+<string name="carrier_enabled_summaryOff">"APN নিষ্ক্রিয়করণ"</string>
+<string name="bearer">"বাহক"</string>
+<string name="mvno_type">"MVNO টাইপ" </string>
+<string name="mvno_match_data">"MVNO মান" </string>
+<string name="menu_delete">"মুছে ফেলুন APN "</string>
+<string name="menu_new">"নতুন APN নিউজ অ্যান্ড"</string>
+<string name="menu_save">সংরক্ষণ</string>
+<string name="menu_cancel">অগ্রাহ্য করা</string>
+<string name="error_name_empty">"নামের ক্ষেত্রটি খালি থাকতে পারে না।"</string>
+<string name="error_apn_empty">"APN ফাঁকা থাকতে পারে না।"</string>
+<string name="error_mcc_not3">"MCC ক্ষেত্র 3 সংখ্যা হওয়া আবশ্যক।"</string>
+<string name="error_mnc_not23">"MNC ক্ষেত্র 2 অথবা 3 সংখ্যা হওয়া আবশ্যক।"</string>
+<string name="restore_default_apn">"APN নিউজ অ্যান্ড ডিফল্ট সেটিংস পুনরুদ্ধার"</string>
+<string name="menu_restore">"ডিফল্টে পুনরায় সেট করুন"</string>
+<string name="restore_default_apn_completed">"রিসেট ডিফল্ট APN নিউজ অ্যান্ড সেটিং সম্পন্ন"</string>
+<string name="master_clear_title">"কারখানা তথ্য রিসেট করুন"</string>
+<string name="master_clear_summary" product="tablet">"ট্যাবলেট থেকে সমস্ত ডাটা মুছে ফেলুন"</string>
+<string name="master_clear_summary" product="default">"ফোন থেকে সমস্ত ডাটা মুছে ফেলুন"</string>
+<string name="master_clear_desc" product="tablet">"এটা ট্যাবলেটের <b>অভ্যন্তরীণ স্টোরেজ</b> এর পাশাপাশি  \n\n<li>Google অ্যাকাউন্ট </li>\n<li>সিস্টেম ও অ্যাপ ডাটা ও সেটিংস</li>\n<li>ডাউনলোডকৃত অ্যাপ এ উপস্থিত সকল তথ্য মুছে দেবে</li>"</string>
+<string name="master_clear_desc" product="default">"এটা ফোনের <b>অভ্যন্তরীণ স্টোরেজ</b> এর পাশাপাশি  \n\n<li>Google অ্যাকাউন্ট </li>\n<li>সিস্টেম ও অ্যাপ ডাটা ও সেটিংস</li>\n<li>ডাউনলোডকৃত অ্যাপ এ উপস্থিত সকল তথ্য মুছে দেবে</li>"</string>
+<string name="master_clear_accounts" product="default">"\n\nআপনি নিম্নলিখিত অ্যাকাউন্ট বর্তমানে সাইন ইন:\n"</string>
+<string name="master_clear_desc_also_erases_external">"<li>গান</li>\n<li>ছবি</li>\n<li>অন্য ব্যবহারকারীর তথ্য</li>"</string>
+<string name="master_clear_desc_erase_external_storage" product="nosdcard">"\n\nসঙ্গীত, ছবি, এবং অন্যান্য ব্যবহারকারীর তথ্য, সাফ <b>USB সঞ্চয় </b>প্রয়োজন মুছে যাও। "</string>
+<string name="master_clear_desc_erase_external_storage" product="default">"\n\nসঙ্গীত, ছবি, এবং অন্যান্য ব্যবহারকারীর তথ্য, সাফ <b>SD কার্ড </b>প্রয়োজন মুছে যাও। "</string>
+<string name="erase_external_storage" product="nosdcard">"USB সংগ্রহস্থল নিশ্চিহ্ন করা"</string>
+<string name="erase_external_storage" product="default">"SD কার্ড নিশ্চিহ্ন করা"</string>
+<string name="erase_external_storage_description" product="nosdcard">"সব ফোন অভ্যন্তরীণ USB সংগ্রহস্থল তথ্য যেমন সঙ্গীত বা ছবি হিসাবে, নিশ্চিহ্ন করা।"</string>
+<string name="erase_external_storage_description" product="default">"সব ফোনের SD কার্ড তথ্য যেমন সঙ্গীত বা ছবি হিসাবে, নিশ্চিহ্ন করা।"</string>
+<string name="master_clear_button_text" product="tablet">"ট্যাবলেট রিসেট করুন"</string>
+<string name="master_clear_button_text" product="default">"ফোন রিসেট করুন"</string>
+<string name="master_clear_final_desc">"সকল ব্যক্তিগত তথ্য ও অ্যাপ মুছে দিবেন? এই প্রক্রিয়া বিপরীতমুখে পরিচালনা করতে পারবেন না!"</string>
+<string name="master_clear_final_button_text">"মুছে ফেলুন সবকিছু"</string>
+<string name="master_clear_gesture_prompt">আপনার আনলক প্যাটার্ন আঁকা</string>
+<string name="master_clear_gesture_explanation">"আপনি একটি ফোন রিসেট নিশ্চিত আপনার আনলক প্যাটার্ন ছবি আঁকা হবে।"</string>
+<string name="master_clear_failed">"কোনও রিসেট কর্ম সম্পাদন করা হয়নি কারণ সিস্টেম পরিষ্কার চাকরি প্রাপ্তিসাধ্য নয়।"</string>
+<string name="master_clear_confirm_title">"পুন: স্থাপন করা?"</string>
+<string name="media_format_title" product="nosdcard">"USB সংগ্রহস্থল নিশ্চিহ্ন করা"</string>
+<string name="media_format_title" product="default">"SD কার্ড নিশ্চিহ্ন করা"</string>
+<string name="media_format_summary" product="nosdcard">"USB সংগ্রহস্থল মধ্যে সমস্ত তথ্য মুছে দেয়া"</string>
+<string name="media_format_summary" product="default">"SD কার্ড মধ্যে সমস্ত তথ্য মুছে দেয়া"</string>
+<string name="media_format_desc" product="nosdcard">"এই ক্রিয়াটি USB সংগ্রহস্থল নিশ্চিহ্ন করা হবে। আপনার নষ্ট হয়ে যাবে <b>সব</b> সেখানের সংরক্ষিত তথ্য!"</string>
+<string name="media_format_desc" product="default">"এই ক্রিয়াটি SD কার্ড নিশ্চিহ্ন করা হবে।আপনার নষ্ট হয়ে যাবে <b>সব</b> সেখানের সংরক্ষিত তথ্য!"</string>
+<string name="media_format_button_text" product="nosdcard">"USB সংগ্রহস্থল নিশ্চিহ্ন করা"</string>
+<string name="media_format_button_text" product="default">"SD কার্ড নিশ্চিহ্ন করা"</string>
+<string name="media_format_final_desc" product="nosdcard">"USB সংগ্রহস্থল, নিশ্চিহ্ন সব সংরক্ষিত আছে ফাইল মুছে ফেলার? এক্সন পরিস্থিতি পরিবর্তন করা যাবে না!"</string>
+<string name="media_format_final_desc" product="default">"SD কার্ড, নিশ্চিহ্ন সব সংরক্ষিত আছে ফাইল মুছে ফেলার? এক্সন পরিস্থিতি পরিবর্তন করা যাবে না!"</string>
+<string name="media_format_final_button_text">"মুছে ফেলুন সবকিছু"</string>
+<string name="media_format_gesture_prompt">আপনার আনলক প্যাটার্ন আঁকা</string>
+<string name="media_format_gesture_explanation" product="nosdcard">"আপনি যে আপনি USB স্টোরেজ নিশ্চিহ্ন করতে চান নিশ্চিত আপনার আনলক প্যাটার্ন ছবি আঁকা হবে।"</string>
+<string name="media_format_gesture_explanation" product="default">"আপনি যে আপনি SD কার্ড নিশ্চিহ্ন করতে চান নিশ্চিত আপনার আনলক প্যাটার্ন ছবি আঁকা হবে।"</string>
+<string name="call_settings_title">"কল সেটিং"</string>
+<string name="call_settings_summary">"ভয়েসমেইল সেট আপ, অনুবর্তন কল, অপেক্ষা কলার ID , ফোন"</string>
+<string name="tether_settings_title_usb">"USB থেটারিং"</string>
+<string name="tether_settings_title_wifi">"পোর্টেবল হটস্পট"</string>
+<string name="tether_settings_title_bluetooth">"ব্লুটুথ টিথারিং"</string>
+<string name="tether_settings_title_usb_bluetooth">"টিথারিং"</string>
+<string name="tether_settings_title_all">"টিথারিং &amp; পোর্টেবল হটস্পট"</string>
+<string name="usb_tethering_button_text">"USB থেটারিং"</string>
+<string name="usb_tethering_available_subtext">"USB-এর সাথে সংযুক্ত সীমানা থেকে, চেক"</string>
+<string name="usb_tethering_active_subtext">"দড়ি দ্বারা আবদ্ধ"</string>
+<string name="usb_tethering_storage_active_subtext">"চৌহদ্দি করা সম্ভব নয় যখন USB সংগ্রহস্থল ব্যবহারযোগ্য"</string>
+<string name="usb_tethering_unavailable_subtext">"সংযোজিত USB না"</string>
+<string name="usb_tethering_errored_subtext">"USB থেটারিং ত্রুটি"</string>
+<string name="bluetooth_tether_checkbox_text">"ব্লুটুথ টিথারিং"</string>
+<string name="bluetooth_tethering_available_subtext" product="tablet">"এই ট্যাবলেট এর ইন্টারনেট সংযোগ ভাগ"</string>
+<string name="bluetooth_tethering_available_subtext" product="default">"এই ফোন এর ইন্টারনেট সংযোগ ভাগ"</string>
+<string name="bluetooth_tethering_device_connected_subtext" product="tablet">"1 ডিভাইস এই ট্যাবলেট ইন্টারনেট সংযোগ ভাগ"</string>
+<string name="bluetooth_tethering_device_connected_subtext" product="default">"1 ডিভাইস এই ফোন এর ইন্টারনেট সংযোগ ভাগ"</string>
+<string name="bluetooth_tethering_devices_connected_subtext" product="tablet">"এই ট্যাবলেট ইন্টারনেট সংযোগ ভাগ<xliff:g id="connectedDeviceCount">%1$d</xliff:g> ডিভাইস"</string>
+<string name="bluetooth_tethering_devices_connected_subtext" product="default">"এই ফোন এর ইন্টারনেট সংযোগ ভাগ<xliff:g id="connectedDeviceCount">%1$d</xliff:g> ডিভাইস"</string>
+<string name="bluetooth_tethering_off_subtext" product="tablet">"ভাগ করে এই ট্যাবলেট এর ইন্টারনেট সংযোগ নেই "</string>
+<string name="bluetooth_tethering_off_subtext" product="default">"ভাগ করে এই ফোন এর ইন্টারনেট সংযোগ নেই "</string>
+<string name="bluetooth_tethering_errored_subtext">"দড়ি দ্বারা আবদ্ধ নেই "</string>
+<string name="bluetooth_tethering_overflow_error">"অধিক কথা করতে পারবে না <xliff:g id="maxConnection">%1$d</xliff:g> ডিভাইস।"</string>
+<string name="bluetooth_untether_blank">"<xliff:g id="device_name">%1$s</xliff:g> আনথেটারড করা হবে।"</string>
+<string name="tethering_help_button_text">সাহায্য</string>
+<string name="network_settings_title">মোবাইল নেটওয়ার্কস</string>
+<string name="manage_mobile_plan_title">"মোবাইল প্ল্যান" </string>
+<string name="sms_application_title">"ডিফল্ট এসএমএস অ্যাপ্লিকেশন" </string>
+<string name="sms_change_default_dialog_title">"এসএমএস অ্যাপ্লিকেশন পরিবর্তন করতে চান?" </string>
+<string name="sms_change_default_dialog_text">"এসএমএস অ্যাপ হিসবে <xliff:g id="current_app">%2$s</xliff:g>এর বদলে <xliff:g id="new_app">%1$s</xliff:g> ব্যবহার করতে চান?"</string>
+<string name="sms_change_default_no_previous_dialog_text"> "SMS অ্যাপ হিসেবে <xliff:g id="new_app">%s</xliff:g> ব্যবহার করতে চান?"</string>
+<string name="mobile_unknown_sim_operator">"অপরিচিত SIM অপারেটর"</string>
+<string name="mobile_no_provisioning_url">"%1$s এর কোন পরিচিত provisioning ওয়েবসাইট নেই" </string>
+<string name="mobile_insert_sim_card">"সিম কার্ড রিস্টার্ট এবং সন্নিবেশ করুন"  </string>
+<string name="mobile_connect_to_internet">"দয়া করে ইন্টারনেটে সংযুক্ত" </string>
+<string name="location_title">"আমার এলাকা"</string>
+<string name="location_mode_title">মোড</string>
+<string name="location_mode_high_accuracy_title">"উচ্চ নির্ভুলতা" </string>
+<string name="location_mode_battery_saving_title">"ব্যাটারি সংরক্ষণ" </string>
+<string name="location_mode_sensors_only_title">"ডিভাইস শুধুমাত্র" </string>
+<string name="location_mode_location_off_title">"অবস্থান বন্ধ"</string>
+<string name="location_category_recent_location_requests">"সাম্প্রতিক অবস্থান অনুরোধ" </string>
+<string name="location_no_recent_apps">"কোন অ্যাপ্লিকেশান সাম্প্রতিক অবস্থান অনুরোধ করেছেনা" </string>
+<string name="location_category_location_services">"অবস্থান পরিষেবা" </string>
+<string name="location_high_battery_use">"উচ্চ ব্যাটারি ব্যবহার" </string>
+<string name="location_low_battery_use">"নিম্ন ব্যাটারি ব্যবহার" </string>
+<string name="location_mode_screen_title">"অবস্থান মোড" </string>
+<string name="location_mode_high_accuracy_description">"জিপিএস ব্যবহার করুন , Wi\u2011Fi, এবং মোবাইল নেটওয়ার্ক অবস্থান নির্ণয়" </string>
+<string name="location_mode_battery_saving_description">"Wi \u2011Fi ব্যবহার করুন এবং মোবাইল নেটওয়ার্ক অবস্থান নির্ণয়" </string>
+<string name="location_mode_sensors_only_description">"আপনার অবস্থান নির্ণয়ে জিপিএস ব্যবহার করুন"  </string>
+<string name="location_loading_injected_setting">"উদ্ধার …" </string>
+<string name="location_network_based">"ওয়াই-ফাই &amp; মোবাইল নেটওয়ার্কের অবস্থান"</string>
+<string name="location_neighborhood_level">"Google লোকেশন সার্ভিস ব্যবহার করে অ্যাপসমূহকে দ্রুত অবস্থান নির্ণয় করতে দিন। অবস্থান সম্বন্ধে অজ্ঞাতনামা তথ্য Googleের কাছে পাঠানো হবে।"</string>
+<string name="location_neighborhood_level_wifi">"অবস্থান WLAN দ্বারা নির্ধারিত"</string>
+<string name="location_gps">"GPS উপগ্রহ ব্যবহার"</string>
+<string name="location_street_level" product="tablet">অ্যাপস আপনার অবস্থান তুচ্ছ বিষয় আপনার ট্যাবলেট উপর GPS ব্যবহার চলুন শুরু করা যাক</string>
+<string name="location_street_level" product="default">অ্যাপ্লিকেশনগুলি আপনার অবস্থান তুচ্ছ বিষয় আপনার ফোন GPS ব্যবহার চলুন শুরু করা যাক</string>
+<string name="assisted_gps">"অ্যাসিসটেড GPS ব্যবহার করুন"</string>
+<string name="assisted_gps_enabled">"সার্ভার করে GPS (টিক চিহ্ন তুলে দেয়া নেটওয়ার্ক ব্যবহার কমাতে) সহায়তা ব্যবহার"</string>
+<string name="assisted_gps_disabled">"সার্ভার করে GPS (আনচেক করে GPS কর্ম ক্ষমতায় উন্নতি দেখা) সহায়তা ব্যবহার"</string>
+<string name="use_location_title">"অবস্থান &amp;এবং গুগল অনুসন্ধান"</string>
+<string name="use_location_summary">"যাক গুগল-এ অনুসন্ধানের ফলাফল এবং অন্যান্য পরিষেবার উন্নতি আপনার অবস্থান ব্যবহার"</string>
+<string name="location_access_title">আমার এলাকায় অ্যাক্সেস করুন</string>
+<string name="location_access_summary">আপনার অনুমতি জিজ্ঞাসা যে অ্যাপ্লিকেশনগুলি আপনার অবস্থান তথ্য ব্যবহার চলুন শুরু করা যাক</string>
+<string name="location_sources_heading">অবস্থান সূত্র</string>
+<string name="location_gps_config">AGPS অপশনটিকে সক্রিয় করুন</string>
+<string name="location_gps_config_summary">বিভিন্ন নেটওয়ার্ক পরিবেশে agps সক্রিয় করা হবে কি.</string>
+<string name="agps_config_summary">SUPL এবং NTP কনফিগ</string>
+<string name="location_gps_config_titlebar">AGPS অপশনটিকে সক্রিয় করুন</string>
+<string name="gps_config_titlebar">জিপিএস কনফিগ</string>
+<string name="gps_config_supl_host">SUPL সার্ভারের ঠিকানা</string>
+<string name="gps_config_supl_port">SUPL সার্ভার পোর্ট</string>
+<string name="gps_config_cert_path">SUPL সার্টিফিকেট ফাইল পাথ</string>
+<string name="gps_config_location_method">পছন্দকৃত পদ্ধতি</string>
+<string name="gps_config_start_mode">জিপিএস ইঞ্জিন চালু মোড</string>
+<string name="gps_config_connection_type">সংযোগের ধরন</string>
+<string name="gps_enable_option">AGPS অপশনটিকে সক্রিয় করুন</string>
+<string name="gps_log_show">AGPS লগ শো</string>
+<string name="gps_log_show_summary">AGPS জন্য লগ ইন প্রদর্শন</string>
+<string name="agps_config_taile">AGPS কনফিগ</string>
+<string name="agps_enable_option_tailebar">AGPS অপশনটিকে সক্রিয় করুন</string>
+<string name="agps_enable_option_registered">নিবন্ধিকৃত নেটওয়ার্ক</string>
+<string name="agps_enable_option_all">সমস্ত নেটওয়ার্ক</string>
+<string name="agps_enable_option_none">AGPS ব্যবহার করবেন না</string>
+<string name="agps_enable_default_set_tailebar">ডিফল্ট সেটিংসে পুনরুদ্ধার করুন</string>
+<string name="agps_enable_default_set_text">"ডিফল্ট সেটিং পুনরুদ্ধারের জন্য ক্লিক করুন"</string>
+<string name="agps_enable_default_set_button">ডিফল্ট সেটিংস</string>
+<string name="agps_config_help_tailebar">AGPS হেল্প এবং</string>
+<string name="agps_config_help_text">আপনি AGPS আপনার ফোন ইন্টারন্যাশনাল রোমিং যখন বিকল্প সক্রিয়, সমস্ত নেটওয়ার্ক নির্বাচন করে থাকেন AGPS ব্যবহার ইন্টারন্যাশনাল রোমিং ফি উত্পন্ন করবে.</string>
+<string name="settings_other">অন্যান্য</string>
+<string name="about_settings" product="tablet">"আমার ট্যাবলেট"</string>
+<string name="about_settings" product="default">"আমার ফোন"</string>
+<string name="about_settings_summary">"আইনগত তথ্য, ফোন অবস্থা, সফ্টওয়্যার সংস্করণ দেখুন"</string>
+<string name="legal_information">"আইনগত তথ্য"</string>
+<string name="contributors_title">"অবদানকারী"</string>
+<string name="regulatory_information">নিয়ন্ত্রণকারী তথ্য</string>
+<string name="copyright_title">"কপিরাইট"</string>
+<string name="license_title">"লাইসেন্স"</string>
+<string name="terms_title">"শর্তাবলী"</string>
+<string name="settings_license_activity_title">"সোর্স লাইসেন্সের খুলুন"</string>
+<string name="settings_license_activity_unavailable">"একটি সমস্যা লাইসেন্স লোড করা আছে।"</string>
+<string name="settings_license_activity_loading">লোড করা হচ্ছে\u2026</string>
+<string name="settings_safetylegal_title">"নিরাপত্তা তথ্য"</string>
+<string name="settings_safetylegal_activity_title">"নিরাপত্তা তথ্য"</string>
+<string name="settings_safetylegal_activity_unreachable">"আপনার ফোনের তথ্য পরিষেবা যুক্ত না হয়। এখন এই তথ্য দেখতে %s,যেকোন কম্পিউটারে ইন্টারনেটের সাথে সংযুক্ত থেকে যান।"</string>
+<string name="settings_safetylegal_activity_loading">লোড করা হচ্ছে\u2026</string>
+<string name="lockpassword_choose_your_password_header">"আপনার পাসওয়ার্ড বাছুন"</string>
+<string name="lockpassword_choose_your_pattern_header">"আপনার প্যাটার্ন চয়ন করুন"</string>
+<string name="lockpassword_choose_your_pin_header">"আপনার PIN চয়ন করুন"</string>
+<string name="lockpassword_confirm_your_password_header">"আপনার পাসওয়ার্ড নিশ্চিত করুন"</string>
+<string name="lockpassword_confirm_your_pattern_header">"আপনার প্যাটার্ন নিশ্চিত করুন"</string>
+<string name="lockpassword_confirm_your_pin_header">"আপনার PIN করার জন্য নিশ্চিত করুন "</string>
+<string name="lockpassword_confirm_passwords_dont_match">"পাসওয়ার্ড মিলে না"</string>
+<string name="lockpassword_confirm_pins_dont_match">"PIN মিলছে না!"</string>
+<string name="lockpassword_choose_lock_generic_header">"নির্বাচন আনলক"</string>
+<string name="lockpassword_password_set_toast">"পাসওয়ার্ড সেট করা হয়েছে"</string>
+<string name="lockpassword_pin_set_toast">"PIN সেট করা হয়েছে"</string>
+<string name="lockpassword_pattern_set_toast">"প্যাটার্ন সেট করা হয়েছে"</string>
+<string name="lock_settings_title">"স্ক্রিন আনলক"</string>
+<string name="lockpattern_change_lock_pattern_label">"প্যাটার্ন উদ্ঘাটিত পরিবর্তন"</string>
+<string name="lockpattern_change_lock_pin_label">"আনলক PIN পরিবর্তন"</string>
+<string name="lockpattern_need_to_unlock">"প্যাটার্ন সংরক্ষণ করার জন্য নিশ্চিত করুন "</string>
+<string name="lockpattern_need_to_unlock_wrong">"আবার চেষ্টা করুনঃ"</string>
+<string name="lockpattern_recording_intro_header">"প্যাটার্ন আনলক করতে অঙ্কন"</string>
+<string name="lockpattern_recording_intro_footer">"সাহায্যের জন্য মেনু কি টিপুন।"</string>
+<string name="lockpattern_recording_inprogress">"সম্পন্ন হয়ে গেলে আঙ্গুল সরিয়ে নিন"</string>
+<string name="lockpattern_recording_incorrect_too_short">"অন্তত <xliff:g id="number">%d</xliff:g> ডটগুলো সংযুক্ত করতে হবে। আবার চেষ্টা করুন।"</string>
+<string name="lockpattern_pattern_entered_header">"প্যাটার্ন সংরক্ষিত"</string>
+<string name="lockpattern_need_to_confirm">"প্যাটার্ন পুনরায় প্রবেশ করে নিশ্চিত করুন"</string>
+<string name="lockpattern_pattern_confirmed_header">"আপনার নতুন আনলক প্যাটার্ন"</string>
+<string name="lockpattern_confirm_button_text">নিশ্চিত করা</string>
+<string name="lockpattern_restart_button_text">"পুনরায় আঁকুন"</string>
+<string name="lockpattern_retry_button_text">"পুনরায় চেষ্টা করুন"</string>
+<string name="lockpattern_continue_button_text">"অব্যাহত"</string>
+<string name="lockpattern_settings_title">"প্যাটার্ন আনলক"</string>
+<string name="lockpattern_settings_enable_title">"প্যাটার্ন প্রয়োজন"</string>
+<string name="lockpattern_settings_enable_summary">"প্যাটার্ন পর্দায় তালা খোলা সঙ্কুচিত করা হবে"</string>
+<string name="lockpattern_settings_enable_visible_pattern_title">"দৃশ্যমান প্যাটার্ন ব্যবহার"</string>
+<string name="lockpattern_settings_enable_tactile_feedback_title">"স্পৃশ্য প্রতিক্রিয়া ব্যবহার"</string>
+<string name="lockpattern_settings_enable_power_button_instantly_locks">ক্ষমতা বাটন সঙ্গে সঙ্গে কেশ</string>
+<string name="lockpattern_settings_choose_lock_pattern">"প্যাটার্ন উদ্ঘাটিত করা সেট করুন"</string>
+<string name="lockpattern_settings_change_lock_pattern">"প্যাটার্ন উদ্ঘাটিত পরিবর্তন"</string>
+<string name="lockpattern_settings_help_how_to_record">"কিভাবে একটি আনলক প্যাটার্ন থেকে আঁকা"</string>
+<string name="lockpattern_too_many_failed_confirmation_attempts_header">"অনেকগুলি ভুল প্রচেষ্টা!"</string>
+<string name="lockpattern_too_many_failed_confirmation_attempts_footer">"আবার চেষ্টা করুন <xliff:g id="number">%d</xliff:g> সেকেন্ড."</string>
+<string name="activity_not_found">অ্যাপ্লিকেশন আপনার ফোনে ইনস্টল করা হয়নি। </string>
+<string name="manageapplications_settings_title">"অ্যাপ্লিকেশন পরিচালনা"</string>
+<string name="manageapplications_settings_summary">"পরিচালনা করুন এবং ইনস্টলকৃত অ্যাপলিকেশন সরিয়ে দিন"</string>
+<string name="applications_settings">"অ্যাপ্লিকেশানগুলি"</string>
+<string name="applications_settings_summary">"অ্যাপ্লিকেশন, পরিচালনা দ্রুত প্রবর্তন শর্টকাট সেট আপ করুন"</string>
+<string name="applications_settings_header">"অ্যাপ্লিকেশন সেটিংস"</string>
+<string name="install_applications">"অজানা উত্স"</string>
+<string name="install_unknown_applications">"নন-মার্কেটঅ্যাপ্লিকেশন ইনস্টলেশন করার অনুমতি প্রদান করা"</string>
+<string name="install_all_warning" product="tablet">"অপরিচিত সূত্রের কোন অ্যাপ আপনার ট্যাবলেট এবং ব্যক্তিগত তথ্য ঝুঁকিগ্রস্থ করে ফেলে,আপনি স্বীকার করে নিচ্ছেন যে এই অ্যাপগুলো ব্যবহার করলে আপনার ট্যাবলেট বা তথ্যের কোন ক্ষতি হলে কেবল আপনিই দায়ী থাকবেন।"</string>
+<string name="install_all_warning" product="default">"অপরিচিত সূত্রের কোন অ্যাপ আপনার ফোন এবং ব্যক্তিগত তথ্য ঝুঁকিগ্রস্থ করে ফেলে,আপনি স্বীকার করে নিচ্ছেন যে এই অ্যাপগুলো ব্যবহার করলে আপনার ফোন বা তথ্যের কোন ক্ষতি হলে কেবল আপনিই দায়ী থাকবেন।"</string>
+<string name="verify_applications">অ্যাপ্লিকেশন যাচাই করুন</string>
+<string name="verify_applications_summary">যেসব অ্যাপ্লিকেশন ক্ষতির কারণ হতে পারে সেগুলু বাতিল করুন অথবা ইনস্টল করার আগে সতর্ক করুন।  </string>
+<string name="advanced_settings">"উন্নত সেটিংস"</string>
+<string name="advanced_settings_summary">"আরো সেটিংস অপশন সক্রিয় করুন"</string>
+<string name="application_info_label">অ্যাপ তথ্য</string>
+<string name="storage_label">"SDকার্ড &amp; ফোন সংগ্রহস্থল"</string>
+<string name="auto_launch_label">"ডিফল্টরূপে আরম্ভ"</string>
+<string name="auto_launch_label_generic">ডিফল্ট মান</string>
+<string name="screen_compatibility_label">"স্ক্রিন উপযুক্ততা"</string>
+<string name="permissions_label">"অনুমতি"</string>
+<string name="cache_header_label">"ক্যাচ মেমরি"</string>
+<string name="clear_cache_btn_text">"সাফ ক্যাচ"</string>
+<string name="cache_size_label">"ক্যাচ মেমরি"</string>
+<string name="controls_label">"নিয়ন্ত্রণ"</string>
+<string name="force_stop">"বন্ধ বলপূর্বক"</string>
+<string name="total_size_label">"সম্পূর্ণ"</string>
+<string name="application_size_label">"অ্যাপ্লিকেশান"</string>
+<string name="external_code_size_label">"USB সঞ্চয় অ্যাপ্লিকেশন"</string>
+<string name="data_size_label">উপাত্ত</string>
+<string name="external_data_size_label" product="nosdcard">"USB সঞ্চয় তথ্য"</string>
+<string name="external_data_size_label" product="default">"SD কার্ড"</string>
+<string name="uninstall_text">"আনইনস্টল করুন"</string>
+<string name="uninstall_all_users_text">সকল ব্যবহারকারীর জন্য আনইনস্টল</string>
+<string name="install_text">"ইনস্টল করুন"</string>
+<string name="disable_text">"অক্ষম করুন"</string>
+<string name="enable_text">"সক্রিয়"</string>
+<string name="clear_user_data_text">"সাফ তথ্য"</string>
+<string name="app_factory_reset">"আপডেট আনইনস্টল"</string>
+<string name="auto_launch_enable_text">"কিছু কাজ সম্পাদন করতে এই অ্যাপকে আপনি ডিফল্ট হিসেবে নির্ধারণ করেছেন।"</string>
+<string name="always_allow_bind_appwidgets_text">আপনি এই অ্যাপ্লিকেশন উইজেট তৈরি এবং তাদের তথ্য অ্যাক্সেসের মঞ্জুরি নির্বাচিত করেছি.</string>
+<string name="auto_launch_disable_text">"কোন ডিফল্ট সেট নেই।"</string>
+<string name="clear_activities">"সাফ ডিফল্ট"</string>
+<string name="screen_compatibility_text">"এই অ্যাপটি আপনার স্ক্রিনের জন্যে তৈরি নয়। আপনি স্ক্রিনের সাথে এর সমন্বয় নিয়ন্ত্রণ করতে পারবেন।"</string>
+<string name="ask_compatibility">"যখন চালু করতে হবে জিজ্ঞাসা করুন"</string>
+<string name="enable_compatibility">"স্কেল অ্যাপ্লিকেশন"</string>
+<string name="unknown">অজানা</string>
+<string name="sort_order_alpha">"শ্রেণীবিভক্ত করা"</string>
+<string name="sort_order_size">"সাইজ অনুযায়ী সাজাও"</string>
+<string name="show_running_services">"চলমান পরিসেবা দেখাও"</string>
+<string name="show_background_processes">"ক্যাশে করা প্রসেস প্রদর্শন করা"</string>
+<string name="reset_app_preferences">অ্যাপ্লিকেশন পছন্দ রিসেট করুন</string>
+<string name="reset_app_preferences_title">অ্যাপ্লিকেশন পছন্দ রিসেট করুন</string>
+<string name="reset_app_preferences_desc">"এটা সকল নির্ধারিত বিষয়কে পুনরায় পূর্বাবস্থায় পরিণত করতে পারেঃ\n\n <li>নিষ্ক্রিয় অ্যাপগুলো</li>\n <li> নিষ্ক্রিয় অ্যাপ নোটিফিকেশনসমূহ </li>\n <li> কাজ সম্পাদনের ডিফল্ট অ্যাপ্লিকেশনগুলো </li>\n <li> অ্যাপসমূহের ক্ষেত্রে ব্যাকগ্রাউন্ড ডাটার সীমাবদ্ধতা </li>\n <li>যেকোনো অনুমতির সীমাবদ্ধতা</li>\n\nআপনি কোন অ্যাপের তথ্য হারাবেন না।"</string>
+<string name="reset_app_preferences_button">অ্যাপ্লিকেশনগুলি পুনরায় সেট করুন</string>
+<string name="manage_space_text">"স্থান পরিচালনা"</string>
+<string name="filter">"ফিল্টার"</string>
+<string name="filter_dlg_title">"ফিল্টারের বিকল্পগুলি নির্বাচন করুন"</string>
+<string name="filter_apps_all">সব</string>
+<string name="filter_apps_disabled">অক্ষম</string>
+<string name="filter_apps_third_party">"ডাউনলোড করা"</string>
+<string name="filter_apps_running">"চলমান"</string>
+<string name="filter_apps_onsdcard" product="nosdcard">"USB সঞ্চয়স্থান"</string>
+<string name="filter_apps_onsdcard" product="default">"উপর SD কার্ড"</string>
+<string name="disabled">অক্ষম</string>
+<string name="not_installed">"ইনস্টল করা হয় নি"</string>
+<string name="no_applications">"কোন অ্যাপ্লিকেশন।"</string>
+<string name="internal_storage">"অন্তর্নিহিত সঞ্চায়ক ব্যবস্থা"</string>
+<string name="sd_card_storage" product="nosdcard">"USB সঞ্চয়স্থান"</string>
+<string name="sd_card_storage" product="default">"SD কার্ড সংগ্রহস্থল"</string>
+<string name="recompute_size">"রিকম্পুটিং আকার\u2026"</string>
+<string name="clear_data_dlg_title">"মুছে ফেলা"</string>
+<string name="clear_data_dlg_text">""এই অ্যাপের সকল তথ্য স্থায়ীভাবে মুছে ফেলা হবে। এর মধ্যে সকল ফাইল,সেটিংস,অ্যাকাউন্টস্‌,ডাটাবেজ ইত্যাদি অন্তর্ভুক্ত।"</string>
+<string name="dlg_ok">ওকে</string>
+<string name="dlg_cancel">বাতিল</string>
+<string name="app_not_found_dlg_text">"অ্যাপ্লিকেশনটি ইনস্টল করা অ্যাপস তালিকা পাওয়া যায় নি।"</string>
+<string name="clear_data_failed">"অ্যাপ এর তথ্য পরিষ্কার করা হচ্ছে না।"</string>
+<string name="app_factory_reset_dlg_title">"আপডেট আনইনস্টল"</string>
+<string name="app_factory_reset_dlg_text">"আপনি কি এই অ্যানড্রইড সিস্টেম অ্যাপ্লিকেশন থেকে প্রাপ্ত সমস্ত আপডেটআনইনস্টল করতে চান?"</string>
+<string name="clear_failed_dlg_title">"সাফ তথ্য"</string>
+<string name="clear_failed_dlg_text">"অ্যাপ এর জন্য তথ্য পরিষ্কার করা যাচ্ছে না।"</string>
+<string name="security_settings_desc" product="tablet">"এই অ্যাপ্লিকেশন আপনার ট্যাবলেট নিম্নলিখিত অ্যাক্সেস করতে পারেন:"</string>
+<string name="security_settings_desc" product="default">"এই অ্যাপ্লিকেশন আপনার ফোনে নিম্নলিখিত অ্যাক্সেস করতে পারেন:"</string>
+<string name="security_settings_desc_multi" product="tablet">"আপনার ট্যাবলেটে এই অ্যাপ নিম্নলিখিত অ্যাক্সেস করতে পারে। পারফরম্যান্সের উন্নতি করতে এবং মেমরি ব্যবহার হ্রাস করার জন্য এই অনুমতি উপলব্ধ <xliff:g id="base_app_name">%1$s</xliff:g>কারণ এটি একই প্রক্রিয়া কাজ করে <xliff:g id="additional_apps_list">%2$s</xliff:g>:"</string>
+<string name="security_settings_desc_multi" product="default">"আপনার ফোনে এই অ্যাপ নিম্নলিখিত অ্যাক্সেস করতে পারে। পারফরম্যান্সের উন্নতি করতে এবং মেমরি ব্যবহার হ্রাস করার জন্য এই অনুমতি উপলব্ধ<xliff:g id="base_app_name">%1$s</xliff:g>কারণ এটি একই প্রক্রিয়া কাজ করে <xliff:g id="additional_apps_list">%2$s</xliff:g>:"</string>
+<string name="join_two_items"><xliff:g id="first_item">%1$s</xliff:g> এবং <xliff:g id="second_item">%2$s</xliff:g></string>
+<string name="join_many_items_last"><xliff:g id="all_but_last_item">%1$s</xliff:g>এবং <xliff:g id="last_item">%2$s</xliff:g></string>
+<string name="join_many_items_first"><xliff:g id="first_item">%1$s</xliff:g>, <xliff:g id="all_but_first_and_last_item">%2$s</xliff:g></string>
+<string name="join_many_items_middle"><xliff:g id="added_item">%1$s</xliff:g>, <xliff:g id="rest_of_items">%2$s</xliff:g></string>
+<string name="security_settings_billing_desc">এই অ্যাপ্লিকেশনটি আপনার অর্থ চার্জ করতে পারে:</string>
+<string name="security_settings_premium_sms_desc">প্রিমিয়াম SMS পাঠান</string>
+<string name="computing_size">"কম্পিউটিং \u2026"</string>
+<string name="invalid_size_value">"প্যাকেজের পরিমাণ নির্ণয় করা যাচ্ছে না।"</string>
+<string name="empty_list_msg">"আপনি কোন তৃতীয় পক্ষের অ্যাপ ইন্সটল করেন নাই।"</string>
+<string name="version_text">"ভার্সন <xliff:g id="version_num">%1$s</xliff:g>"</string>
+<string name="move_app">"সরান"</string>
+<string name="move_app_to_internal" product="tablet">"ট্যাবলেট সরান"</string>
+<string name="move_app_to_internal" product="default">"ফোন সরান"</string>
+<string name="move_app_to_sdcard" product="nosdcard">"USB সংগ্রহস্থল সরাও"</string>
+<string name="move_app_to_sdcard" product="default">"SD কার্ড সরাও"</string>
+<string name="moving">"গতিদায়ক"</string>
+<string name="insufficient_storage">"যথেষ্ট সংগ্রহস্থল বাম নেই।"</string>
+<string name="does_not_exist">"অ্যাপের অস্তিত্ব নেই।"</string>
+<string name="app_forward_locked">"আবেদন কপি সুরক্ষিত।"</string>
+<string name="invalid_location">"উল্লিখিত ইনস্টলেশনের অবস্থান বৈধ নয়।"</string>
+<string name="system_package">"সিস্টেম আপডেট বহিরাগত মিডিয়া ইনস্টল করা যাবে না।"</string>
+<string name="force_stop_dlg_title">"বন্ধ বলপূর্বক"</string>
+<string name="force_stop_dlg_text">"এই অ্যাপ্লিকেশনটি সঠিক ভাবে পুনরায় আরম্ভ করা হবে। আপনি কি নিশ্চিত আপনি বন্ধ করতে বাধ্য করতে চান?"</string>
+<string name="move_app_failed_dlg_text">"<xliff:g id="reason">%1$s</xliff:g> অ্যাপটি সরানো যাচ্ছে না"</string>
+<string name="app_install_location_title">"পছন্দের ইনস্টলেশনের অবস্থান"</string>
+<string name="app_install_location_summary">"নতুন অ্যাপলিকেশনের জন্য পরিবর্তন পছন্দের ইনস্টলেশন অবস্থান।"</string>
+<string name="app_disable_dlg_title">"বিল্ট ইন অ্যাপ্লিকেশন অক্ষম?"</string>
+<string name="app_disable_dlg_text">"বিল্ট্‌ ইন অ্যাপ নিষ্ক্রিয় করলে অন্যান্য অ্যাপসমূহ সঠিকভাবে কাজ নাও করতে পারে।"</string>
+<string name="app_special_disable_dlg_title">তথ্য মুছে অ্যাপ্লিকেশনটি কি নিষ্ক্রিয় করতে চান?</string>
+<string name="app_special_disable_dlg_text">"বিল্ট্‌ ইন অ্যাপ নিষ্ক্রিয় করলে অন্যান্য অ্যাপসমূহ সঠিকভাবে কাজ নাও করতে পারে। আপনার তথ্যসমূহও মুছে যাবে।"</string>
+<string name="app_disable_notifications_dlg_title">বিজ্ঞপ্তিগুলি বন্ধ করুন?</string>
+<string name="app_disable_notifications_dlg_text">"যদি আপনি এই অ্যাপ-এর জন্য বিজ্ঞপ্তি বরখাস্ত করেন, তাহলে আপনি গুরুত্বপূর্ণ সংকেত ও আপডেট নাও পেতে পারেন। "</string>
+<string name="app_ops_settings">"অ্যাপ OPS" </string>
+<string name="app_ops_running">"চলমান"</string>
+<string name="app_ops_never_used">"(ব্যবহার করবেন না)" </string>
+<string name="storageuse_settings_title">"সংগ্রহস্থল ব্যবহার"</string>
+<string name="storageuse_settings_summary">"সংগ্রহস্থল অ্যাপ্লিকেশনের দ্বারা ব্যবহৃত দেখুন"</string>
+<string name="runningservices_settings_title">"চলমান পরিসেবা"</string>
+<string name="runningservices_settings_summary">"এবং দেখুন বর্তমানে চলমান পরিসেবা নিয়ন্ত্রণ"</string>
+<string name="service_restarting">"পুনরায় আরম্ভ করুন"</string>
+<string name="cached">"সঞ্চিত ব্যাকগ্রাউন্ড প্রসেস"</string>
+<string name="no_running_services">"কোন চলমান পরিসেবা নেই"</string>
+<string name="service_started_by_app">"অ্যাপ্লিকেশন দ্বারা শুরু করছে: বন্ধ সংক্ষেপে আলোচনা করা"</string>
+<string name="service_background_processes">"<xliff:g id="memory">%1$s</xliff:g> খালি"</string>
+<string name="service_foreground_processes">"<xliff:g id="memory">%1$s</xliff:g> ব্যবহৃত"</string>
+<string name="running_process_item_user_label">ইউজার: <xliff:g id="user_name">%1$s</xliff:g></string>
+<string name="running_process_item_removed_user_label">ইউজার অপসারিত হল</string>
+<string name="running_processes_item_description_s_s">"<xliff:g id="numprocess">%1$d</xliff:g> প্রক্রিয়া এবং <xliff:g id="numservices">%2$d</xliff:g> সেবা"</string>
+<string name="running_processes_item_description_s_p">"<xliff:g id="numprocess">%1$d</xliff:g> প্রক্রিয়া এবং <xliff:g id="numservices">%2$d</xliff:g> সেবা"</string>
+<string name="running_processes_item_description_p_s">"<xliff:g id="numprocess">%1$d</xliff:g> প্রক্রিয়া এবং <xliff:g id="numservices">%2$d</xliff:g> সেবা"</string>
+<string name="running_processes_item_description_p_p">"<xliff:g id="numprocess">%1$d</xliff:g> প্রক্রিয়া এবং <xliff:g id="numservices">%2$d</xliff:g> সেবা"</string>
+<string name="runningservicedetails_settings_title">"অ্যাপ্লিকেশন চলমান"</string>
+<string name="no_services">"না সক্রিয়"</string>
+<string name="runningservicedetails_services_title">"সেবা"</string>
+<string name="runningservicedetails_processes_title">"পদ্ধতিসমূহ"</string>
+<string name="service_stop">বন্ধ</string>
+<string name="service_manage">সেটিংস</string>
+<string name="service_stop_description">"এই সার্ভিসটি সংশ্লিষ্ট অ্যাপের দ্বারা চালু হয়েছে। এটা বন্ধ করলে অ্যাপ অচল হয়ে যেতে পারে।"</string>
+<string name="heavy_weight_stop_description">"এই অ্যাপটি নিরাপদে বন্ধ করা যাচ্ছে না। এটা নিষ্ক্রিয় করে দিলে আপনার চলমান কাজ ব্যাহত হতে পারে।"</string>
+<string name="background_process_stop_description">"এটা অ্যাপের আগে থেকে চালু হওয়া একটি প্রক্রিয়া যা পরবর্তীতে কাজে লাগতে পারে জন্যে চলমান। সাধারণত এটা নিষ্ক্রিয় করবার কোন কারণ নেই।"</string>
+<string name="service_manage_description">"<xliff:g id="client_name">%1$s</xliff:g>: বর্তমানে ব্যবহার। সেটিংস থেকে এটি নিয়ন্ত্রণ করতে স্পর্শ করুন।"</string>
+<string name="main_running_process_description">"মুখ্য প্রক্রিয়া ব্যবহার করা হচ্ছে।"</string>
+<string name="process_service_in_use_description">"সেবা <xliff:g id="comp_name">%1$s</xliff:g> ব্যবহার করা হচ্ছে।"</string>
+<string name="process_provider_in_use_description">"প্রদানকারী <xliff:g id="comp_name">%1$s</xliff:g>ব্যবহার করা হচ্ছে।"</string>
+<string name="runningservicedetails_stop_dlg_title">"সিস্টেমের পরিসেবা বন্ধ?"</string>
+<string name="runningservicedetails_stop_dlg_text" product="tablet">"আপনি যদি এই পরিষেবা, কিছু করা বন্ধ করুন   আপনার ট্যাবলেট বৈশিষ্ট্য আপনি এটা পাওয়ার বন্ধ না হওয়া পর্যন্ত সঠিকভাবে কাজ বন্ধ হতে পারে   এবং তারপর আবার।"</string>
+<string name="runningservicedetails_stop_dlg_text" product="default">"আপনি যদি এই পরিষেবা, কিছু করা বন্ধ করুন আপনার ফোন বৈশিষ্ট্য আপনি এটা পাওয়ার বন্ধ না হওয়া পর্যন্ত সঠিকভাবে কাজ বন্ধ হতে পারে এবং তারপর আবার।"</string>
+<string name="language_settings">"ভাষা &amp; কিবোর্ড সেটিংস"</string>
+<string name="language_keyboard_settings_title">"ভাষা &amp; কিবোর্ড সেটিংস"</string>
+<string name="language_settings_category">"ভাষা সেটিংস"</string>
+<string name="keyboard_settings_category">"কী-বোর্ড &amp;ইনপুটের পদ্ধতিসমূহ"</string>
+<string name="phone_language">স্থানীয় </string>
+<string name="auto_replace">"অটো-প্রতিস্থাপন"</string>
+<string name="auto_replace_summary">"সঠিক ভুলভাবে টাইপ করা শব্দ"</string>
+<string name="auto_caps">"অটো-টুপি"</string>
+<string name="auto_caps_summary">"বাক্য এর প্রথম অক্ষর বড় হরফে "</string>
+<string name="auto_punctuate">"অটো-স্বরাঘাত করা"</string>
+<string name="hardkeyboard_category">"বিল্ট কিবোর্ড সেটিংস"</string>
+<string name="auto_punctuate_summary">"প্রেস মহাশূন্য কি দুইবার \u0022.\u0022 সন্নিবেশ থেকে"</string>
+<string name="show_password">"দৃশ্যমান পাসওয়ার্ড"</string>
+<string name="ime_security_warning">"এই ইনপুট পদ্ধতিটি যেকোন টাইপকৃত বার্তা সংরক্ষণ করে রাখতে পারে, ব্যক্তিগত তথ্যাদি যেমন পাসওয়ার্ড এবং ক্রেডিট কার্ড নম্বর ইত্যাদিও এর অন্তর্গত। এটা <xliff:g id="ime_application_name">%1$s</xliff:g> অ্যাপটির একটি বৈশিষ্ট্য। এই ইনপুট পদ্ধতি ব্যবহার করবেন?"</string>
+<string name="spellchecker_security_warning">"এই স্পেল চেকার যেকোন টাইপকৃত বার্তা সংরক্ষণ করে রাখতে পারে, ব্যক্তিগত তথ্যাদি যেমন পাসওয়ার্ড এবং ক্রেডিট কার্ড নম্বর ইত্যাদিও এর অন্তর্গত। এটা <xliff:g id="spellchecker_application_name">%1$s</xliff:g> অ্যাপটির একটি বৈশিষ্ট্য। এই স্পেল চেকার ব্যবহার করবেন?"</string>
+<string name="spellchecker_quick_settings">সেটিংস</string>
+<string name="spellchecker_language">স্থানীয় </string>
+<string name="failed_to_open_app_settings_toast">সেটিংস খুলতে ব্যর্থ<xliff:g id="spell_application_name">%1$s</xliff:g></string>
+<string name="pointer_settings_category">"মাউস / ট্রেকপেড"</string>
+<string name="pointer_speed">"পয়েন্টারের গতি"</string>
+<string name="game_controller_settings_category">গেম কন্ট্রোলার</string>
+<string name="vibrate_input_devices">কম্পক ব্যবহার করুন</string>
+<string name="vibrate_input_devices_summary">সংযুক্ত যখন খেলা নিয়ন্ত্রকের কম্পক পুনর্চালনা করুন.</string>
+<string name="keyboard_layout_dialog_title">কীবোর্ড লেআউট নির্বাচন করুন</string>
+<string name="keyboard_layout_dialog_setup_button">কীবোর্ড লেআউট সেট আপ করুন</string>
+<string name="keyboard_layout_dialog_switch_hint">স্যুইচ করার জন্য, কন্ট্রোল-স্পেস বার চাপুন</string>
+<string name="keyboard_layout_default_label">ডিফল্ট</string>
+<string name="keyboard_layout_picker_title">কীবোর্ড লেআউট</string>
+<string name="user_dict_settings_title">ব্যক্তিগত অভিধান</string>
+<string name="user_dict_settings_add_menu_title">"যোগ করুন"</string>
+<string name="user_dict_settings_add_dialog_title">"অভিধানে যুক্ত করুন"</string>
+<string name="user_dict_settings_add_screen_title">বাক্য</string>
+<string name="user_dict_settings_add_dialog_more_options">আরও অপশন</string>
+<string name="user_dict_settings_add_dialog_less_options">কম অপশন</string>
+<string name="user_dict_settings_add_dialog_confirm">ওকে</string>
+<string name="user_dict_settings_add_word_option_name">শব্দ</string>
+<string name="user_dict_settings_add_shortcut_option_name">শর্টকাট:</string>
+<string name="user_dict_settings_add_locale_option_name">ভাষা:</string>
+<string name="user_dict_settings_add_word_hint">"একটি শব্দ টাইপ করুন" </string>
+<string name="user_dict_settings_add_shortcut_hint">"ঐচ্ছিক শর্টকাট" </string>
+<string name="user_dict_settings_edit_dialog_title">"শব্দ সম্পাদনা করুন"</string>
+<string name="user_dict_settings_context_menu_edit_title">সম্পাদন</string>
+<string name="user_dict_settings_context_menu_delete_title">মুছে দিন</string>
+<string name="user_dict_settings_empty_text">"আপনি ব্যবহারকারী অভিধানে কোন শব্দ নেই। আপনি মেনু মাধ্যমে একটি শব্দ যোগ করতে পারেন।"</string>
+<string name="user_dict_settings_all_languages">"সমস্ত ভাষা"</string>
+<string name="user_dict_settings_more_languages">আরও বেশি ভাষায় ...</string>
+<string name="testing">"পরীক্ষানিরীক্ষার ফলাফলে জানা গেছে"</string>
+<string name="testing_phone_info" product="tablet">"ট্যাবলেট তথ্য"</string>
+<string name="testing_phone_info" product="default">"ফোন তথ্য"</string>
+<string name="testing_battery_info">"ব্যাটারি তথ্য"</string>
+<string name="quick_launch_title">"দ্রুত প্রবর্তন"</string>
+<string name="quick_launch_summary">"কিবোর্ড শর্টকাটের মাধ্যমে অ্যাপ্লিকেশন আরম্ভ সেট"</string>
+<string name="quick_launch_assign_application">"আবেদন ধার্য"</string>
+<string name="quick_launch_no_shortcut">"কোন শর্টকাট নেই"</string>
+<string name="quick_launch_shortcut">"অনুসন্ধান + <xliff:g id="shortcut_letter">%1$s</xliff:g>"</string>
+<string name="quick_launch_clear_dialog_title">"সাফ করুন"</string>
+<string name="quick_launch_clear_dialog_message">"আপনার শর্টকাট<xliff:g id="shortcut_letter">%1$s</xliff:g> (<xliff:g id="application_name">%2$s</xliff:g>)পরিষ্কার করা হবে।"</string>
+<string name="quick_launch_clear_ok_button">ওকে</string>
+<string name="quick_launch_clear_cancel_button">বাতিল</string>
+<string name="quick_launch_display_mode_applications">"অ্যাপ্লিকেশানগুলি"</string>
+<string name="quick_launch_display_mode_shortcuts">"শর্টকাট"</string>
+<string name="input_methods_settings_title">"টেক্সট ইনপুট"</string>
+<string name="input_method">"ইনপুট পদ্ধতি"</string>
+<string name="current_input_method">ডিফল্ট</string>
+<string name="input_method_selector">"ইনপুট পদ্ধতি নির্বাচক"</string>
+<string name="input_method_selector_show_automatically_title">স্বয়ংক্রিয়</string>
+<string name="input_method_selector_always_show_title">"সর্বদা দেখান"</string>
+<string name="input_method_selector_always_hide_title">"সর্বদা আড়াল করুন"</string>
+<string name="configure_input_method">ইনপুট পদ্ধতি সেট করুন</string>
+<string name="input_method_settings">সেটিংস</string>
+<string name="input_method_settings_button">সেটিংস</string>
+<string name="active_input_method_subtypes">"অনলাইনে ইনপুট পদ্ধতি"</string>
+<string name="use_system_language_to_select_input_method_subtypes">"সিস্টেমের ভাষা ব্যবহার করুন"</string>
+<string name="input_methods_settings_label_format">"<xliff:g id="ime_name">%1$s</xliff:g> সেটিং"</string>
+<string name="input_methods_and_subtype_enabler_title">"ইনপুট পদ্ধতি সক্রিয় চয়ন করুন"</string>
+<string name="onscreen_keyboard_settings_summary">"অনস্ক্রিন কিবোর্ড সেটিংস"</string>
+<string name="builtin_keyboard_settings_title">দৈহিক কীবোর্ড</string>
+<string name="builtin_keyboard_settings_summary">"বিল্ট কিবোর্ড সেটিংস"</string>
+<string name="development_settings_title">উন্নয়ন</string>
+<string name="development_settings_summary">"এপ্লিকেশন ডেভেলপমেন্ট জন্য বিকল্পগুলি সেট করুন"</string>
+<string name="development_settings_not_available">"ব্যবহারকারীর জন্য ডেভেলপার অপশন পাওয়া যায়নি"  </string>
+<string name="enable_adb">"USB ডিবাগ"</string>
+<string name="enable_adb_summary">"ডেবাগ্ মোড যখন USB সংযুক্ত হয় "</string>
+<string name="clear_adb_keys">"ইউএসবি ডিবাগিং অনুমতি  প্রত্যাহার" </string>
+<string name="bugreport_in_power">পাওয়ার মেনু বাগ রিপোর্ট</string>
+<string name="bugreport_in_power_summary">একটি বাগ রিপোর্ট গ্রহণের জন্য পাওয়ার মেনু অপশন অন্তর্ভুক্ত হয়</string>
+<string name="keep_screen_on">"জাগ্রত থাকা"</string>
+<string name="keep_screen_on_summary">"স্ক্রিন সময় ব্যার্থতার শয়ন করবে না"</string>
+<string name="bt_hci_snoop_log">"ব্লুটুথকে  HCI স্নুপ লগ সক্ষম করুন" </string>
+<string name="bt_hci_snoop_log_summary">"একটি ফাইলে সব ব্লুটুথ এইচসিআই প্যাকেট ক্যাপচার" </string>
+<string name="select_runtime_title">" রানটাইম নির্বাচন"</string>
+<string name="select_runtime_dialog_title">" রানটাইম নির্বাচন"</string>
+<string name="select_runtime_warning_message">"  রানটাইম পরিবর্তন করতে পুনরায় বুট করুন <xliff:g id="old" example="libdvm.so">%1$s</xliff:g>  থেকে  <xliff:g id="new" example="libart.so">%2$s</xliff:g> তে ?" "</string>
+<string name="wifi_display_certification">" ওয়্যারলেস ডিসপ্লে সার্টিফিকেশন "</string>
+<string name="wifi_display_certification_summary">" ওয়্যারলেস ডিসপ্লে সার্টিফিকেশনের  জন্য নোটিফিকেশন দেখান  " </string>
+<string name="allow_mock_location">"উপহাস অবস্থানের অনুমতি প্রদান করা "</string>
+<string name="allow_mock_location_summary">"উপহাস অবস্থানের অনুমতি প্রদান করা "</string>
+<string name="adb_warning_title">"USB ডিবাগ মঞ্জুরি দিন?"</string>
+<string name="adb_warning_message">"USB ডিবাগ উন্নয়ন উদ্দেশ্য শুধুমাত্র জন্য দেয়ার উদ্দেশ্যে করা হচ্ছে। এটি ব্যবহার করার জন্য আপনার কম্পিউটারে এবং আপনার ডিভাইসের মধ্যে তথ্য কপি বিজ্ঞপ্তি ছাড়াই আপনার ডিভাইস অ্যাপ্লিকেশন ইনস্টল করার জন্য, এবং লগ তথ্য পড়া যাবে।"</string>
+<string name="adb_keys_warning_message">"পূর্বে অনুমোদিত সব কম্পিউটার থেকে ইউএসবি ডিবাগিং করার অ্যাক্সেস প্রত্যাহার করতে চান ?"</string>
+<string name="dev_settings_warning_title">উন্নয়ন সেটিংস মঞ্জুরি দেবেন?</string>
+<string name="dev_settings_warning_message">"এই সেটিংস শুধুমাত্র উন্নয়নশীল ব্যবহারের উদ্দেশ্যে রয়েছে। এটি আপনার ডিভাইসের অ্যাপ্লিকেশন আচরণ ভাঙ্গতে বা অস্বাভাবিক হতে পারে।"</string>
+<string name="verify_apps_over_usb_title">অ্যাপ্লিকেশন গুলো USB মাধ্যমে যাচাই করুন</string>
+<string name="verify_apps_over_usb_summary">ক্ষতিকর আচরণ পরীক্ষা করার জন্য ADB/ADT মাধ্যমে ইনস্টল করা অ্যাপ্লিকেশন পরীক্ষা করা হয়।</string>
+<string name="enforce_read_external_title" product="nosdcard">USB সংগ্রহস্থল রক্ষা করুন</string>
+<string name="enforce_read_external_summary" product="nosdcard">অ্যাপ্লিকেশন USB সংগ্রহস্থল পড়তে অনুমতি জন্য অনুরোধ করতে হবে</string>
+<string name="enforce_read_external_confirm_title" product="nosdcard">USB সংগ্রহস্থল রক্ষা করুন?</string>
+<string name="enforce_read_external_confirm_message" product="nosdcard">USB সংগ্রহস্থল সুরক্ষিত হয়,এপস, তাদের ডেভালোপার দ্বারা আপডেট পর্যন্ত. \n\nকিছু অ্যাপস কাজ নাও করতে পারে বহিরাগত সংগ্রহস্থল থেকে তথ্য পড়তে অনুমতি জন্য অনুরোধ করতে হবে.</string>
+<string name="enforce_read_external_title" product="default">এসডি কার্ড থেকে রক্ষা করুন</string>
+<string name="enforce_read_external_summary" product="default">অ্যাপ্লিকেশন এসডি কার্ড পড়তে অনুমতি জন্য অনুরোধ করতে হবে</string>
+<string name="enforce_read_external_confirm_title" product="default">এসডি কার্ড থেকে রক্ষা?</string>
+<string name="enforce_read_external_confirm_message" product="default">এসডি কার্ড থেকে রক্ষা করা হয়, এপস, তাদের ডেভালোপার দ্বারা আপডেট পর্যন্ত.\n\nকিছু অ্যাপস কাজ নাও করতে পারে বহিরাগত সংগ্রহস্থল থেকে তথ্য পড়তে অনুমতি জন্য অনুরোধ করতে হবে.</string>
+<string name="enable_terminal_title">" স্থানীয় টার্মিনাল "</string>
+<string name="enable_terminal_summary">"স্থানীয় শেল অ্যাক্সেস করার জন্য টার্মিনাল অ্যাপ্লিকেশন সক্রিয় করুন"</string>
+<string name="gadget_picker_title">"গ্যাজেট চয়ন করুন"</string>
+<string name="widget_picker_title">"উইজেট নির্বাচন করুন"</string>
+<string name="allow_bind_app_widget_activity_allow_bind_title">উইজেট তৈরি করুন ও ব্যবহারের অনুমতি দেওয়া হয়?</string>
+<string name="allow_bind_app_widget_activity_allow_bind"> আপনি উইজেট তৈরি করার পরে<xliff:g id="widget_host_name">%1$s</xliff:g>এটি প্রদর্শন করা সমস্ত ডেটা অ্যাক্সেস করতে পারেন.</string>
+<string name="allow_bind_app_widget_activity_always_allow_bind">সর্বদা মঞ্জুরি দিন<xliff:g id="widget_host_name">%1$s</xliff:g> উইজেট তৈরি এবং তাদের তথ্য অ্যাক্সেস</string>
+<string name="battery_history_days">"<xliff:g id="days">%1$d</xliff:g>d <xliff:g id="hours">%2$d</xliff:g>h <xliff:g id="minutes">%3$d</xliff:g>m <xliff:g id="seconds">%4$d</xliff:g>s"</string>
+<string name="battery_history_hours">"<xliff:g id="hours">%1$d</xliff:g>h <xliff:g id="minutes">%2$d</xliff:g>m <xliff:g id="seconds">%3$d</xliff:g>s"</string>
+<string name="battery_history_minutes">"<xliff:g id="minutes">%1$d</xliff:g>m <xliff:g id="seconds">%2$d</xliff:g>s"</string>
+<string name="battery_history_seconds">"<xliff:g id="seconds">%1$d</xliff:g>s"</string>
+<string name="battery_history_days_no_seconds">"<xliff:g id="days">%1$d</xliff:g>d <xliff:g id="hours">%2$d</xliff:g>h <xliff:g id="minutes">%3$d</xliff:g>m"</string>
+<string name="battery_history_hours_no_seconds">"<xliff:g id="hours">%1$d</xliff:g>h <xliff:g id="minutes">%2$d</xliff:g>m"</string>
+<string name="battery_history_minutes_no_seconds">"<xliff:g id="minutes">%1$d</xliff:g>m"</string>
+<string name="usage_stats_label">"ব্যবহার পরিসংখ্যান"</string>
+<string name="testing_usage_stats">"ব্যবহার পরিসংখ্যান"</string>
+<string name="display_order_text">"বাছাই:"</string>
+<string name="app_name_label">"অ্যাপ্লিকেশান"</string>
+<string name="launch_count_label">"গণনা"</string>
+<string name="usage_time_label">"ব্যবহারের সময়"</string>
+<string name="accessibility_settings">"সীমাবদ্ধতা"</string>
+<string name="accessibility_settings_title">"সীমাবদ্ধতা সেটিংস"</string>
+<string name="accessibility_services_title">"সেবা"</string>
+<string name="accessibility_system_title">পদ্ধতি</string>
+<string name="accessibility_captioning_title">" লিপি "</string>
+<string name="accessibility_screen_magnification_title">বৃহত্তরীকরণ আকার-ইঙ্গিত</string>
+<string name="accessibility_screen_magnification_summary">"এই বৈশিষ্ট্য চালু করা হলে আপনি তিনবার পর্দায় ট্যাপ করে জুম ইন বা আউট করতে পারেন । \n\nজুম ইনের সময়, আপনি পারবেন:\n<ul><li>প্যান: পর্দা জুড়ে দুই বা ততোধিক আঙ্গুল টেনে আনুন.</li>\n<li>জুম স্তর সামঞ্জস্যবিধান :একসাথে দুই বা ততোধিক আঙ্গুল দ্বারা পিঞ্চ বা একান্তে তাদের ছড়িয়ে নিন </li></ul>\n\nআপনি এছাড়াও আপনার আঙ্গুলের নিচে যা আছে তা দেখতে  আঙুল দ্বারা তিনবার ট্যাপ করে অস্থায়ীভাবে বিবর্ধিত করতে পারেন .লঘুপাত এবং এই বিবর্ধিত অবস্থায় অধিষ্ঠিত অবস্থান থেকে  আপনি পর্দায় বিভিন্ন অংশে আপনার আঙুল টেনে আনতে পারেন আপনার আগের অবস্থায় ফিরে যাওয়ার জন্য আপনার আঙ্গুল উত্তোলন করতে পারেন।\n\nদ্রষ্টব্য : বৃহত্তরীকরণের জন্য তিনবার ট্যাপ কীবোর্ড এবং ন্যাভিগেশন বার ছাড়া সর্বত্র কাজ করে। "  </string>
+<string name="accessibility_global_gesture_preference_title">অভিগম্যতা শর্টকাট</string>
+<string name="accessibility_global_gesture_preference_summary_on">চালু</string>
+<string name="accessibility_global_gesture_preference_summary_off">বন্ধ</string>
+<string name="accessibility_global_gesture_preference_description">"এই বৈশিষ্ট্য চালু করা হলে আপনি দ্রুত দুটি পদক্ষেপে অভিগম্যতা বৈশিষ্ট্য সক্রিয় করতে পারবেন:\n\nধাপ 1: প্রেস এবং পাওয়ার বাটন একসাথে চাপলে যদি আপনি একটি শব্দ শুনতে বা  একটি কম্পন অনুভব করেন।\n\nধাপ 2:অডিও নিশ্চিতকরণ শুনতে দুটি আঙ্গুল দ্বারা স্পর্শ এবং চেপে ধরুন।\n\nডিভাইস এর একাধিক ব্যবহারকারী থাকলে এই শর্টকাট ব্যবহার করে পর্দা উদ্ঘাটিত হওয়া পর্যন্ত সাময়িকভাবে অভিগম্যতা সক্রিয় হয়।"  </string>
+<string name="accessibility_toggle_large_text_preference_title">"বিপুল পাঠ্য"</string>
+<string name="accessibility_toggle_screen_magnification_preference_title">স্ক্রিন বৃহত্তরীকরণ</string>
+<string name="accessibility_toggle_screen_magnification_auto_update_preference_title">"পর্দা বৃহত্তরীকরণ অটোআপডেট" </string>
+<string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">"অ্যাপ রুপান্তরে স্ক্রিন ম্যাগ্নিফিকেশন আপডেট নিতে পারে।"</string>
+<string name="accessibility_power_button_ends_call_prerefence_title">পাওয়ার বাটন শেষ কল</string>
+<string name="accessibility_toggle_speak_password_preference_title">পাসওয়ার্ডগুলি বলুন</string>
+<string name="accessibility_long_press_timeout_preference_title">"স্পর্শ &amp;বিলম্ব রাখা"</string>
+<string name="accessibility_menu_item_settings">সেটিংস</string>
+<string name="accessibility_feature_state_on">চালু</string>
+<string name="accessibility_feature_state_off">বন্ধ</string>
+<string name="captioning_preview_title">"প্রাকদর্শন"</string>
+<string name="captioning_standard_options_title">"স্ট্যান্ডার্ড অপশন" </string>
+<string name="captioning_locale">স্থানীয় </string>
+<string name="captioning_text_size">"লেখার আকার"</string>
+<string name="captioning_preset">"ক্যাপশন শৈলী" </string>
+<string name="captioning_custom_options_title">"কাস্টম অপশন" </string>
+<string name="captioning_background_color">"পটভূমির রঙ" </string>
+<string name="captioning_background_opacity">"পৃষ্ঠভূমি অস্বচ্ছতা" </string>
+<string name="captioning_foreground_color">"টেক্সট রঙ" </string>
+<string name="captioning_foreground_opacity">"টেক্সট এর অস্পষ্টতা"</string>
+<string name="captioning_edge_color">"এজ রঙ" </string>
+<string name="captioning_edge_type">"এজ টাইপ" </string>
+<string name="captioning_typeface">"ফন্ট পরিবার" </string>
+<string name="captioning_preview_text">"লিপি এই মত হবে" </string>
+<string name="locale_default">ডিফল্ট</string>
+<string name="color_none">"কোনো কিছুই নয়"</string>
+<string name="color_white">"সাদা" </string>
+<string name="color_gray">"ধূসর" </string>
+<string name="color_black">"কালো "</string>
+<string name="color_red">"লাল" </string>
+<string name="color_green">"সবুজ"</string>
+<string name="color_blue">নীল</string>
+<string name="color_cyan">"কায়ান"  </string>
+<string name="color_yellow">"হলুদ" </string>
+<string name="color_magenta">"ম্যাজেন্টা"</string>
+<string name="enable_service_title">"<xliff:g id="service" example="TalkBack">%1$s</xliff:g>ব্যবহার করতে চান?"</string>
+<string name="capabilities_list_title">"<xliff:g id="service" example="TalkBack">%1$s</xliff:g>দরকার:"</string>
+<string name="capability_title_receiveAccessibilityEvents">"অ্যাকশন পরিলক্ষন করুন" </string>
+<string name="capability_desc_receiveAccessibilityEvents">"কোন অ্যাপ্লিকেশনের সাথে সংযোগের পূর্বে নোটিফিকেশন গ্রহন করুন "</string>
+<string name="disable_service_title">বন্ধ <xliff:g id="service" example="TalkBack">%1$s</xliff:g>?"</string>
+<string name="disable_service_message">"OK স্পর্শ করলে <xliff:g id="service" example="TalkBack">%1$s</xliff:g> থেমে যাবে।"</string>
+<string name="accessibility_no_services_installed">"ইনস্টল করা কোনো সেবা নেই"</string>
+<string name="accessibility_service_no_apps_title">"কোন অভিগম্যতা সম্পর্কিত অ্যাপ্লিকেশন পাওয়া"</string>
+<string name="accessibility_service_no_apps_message">"দৃষ্টি প্রতিবন্ধী এবং দুর্বল দৃষ্টি শক্তি সম্পন্ন ব্যবহারকারীদেরকে  টকব্যাক সুবিধাটি উচ্চারণ করে সহায়তা করে থাকে। আপনি কি এটা অ্যান্ড্রয়েড মার্কেট হতে বিনামূল্যে ইন্সটল করতে চান?"</string>
+<string name="accessibility_service_default_description">"কোনো বিবরণ দেওয়া নেই।"</string>
+<string name="settings_button">সেটিংস</string>
+<string name="print_settings">"প্রিন্টিং" </string>
+<string name="print_settings_title">"প্রিন্টিং সার্ভিস" </string>
+<string name="print_service_security_warning_title">"<xliff:g id="service" example="My Print Service">%1$s</xliff:g>ব্যবহার করতে চান?"</string>
+<string name="print_service_security_warning_summary">"প্রিন্টারে পৌঁছাবার আগে আপনার নথি এক বা একধিক সার্ভারের মধ্যে প্রবেশ করতে পারে।"</string>
+<string name="print_no_services_installed">"কোন সেবা ইনস্টল করা হয়নি" </string>
+<string name="print_no_printers_found">"কোন প্রিন্টার পাওয়া যায় নি"</string>
+<string name="print_menu_item_settings">সেটিংস</string>
+<string name="print_menu_item_add_printers">"প্রিন্টার যোগ করুন" </string>
+<string name="print_feature_state_on">চালু</string>
+<string name="print_feature_state_off">বন্ধ</string>
+<string name="print_menu_item_add_service">"সেবা যোগ করুন"</string>
+<string name="print_menu_item_add_printer">"প্রিন্টার যোগ করুন"</string>
+<string name="print_menu_item_search">সন্ধান করুন</string>
+<string name="print_searching_for_printers">"প্রিন্টারের জন্য অনুসন্ধান"</string>
+<string name="print_service_disabled">"সার্ভিস নিষ্ক্রিয়" </string>
+<string name="print_print_jobs">"প্রিন্ট কাজ" </string>
+<string name="print_print_job">"প্রিন্ট কাজ" </string>
+<string name="print_restart">পুনরারম্ভ</string>
+<string name="print_cancel">বাতিল</string>
+<string name="print_printing_state_title_template">"প্রিন্টিং<xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g>"</string>
+<string name="print_cancelling_state_title_template"><xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g>বাতিল"</string>
+<string name="print_failed_state_title_template">"প্রিন্টার ত্রুটি  <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g>" "</string>
+<string name="print_blocked_state_title_template"> <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g>প্রিন্টার অবরোধ "</string>
+<string name="print_search_box_shown_utterance">"অনুসন্ধান বাক্স দেখানো"</string>
+<string name="print_search_box_hidden_utterance">"অনুসন্ধান বাক্সে লুকানো"</string>
+<plurals name="print_search_result_count_utterance">
+<item quantity="one">"<xliff:g id="count" example="1">%1$s</xliff:g> প্রিন্টার পেল"</item>
+<item quantity="other">"<xliff:g id="count" example="2">%1$s</xliff:g> প্রিন্টার পেল"</item>
+</plurals>
+<string name="power_usage_summary_title">"ব্যাটারি ব্যবহার"</string>
+<string name="power_usage_summary">"হয়েছে কি ব্যাটারি ব্যবহার করা হয়েছে"</string>
+<string name="power_usage_not_available">"ব্যাটারী ব্যবহারের তথ্য পাওয়া যাচ্ছে না।"</string>
+<string name="battery_since_unplugged">"ব্যাটারি আনপ্লাগড থেকে ব্যবহার করে"</string>
+<string name="battery_since_reset">"রিসেট থেকে ব্যাটারি ব্যবহার"</string>
+<string name="battery_stats_on_battery">"<xliff:g id="time">%1$s</xliff:g> ব্যাটারি"</string>
+<string name="battery_stats_duration">"<xliff:g id="time">%1$s</xliff:g> যখন থেকে আনপ্লাগ"</string>
+<string name="battery_stats_charging_label">চার্জ</string>
+<string name="battery_stats_screen_on_label">"স্ক্রিন"</string>
+<string name="battery_stats_gps_on_label">"যে GPS"</string>
+<string name="battery_stats_wifi_running_label">"ওয়াই-ফাই"</string>
+<string name="battery_stats_wake_lock_label">"জাগ্রত"</string>
+<string name="battery_stats_phone_signal_label">"ফোন সংকেত"</string>
+<string name="awake">"ডিভাইস জাগ্রত সময়"</string>
+<string name="wifi_on_time">"সময়মত WiFi"</string>
+<string name="bluetooth_on_time">"সময়মত WiFi"</string>
+<string name="usage_name_percent">"<xliff:g id="name">%1$s</xliff:g>" - " <xliff:g id="number" example="30">%2$s</xliff:g><xliff:g id="percent" example="%">%%</xliff:g>"</string>
+<string name="history_details_title">"ইতিহাস বিবরণ"</string>
+<string name="details_title">"বিবরণ ব্যবহার করুন"</string>
+<string name="details_subtitle">"বিবরণ ব্যবহার করুন"</string>
+<string name="controls_subtitle">"বিদ্যুতের ব্যবহার সামঞ্জস্য করুন"</string>
+<string name="packages_subtitle">"অন্তর্ভুক্ত প্যাকেজগুলি"</string>
+<string name="power_screen">"স্ক্রীন"</string>
+<string name="power_wifi">"ওয়াই-ফাই"</string>
+<string name="power_bluetooth">"ব্লুটুথ"</string>
+<string name="power_cell">"সেল স্ট্যান্ডবাই"</string>
+<string name="power_phone">"ভয়েস কল"</string>
+<string name="power_idle" product="tablet">"ট্যাবলেট অলস"</string>
+<string name="power_idle" product="default">"ফোন নিষ্ক্রিয়"</string>
+<string name="usage_type_cpu">"CPU মোট"</string>
+<string name="usage_type_cpu_foreground">"CPU ফোরগ্রাউন্ড"</string>
+<string name="usage_type_wake_lock">"জাগ্রত রাখুন"</string>
+<string name="usage_type_wifi_running">"ওয়াই-ফাই চলছে"</string>
+<string name="usage_type_phone" product="tablet">"ট্যাবলেট"</string>
+<string name="usage_type_phone" product="default">ফোন</string>
+<string name="usage_type_data_send">"মোবাইল ডাটা প্রেরণ করা হয়েছে"</string>
+<string name="usage_type_data_recv">"মোবাইল ডাটা গ্রহণ করা হয়েছে"</string>
+<string name="usage_type_data_wifi_send">"Wi\u2011Fi তথ্য পাঠানো হয়েছে" </string>
+<string name="usage_type_data_wifi_recv">"Wi\u2011Fi তথ্য পেয়েছি" </string>
+<string name="usage_type_audio">"অডিও"</string>
+<string name="usage_type_video">"ভিডিও"</string>
+<string name="usage_type_on_time">"সময় চালু"</string>
+<string name="usage_type_no_coverage">"একটি সংকেত ছাড়া সময়"</string>
+<string name="battery_action_stop">"বন্ধ বলপূর্বক"</string>
+<string name="battery_action_app_details">অ্যাপ তথ্য</string>
+<string name="battery_action_app_settings">"অ্যাপ্লিকেশন সেটিংস"</string>
+<string name="battery_action_display">"সেটিংস প্রদর্শন"</string>
+<string name="battery_action_wifi">"Wi-Fi সেটিংস"</string>
+<string name="battery_action_bluetooth">"ব্লুটুথ সেটিংস"</string>
+<string name="battery_desc_voice">"ভয়েস কল দ্বারা ব্যবহৃত ব্যাটারি"</string>
+<string name="battery_desc_standby" product="tablet">"ব্যাটারি ব্যবহৃত হয় যখন ট্যাবলেট নিষ্ক্রিয় আছে"</string>
+<string name="battery_desc_standby" product="default">"ফোন নিষ্ক্রিয় অবস্থায় ব্যবহৃত ব্যাটারি"</string>
+<string name="battery_desc_radio">"সেল রেডিও দ্বারা ব্যবহৃত ব্যাটারি"</string>
+<string name="battery_sugg_radio">"কোনো সেল কভারেজ নেই এমন এলাকায় বিদ্যুত সাশ্রয় করতে বিমান মোডে পরিবর্তন করুন"</string>
+<string name="battery_desc_display">"প্রদর্শন এবং ব্যাকলাইট দ্বারা ব্যবহৃত ব্যাটারি"</string>
+<string name="battery_sugg_display">"স্ক্রীনের উজ্জ্বলতা এবং/অথবা স্ক্রীনের সময়সীমা হ্রাস করুন"</string>
+<string name="battery_desc_wifi">"ওয়াই-ফাই দ্বারা ব্যবহৃত ব্যাটারি"</string>
+<string name="battery_sugg_wifi">"ওয়াই-ফাই ব্যবহার না করলে কিংবা না পাওয়া গেলে বন্ধ করে রাখুন।"</string>
+<string name="battery_desc_bluetooth">"ব্লুটুথ দ্বারা ব্যবহৃত ব্যাটারি"</string>
+<string name="battery_sugg_bluetooth_basic">"বন্ধ ব্লুটুথ বদলান যখন আপনি এইটি ব্যবহার করছেন না"</string>
+<string name="battery_sugg_bluetooth_headset">"সংযোগ ভিন্ন ব্লুটুথ ডিভাইস থেকে চেষ্টা"</string>
+<string name="battery_desc_apps">"অ্যাপ্লিকেশান দ্বারা ব্যবহৃত ব্যাটারি"</string>
+<string name="battery_sugg_apps_info">"অ্যাপ্লিকেশানটি বন্ধ করুন অথবা আনইনস্টল করুন"</string>
+<string name="battery_sugg_apps_gps">"ব্যাটারী সংরক্ষণ মোড নির্ধারণ"</string>
+<string name="battery_sugg_apps_settings">"অ্যাপ্লিকেশন থেকে ব্যাটারি ব্যবহার কমানো সেটিংস প্রস্তাব দিতে পারে"</string>
+<string name="battery_desc_users">ইউজার দ্বারা ব্যবহৃত ব্যাটারি </string>
+<string name="menu_stats_unplugged">"<xliff:g id="unplugged">%1$s</xliff:g> যখন থেকে আনপ্লাগ"</string>
+<string name="menu_stats_last_unplugged">"যখন শেষ আনপ্লাগ করা হয়েছিল <xliff:g id="unplugged">%1$s</xliff:g>"</string>
+<string name="menu_stats_total">"মোট ব্যবহার"</string>
+<string name="menu_stats_refresh">"রিফ্রেশ"</string>
+<string name="process_mediaserver_label">"মিডিয়াসার্ভার"</string>
+<string name="process_stats_summary_title">"প্রক্রিয়া পরিসংখ্যান" </string>
+<string name="process_stats_summary">"চলমান  প্রসেস সম্পর্কে Geeky পরিসংখ্যান" </string>
+<string name="app_memory_use">"স্মৃতি ব্যবহার" </string>
+<string name="process_stats_total_duration">"<xliff:g id="type">%1$s</xliff:g> অ্যাপগুলো পূর্ণ<xliff:g id="time">%2$s</xliff:g>"</string>
+<string name="process_stats_type_background">"পশ্চাদপট"</string>
+<string name="process_stats_type_foreground">"পুরোভূমি"</string>
+<string name="process_stats_type_cached">"সঞ্চিত হয়েছে" </string>
+<string name="process_stats_memory_status">"ডিভাইস মেমরি বর্তমানে<xliff:g id="memstate">%1$s</xliff:g>" </string>
+<string name="process_stats_avg_ram_use">"গড় RAM-র ব্যবহার" </string>
+<string name="process_stats_max_ram_use">"সর্বোচ্চ RAM-র ব্যবহার" </string>
+<string name="process_stats_run_time">"সময় চালনা"  </string>
+<string name="services_subtitle">"সেবা"</string>
+<string name="menu_proc_stats_duration">"সময়কাল"</string>
+<string name="menu_duration_3h">"3 ঘন্টা"</string>
+<string name="menu_duration_6h">"6 ঘন্টা"</string>
+<string name="menu_duration_12h">"12 ঘন্টা"</string>
+<string name="menu_duration_1d">"১ দিন"</string>
+<string name="menu_show_system">"সিস্টেম দেখান" </string>
+<string name="menu_use_uss">"USS ব্যবহার করুন"</string>
+<string name="menu_proc_stats_type">"পরিসংখ্যান টাইপ" </string>
+<string name="menu_proc_stats_type_background">"পশ্চাদপট"</string>
+<string name="menu_proc_stats_type_foreground">"পুরোভূমি"</string>
+<string name="menu_proc_stats_type_cached">"সঞ্চিত হয়েছে" </string>
+<string name="voice_input_output_settings">"ভয়েস ইনপুট &amp; আউটপুট"</string>
+<string name="voice_input_output_settings_title">"ভয়েস ইনপুট &amp; আউটপুট সেটিংস"</string>
+<string name="voice_search_settings_title">"ভয়েস শনাক্তকারী সেটিংস"</string>
+<string name="keyboard_settings_title">"অ্যান্ড্রয়েড কীবোর্ড"</string>
+<string name="voice_category">"বক্তৃতা"</string>
+<string name="recognizer_title">"ভয়েস শনাক্তকারী"</string>
+<string name="recognizer_settings_title">"ভয়েস শনাক্তকারী সেটিংস"</string>
+<string name="recognizer_settings_summary">"সেটিং\'<xliff:g id="recognizer_name">%s</xliff:g>\'"</string>
+<string name="tts_settings">"টেক্সট থেকে মূলবিশেষ সেটিংস"</string>
+<string name="tts_settings_title">"টেক্সট থেকে মূলবিশেষ সেটিংস"</string>
+<string name="use_default_tts_settings_title">"সর্বদা আমার সেটিংস ব্যবহার"</string>
+<string name="use_default_tts_settings_summary">"ডিফল্ট সেটিংস নিচে আবেদন বৈশিষ্ট্যের মান অগ্রাহ্য করা"</string>
+<string name="tts_default_settings_section">ডিফল্ট সেটিংস</string>
+<string name="tts_default_synth_title">"ডিফল্ট ইঞ্জিন"</string>
+<string name="tts_default_synth_summary">"স্পিচ সিন্থেসিস ইঞ্জিন নির্ধারণ করার ভাষায় টেক্সট জন্য ব্যবহৃত হবে"</string>
+<string name="tts_default_rate_title">"বক্তৃতা হার"</string>
+<string name="tts_default_rate_summary">"গতিতে যা টেক্সট উচ্চারিত হয়"</string>
+<string name="tts_default_pitch_title">"পিচ"</string>
+<string name="tts_default_pitch_summary">"কথ্য লেখার ভঙ্গিমা প্রভাবিত করে।"</string>
+<string name="tts_default_lang_title">স্থানীয় </string>
+<string name="tts_lang_not_selected">"ভাষা নির্বাচন হয়নি" </string>
+<string name="tts_default_lang_summary">"কথ্য টেক্সট জন্য ভাষা ভিত্তিক ভয়েস নির্ধারণ"</string>
+<string name="tts_play_example_title">"একটি উদাহরণ থেকে শুনুন"</string>
+<string name="tts_play_example_summary">"একটি বক্তৃতা সংশ্লেষণ সংক্ষিপ্ত বিক্ষোভ খেলুন"</string>
+<string name="tts_install_data_title">"ভয়েস ডাটা ইনস্টল করুন"</string>
+<string name="tts_install_data_summary">"ভয়েস বক্তৃতা সংশ্লেষের জন্য প্রয়োজনীয় ডাটা ইনস্টল করুন"</string>
+<string name="tts_data_installed_summary">"স্পিচ সিন্থেসিস ইতিমধ্যে সঠিকরূপে ইনস্টল করা প্রয়োজন ভয়েসেস"</string>
+<string name="tts_settings_changed_demo">"আপনার সেটিংস পরিবর্তন করে। এটি কিভাবে তারা ধ্বনি এর একটিউদাহরণ।"</string>
+<string name="tts_engine_error">"নির্বাচিত ইঞ্জিনটি চলবে না"</string>
+<string name="tts_engine_error_config">"কনফিগার করুন"</string>
+<string name="tts_engine_error_reselect">"অন্য ইঞ্জিন নির্বাচন করুন"</string>
+<string name="tts_engine_security_warning">"এই বক্তৃতা সংশ্লেষণ ইঞ্জিন থেকে সব লেখা যে পাসওয়ার্ড ও ক্রেডিট কার্ড নম্বর মত ব্যক্তিগত তথ্য সহ, কথিত হবে সংগ্রহ করতে পারবেন। এটা থেকে আসে <xliff:g id="tts_plugin_engine_name">%s</xliff:g> ইঞ্জিন । এই বক্তৃতা সংশ্লেষণ ইঞ্জিন ব্যবহার সক্রিয় করব?"</string>
+<string name="tts_engine_network_required">"এই টেক্সট টু স্পীচ  আউটপুটের জন্য একটি সক্রিয় নেটওয়ার্ক সংযোগ প্রয়োজন."   </string>
+<string name="tts_default_sample_string">"এটি বক্তৃতা সংশ্লেষণের একটি উদাহরণ"  </string>
+<string name="tts_status_title">"ডিফল্ট ভাষা অবস্থা"</string>
+<string name="tts_status_ok">"<xliff:g id="locale" example="English (United States)">%1$s</xliff:g> পরিপূর্নভাবে সাপোর্ট করে "</string>
+<string name="tts_status_requires_network">"<xliff:g id="locale" example="English (United States)">%1$s</xliff:g> নেটওয়ার্ক কানেকশন প্রয়োজন  </string>
+<string name="tts_status_not_supported">"<xliff:g id="locale" example="English (United States)">%1$s</xliff:g> সাপোর্ট করেনা " </string>
+<string name="tts_status_checking">"চেকিং..."</string>
+<string name="tts_engines_section">"ইঞ্জিন"</string>
+<string name="tts_engine_name_settings">"<xliff:g id="tts_plugin_engine_name">%s</xliff:g> সেটিং"</string>
+<string name="tts_engine_name_is_enabled_summary">"<xliff:g id="tts_plugin_engine_name">%s</xliff:g> চালু"</string>
+<string name="tts_engine_name_is_disabled_summary">"<xliff:g id="tts_plugin_engine_name">%s</xliff:g> চালু নাই"</string>
+<string name="tts_engine_settings_section">"ইঞ্জিন সেটিংস"</string>
+<string name="tts_engine_settings_title">"সেটিংস এর জন্য <xliff:g id="tts_engine_name">%s</xliff:g>"</string>
+<string name="pico_languages_and_voices">"ভাষা এবং কণ্ঠ"</string>
+<string name="pico_installed">"ইনস্টল হয়েছে"</string>
+<string name="pico_not_installed">"ইনস্টল করা হয় নি"</string>
+<string name="pico_voice_summary_female">"মহিলা"</string>
+<string name="pico_voice_summary_male">"পুরুষ"</string>
+<string name="tts_notif_engine_install_title">"স্পিচ সিন্থেসিস ইঞ্জিন ইনস্টল করা"</string>
+<string name="tts_notif_engine_install_message">"ব্যবহারের পূর্বে নতুন ইঞ্জিন সক্রিয় করুন"</string>
+<string name="tts_engine_settings_button">"ইঞ্জিন সেটিংস প্রবর্তন করুন"</string>
+<string name="tts_engine_preference_section_title">"পছন্দের ইঞ্জিন"</string>
+<string name="tts_general_section_title">"সাধারণ"</string>
+<string name="gadget_title">"বিদ্যুৎ নিয়ন্ত্রণ"</string>
+<string name="gadget_toggle_wifi">"Wi-Fi সেটিং আপডেট করার প্রণালী"</string>
+<string name="gadget_toggle_bluetooth">"ব্লুটুথ সেটিং আপডেট করার প্রণালী"</string>
+<string name="gadget_state_template">"<xliff:g name="feature" example="Wi-Fi">%1$s</xliff:g> <xliff:g name="state" example="off">%2$s</xliff:g>"</string>
+<string name="gadget_state_on">চালু</string>
+<string name="gadget_state_off">বন্ধ</string>
+<string name="gadget_state_turning_on">চালু</string>
+<string name="gadget_state_turning_off">বন্ধ</string>
+<string name="gadget_wifi">"ওয়াই-ফাই"</string>
+<string name="gadget_bluetooth">"ব্লুটুথ"</string>
+<string name="gadget_location">"অবস্থান"</string>
+<string name="gadget_sync">"সিঙ্ক"</string>
+<string name="gadget_brightness_template">"উজ্জ্বলতা <xliff:g name="state" example="half">%1$s</xliff:g>" </string>
+<string name="gadget_brightness_state_auto">স্বত</string>
+<string name="gadget_brightness_state_full">"পূর্ণ"</string>
+<string name="gadget_brightness_state_half">অর্ধ </string>
+<string name="gadget_brightness_state_off">বন্ধ</string>
+<string name="credentials_title">"ক্রেডেনশিয়াল সংগ্রহস্থল"</string>
+<string name="credentials_install" product="nosdcard">"সংগ্রহস্থল থেকে ইনস্টল করুন"</string>
+<string name="credentials_install" product="default">"SD কার্ড থেকে ইনস্টল করুন"</string>
+<string name="credentials_install_summary" product="nosdcard">"সংগ্রহস্থল থেকে সার্টিফিকেট ইনস্টল করুন"</string>
+<string name="credentials_install_summary" product="default">"SD কার্ড থেকে সার্টিফিকেট ইনস্টল করুন"</string>
+<string name="credentials_reset">"সাফ সংগ্রহস্থল"</string>
+<string name="credentials_reset_summary">"সমস্ত বিষয়বস্তু শংসাপত্র সংগ্রহস্থল এবং সাফ এর পাসওয়ার্ড রিসেট করুন"</string>
+<string name="trusted_credentials">"ট্রাস্টেড প্রমাণপত্রাদি"</string>
+<string name="trusted_credentials_summary">"বিশ্বস্ত CA সার্টিফিকেট প্রদর্শন"</string>
+<string name="credential_storage_type">"সংগ্রহস্থল ধরণ" </string>
+<string name="credential_storage_type_hardware">"হার্ডওয়্যার সমর্থিত" </string>
+<string name="credential_storage_type_software">"শুধুমাত্র  সফটওয়্যার" </string>
+<string name="credentials_install_gesture_prompt">আপনার আনলক প্যাটার্ন আঁকা</string>
+<string name="credentials_install_gesture_explanation">আপনি ইনস্টলেশন নিশ্চিত করুন আপনি আপনার আনলক প্যাটার্ন আঁকা হবে.</string>
+<string name="credentials_unlock_hint">"শংসাপত্র সংগ্রহস্থল পাসওয়ার্ড লিখুন।"</string>
+<string name="credentials_old_password">"বর্তমান পাসওয়ার্ড:"</string>
+<string name="credentials_reset_hint">"আপনি কি নিশ্চিত যে আপনি সব শংসাপত্র এবং মুছে ফেলা শংসাপত্র সংগ্রহস্থল পাসওয়ার্ড রিসেট করতে চান?"</string>
+<string name="credentials_password_too_short">"পাসওয়ার্ড অন্তত 8 অক্ষর থাকা আবশ্যক।"</string>
+<string name="credentials_wrong_password">"ভুল পাসওয়ার্ড."</string>
+<string name="credentials_reset_warning">"সঠিক পাসওয়ার্ড লিখুন। আপনি আরও একটি সুযোগ ক্রেডেনশিয়ালের স্টোরেজ মুছে দেওয়ার আছে।"</string>
+<string name="credentials_reset_warning_plural">"সঠিক পাসওয়ার্ড লিখুন। আপনার <xliff:g id="number" example="5">%1$d</xliff:g>আরও সঠিক পাসওয়ার্ড লিখুন চেষ্টা আগে শংসাপত্র সংগ্রহস্থল হল মুছে ফেলুন।"</string>
+<string name="credentials_erased">"শংসাপত্র সংগ্রহস্থল মুছে ফেলা হয়।"</string>
+<string name="credentials_not_erased">"ক্রেডেনশিয়াল সংগ্রহস্থল মুছে ফেলা যায়নি।"</string>
+<string name="credentials_enabled">"যোগ্যতা সংগ্রহস্থল সক্রিয় করা হল।"</string>
+<string name="credentials_configure_lock_screen_hint">"ক্রিডেনশাল স্টোরেজ ব্যবহারের আগে একটি লক স্ক্রিন পিন বা পাসওয়ার্ড প্রয়োগ করুন।"</string>
+<string name="emergency_tone_title">"জরুরী স্বন"</string>
+<string name="emergency_tone_summary">"আচরণ যখন জরুরী প্রয়োজনে কল স্থাপন করা হয় সেট"</string>
+<string name="privacy_settings">"ব্যাকআপ &amp;রিসেট করুন"</string>
+<string name="privacy_settings_title">"ব্যাকআপ &amp;রিসেট করুন"</string>
+<string name="backup_section_title">"ব্যাকআপ এবং ফিরিয়ে আনা করা"</string>
+<string name="personal_data_section_title">"ব্যক্তিগত তথ্য"</string>
+<string name="backup_data_title">"আমার ডাটা ব্যাকআপ"</string>
+<string name="backup_data_summary">"অ্যাপ তথ্য,ওয়াই-ফাই পাসওয়ার্ড এবং অন্যান্য সেটিংস Google সার্ভারে ব্যাকআপ করুন।"</string>
+<string name="backup_configure_account_title">"ব্যাকআপ অ্যাকাউন্ট"</string>
+<string name="backup_configure_account_default_summary">"কোনো অ্যাকাউন্ট বর্তমানে তথ্য ব্যাক আপ সংরক্ষণ নেই"</string>
+<string name="auto_restore_title">"স্বয়ংক্রিয় পুনরুদ্ধার করে"</string>
+<string name="auto_restore_summary">"যদি একটি অ্যাপ্লিকেশন পুনরায় ইনস্টল করা হয়, ব্যাক আপ সেটিংস বা অন্যান্য তথ্য পূর্বাবস্থায় ফিরিয়ে আনুন।"</string>
+<string name="local_backup_password_title">"ডেস্কটপ ব্যাকআপ পাসওয়ার্ড"</string>
+<string name="local_backup_password_summary_none">"বর্তমানে ডেস্কটপের সমগ্র ব্যাকআপসমূহ নিরাপদে নেই।"</string>
+<string name="local_backup_password_summary_change">"যাও বা পরিবর্তন ডেস্কটপ সম্পূর্ণ ব্যাকআপ জন্য পাসওয়ার্ড নির্বাচন সরান"</string>
+<string name="local_backup_password_toast_success">এক্সপ্লোর পরিচালনা ব্যাকআপ পাসওয়ার্ড সেট</string>
+<string name="local_backup_password_toast_confirmation_mismatch">এক্সপ্লোর পরিচালনা পাসওয়ার্ড এবং নিশ্চয়তা মেলে না</string>
+<string name="local_backup_password_toast_validation_failure">ব্যর্থ সেটিং ব্যাকআপ পাসওয়ার্ড</string>
+<string name="backup_erase_dialog_message">"ওয়াই-ফাই পাসওয়ার্ডসমূহ,বুকমার্ক,অন্যান্য সেটিংস,এবং অ্যাপ তথ্যাবলি ব্যাকআপ এবং Google সার্ভারে সংরক্ষিত অনুলিপি সমূহ মুছে দিবেন?"</string>
+<string name="device_admin_settings_title">"ডিভাইস প্রশাসন সেটিংস"</string>
+<string name="active_device_admin_msg">"ডিভাইস প্রশাসক"</string>
+<string name="remove_device_admin">"নিষ্ক্রিয় করা"</string>
+<string name="select_device_admin_msg">"ডিভাইস অ্যাডমিনিস্ট্রেটররা"</string>
+<string name="no_device_admins">"কোন উপলব্ধ ডিভাইস অ্যাডমিনিস্ট্রেটররা"</string>
+<string name="add_device_admin_msg">"ডিভাইস প্রশাসক সক্রিয় হবে?"</string>
+<string name="add_device_admin">সক্রিয় করা</string>
+<string name="device_admin_add_title">"ডিভাইস প্রশাসক"</string>
+<string name="device_admin_warning">"এই তত্ত্বাবধায়ন সক্রিয় করলে <xliff:g id="app_name">%1$s</xliff:g> অ্যাপটি নিম্নোক্ত কাজ সম্পাদন করতে পারবেঃ"</string>
+<string name="device_admin_status">"এই তত্ত্বাবধায়ন সক্রিয় রয়েছে এবং এজন্যে <xliff:g id="app_name">%1$s</xliff:g> অ্যাপটি নিম্নোক্ত কাজ সম্পাদন করতে পারবেঃ"</string>
+<string name="untitled_apn">"শিরোনামহীন"</string>
+<string name="sound_category_sound_title">"সাধারণ"</string>
+<string name="sound_category_notification_title">বিজ্ঞপ্তি</string>
+<string name="sound_category_call_ringtone_vibrate_title">"কলের রিংটোন &amp; স্পন্দন"</string>
+<string name="sound_category_system_title">পদ্ধতি</string>
+<string name="wifi_setup_title">"WLAN সেটআপ"</string>
+<string name="wifi_setup_title_editing_network">"<xliff:g id="network_name" example="Happy Mobile">%s</xliff:g> ওয়াই-ফাই নেটওয়ার্কের সাথে সংযুক্ত করুন"</string>
+<string name="wifi_setup_title_connecting_network">"<xliff:g id="network_name" example="Happy Mobile">%s</xliff:g> ওয়াই-ফাই নেটওয়ার্কের সাথে সংযোগ করা হচ্ছে ..."</string>
+<string name="wifi_setup_title_connected_network">"<xliff:g id="network_name" example="Happy Mobile">%s</xliff:g> ওয়াই-ফাই নেটওয়ার্কের সাথে সংযুক্ত করা হয়েছে।"</string>
+<string name="wifi_setup_title_add_network">"একটি নেটওয়ার্ক যুক্ত করুন"</string>
+<string name="wifi_setup_not_connected">"সংযুক্ত নয় "</string>
+<string name="wifi_setup_add_network">"ওয়াইফাই নেটওয়ার্ক যোগ করুন"</string>
+<string name="wifi_setup_refresh_list">"তালিকা রিফ্রেশ করুন"</string>
+<string name="wifi_setup_skip">"স্কিপ"</string>
+<string name="wifi_setup_next">"পরবর্তী"</string>
+<string name="wifi_setup_back">পিছনে</string>
+<string name="wifi_setup_detail">"নেটওয়ার্ক বিবরণ"</string>
+<string name="wifi_setup_connect">"সংযুক্ত হন"</string>
+<string name="wifi_setup_forget">"ভুলে যান"</string>
+<string name="wifi_setup_save">সংরক্ষণ</string>
+<string name="wifi_setup_cancel">বাতিল</string>
+<string name="wifi_setup_status_scanning">"স্ক্যান নেটওয়ার্কের\u2026"</string>
+<string name="wifi_setup_status_select_network">"এটি একটি নেটওয়ার্ক সংযোগ স্পর্শ করুন"</string>
+<string name="wifi_setup_status_existing_network">"বিদ্যমান নেটওয়ার্কে সংযোগ করুন"</string>
+<string name="wifi_setup_status_unsecured_network">"অসুরক্ষিত নেটওয়ার্কের সাথে সংযোগ স্থাপন"</string>
+<string name="wifi_setup_status_edit_network">"টাইপ নেটওয়ার্ক কনফিগারেশন"</string>
+<string name="wifi_setup_status_new_network">"নতুন নেটওয়ার্কে সংযোগ করুন"</string>
+<string name="wifi_setup_status_connecting">"সংযুক্ত\u2026"</string>
+<string name="wifi_setup_status_proceed_to_next">"পরের ধাপে যান"</string>
+<string name="wifi_setup_status_eap_not_supported">"EAP সমর্থিত নয়।"</string>
+<string name="wifi_setup_eap_not_supported">"সেটআপ চলাকালীন কোন EAP ওয়াই-ফাই সংযোগ কনফিগার করা সম্ভব নয়। সেটআপ এর পর আপনি তা- সেটিংস&gt; ওয়ারলেস &amp; নেটওয়ার্কস এ যেয়ে সম্পন্ন করতে পারেন।"</string>
+<string name="wifi_setup_description_connecting">"সংযুক্ত কয়েক মিনিট সময় লাগতে পারে\u2026"</string>
+<string name="wifi_setup_description_connected">"স্পর্শ <b>পরবর্তী</b> হতে সেটআপ সঙ্গে অবিরত।\n\nস্পর্শ<b>পিছনে</b>একটি ভিন্ন WLAN নেটওয়ার্কের সাথে সংযোগ স্থাপন।"</string>
+<string name="accessibility_sync_enabled">"সিঙ্ক সক্ষম"</string>
+<string name="accessibility_sync_disabled">"অক্ষম সিঙ্ক করুন"</string>
+<string name="accessibility_sync_error">"সিঙ্ক ত্রুটি"</string>
+<string name="sync_failed">সিঙ্ক করতে ব্যর্থ হয়েছে</string>
+<string name="sync_active">সিঙ্ক সক্রিয়</string>
+<string name="account_sync_settings_title">"সিঙ্ক"</string>
+<string name="sync_is_failing">"সিঙ্ক বর্তমানে সমস্যার সম্মুখীন। এটি খুব শীঘ্রই ফিরে আসবে।"</string>
+<string name="add_account_label">"অ্যাকাউন্ট যোগ করুন"</string>
+<string name="background_data">"পৃষ্ঠভূমি তথ্য"</string>
+<string name="background_data_summary">"এপস, পাঠাতে সিঙ্ক, এবং যে কোনো সময় তথ্য পেতে পারেন"</string>
+<string name="background_data_dialog_title">"পশ্চাদপট তথ্য অক্ষম?"</string>
+<string name="background_data_dialog_message">"পশ্চাদপট তথ্য অক্ষম ব্যাটারি জীবন প্রসারিত করে এবং তথ্য ব্যবহার কমে যায়। কিছু অ্যাপস এখনও পটভূমি তথ্য সংযোগ ব্যবহার করতে পারেন।"</string>
+<string name="sync_automatically">"অটো-সিঙ্ক-অ্যাপ্লিকেশন তথ্য"</string>
+<string name="sync_enabled">"সিঙ্ক চালু আছে"</string>
+<string name="sync_disabled">"সিঙ্ক হয় বন্ধ করুন"</string>
+<string name="sync_error">"সিঙ্ক ত্রুটি"</string>
+<string name="last_synced">শেষ বার সিঙ্ক হয়েছে <xliff:g id="last_sync_time">%1$s</xliff:g></string>
+<string name="sync_in_progress">এখন \u2026 সিংক</string>
+<string name="settings_backup">"সেটিংস ব্যাক আপ"</string>
+<string name="settings_backup_summary">"আমার সেটিংস ব্যাক আপ"</string>
+<string name="sync_menu_sync_now">"এখন সিঙ্ক করুন"</string>
+<string name="sync_menu_sync_cancel">"সিঙ্ক বাতিল"</string>
+<string name="sync_calendar">ক্যালেন্ডার</string>
+<string name="sync_contacts">যোগাযোগগুলি</string>
+<string name="sync_plug">"<font fgcolor="#ffffffff">Google Sync এ আপনাকে স্বাগতম! </font> \n Google আপনার কন্ট্যাক্টসমূহ,অ্যাপয়েন্টমেন্ট এবং অন্যান্য তথ্যসমূহ সিংক করে রাখতে চায় যেন আপনি যেকোন জায়গা থেকে তা ব্যবহার করতে পারেন।"</string>
+<string name="header_application_sync_settings">"সিঙ্ক অ্যাপ্লিকেশন সেটিংস"</string>
+<string name="header_data_and_synchronization">"তথ্য &amp; সুসংগতি"</string>
+<string name="preference_change_password_title">পাসওয়ার্ড পরিবর্তন করুন</string>
+<string name="header_account_settings">"একাউন্ট সেটিংস"</string>
+<string name="remove_account_label">"একাউন্ট মুছে ফেলুন"</string>
+<string name="header_add_an_account">"একটি একাউন্ট যোগ করুন"</string>
+<string name="finish_button_label">"শেষ"</string>
+<string name="really_remove_account_title">"একাউন্ট মুছে ফেলুন?"</string>
+<string name="really_remove_account_message" product="tablet">"এই অ্যাকাউন্টটি সরানো তার বার্তা, পরিচিতি, ট্যাবলেট এবং অন্যান্য তথ্য থেকে মুছে ফেলতে হবে!"</string>
+<string name="really_remove_account_message" product="default">"এই অ্যাকাউন্টটি সরানো তার বার্তা, পরিচিতি, এবং ফোন থেকে অন্য সমস্ত তথ্য মুছে যাবে!"</string>
+<string name="remove_account_failed" product="tablet">"এই একাউন্টটি কিছু অ্যাপস দ্বারা প্রয়োজন হয়। আপনি কেবল ফ্যাক্টরি ডিফল্টে (যা মুছে ফেলা আপনার সকল ব্যক্তিগত তথ্য) সেটিংস রিসেট ফোন দ্বারা এটি &gt; ব্যাকআপ &amp; রিসেট করুন। "</string>
+<string name="remove_account_failed" product="default">"এই একাউন্টটি কিছু অ্যাপস দ্বারা প্রয়োজন হয়। আপনি কেবল ফ্যাক্টরি ডিফল্টে (যা মুছে ফেলা আপনার সকল ব্যক্তিগত তথ্য) সেটিংস রিসেট &gt;ফোন দ্বারা এটি ব্যাকআপ &amp;রিসেট করুন। "</string>
+<string name="provider_label">"সদস্যতা পুশ"</string>
+<string name="sync_item_title">"<xliff:g id="authority" example="Calendar">%s</xliff:g>"</string>
+<string name="cant_sync_dialog_title">"নিজে না সিঙ্ক করতে পারেন"</string>
+<string name="cant_sync_dialog_message">"এই আইটেমটি জন্য সিঙ্ক বর্তমানে অক্ষম। এই সেটিং পরিবর্তন করতে, অস্থায়ীভাবে পটভূমি তথ্য এবং স্বয়ংক্রিয় সিঙ্ক চালু করুন।"</string>
+<string name="status_wimax_mac_address">"4G MAC ঠিকানা "</string>
+<string name="enter_password">"ডিক্রিপ্ট করা সংগ্রহস্থল প্রকার পাসওয়ার্ড"</string>
+<string name="try_again">"আবার চেষ্টা করুন।"</string>
+<string name="delete">মুছে দিন</string>
+<string name="misc_files">"অন্যান্য ফাইল"</string>
+<string name="misc_files_selected_count">"নির্বাচিত<xliff:g id="number" example="3">%1$d</xliff:g> আউট <xliff:g id="total" example="15">%2$d</xliff:g>"</string>
+<string name="misc_files_selected_count_bytes">"<xliff:g id="number" example="3.25MB">%1$s</xliff:g> আউট <xliff:g id="total" example="15.25MB">%2$s</xliff:g>"</string>
+<string name="select_all">সব নির্বাচন করুন</string>
+<string name="hdcp_checking_title">"HDCP পরীক্ষণ"</string>
+<string name="hdcp_checking_dialog_title">"HDCP চেক আচরণ সেট করুন"</string>
+<string name="debug_debugging_category">ডিবাগ </string>
+<string name="debug_app">ডিবাগ অ্যাপ্লিকেশন নির্বাচন করুন</string>
+<string name="debug_app_not_set">কোন ডিবাগ আবেদন সেট নেই</string>
+<string name="debug_app_set">ডিবাগ অ্যাপ্লিকেশন:<xliff:g id="app_name">%1$s</xliff:g></string>
+<string name="select_application">অ্যাপ্লিকেশন নির্বাচন করুন</string>
+<string name="no_application">কিছুই না</string>
+<string name="wait_for_debugger">ডিবাগার হওয়া পর্যন্ত অপেক্ষা করুন</string>
+<string name="wait_for_debugger_summary">"ডিবাগার অ্যাপলিকেশন ব্যবহারের আগে ডিবাগার জন্য অপেক্ষা করছে।"</string>
+<string name="debug_input_category">ইনপুট</string>
+<string name="debug_drawing_category">অঙ্কন</string>
+<string name="debug_hw_drawing_category">"হার্ডওয়্যার ত্বরিত রেন্ডারিং" </string>
+<string name="debug_monitoring_category">নিরীক্ষণ</string>
+<string name="strict_mode">"কঠোর মোড সক্রিয় করা"</string>
+<string name="strict_mode_summary">"মূল থ্রেডে দীর্ঘক্ষণ চালু অ্যাপসমূহের ক্ষেত্রে স্ক্রিন ফ্ল্যাশ করবে"</string>
+<string name="pointer_location">"পয়েন্টারের অবস্থান"</string>
+<string name="pointer_location_summary">"স্ক্রিন ওভারলে বর্তমান স্পর্শ তথ্য দেখাচ্ছে"</string>
+<string name="show_touches">"ছোঁয়া দেখাও"</string>
+<string name="show_touches_summary">"ছোঁয়া জন্য চাক্ষুষ প্রতিক্রিয়া দেখান"</string>
+<string name="show_screen_updates">"পর্দা আপডেট দেখান"</string>
+<string name="show_screen_updates_summary">"পর্দার ফ্ল্যাশ এলাকাসমূহ যখন তারা আপডেট "</string>
+<string name="show_hw_screen_updates">GPU-ভিউ আপডেটগুলি দেখান</string>
+<string name="show_hw_screen_updates_summary">GPU-সঙ্গে টানা যখন ফ্ল্যাশ জানালা ভিতর দেখে</string>
+<string name="show_hw_layers_updates">হার্ডওয়্যার স্তরগুলো আপডেট দেখান হয়</string>
+<string name="show_hw_layers_updates_summary">ফ্ল্যাশ হার্ডওয়্যার স্তরগুলো সবুজ হবে যখন তারা হালনাগাদ হবে।</string>
+<string name="debug_hw_overdraw">"GPU ডিবাগ অত্যুক্তি" </string>
+<string name="disable_overlays">HW প্রতিস্থাপক অক্ষম করুন</string>
+<string name="disable_overlays_summary">সর্বদা পর্দা কম্পোসিটিং জন্য GPU-ব্যবহার</string>
+<string name="enable_opengl_traces_title">OpenGL ট্রেস সক্রিয় করুন</string>
+<string name="debug_layout">লেআউট সীমার </string>
+<string name="debug_layout_summary">ক্লিপ সীমার, মার্জিন, ইত্যাদি দেখান</string>
+<string name="force_rtl_layout_all_locales">"আরটিএল বিন্যাসের দিক জোর প্রয়োগ করুন" </string>
+<string name="force_rtl_layout_all_locales_summary">"সকল লোকেইলের জন্য আরটিএল বিন্যাসের দিক জোর প্রয়োগ করুন" </string>
+<string name="show_cpu_usage">"CPU র ব্যবহার দেখাও"</string>
+<string name="show_cpu_usage_summary">"স্ক্রিন ওভারলে বর্তমান CPU ব্যবহারের দেখাচ্ছে"</string>
+<string name="force_hw_ui">"ফোর্স GPU উপস্থাপনের"</string>
+<string name="force_hw_ui_summary">"অ্যাপ্লিকেশনের ক্ষেত্রে 2D হার্ডওয়্যার অ্যাকসেলেরেশন ব্যবহার করুন"</string>
+<string name="force_msaa">বলপূর্বক 4x MSAA</string>
+<string name="force_msaa_summary">OpenGL ES 2.0 অ্যাপ্লিকেশনের 4x MSAA সক্রিয় করুন</string>
+<string name="show_non_rect_clip">"অ আয়তক্ষেত্রাকার ক্লিপ অপারেশন ডিবাগ"</string>
+<string name="track_frame_time">প্রফাইল GPU উপস্থাপনের</string>
+<string name="window_animation_scale_title">"উইন্ডো স্কেল অ্যানিমেশন"</string>
+<string name="transition_animation_scale_title">"ট্রানজিশন অ্যানিমেশন স্কেল"</string>
+<string name="animator_duration_scale_title">সময়কাল স্কেল অ্যানিমেটর</string>
+<string name="overlay_display_devices_title">সিমুলেট সেকেন্ডারি প্রদর্শন </string>
+<string name="debug_applications_category">"অ্যাপ্লিকেশানগুলি"</string>
+<string name="immediately_destroy_activities">"কি কার্যক্রম রাখা না"</string>
+<string name="immediately_destroy_activities_summary">"প্রতি কার্যকলাপ যত তাড়াতাড়ি ধ্বংস ব্যবহারকারী পাতার"</string>
+<string name="app_process_limit_title">"প্রসেসের সীমাবদ্ধতা পৃষ্ঠভূমি"</string>
+<string name="show_all_anrs">"সব ANR দেখাও"</string>
+<string name="show_all_anrs_summary">"ব্যাকগ্রাউন্ড অ্যাপসমূহের ক্ষেত্রে অ্যাপ কার্যকরী নয় বার্তাটি প্রদর্শিত হবে"</string>
+<string name="data_usage_summary_title">"ডেটা ব্যবহার"</string>
+<string name="data_usage_cycle">"ডেটা ব্যবহারের চক্র"</string>
+<string name="data_usage_menu_roaming">"রোমিং ডেটা"</string>
+<string name="data_usage_menu_restrict_background">"পশ্চাদপট তথ্য সীমিত"</string>
+<string name="data_usage_menu_split_4g">"পৃথক 4G ব্যবহার"</string>
+<string name="data_usage_menu_show_wifi">"দেখান WLAN ব্যবহার"</string>
+<string name="data_usage_menu_show_ethernet">"ইথারনেট ব্যবহার দেখান"</string>
+<string name="data_usage_menu_metered">মোবাইল হটস্পট</string>
+<string name="data_usage_menu_auto_sync">অটো-সিঙ্ক \'তথ্য</string>
+<string name="data_usage_change_cycle">"পরিবর্তন চক্র\u2026"</string>
+<string name="data_usage_pick_cycle_day">"মাস দিবস তথ্য ব্যবহার চক্র পুনরায় সেট:"</string>
+<string name="data_usage_empty">"কোনো অ্যাপ্লিকেশন এই সময়ের মধ্যে তথ্য ব্যবহৃত নেই।"</string>
+<string name="data_usage_label_foreground">"পুরোভূমি"</string>
+<string name="data_usage_label_background">"পশ্চাদপট"</string>
+<string name="data_usage_app_restricted">সীমাবদ্ধ</string>
+<string name="data_usage_disable_mobile">"মোবাইল তথ্য অক্ষম?"</string>
+<string name="data_usage_disable_mobile_limit">"মোবাইল সেট তথ্য সীমা"</string>
+<string name="data_usage_disable_4g_limit">"4G তথ্য সীমা সেট করুন"</string>
+<string name="data_usage_disable_3g_limit">"2G-3G তথ্য সীমা সেট করুন"</string>
+<string name="data_usage_disable_wifi_limit">"ওয়াই-ফাই ডাটার সীমা নির্ধারণ"</string>
+<string name="data_usage_tab_wifi">"ওয়াই-ফাই"</string>
+<string name="data_usage_tab_ethernet">"ইথারনেট"</string>
+<string name="data_usage_tab_mobile">"মোবাইল"</string>
+<string name="data_usage_list_mobile">"মোবাইল"</string>
+<string name="data_usage_list_none">"কোনো কিছুই নয়"</string>
+<string name="data_usage_enable_mobile">"মোবাইল তথ্য"</string>
+<string name="data_usage_enable_3g">"2G-3G তথ্য"</string>
+<string name="data_usage_enable_4g">"4G তথ্য"</string>
+<string name="data_usage_app_settings">"অ্যাপ্লিকেশন সেটিংস দেখুন"</string>
+<string name="data_usage_app_restrict_background">"পশ্চাদপট তথ্য সীমিত"</string>
+<string name="data_usage_app_restrict_background_summary">"মোবাইল নেটওয়ার্কের তথ্য শুধুমাত্র পটভূমি তথ্য অক্ষম। WLAN ব্যবহৃত যদি উপলব্ধ করা হবে।"</string>
+<string name="data_usage_app_restrict_background_summary_disabled">"এই অ্যাপ্লিকেশন পটভূমির তথ্য সীমিত প্রথম, একটি মোবাইল সেট তথ্য সীমা।"</string>
+<string name="data_usage_app_restrict_dialog_title">"পশ্চাদপট তথ্য সীমিত?"</string>
+<string name="data_usage_app_restrict_dialog">"এই বৈশিষ্ট্যটি একটি অ্যাপ্লিকেশন পটভূমি তথ্য কাজ যখন WLAN উপলব্ধ নয় থামাতে উপর যে নির্ভর করে হতে পারে। \n\nআপনি অ্যাপ্লিকেশন সেটিংস মধ্যে উপলব্ধ আরো উপযুক্ত তথ্য ব্যবহার নিয়ন্ত্রণ পেতে পারেন।"</string>
+<string name="data_usage_restrict_denied_dialog">"পশ্চাদপট তথ্য সীমিত সম্ভব শুধুমাত্র যখন আপনি একটি মোবাইল তথ্য সীমা সেট করেছি।"</string>
+<string name="data_usage_auto_sync_on_dialog_title">স্বয়ংক্রিয় সিঙ্ক ডেটা বন্ধ করুন?</string>
+<string name="data_usage_auto_sync_on_dialog" product="tablet">"ওয়েবে আপনার কোন অ্যাকাউন্টে পরিবর্তন হলে তা ট্যাবলেটে সংরক্ষিত হবে। \n\nকিছু অ্যাকাউন্ট স্বয়ংক্রিয়ভাবে ট্যাবলেট হতে ওয়েবে সম্পাদিত পরিবরতনের অনুলিপি তৈরি করে রাখবে। একটি Google অ্যাকাউন্ট এভাবে কাজ করে। \n\n প্রতিটি অ্যাকাউন্টে কিধরনের তথ্য সিংক হবে তা নির্ধারণ করতে সেটিংস &gt; অ্যাকাউন্টস্‌ এ প্রবেশ করুন।"</string>
+<string name="data_usage_auto_sync_on_dialog" product="default">"ওয়েবে আপনার কোন অ্যাকাউন্টে পরিবর্তন হলে তা ফোনে সংরক্ষিত হবে। \n\nকিছু অ্যাকাউন্ট স্বয়ংক্রিয়ভাবে ফোন হতে ওয়েবে সম্পাদিত পরিবরতনের অনুলিপি তৈরি করে রাখবে। একটি Google অ্যাকাউন্ট এভাবে কাজ করে। \n\n প্রতিটি অ্যাকাউন্টে কিধরনের তথ্য সিংক হবে তা নির্ধারণ করতে সেটিংস &gt; অ্যাকাউন্টস্‌ এ প্রবেশ করুন।"</string>
+<string name="data_usage_auto_sync_off_dialog_title">স্বয়ংক্রিয় সিঙ্ক ডেটা বন্ধ করুন?</string>
+<string name="data_usage_auto_sync_off_dialog">এই তথ্য এবং ব্যাটারি ব্যবহার সংরক্ষণ করা হবে, কিন্তু সাম্প্রতিক তথ্য সংগ্রহ ম্যানুয়ালি প্রতিটি অ্যাকাউন্ট সিঙ্ক করতে হবে. আপডেট ঘটলে এবং আপনাকে বিজ্ঞপ্তি পাবেন না.</string>
+<string name="data_usage_cycle_editor_title">"ব্যবহারের চক্র রিসেট তারিখ"</string>
+<string name="data_usage_cycle_editor_subtitle">"প্রতিটি মাসের জন্ম:"</string>
+<string name="data_usage_cycle_editor_positive">"সেট"</string>
+<string name="data_usage_warning_editor_title">"তথ্য ব্যবহার সতর্কতা সেট করুন"</string>
+<string name="data_usage_limit_editor_title">"তথ্য ব্যবহার সীমা সেট করুন"</string>
+<string name="data_usage_limit_dialog_title">"তথ্য ব্যবহার সীমিত"</string>
+<string name="data_usage_limit_dialog_mobile" product="tablet">নির্দিষ্ট সীমাতে পৌঁছেছেন যখন আপনার মোবাইল ডাটা সংযোগ নিষ্ক্রিয় করা হবে.n\nডাটা ব্যবহারের আপনার ট্যাবলেট দ্বারা পরিমাপ করা হয়, এবং আপনার ক্যারিয়ার ভিন্নভাবে ব্যবহারের জন্য অ্যাকাউন্ট পারে যেহেতু, একটি রক্ষণশীল সীমা ব্যবহার করার কথা চিন্তা.</string>
+<string name="data_usage_limit_dialog_mobile" product="default">নির্দিষ্ট সীমাতে পৌঁছেছেন যখন আপনার মোবাইল ডাটা সংযোগ নিষ্ক্রিয় করা হবে.n\nতথ্য ব্যবহার আপনার ফোন দ্বারা পরিমাপ করা হয়, এবং আপনার ক্যারিয়ার ভিন্নভাবে ব্যবহারের জন্য অ্যাকাউন্ট পারে যেহেতু, একটি রক্ষণশীল সীমা ব্যবহার করার কথা চিন্তা.</string>
+<string name="data_usage_restrict_background_title">"পশ্চাদপট তথ্য সীমিত?"</string>
+<string name="data_usage_restrict_background">"যদি মোবাইল ডাটা সীমাবদ্ধ থাকে, কিছু অ্যাপ এবং সুবিধাসমূহ ওয়াই-ফাই সংযোগ ছাড়া কাজ করবে না।"</string>
+<string name="data_usage_restrict_background_multiuser" product="tablet">"যদি আপনি পটভূমি মোবাইল ডেটা সীমিত করেন , একটি ওয়াই WiFi নেটওয়ার্কের সাথে সংযুক্ত না করলে কিছু অ্যাপ্লিকেশন এবং পরিষেবা কাজ করবেনা।\n\nএই সেটিং অন্যান্য ব্যাবহারকারীদের প্রভাবিত করবে।" </string>
+<string name="data_usage_restrict_background_multiuser" product="default">"যদি আপনি পটভূমি মোবাইল ডেটা সীমিত করেন , একটি ওয়াই WiFi নেটওয়ার্কের সাথে সংযুক্ত না করলে কিছু অ্যাপ্লিকেশন এবং পরিষেবা কাজ করবেনা।\n\nএই সেটিং ফোনে অন্যান্য ব্যাবহারকারীদেরও প্রভাবিত করবে।" </string>
+<string name="data_usage_sweep_warning">"<font size="21"><xliff:g id="number" example="128">^1</xliff:g></font> <font size="9"><xliff:g id="unit" example="KB">^2</xliff:g></font>\n<font size="12">সতর্কবাণী</font>"</string>
+<string name="data_usage_sweep_limit">"<font size="21"><xliff:g id="number" example="128">^1</xliff:g></font> <font size="9"><xliff:g id="unit" example="KB">^2</xliff:g></font>\n<font size="12">সীমা</font>"</string>
+<string name="data_usage_uninstalled_apps">"সরানো হয়েছে অ্যাপ্লিকেশান"</string>
+<string name="data_usage_uninstalled_apps_users">অ্যাপ্লিকেশন এবং ব্যবহারকারীদের মুছে ফেলা হল</string>
+<string name="data_usage_received_sent">"<xliff:g id="received" example="128KB">%1$s</xliff:g> গৃহিত, <xliff:g id="sent" example="1.3GB">%2$s</xliff:g> প্রেরিত"</string>
+<string name="data_usage_total_during_range">"<xliff:g id="range" example="Jul 1 - Jul 31">%2$s</xliff:g>: প্রায় <xliff:g id="total" example="128KB">%1$s</xliff:g> ব্যবহৃত।"</string>
+<string name="data_usage_total_during_range_mobile" product="tablet">"আপনার ট্যাবলেট দ্বারা নির্ণীত উপায়েই <xliff:g id="range" example="Jul 1 - Jul 31">%2$s</xliff:g>: প্রায় <xliff:g id="total" example="128KB">%1$s</xliff:g> ব্যবহৃত হয়েছে। আপনার ক্যারিয়ারের ডাটা ব্যবহারের হিসেবের সাথে পার্থক্য থাকতে পারে।"</string>
+<string name="data_usage_total_during_range_mobile" product="default">"আপনার ফোন দ্বারা নির্ণীত উপায়েই <xliff:g id="range" example="Jul 1 - Jul 31">%2$s</xliff:g>: প্রায় <xliff:g id="total" example="128KB">%1$s</xliff:g> ব্যবহৃত হয়েছে। আপনার ক্যারিয়ারের ডাটা ব্যবহারের হিসেবের সাথে পার্থক্য থাকতে পারে।"</string>
+<string name="data_usage_metered_title">মোবাইল হটস্পট</string>
+<string name="data_usage_metered_body">"মোবাইল হটস্পট WLAN নেটওয়ার্ক নির্বাচন করুন। অ্যাপ্লিকেশন যখন পটভূমিতে থাকে এই নেটওয়ার্ক ব্যবহার সীমিত করা যাবে। এই অ্যাপ্লিকেশন বড় ডাউনলোডের জন্য নেটওয়ার্ক ব্যবহার করার আগে সতর্ক করতে পারে।"</string>
+<string name="data_usage_metered_mobile">মোবাইল নেটওয়ার্কস</string>
+<string name="data_usage_metered_wifi">"Wi-Fi নেটওয়ার্কের"</string>
+<string name="data_usage_metered_wifi_disabled">"মোবাইল হটস্পট নির্বাচন করার জন্য, WLAN চালু করুন।"</string>
+<string name="cryptkeeper_emergency_call">"ইমার্জেন্সি কল"</string>
+<string name="cryptkeeper_return_to_call">"থেকে কল প্রত্যাবর্তন"</string>
+<string name="vpn_name">VPN নাম</string>
+<string name="vpn_type">"প্রকার"</string>
+<string name="vpn_server">"সার্ভারের ঠিকানা"</string>
+<string name="vpn_mppe">"পিপিপি এনক্রিপশন (MPPE)"</string>
+<string name="vpn_l2tp_secret">"L2TP গোপন"</string>
+<string name="vpn_ipsec_identifier">"IPSec শনাক্তকারী"</string>
+<string name="vpn_ipsec_secret">"IPSec প্রাক ভাগ করা কী"</string>
+<string name="vpn_ipsec_user_cert">"ব্যবহারকারী দ্বারা IPSec শংসাপত্র"</string>
+<string name="vpn_ipsec_ca_cert">"IPSec CA সার্টিফিকেট"</string>
+<string name="vpn_ipsec_server_cert">"IPSec সার্ভারের শংসাপত্র"</string>
+<string name="vpn_show_options">"উন্নত বিকল্পগুলি দেখান"</string>
+<string name="vpn_search_domains">"অনুসন্ধানের ডোমেইনের DNS"</string>
+<string name="vpn_dns_servers">"DNS সার্ভারের (যেমন 8.8.8.8)"</string>
+<string name="vpn_routes">"ফরোয়ার্ড রুট (যেমন 10.0.0.0 / 8)"</string>
+<string name="vpn_username">ব্যবহারকারীর নাম</string>
+<string name="vpn_password">পাসওয়ার্ড</string>
+<string name="vpn_save_login">"অ্যাকাউন্ট সংক্রান্ত তথ্য সংরক্ষণ করুন"</string>
+<string name="vpn_not_used">"(না ব্যবহৃত)"</string>
+<string name="vpn_no_ca_cert">"(সার্ভার যাচাই হয় নি)"</string>
+<string name="vpn_no_server_cert">"(সার্ভার থেকে প্রাপ্ত)"</string>
+<string name="vpn_cancel">বাতিল</string>
+<string name="vpn_save">সংরক্ষণ</string>
+<string name="vpn_connect">"সংযুক্ত হন"</string>
+<string name="vpn_edit">"সম্পাদন নেটওয়ার্ক VPN"</string>
+<string name="vpn_connect_to">"সংযোগ  <xliff:g id="name" example="Work Network">%s</xliff:g>"</string>
+<string name="vpn_create">"VPN নেটওয়ার্ক যুক্ত করুন"</string>
+<string name="vpn_menu_edit">"সম্পাদনা নেটওয়ার্ক"</string>
+<string name="vpn_menu_delete">"নেটওয়ার্ক মুছে দিন"</string>
+<string name="vpn_menu_lockdown">VPN সর্বদা চলমান</string>
+<string name="vpn_lockdown_summary">" সবসময় নেটওয়ার্কে সংযুক্ত থাকতে একটি VPN প্রোফাইল নির্বাচন করুন।এই VPN সংযুক্ত থাকাকালীন নেটওয়ার্ক ট্রাফিক অনুমতি প্রাপ্ত হবে  "</string>
+<string name="vpn_lockdown_none">"কোনো কিছুই নয়"</string>
+<string name="vpn_lockdown_config_error">সর্বদা চলমান VPN , সার্ভার ও DNS উভয়ের জন্য একটি IP ঠিকানা আবশ্যক.</string>
+<string name="vpn_no_network">কোনো নেটওয়ার্ক সংযোগ নেই. দয়া করে পরে আবার চেষ্টা করুন.</string>
+<string name="vpn_missing_cert">একটি প্রশংসাপত্র হারিয়েছে. প্রোফাইল সম্পাদনা করুন.</string>
+<string name="trusted_credentials_system_tab">পদ্ধতি</string>
+<string name="trusted_credentials_user_tab">"ব্যবহারকারী"</string>
+<string name="trusted_credentials_disable_label">"অক্ষম করুন"</string>
+<string name="trusted_credentials_enable_label">"সক্রিয়"</string>
+<string name="trusted_credentials_remove_label">অপসারিত</string>
+<string name="trusted_credentials_enable_confirmation">"সিস্টেমের CA সার্টিফিকেট সক্ষম?"</string>
+<string name="trusted_credentials_disable_confirmation">"সিস্টেমের CA সার্টিফিকেট অক্ষম?"</string>
+<string name="trusted_credentials_remove_confirmation">"ব্যবহারকারীর অ্যাকাউন্ট স্থায়ীরূপে মুছে ফেলার জন্য CA সার্টিফিকেট?"</string>
+<string name="spellcheckers_settings_title">"বানান সংশোধন"</string>
+<string name="current_backup_pw_prompt">"আপনার বর্তমান সম্পূর্ণ ব্যাকআপ পাসওয়ার্ড এখানে লিখুন"</string>
+<string name="new_backup_pw_prompt">"একটি সম্পূর্ণ ব্যাকআপ জন্য নতুন পাসওয়ার্ড টাইপ করুন"</string>
+<string name="confirm_new_backup_pw_prompt">"আপনার নতুন পাসওয়ার্ড পূর্ণ ব্যাকআপ এখানে টাইপ"</string>
+<string name="backup_pw_set_button_text">"ব্যাকআপ পাসওয়ার্ড সেট করুন"</string>
+<string name="backup_pw_cancel_button_text">বাতিল</string>
+<string name="percentage">"<xliff:g id="number" example="30">%d</xliff:g>%%"</string>
+<string name="additional_system_update_settings_list_item_title">"অতিরিক্ত সিস্টেম আপডেট "</string>
+<string name="selinux_status_disabled">অক্ষম</string>
+<string name="selinux_status_permissive">স্বীকৃত</string>
+<string name="selinux_status_enforcing">জোরদার করা</string>
+<string name="ssl_ca_cert_warning">"নেটওয়ার্ক মনিটর করা হতে পারে"</string>
+<string name="done_button">সম্পন্ন</string>
+<string name="ssl_ca_cert_dialog_title">"নেটওয়ার্ক পর্যবেক্ষণ "</string>
+<string name="ssl_ca_cert_info_message">"এই ডিভাইস পরিচালিত হচ্ছে :\n<xliff:g id="managing_domain">%s</xliff:g>\n\n  প্রশাসক ইমেইল, অ্যাপ্লিকেশান , এবং নিরাপদ ওয়েবসাইট সহ আপনার নেটওয়ার্ক কার্যকলাপ নিরীক্ষণ করতে সক্ষম।\n\nআরো তথ্য জানতে, আপনার প্রশাসকের সাথে যোগাযোগ করুন. " </string>
+<string name="ssl_ca_cert_warning_message">"তৃতীয় পক্ষ ইমেইল, অ্যাপ্লিকেশান , এবং নিরাপদ ওয়েবসাইট সহ আপনার নেটওয়ার্ক কার্যকলাপ নিরীক্ষণ করতে সক্ষম।\n\আপনার ডিভাইসে ইনস্টল হওয়া একটি বিশ্বস্ত প্রশংসাপত্র এটি সম্ভব করছে . " </string>
+<string name="ssl_ca_cert_settings_button">" বিশ্বস্ত প্রমাণপত্রাদি পরীক্ষা করুন "</string>
+<string name="user_settings_title">ব্যবহারকারীরা</string>
+<string name="user_list_title">"ইউজারসমূহ &amp; প্রোফাইলসমূহ"</string>
+<string name="user_add_user_menu">"ইউজার বা প্রোফাইল যুক্ত করুন"</string>
+<string name="user_summary_restricted_profile">" সীমাবদ্ধ প্রোফাইল "</string>
+<string name="user_need_lock_message">" আপনি একটি সীমাবদ্ধ প্রোফাইল তৈরি করতে পারেন আগে, আপনি আপনার অ্যাপ্লিকেশন এবং ব্যক্তিগত তথ্য রক্ষা করার জন্য লক স্ক্রিন সেট আপ করুন  . "</string>
+<string name="user_set_lock_button">" লক সেট করুন "</string>
+<string name="user_summary_not_set_up">সেট আপ নেই</string>
+<string name="user_summary_restricted_not_set_up">" সেট আপ হয়নি  - সীমাবদ্ধ প্রোফাইল "</string>
+<string name="user_owner">মালিক</string>
+<string name="user_you">"আপনি(<xliff:g id="name" example="Name">%s</xliff:g>)"</string>
+<string name="user_nickname">"ডাকনাম"</string>
+<string name="user_add_user_type_title">"যোগ করুন"</string>
+<string name="user_add_user_item_summary">" ব্যবহারকারীর  নিজস্ব অ্যাপ্লিকেশন এবং কন্টেন্ট আছে "</string>
+<string name="user_add_profile_item_summary">"আপনি আপনার একাউন্ট থেকে অ্যাপ্লিকেশন এবং কন্টেন্ট অ্যাক্সেস সীমাবদ্ধ করতে পারেন"</string>
+<string name="user_add_user_item_title">"ব্যবহারকারী"</string>
+<string name="user_add_profile_item_title">" সীমাবদ্ধ প্রোফাইল "</string>
+<string name="user_add_user_title">নতুন ব্যবহারকারী যুক্ত করুন</string>
+<string name="user_add_user_message_long">"আপনি অতিরিক্ত ব্যবহারকারীদের তৈরি করে অন্যান্য লোকেদের সঙ্গে এই ডিভাইস শেয়ার করতে পারেন।প্রতিটি ব্যবহারকারীর, তাদের নিজস্ব স্থান রয়েছে,তাদের নিজস্ব অ্যাপস, ওয়ালপেপার, এবং কাস্টমাইজ করতে পারে। ব্যবহারকারীরা সবাই ট্যাবলেট সেটিংস প্রভাবিত করতে পারবে যেমন Wi\u2011Fi এটি অন্যদের প্রভাবিত করবে।\n\nআপনি নতুন ব্যবহারকারী তৈরি করতে চাইলে অন্য ব্যক্তির একটি সেটআপ প্রক্রিয়ার মধ্য দিয়ে যেতে হবে।\n\n যে কোন ব্যবহারকারী অন্যান্য সকল ব্যবহারকারীদের পক্ষে অ্যাপ্লিকেশন  আপডেট অনুমতি গ্রহণ করতে পারবে।" </string>
+<string name="user_add_user_message_short">যদি আপনি একটি নতুন ব্যবহারকারী তৈরি করেন তবে সেই ব্যক্তিকে একটি সেটআপ প্রক্রিয়ার মধ্য দিয়ে যেতে হবে।\n\nকোন ব্যবহারকারী, অন্য সকল  ব্যবহারকারীদের পক্ষ থেকে আপডেট অ্যাপ্লিকেশনটি অনুমতিত করতে পারবেন।</string>
+<string name="user_setup_dialog_title">ব্যবহারকারী সেট আপ?</string>
+<string name="user_setup_dialog_message">ট্যাবলেট গ্রহণ করা এবং তাদের স্থান সেট আপ করার জন্য ব্যক্তির উপস্থিতি নিশ্চিত করুন</string>
+<string name="user_setup_profile_dialog_message">"এখন প্রোফাইল সেট আপ করুন?"  </string>
+<string name="user_setup_button_setup_now">এখন সেট আপ করুন</string>
+<string name="user_setup_button_setup_later">"এখন না"</string>
+<string name="user_cannot_manage_message" product="tablet">শুধু ট্যাবলেটের মালিক ব্যবহারকারীদের পরিচালনা করতে পারেন.</string>
+<string name="user_cannot_manage_message" product="default">শুধু ফোনের মালিক ব্যবহারকারীদের পরিচালনা করতে পারেন.</string>
+<string name="user_cannot_add_accounts_message">"সীমাবদ্ধ প্রোফাইল একাউন্ট যোগ করতে পারবেন না" </string>
+<string name="user_remove_user_menu">""ডিভাইস হতে <xliff:g id="user_name">%1$s</xliff:g> "</string>
+<string name="user_new_user_name">"নতুন ব্যবহারকারী"</string>
+<string name="user_new_profile_name">"নতুন প্রোফাইল" </string>
+<string name="user_confirm_remove_self_title">নিজে মুছে ফেলতে চান?</string>
+<string name="user_confirm_remove_title">ব্যবহারকারী সরাবেন?</string>
+<string name="user_profile_confirm_remove_title">"প্রোফাইল সরান?"</string>
+<string name="user_confirm_remove_self_message" product="tablet">এই ট্যাবেলেটে আপনার স্থান এবং তথ্য নষ্ট হয়ে যাবে. আপনি এই পদক্ষেপটি পূর্বাবস্থায় ফেরাতে পারবেন না</string>
+<string name="user_confirm_remove_self_message" product="default">এই ফোনে আপনার স্থান এবং তথ্য নষ্ট হয়ে যাবে।আপনি এই পদক্ষেপটি পূর্বাবস্থায় ফেরাতে পারবেন না</string>
+<string name="user_confirm_remove_message" product="tablet">"এই ইউজার স্পেস এবং তথ্য এই ট্যাবলেট থেকে হারিয়ে যাবে। আপনি এই পদক্ষেপকে বাতিল করতে পারবেন না।"</string>
+<string name="user_confirm_remove_message" product="default">"এই ইউজার স্পেস এবং তথ্য এই ফোন থেকে হারিয়ে যাবে। আপনি এই পদক্ষেপকে বাতিল করতে পারবেন না।"</string>
+<string name="user_profile_confirm_remove_message" product="tablet">" এই প্রোফাইলের স্পেস ও ডাটা মুছে যাবে ডিভাইস থেকে। এই অ্যাকশন বাতিল করতে চান?" </string>
+<string name="user_profile_confirm_remove_message" product="default">" এই প্রোফাইলের স্পেস ও ডাটা মুছে যাবে ডিভাইস থেকে। এই অ্যাকশন বাতিল করা যাবেনা।"  </string>
+<string name="user_adding_new_user">নতুন ব্যবহারকারী যোগ হচ্ছে\u2026</string>
+<string name="user_delete_user_description">ব্যবহারকারী মুছে ফেলুন</string>
+<string name="user_delete_button">মুছে দিন</string>
+<string name="application_restrictions">"অ্যাপ্লিকেশন এবং কন্টেন্ট অনুমতি দিন" </string>
+<string name="apps_with_restrictions_header">"সীমাবদ্ধতা সম্পন্ন অ্যাপ্লিকেশন" </string>
+<string name="apps_with_restrictions_settings_button">"অ্যাপ্লিকেশনের জন্য সেটিংস এক্সপ্যান্ড করুন"  </string>
+<string name="home_app_uninstall_button">"এই অ্যাপ্লিকেশন আনইনস্টল করুন" </string>
+<string name="only_one_home_message">"আপনি অন্য হোম অ্যাপ্লিকেশন ইনস্টল না হওয়া পর্যন্ত হোম সেটিংস লুকানো থাকবে." </string>
+<string name="global_change_warning" product="tablet">এই সেটিংটি এই ট্যাবলেটের সব ব্যবহারকারীদের প্রভাবিত করবে।</string>
+<string name="global_change_warning" product="default">এই সেটিংটি এই ফোনে সব ব্যবহারকারীদের প্রভাবিত করবে।</string>
+<string name="global_locale_change_title">ভাষা পরিবর্তন করুন</string>
+<string name="global_font_change_title">ফন্টের আকার পরিবর্তন করুন।</string>
+<string name="nfc_payment_settings_title">"ট্যাপ &amp; নিশ্চিত"</string>
+<string name="nfc_payment_no_apps">"শুধু একটি ট্যাপ করে  পে করুন" </string>
+<string name="nfc_payment_learn_more">আরও জানুন</string>
+<string name="nfc_payment_menu_item_add_service">"অ্যাপ্লিকেশান খুঁজুন" </string>
+<string name="nfc_payment_set_default_label">"আপনার পছন্দ হিসেবে সেট করুন…"</string>
+<string name="nfc_payment_set_default">"ট্যাপ &amp; করতে সবসময়ে <xliff:g id="app">%1$s</xliff:g> ব্যবহার করুন। পে করবেন?"</string>
+<string name="nfc_payment_set_default_instead_of">""যখন ট্যাপ &amp; করছেন, সবসময়ে <xliff:g id="app">%2$s</xliff:g> এর বদলে <xliff:g id="app">%1$s</xliff:g>ব্যবহার করুন।  পে করবেন?"</string>
+<string name="restriction_settings_title">"বিধিনিষেধ" </string>
+<string name="restriction_menu_reset">"সীমাবদ্ধতা সরান" </string>
+<string name="restriction_menu_change_pin">"PIN পরিবর্তন" </string>
+<string name="app_notifications_switch_label">বিজ্ঞপ্তি দেখান</string>
+<string name="help_label">সাহায্য</string>
+<string name="user_account_title">বিষয়বস্তুর জন্য অ্যাকাউন্ট</string>
+<string name="user_picture_title">ফটো ID</string>
+<string name="cell_broadcast_settings">সেল সম্প্রচার </string>
+<string name="user_restrictions_title">"অ্যাপ্লিকেশন এবং কন্টেন্ট নিষেধাজ্ঞা" </string>
+<string name="user_rename">পুনর্নামকরণ</string>
+<string name="app_restrictions_custom_label">"অ্যাপ্লিকেশন বিধিনিষেধ সেট করুন"</string>
+<string name="user_restrictions_controlled_by">"<xliff:g id="app">%1$s</xliff:g>দ্বারা নিয়ন্ত্রিত "</string>
+<string name="app_not_supported_in_limited">"এই অ্যাপ্লিকেশনে সীমাবদ্ধ প্রোফাইল সমর্থিত নয়"</string>
+<string name="app_sees_restricted_accounts">"এই অ্যাপ্লিকেশন আপনার অ্যাকাউন্ট অ্যাক্সেস করতে পারেন"</string>
+<string name="restriction_wifi_config_title">"Wi\u2011Fiএবং মোবাইল"</string>
+<string name="restriction_wifi_config_summary">"Wi\u2011Fi এর পরিমার্জন এবং মোবাইল সেটিংস এর অনুমতি দিন"</string>
+<string name="restriction_bluetooth_config_title">"ব্লুটুথ"</string>
+<string name="restriction_bluetooth_config_summary">"ব্লুটুথ পেয়ারিং এবং সেটিংস পরিবর্তনের অনুমতি দিন"</string>
+<string name="restriction_nfc_enable_summary" product="tablet">ট্যাবলেট অন্য ডিভাইসে স্পর্শ তথ্য বিনিময় করার অনুমতি দিন</string>
+<string name="restriction_nfc_enable_summary" product="default">ফোন অন্য ডিভাইসে স্পর্শ তথ্য বিনিময় করার অনুমতি দিন</string>
+<string name="restriction_location_enable_title">"অবস্থান"</string>
+<string name="restriction_location_enable_summary">"অ্যাপ্লিকেশনকে  আপনার অবস্থান তথ্য ব্যবহার করতে দিন "</string>
+<string name="wizard_back">পিছনে</string>
+<string name="wizard_next">"পরবর্তী"</string>
+<string name="wizard_finish">"শেষ"</string>
+<string name="user_image_take_photo">ছবি তুলুন</string>
+<string name="user_image_choose_photo">"গ্যালারি থেকে ছবি নির্বাচন করুন"</string>
+<string name="recovery_update_title">সিস্টেম সফটওয়্যার আধুনিকীকরণ</string>
+<string name="recovery_update_message">"সিস্টেম সফটওয়্যারের মধ্যে নিরাপত্তাজনিত ঝুঁকি আছে, গোপনীয় তথ্য প্রকাশিত হওয়ার ভয়, ডেটা হানি এবং সম্পত্তি হানি হওয়ার ভয় এবং অন্যান্য নিরাপত্তার জনিত ভয় আছে। আপডেট নিশ্চিত করার জন্য পরবর্তী -তে ক্লিক করুন, যদি আপডেট করতে না চান তবে, বাতিল-এ ক্লিক করুন।"</string>
+<string name="recovery_sdacrd_status">কোনো SD কার্ড নেই</string>
+<string name="recovery_updatefile_status">"update.zip ফাইলটি পাওয়া যায় নি"</string>
+<string name="recovery_update_level">"35% -এর কম চার্জ আপগ্রেড কার্যকলাপ শুরু করা যায় নি, অনুগ্রহ করে রিচার্জ করুন"</string>
+<string name="recovery_no_package">SDCARD উপর কোন হালনাগাদ প্যাকেজ ফাইল নেই</string>
+<string name="network_preference_settings">নেটওয়ার্ক ব্যবস্থাপনা</string>
+<string name="network_type_choosen">পূর্বে সংযোগের জন্য একটি নেটওয়ার্ক বাছাই করুন</string>
+<string name="default_cmcc_accesspoints_list">"ডিফল্ট অ্যাক্সেস পয়েন্ট বিশ্বস্ত"</string>
+<string name="user_defined_accesspoints_list">"ইউজার দ্বারা নির্ধারিত বিশ্বস্ত অ্যাকসেস পয়েন্টসমূহ"</string>
+<string name="other_accesspoints_list">"অপরিচিত অ্যাকসেস পয়েন্ট"</string>
+<string name="wifi_mac">"ম্যাক অ্যাডঃ"</string>
+<string name="wifi_netmask">"নেটমাস্ক"</string>
+<string name="wifi_auto_connect_titile">অটো কানেক্ট </string>
+<string name="wifi_auto_connect_summary">আপনাআপনি অ্যাপের সাথে সংযোগ করে যখন Wi-Fi খোলা হয়</string>
+<string name="wifi_trusted_ap">"বিশ্বস্ত AP"</string>
+<string name="wifi_trusted_ap_category">"ট্রাস্টেড পি এবং অগ্রাধিকার "</string>
+<string name="wifi_trusted_ap_summary">"বিশ্বস্ত AP ও প্রায়োরিটি দেখুন"</string>
+<string name="wifi_move_ap_up">"উপর "</string>
+<string name="wifi_move_ap_down">"নীচে"      </string>
+<string name="wifi_save_update">সংরক্ষণ</string>
+<string name="wifi_disconnect">"সংযোগ বিচ্ছিন্ন করুন"</string>
+<string name="mobile_to_wlan_policy_title">"Wi-Fi সংযোগ নীতি সেটিংস"</string>
+<string name="mobile_to_wlan_policy_category">নেটওয়ার্ক সংক্রান্ত ডায়লগ চয়ন করুন</string>
+<string name="mobile_to_wlan_policy_error">একটি সমস্যা আছে সেলুলার সেটিং ছিল</string>
+<string name="mobile_to_wlan_popup_prefix">"Wi-Fi সিগন্যাল আবিষ্কার"</string>
+<string name="mobile_to_wlan_popup_suffix">"Wi-Fi নেটওয়ার্ক ব্যবহার করবেন কিনা, নেটওয়ার্ক ব্যবহার করার কারণে আংশিক ডেটা ব্যবহার ব্যাহত হতে পারে"</string>
+<string name="mobile_choice">"মোবাইল নেট পছন্দ"</string>
+<string name="mobile_to_wlan_popup_title">"একটি বিশ্বস্ত Wi-Fi AP খুঁজুন"      </string>
+<string name="download_complete_filename">"ডাউনলোড সম্পন্ন,ফাইল পথ সংরক্ষণ করুন"</string>
+<string name="gps_to_wifi_yes">হ্যাঁ</string>
+<string name="gps_to_wifi_no">না</string>
+<string name="gprs_access">"GPRS অ্যাক্সেস"</string>
+<string name="wlan_access">"Wi-Fi অ্যাক্সেস"</string>
+<string name="select_net_access_type">"নেটওয়ার্ক নির্বাচন টিপস, অনুগ্রহ করে আপনার নেটওয়ার্ক অ্যাক্সেস বাছুন"</string>
+<string name="select_trusted_ap_access">"বিশ্বস্ত অ্যাকসেস পয়েন্ট"</string>
+<string name="select_trusted_ap_connect">"সংযুক্ত হন"</string>
+<string name="download_wifi_unaviliable">"Wi-Fi নেটওয়ার্ক বিচ্ছিন্ন, ইন্টার নেটের জন্য মোহাইল নেটওয়ার্ক ব্যবহার করুন"</string>
+<string name="download_select_gprs_yes">হ্যাঁ</string>
+<string name="download_select_gprs_no">না</string>
+<string name="wlan_not_available">"WLAN হল, পাওয়া যাচ্ছে না কি মোবাইল নেটওয়ার্ক ব্যবহার "</string>
+<string name="mobile_net_yes">হ্যাঁ</string>
+<string name="mobile_net_no">না</string>
+<string name="key_index">"কী ইন্ডেক্স"</string>
+<string name="wifi_unable_connect_network">"নেটওয়ার্কে সংযোগ করতে অক্ষম"</string>
+<string name="wifi_network_mask">"নেটমাস্ক"</string>
+<string name="wifi_ip_settings_invalid_network_mask">"একটি বৈধ netmask ঠিকানা টাইপ করুন।"</string>
+<string name="trusted_ap_list_null">কোন এপি বিশ্বস্ত নেই!</string>
+<string name="wep_password_tip_text">"দয়া করে 5,13, 16, ASCII অক্ষরগুলি বা 10,26,32, HEX অক্ষরগুলি WEP স্বীকৃতির জন্য।"</string>
+<string name="mobile_data_connect_disable">না</string>
+<string name="mobile_data_connect_enable">হ্যাঁ</string>
+<string name="network_disconnect_title">"বিজ্ঞপ্তি"</string>
+<string name="network_disconnect_message">"ওয়াই-ফাই নেটওয়ার্ক বিচ্ছিন্ন রয়েছে। \n মোবাইল ডাটা দ্বারা সংযোগ করবেন? \nআপনার যদি ডাটা প্ল্যান না থাকলে সেক্ষেত্রে অতিরিক্ত মূল্য প্রদান করতে হবে।"</string>
+<string name="swtichmachine">"টাইমার সুইচ মেশেন"</string>
+<string name="power_on">"পাওয়ার চালু"</string>
+<string name="power_off">"ক্ষমতা"</string>
+<string name="every_day">"প্রতিদিন"</string>
+<string name="never">না</string>
+<string name="done">সম্পন্ন</string>
+<string name="revert">"ফেরান"</string>
+<string name="time">"সময়"</string>
+<string name="alarm_repeat">"পুনরাবৃত্তি করুন"</string>
+<string name="set_alarm">"অ্যালার্ম সেট করুন"</string>
+<string name="set_alarm_on">"অ্যালার্ম চালু সেট্ করুন"      </string>
+<string name="set_alarm_off">"অ্যালার্ম বন্ধ সেট্ করুন"      </string>
+<string name="day">"১ দিন"</string>
+<string name="days">"<xliff:g id="days">%s</xliff:g> দিন"</string>
+<string name="hour">১ ঘন্টা</string>
+<string name="hours">"<xliff:g id="hours">%s</xliff:g> ঘন্টা"</string>
+<string name="minute">"1 মিনিট"</string>
+<string name="minutes">"<xliff:g id="minutes">%s</xliff:g> মিনিট"</string>
+<string name="alarm_klaxon_service_desc">"অ্যালার্মের জন্য সাউন্ড প্লেব্যাক সার্ভিস সেট করা হয় DeskClock -এ।"</string>
+<string name="alarm_alread_exist">"টাইমার স্যুইচ যন্ত্র <xliff:g id="time">%s</xliff:g> ইতিমধ্যেই আছে, অনুগ্রহ করে অন্য সময় সেট্ করুন"      </string>
+<string name="hardware_version">"হার্ডওয়্যার সংস্করণ"</string>
+<string name="choose_sub">"SIM নির্বাচন করুন"</string>
+<string name="mobile_network_settings_other">অন্যান্য</string>
+<string name="applications_manager">"অ্যাপ্লিকেশন ম্যানেজার"</string>
+<string name="tasks_manager">"কর্ম ম্যানেজার"</string>
+<string name="go_to_app">অ্যাপ্লিকেশনে যান</string>
+<string name="audio_profiles">"অডিও প্রোফাইল"</string>
+<string name="font_setting_title">ফন্ট</string>
+<string name="font_setting_tab_sys">তৈরী করা ফন্ট </string>
+<string name="font_setting_tab_usr">ইউজার ফন্ট</string>
+<string name="font_setting_menu_add">ফন্ট সংযুক্ত করুন</string>
+<string name="font_setting_menu_reset">ডিফল্ট ফন্ট পুনরায় সেট করুন</string>
+<string name="font_setting_default_font">ডিফল্ট ফন্ট</string>
+<string name="font_setting_menu_delete">ফন্ট ডিলিট করুন</string>
+<string name="font_setting_no_fonts">কোন ফন্ট নেই</string>
+<string name="font_setting_dialog_delete">মুছে দিন</string>
+<string name="font_setting_dialog_deleting">ডিলিটিং</string>
+<string name="font_setting_dialog_delete_confirmation">ডিলিট করতে চান?</string>
+<string name="font_setting_dialog_delete_confirmation_and_reset">"এই ফন্টটি এখন ব্যবহৃত হচ্ছে ,এটা মুছে দিলে ডিফল্ট ফন্ট ব্যবহার করা যাবে,মুছতে অগ্রসর হবেন?"</string>
+<string name="font_setting_dialog_import">নতুন ফন্ট ইম্পোর্ট করুন</string>
+<string name="font_setting_dialog_importing">নতুন ফন্ট ইম্পোর্ট হচ্ছে</string>
+<string name="font_setting_dialog_set_font">নতুন ফন্ট সেট করতে চান?</string>
+<string name="font_setting_dialog_set_font_confirmation">এই ফন্টটি ব্যবহার করতে চান?</string>
+<string name="font_setting_dialog_set_default">ডিফল্ট ফন্ট হিসেবে সেট করুন</string>
+<string name="font_setting_dialog_set_default_confirmation">ডিফল্ট ফন্ট ব্যবহার করতে চান?</string>
+<string name="font_setting_not_selected">দয়া করে যেসব ফন্ট ডিলিট করতে চান বাছাই করুন</string>
+<string name="font_setting_not_enable">দুঃক্ষিত,এই ফন্টটি সক্রিয় নেই,অন্য ফন্ট ইম্পোর্ট করুন  </string>
+<string name="font_setting_is_current">"বর্তমান ফন্টটি পূর্ব-নির্ধারিত।"</string>
+<string name="font_setting_is_contant">এই ফন্টটি ইতিমধ্যে  বিদ্যমান রয়েছে</string>
+<string name="font_setting_name_too_long">"এই ফন্ট এর নাম বেশী দীর্ঘ, ৭৫ ক্যারেক্টারের বেশী গ্রহণযোগ্য নয়, পুনরায় নাম দিন"</string>
+<string name="uplink_rate">"থিওরেটিকাল আপলিংক হারঃ <xliff:g id="maxuprate">%s</xliff:g>,বর্তমান আপলিংক হারঃ <xliff:g id="uprate">%s</xliff:g>ps"</string>
+<string name="downlink_rate">"থিওরেটিকাল ডাউনলিংক হারঃ <xliff:g id="maxdownrate">%s</xliff:g>,বর্তমান ডাউনলিংকঃ <xliff:g id="downrate">%s</xliff:g>ps"</string>
+<string name="total_rate">"প্রেরিত তথ্যঃ <xliff:g id="maxSend">%s</xliff:g>, গৃহীত তথ্যঃ <xliff:g id="maxSend">%s</xliff:g>"</string>
+<string name="usb_settings">"USB সেটিংস্"      </string>
+<string name="usb_charge_only">"কেবলমাত্র চার্জ"</string>
+<string name="usb_charge_only_summary">"কেবল চার্জ মোড ব্যবহার করুন যখন USB সংযুক্ত থাকবে"</string>
+<string name="usb_charge_only_storage_active_subtext">"কেবল চার্জ করা যাবে না যখন USB সংরক্ষণ ব্যবহার হবে"</string>
+<string name="usb_charge_only_notification">"কেবলমাত্র চার্জ হিসাবে সংযুক্ত"</string>
+<string name="usb_storage">"USB সঞ্চয়স্থান"</string>
+<string name="usb_storage_summary">"USB বিপুল সঞ্চয়স্থান সক্ষম করুন"</string>
+<string name="ums_settings">"UMS সেটিংগুলি"</string>
+<string name="ums_mounted_setting">"এখন ums কে PC-তে স্থাপন করুন, অনুগ্রহ করে অপেক্ষা করুন..."      </string>
+<string name="ums_unmounted_setting">"এখন ums কে PC-তে স্থাপনচ্যুত করুন, অনুগ্রহ করে অপেক্ষা করুন..."      </string>
+<string name="usb_virtual_drive">"USB ভার্চুয়াল ড্রাইভ"</string>
+<string name="usb_virtual_drive_summary">"USB ভার্চুয়াল ড্রাইভ সক্ষম করুন"</string>
+<string name="remember_choice">"আমার পছন্দ মনে রাখুন"</string>
+<string name="remember_choice_summary">"আমার পছন্দ মনে রাখুন এবং পরের বার স্বয়ংক্রিয়ভাবে স্মরণে রাখা কার্যপ্রক্রিয়া শুরু করুন"      </string>
+<string name="internal_format">"মোবাইলের অভ্যন্তরীণ স্টোরেজ মুছে ফেলুন"      </string>
+<string name="internal_format_summary">"মোবাইলের সমস্ত অভ্যন্তরীণ স্টোরেজ মুছে ফেলা হয়েছে, যেমন গান এবং ফটো"      </string>
+<string name="media_format_title_internal">"সকল অভ্যন্তরীণ সঞ্চয় মুছে ফেলুন।"</string>
+<string name="media_format_desc_internal">"সকল অভ্যন্তরীণ সঞ্চয় মুছে ফেলুন?আপনি হারাতে পারেন<b>সব</b> তথ্য!"</string>
+<string name="media_format_button_text_internal">"সকল অভ্যন্তরীণ সঞ্চয় মুছে ফেলুন।"</string>
+<string name="media_format_final_desc_internal">"সকল ফাইল মুছে দিয়ে অভ্যন্তরীণ স্টোরেজ খালি করবেন? এর বিপরীতমূখী ক্রিয়া সম্ভব নয়"</string>
+<string name="delete_file_warning">নির্বাচিত ফাইল বা ডিরেক্টরিগুলি মুছে ফেলা চালিয়ে যেতে চান?</string>
+<string name="sdcard_not_available">SD কার্ড পাওয়া যাচ্ছে না</string>
+<string name="network_settings_tab">"নেটওয়ার্ক"</string>
+<string name="more_settings_tab">অধিক</string>
+<string name="device_settings_tab">"আমার ডিভাইস"</string>
+<string name="personal_settings_tab">"ব্যক্তিগত"</string>
+<string name="individual_title">"ইনডিভিডুয়্যাশন"</string>
+<string name="language_time_title">"ভাষা &amp; সময়"</string>
+<string name="about_title">সম্পর্কে</string>
+<string name="text_blue">"ব্লুটুথ"</string>
+<string name="text_gps">"LBS"</string>
+<string name="text_sync">"সিঙ্ক"</string>
+<string name="text_bright">"উজ্জ্বলতা"</string>
+<string name="simslotcfg_title">"WCDMA কার্ড সেটিংস"</string>
+<string name="simslotcfg_sub_summary">"WCDMA কার্ড চয়ন করুন, পুনরায় বুট প্রয়োজন!"  </string>
+<string name="wifi_eap_sim_slots">"সিম স্লট" </string>
+<string name="wifi_eap_sim_slot1">"সিম স্লট 1"</string>
+<string name="wifi_eap_sim_slot2">"SIM স্লট 2"</string>
+<string name="toast_datatime_error">"আপনার নির্ধারিত তারিখ ও সময় এর সেটিংস সঠিক পরিসরে নেই।"</string>
+<string name="install_credentials">ক্রিডেন্সিয়াল  ইনস্টল করুন</string>
+<string name="cancel_select_all">সব বাতিল করুন</string>
+<string name="title_delete_other_file">বিবিধ ফাইলসমূহ মুছে ফেলুন</string>
+<string name="msg_deleteing_other_file">এখন বিবিধ ফাইলসমূহ মোছা হচ্ছে।</string>
+<string name="timerpower_afternoon">"PM"</string>
+<string name="timerpower_morning">"AM"</string>
+<string name="widget_toast_airplane_is_on_wlan">"ফোন বিমান মোড অবস্থায় আপনি WIFI ব্যবহার করতে পারবেননা।"</string>
+<string name="widget_toast_airplane_is_on_bt"> "ফোন এয়ারপ্লেন মোডে থাকলে আপনি ব্লুটুথ ব্যবহার করতে পারবেন না।"</string>
+<string name="memory_video_usage">"ভিডিও"</string>
+<string name="master_clear_level">"ক্ষমতা 30%-এর কম, রিসেট ফোন চালিয়ে যাবেন?"</string>
+<string name="factory_dialog_title">নির্দেশ</string>
+<string name="confirm">ওকে</string>
+<string name="softap_bt_cannot_coexist">"যখন ব্লুটুথ সক্রিয় আছে অথবা কার্যকর করা হচ্ছে, সফট্অ্যাপ কাজ করতে পারে না, যদি আপনি সফট্অ্যাপটি ব্যবহার করতে চান, অনুগ্রহ করে নিশ্চিত করুন ব্লুটুথ যেন নিষ্ক্রিয় থাকে।"      </string>
+<string name="bt_softap_cannot_coexist">"যখন সফট্অ্যাপ সক্রিয় আছে অথবা কার্যকর করা হচ্ছে, ব্লুটুথ কাজ করতে পারে না, যদি আপনি ব্লুটুথ ব্যবহার করতে চান, অনুগ্রহ করে নিশ্চিত করুন যেন সফট্অ্যাপটি যেন নিষ্ক্রিয় থাকে। "      </string>
+<string name="hotspot">"Wi-Fi হটস্পট"</string>
+<string name="hotspot_settings">"Wi-Fi হটস্পট সেট করুন"</string>
+<string name="hotspot_connected_stations">"সংযুক্ত ব্যবহারকারীগণ"</string>
+<string name="hotspot_no_connected_station">"0 সংযুক্ত ব্যবহারকারীগণ"</string>
+<string name="hotspot_blocked_stations">"ব্লককৃত ব্যবহারকারীগণ"</string>
+<string name="hotspot_no_blocked_station">"0 ব্লককৃত ব্যবহারকারীগণ"</string>
+<string name="block">"অবরোধ করুন"</string>
+<string name="unblock">"ব্লক সরান"</string>
+<string name="delete_applications">"অ্যাপ্লিকেশন মুছুন"</string>
+<string name="uninstall">"আনইনস্টল করুন"</string>
+<string name="beatch_no_select_uninstall">"একত্রে আনইনস্টল"</string>
+<string name="cancle_select_all">"সব বাছুন বাতিল"</string>
+<string name="beatch_uninstall">"একত্রে আনইনস্টল (<xliff:g id="UNINSTALL_DESCRIPTION">%1$s</xliff:g>)"</string>
+<string name="confirm_beatch_uninstall_message">"আপনি কি নিশ্চিত করছেন <xliff:g id="UNINSTALL_DESCRIPTION">%1$s</xliff:g> অ্যাপ্লিকেশন আনইন্সটল করতে？"</string>
+<string name="confirm_beatch_one_uninstall_message">"আপনি কি নিশ্চিত করছেন <xliff:g id="UNINSTALL_DESCRIPTION">%1$s</xliff:g> অ্যাপ্লিকেশন আনইন্সটল করতে？"</string>
+<string name="uninstalling_message">"আনইনস্টল করা হচ্ছে, অনুগ্রহ করে অপেক্ষা করুন..."</string>
+<string name="uninstall_done">""<xliff:g id="UNINSTALL_DONE">%1$s</xliff:g> অ্যাপ্লিকেশন আনইন্টল করা হয়েছে"</string>
+<string name="uninstall_one_app_done">""<xliff:g id="UNINSTALL_DONE">%1$s</xliff:g> অ্যাপ্লিকেশনের স্থাপন অপসারণ হয়েছে"      </string>
+<string name="confirm_one_uninstall_message">"আপনি কি নিশ্চিত করছেন <xliff:g id="UNINSTALL_DESCRIPTION">%1$s</xliff:g> অ্যাপ্লিকেশন আনইন্সটল করতে？"</string>
+<string name="sort_order_time">"সময় অনুযায়ী সাজাও"</string>
+<string-array name="sort_type">
+<item>"আকার"</item>
+<item>VPN নাম</item>
+<item>"সময়"</item>
+</string-array>
+<string name="DM_config">"CMCC বর্ধন বিক্রয়-পরবর্তী পরিষেবা"</string>
+<string name="DM_config_summary">"পাওয়ার অনের সময়ে স্বয়ংক্রিয় স্টার্ট সেট করুন"</string>
+<string name="softap_need_mobile_data_enabled">"বহনযোগ্য Wi-Fi হটস্পটের প্রযোজন মোবাইল ডেটা সংযোগ, এর কারণে অতিরিক্ত খরচ হতে পারে।"</string>
+<string name="show_crash_report_summary">"পর্দায় ক্র্যাশ রিপের্ট দেখান"</string>
+<string name="show_crash_report">"ক্র্যাশ রিপোর্ট দেখান"</string>
+<string name="sd_eject_usb">"আনমাউন্ট শেয়ার্ড সংগ্রহস্থল"</string>
+<string name="sd_eject_summary_usb">"অভ্যন্তরীণ USB সংগ্রহস্থল আনমাউন্ট"</string>
+<string name="sd_insert_summary_usb">"মাউন্ট জন্য USB সংগ্রহস্থল ঢোকান"</string>
+<string name="sd_mount_usb">"মাউন্ট USB সংগ্রহস্থল"</string>
+<string name="sd_format_usb">"USB সংগ্রহস্থল নিশ্চিহ্ন করা"</string>
+<string name="sd_format_summary_usb">"যেমন সঙ্গীত এবং ছবি হিসাবে ফোন গুলি USB সংগ্রহস্থল, সমস্ত তথ্য মুছে দেয়া"</string>
+<string name="dlg_confirm_unmount_title_usb">"আনমাউন্ট USB সংগ্রহস্থল"</string>
+<string name="dlg_confirm_unmount_text_usb">"যদি আপনি USB সংগ্রহস্থল আনমাউন্ট, কিছু অ্যাপ্লিকেশন ব্যবহার করা হয় এবং অপ্রাপ্য পর্যন্ত আপনিUSB সংগ্রহস্থল পুনরারোহণ হতে পারে বন্ধ হবে।"</string>
+<string name="dlg_error_unmount_text_usb">"USB সংগ্রহস্থল না আনমাউন্ট করতে পারেন। পরে আবার চেষ্টা করুন।"</string>
+<string name="unmount_inform_text_usb">"USB সংগ্রহস্থল আনমাউন্ট হবে।"</string>
+<string name="move_app_to_internal_sdcard" product="default">"অভ্যন্তরীণ SD কার্ডে স্থানান্তর করুন"</string>
+<string name="battery_percentage">চার্জের শতাংশ</string>
+<string name="stroage_not_mounted">"স্টোরেজ মাউন্ট করা হয় নি"</string>
+<string name="do_not_prompt_text">"প্রম্পট করবেন না"</string>
+<string name="connect_to_cmcc_ap_message">"China mobile Wi-Fi-তে সংযুক্ত, এটির ব্যবহার চালিয়ে গেলে Wi-Fi ট্র্যাফিক ফী লাগতে পারে"</string>
+<string name="show_dialog_connect_to_cmcc_title">"সংযুক্ত প্রম্পট"</string>
+<string name="show_dialog_connect_to_cmcc_summary">"প্রদর্শন CMCC প্রম্পটের সাথে সংযুক্ত"</string>
+<string name="reset_wifi_policy_show_dialog_title">"রিকভারি প্রম্পট"</string>
+<string name="reset_wifi_policy_show_dialog_toast_message">"পুনরুদ্ধৃত"</string>
+<string name="airplane_mode_wifi_notification">"বিজ্ঞপ্তি"</string>
+<string name="airplane_mode_wifi_notification_message">"Wi-Fi নিজ হাতে খোলা যাবে এয়ারপ্লেন মোডে"</string>
+<string name="not_ask_again">"প্রম্পট করবেন না"</string>
+<string name="ask_next_time">"পরবর্তীবার জিজ্ঞাস করুন"</string>
+<string name="network_id_illegal_character">অনুগ্রহ করে একটি বৈধ নেটওয়ার্ক টাইপ করুন</string>
+<string name="max_input_character">"সর্বোচ্চসীমা হল ৫১২ ক্যারেক্টার"</string>
+<string name="tilte_input_more">"দুঃখিত, ৫১২ ক্যারেক্টার পর্যন্ত ইনপুট সম্ভব"</string>
+<string name="weak_wifi_signal_title">"সংযুক্ত AP সিগন্যাল খুব দুর্বল"</string>
+<string name="weak_wifi_signal_message">"সংযুক্ত ap সিগন্যাল খুব দুর্বল, আপনি কি অন্যান্য বিশ্বস্ত ap -তে সংযুক্ত করতে চান? এটির কারণে আংশিক ডেটা ব্যবহার ব্যাহত হতে পারে।\nলভ্য অ্যাক্সেস পয়েন্টগুলি:"</string>
+<string name="wifi_set_time_alarm_warning">"স্বয়ংক্রিয় সংযোগ ও ছিন্ন করার সময়গুলি এক হতে পারে না"</string>
+<string name="wifi_auto_roam">"স্বয়ং রোম"</string>
+<string name="header_category_common">"প্রচলিত"</string>
+<string name="sim_settings_title">"সিম কার্ড"</string>
+<string name="current_input_method_pikel">"বর্তমান কিবোর্ড"</string>
+<string name="save">সংরক্ষণ</string>
+<string name="name_too_long">নাম অতিরিক্ত দীর্ঘ,এটি 50 থেকে কম হওয়া প্রয়োজন।</string>
+<string name="sim_editor_title">"SIM স্লট %1$d"</string>
+<string name="voice_broadcast_settings">"ভয়েস সেটিংস"</string>
+<string name="voice_broadcast_settings_tile">"ভয়েস সম্প্রচার"</string>
+<string name="uninstall_app_settings">"অ্যাপগুলি আনইনস্টল করুন"</string>
+<string name="voice_menu">"ভয়েস তালিকা"</string>
+<string name="voice_date">"ভয়েস তারিখ"</string>
+<string name="voice_call">ভয়েস কল </string>
+<string name="voice_contacts">"ভয়েস যোগাযোগের নাম"</string>
+<string name="voice_incall">"ভয়েস ইনকল"</string>
+<string name="voice_message">"ভয়েস বার্তা"</string>
+<string name="default_feature_bar_options">"বিকল্পসমূহ"</string>
+<string name="default_feature_bar_back">পিছনে</string>
+<string name="default_feature_bar_center">"নির্বাচন করুন"</string>
+<string name="sim_status_title">"সিম রাষ্ট্র"</string>
+<string name="imei_information_title">"IMEI অথ্য"</string>
+<string name="slot_number">"(স্লট<xliff:g id="slot_num">%1$d</xliff:g>)"</string>
+<string name="lock_settings_title_pikel">"ডিভাইস নিরাপত্তা"</string>
+<string name="owner_info_settings_title_pikel">"লক স্ক্রিন বার্তা"</string>
+<string name="phone_memory_title">"অন্তর্নিহিত সঞ্চায়ক ব্যবস্থা"</string>
+<string name="phone_memory_category_title">"ডিভাইস স্টোরেজ"</string>
+<string name="sdcard_memory_title">"বহনযোগ্য স্টোরেজ"</string>
+<string name="manage_app_settings_category">"তালিকা শ্রেণী প্রয়োগ করুন"</string>
+<string name="sim_slot_empty">"SIM খালি"</string>
+<string name="data_switch_started">"ডাটা SIM পরিবর্তিত হচ্ছে, এক মিনিট লাগতে পারে..."</string>
+<string name="data_usage_menu_cellular_networks">"মোবাইল নেটওয়ার্কস"</string>
+<string name="data_usage_disclaimer">"ক্যারিয়ার ডাটা আপনার ডিভাইসের থেকে আলাদা হতে পারে"</string>
+<string name="data_usage_app">"অ্যাপ এর ব্যবহার"</string>
+<string name="sim_editor_name">"SIM এর নাম"</string>
+<string name="sim_name_hint">"SIM এর নাম প্রবেশ করুন"</string>
+<string name="color_title">"রঙ"</string>
+<string name="sim_editor_carrier">"ক্যারিয়ার"</string>
+<string name="sim_editor_number">নম্বর</string>
+<string name="mouse_control_applications">"মাউস নিয়ন্ত্রণ"</string>
+<string name="mouse_control_exit">""সকল তথ্য সংরক্ষণের ব্যাপারে আপনি নিশ্চিত?" "</string>
+<string name="mouse_control_title">"মাউস নিয়ন্ত্রণের জন্যে অ্যাপ নির্ধারণ করুন"</string>
+<string name="current_label_phone">ফোন</string>
+    <string name="not_any_file">"কোনো ফাইল নেই"</string>
+     <string name="settings_more_sprd">অধিক</string>
+     <string name="enable_data_connection">"ডেটা সংযোগ সক্ষম করুন"</string>
+     <string name="disable_data_connection">"ডেটা সংযোগ নিষ্ক্রিয় করুন"</string>
+
+</resources>

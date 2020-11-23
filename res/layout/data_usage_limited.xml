@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/data_usage_limited_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="@dimen/single_listview_height_size"
+    android:paddingStart="?android:attr/listPreferredItemPaddingStart"
+    android:paddingEnd="?android:attr/scrollbarSize"
+    android:background="?android:attr/selectableItemBackground"
+    android:descendantFocusability="blocksDescendants"
+    android:focusable="true"
+    android:clickable="true" >
+
+    <Switch
+        android:id="@+id/data_usage_limited_switch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:duplicateParentState="true"
+        android:clickable="false" />
+
+    <TextView
+        android:id="@+android:id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toStartOf="@id/data_usage_limited_switch"
+        android:layout_centerVertical="true"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:duplicateParentState="true"
+        android:textAppearance="@style/TextAppearance.Perference.Title"
+        android:fadingEdge="horizontal" />
+
+    <TextView
+        android:id="@+android:id/summary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toStartOf="@id/data_usage_limited_switch"
+        android:layout_below="@android:id/title"
+        android:textAppearance="@style/TextAppearance.Perference.Title.Summary"
+        android:visibility="gone"
+        android:maxLines="8" />
+</RelativeLayout>
+

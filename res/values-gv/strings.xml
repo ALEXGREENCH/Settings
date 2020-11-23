@@ -1,0 +1,2266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="yes">"हें"</string>
+<string name="no">"बाङ"</string>
+<string name="create">"सिरजाव"</string>
+<string name="allow">"बाताव"</string>
+<string name="deny">"बाङ बाताव"</string>
+<string name="device_info_default">"बाङबाडाया"</string>
+<plurals name="show_dev_countdown">
+<item quantity="one">"आम दो नित् कामीयेत्  <xliff:g id="step_count">%1$d</xliff:g>  डेभलपर बेनाक् इच् खोन मित् धाप साङ्गिञ रे मेनामा।"</item>
+<item quantity="other">"आम दो नित् कामीयेत् <xliff:g id="step_count">%1$d</xliff:g> डेभलपर बेनाक् खोन मित् धाप् साङ्गिञ रे मेनामा।"</item>
+</plurals>
+<string name="show_dev_on">"आम दो नित् डेभलपर कानाम!"</string>
+<string name="show_dev_already">"लाकती बानुक्आ, आम दो नित् मित् डेभलपर कानाम।"</string>
+<string name="header_category_wireless_networks">"वायरलेस &amp; नेटवर्क को"</string>
+<string name="header_category_device">"डिवाइस  "</string>
+<string name="header_category_personal">"निजाक्"</string>
+<string name="header_category_system">"सिस्टम"</string>
+<string name="turn_on_radio">"रेडियो चालूय"</string>
+<string name="turn_off_radio">"रेडियो थुकुम  "</string>
+<string name="sms_over_ims_on">"IMS चेतान SMS चालूयमे"</string>
+<string name="sms_over_ims_off">"IMS चेतान SMS थुकुम मे"</string>
+<string name="ims_reg_required_on">"IMS रेजिस्टेरेसन चालूय रेयाक् लाकती मेनाक्आ"</string>
+<string name="ims_reg_required_off">"IMS रेजिस्ट्रेसन थुकुम रेयाक् लाकती मेनाकाआ"</string>
+<string name="lte_ram_dump_on">"चालूयमे lte ram जारवा"</string>
+<string name="lte_ram_dump_off">"थुकुम मे lte ram जारवा"</string>
+<string name="radioInfo_menu_viewADN">"SIM ठिकाना पथी ञेलमे"</string>
+<string name="radioInfo_menu_viewFDN">"रेका डायलाक् नंबर को ञेलमे"</string>
+<string name="radioInfo_menu_viewSDN">"डायलाक् नंबर सेवा को ञेल मे"</string>
+<string name="radioInfo_menu_getPDP">"PDP सूची रे सेनोक् मे"</string>
+<string name="radioInfo_service_in">"सेवा रे"</string>
+<string name="radioInfo_service_out">"सेवा रे बाङ"</string>
+<string name="radioInfo_service_emergency">"एकेन लाकतिय़ाक कॉल"</string>
+<string name="radioInfo_service_off">"रेडियो थुकुम"</string>
+<string name="radioInfo_roaming_in">"रोमिग"</string>
+<string name="radioInfo_roaming_not">"बाङ रोमिंग"</string>
+<string name="radioInfo_phone_idle">"बेकामीयाक्"</string>
+<string name="radioInfo_phone_ringing">"झानकाक्"</string>
+<string name="radioInfo_phone_offhook">"कॉल सेनोक् रे"</string>
+<string name="radioInfo_data_disconnected">"तोपोक् काजा"</string>
+<string name="radioInfo_data_connecting">"जोड़ावोक्  "</string>
+<string name="radioInfo_data_connected">"जोनोड़ाव"</string>
+<string name="radioInfo_data_suspended">"बातिलकादा"</string>
+<string name="radioInfo_unknown">"बाङबाडाया"</string>
+<string name="radioInfo_display_bytes">"बाइट को"</string>
+<string name="sdcard_unmount" product="nosdcard">"USB जोगावाक् अमाउंट"</string>
+<string name="sdcard_unmount" product="default">"SD कार्ड अनमाउंट"</string>
+<string name="sdcard_format" product="nosdcard">"USB जोगावाक् मेटाव"</string>
+<string name="sdcard_format" product="default">"SD कार्ड रेयाक् मेटाव"</string>
+<string name="small_font">"काटिच्"</string>
+<string name="medium_font">"माझारी"</string>
+<string name="large_font">"माराङ"</string>
+<string name="font_size_save">"हे"</string>
+<string name="sdcard_setting" product="nosdcard">"USB जोगावाक्"</string>
+<string name="sdcard_setting" product="default">"SD कार्ड"</string>
+<string name="battery_info_status_label">"बैटरी ओबोसता:"</string>
+<string name="battery_info_power_label">"पावर प्लग:"</string>
+<string name="battery_info_scale_label">"बैटरी स्केल:"</string>
+<string name="battery_info_level_label">"बैटरी थाक:"</string>
+<string name="battery_info_health_label">"बैटरी नुफुट:"</string>
+<string name="battery_info_technology_label">"बैटरी टेक्नोलॉजी:"</string>
+<string name="battery_info_voltage_label">"बैटरी भोल्टेज:"</string>
+<string name="battery_info_temperature_label">"बैटरी लोलो:"</string>
+<string name="battery_info_temperature_units">"\u00B0 C"</string>
+<string name="battery_info_uptime">"बुट ओकतो खोन:"</string>
+<string name="battery_info_awake_battery">"बैटरी रे सोन्तोर ओकतो :"</string>
+<string name="battery_info_awake_plugged">"बैटरी चारजोक् सोन्तोर ओकतो:"</string>
+<string name="battery_info_screen_on">"स्क्रीन चालूय ओकतो:"</string>
+<string name="battery_info_status_unknown">"बाङबाडाया"</string>
+<string name="battery_info_status_charging">"चार्जिङ"</string>
+<string name="battery_info_status_charging_ac">"(AC)"</string>
+<string name="battery_info_status_charging_wireless">"(वायरलेस)"</string>
+<string name="battery_info_status_discharging">"तोपाक् काक्"</string>
+<string name="battery_info_status_not_charging">"बाङ चार्जोक काना "</string>
+<string name="battery_info_status_full">"पुरा"</string>
+<string name="battery_info_power_unplugged">"बाङ प्लगा"</string>
+<string name="battery_info_power_ac">"एसी"</string>
+<string name="battery_info_power_wireless">"वायरलेस"</string>
+<string name="battery_info_power_ac_usb">"एसी+USB"</string>
+<string name="battery_info_power_unknown">"बाङबाडाया"</string>
+<string name="battery_info_health_unknown">"बाङबाडाया"</string>
+<string name="battery_info_health_good">"नापाय"</string>
+<string name="battery_info_health_overheat">"बाड़ती लोलो"</string>
+<string name="battery_info_health_dead">"गोच्"</string>
+<string name="battery_info_health_over_voltage">"बाड़ती भोल्टेज"</string>
+<string name="battery_info_health_unspecified_failure">"बाङ बाडाय तापुक"</string>
+<string name="battery_info_health_cold">"सोना"</string>
+<string name="bluetooth">"ब्लूटुथ"</string>
+<string name="bluetooth_is_discoverable">"जोतो सोर रेयाक् ब्लूटुथ डिवाइस ञेलोक्आ(<xliff:g id="discoverable_time_period">%1$s</xliff:g>)"</string>
+<string name="bluetooth_is_discoverable_always">"जोतो सोर रेयाक् ब्लुथा डिवाइस ञेलोक्आ"</string>
+<string name="bluetooth_not_visible_to_other_devices">"जोतो सोर रेयाक् ब्लुथा डिवाइस बाङ ञेलोक्आ"</string>
+<string name="bluetooth_only_visible_to_paired_devices">"जड़ीक् डिवाइस गे एकेन ञेलोक्आ"</string>
+<string name="bluetooth_visibility_timeout">"ञेलोगाक् ओकते चाबा"</string>
+<string name="bluetooth_lock_voice_dialing">"आड़ाङ डायलोक् ञेलमे"</string>
+<string name="bluetooth_lock_voice_dialing_summary">"जोकेच् स्क्रीन लॉक गेया राखिया लागित् तो ब्लूटुथ डायलर बेभार मे"</string>
+<string name="bluetooth_devices">"ब्लूटुथ डिवाइस"</string>
+<string name="bluetooth_device_name">"डिवाइस ञुतुम"</string>
+<string name="bluetooth_device_details">"डिवाइस सेटिंग"</string>
+<string name="bluetooth_profile_details">"प्रोफाइल सेटिंग"</string>
+<string name="bluetooth_name_not_set">"ञुतुम बाङ सेटा, खाता ञउतुम बेभार मे"</string>
+<string name="bluetooth_scan_for_devices">"डिवाइस लागित् स्केन"</string>
+<string name="bluetooth_rename_device" product="tablet">"टेबलेट दोहड़ा ञुतुम"</string>
+<string name="bluetooth_rename_device" product="default">"फोन दोहड़ा ञुतुम"</string>
+<string name="bluetooth_rename_button">"ञुतुमआरो"</string>
+<string name="bluetooth_disconnect_title">"तोपाक्?"</string>
+<string name="bluetooth_disconnect_all_profiles">"नोवा सालाक् ते आमाक् जोड़ाव चाबायेना :&lt;br&gt;&lt;b&gt;<xliff:g id="device_name">%1$s</xliff:g>&lt;/b&gt;"</string>
+<string name="bluetooth_disable_profile_title">"बेसोमोल प्रोफाइल"</string>
+<string name="bluetooth_disable_profile_message">"नोवा बेसोमोला &lt;br&gt;&lt;b&gt;<xliff:g id="profile_name">%1$s</xliff:g>&lt;/b&gt;&lt;br&gt;&lt;br&gt;से:&lt;br&gt;&lt;b&gt;<xliff:g id="device_name">%2$s</xliff:g>&lt;/b&gt;"</string>
+<string name="bluetooth_connected">"जोनोड़ाव"</string>
+<string name="bluetooth_connected_no_headset">"जोड़ावेना (फोन बानुक्)"</string>
+<string name="bluetooth_connected_no_a2dp">"जोड़ावेना (मीडिया बानुक् )"</string>
+<string name="bluetooth_connected_no_map">"जोड़ावेना (सान्देस रे बाङ सेटेरा)"</string>
+<string name="bluetooth_connected_no_headset_no_a2dp">"जोड़ावेना (फोन से मीडिया बानुक्)"</string>
+<string name="bluetooth_disconnected">"तोपोक् काजा"</string>
+<string name="bluetooth_disconnecting">"तोपागोक्…"</string>
+<string name="bluetooth_connecting">"जोड़ावोक्…"</string>
+<string name="bluetooth_pairing">"जुड़ीय…"</string>
+<string name="bluetooth_device">"बेञुतुमाक् ब्लूटुथ डिवाइस"</string>
+<string name="progress_scanning">"तोलोसेत्"</string>
+<string name="bluetooth_no_devices_found">"सोराक् ब्लूटुथ डिवाइस बाय ञेम लेदा।"</string>
+<string name="bluetooth_notif_ticker">"ब्लूटुथ जुड़ीय नेहोर"</string>
+<string name="bluetooth_notif_title">"जुड़ीय नेहोर"</string>
+<string name="bluetooth_notif_message">"जुड़ीय लागित जाग <xliff:g id="device_name">%1$s</xliff:g>."</string>
+<string name="bluetooth_show_received_files">"आताङ फाइल उदुगमे"</string>
+<string name="bluetooth_ftp_switch_on">"FTP सर्वर चालूय"</string>
+<string name="bluetooth_ftp_switch_off">"FTP सर्वर चालूय"</string>
+<string name="bluetooth_ftp_acceptance_dialog_text">"%1$sआमाक् फआइल उचाड़ स्रवर हाबिच् सेटेर बेनाव ए मेनेत् काना। %2$s हाबिच् सेटेर ओचोवाक्आ?"</string>
+<string name="bluetooth_ftp_acceptance_dialog_title">"फाइल उचाड़ सेटेर नेहोर"</string>
+<string name="device_picker">"ब्लूटुथ बाछावाक् डिवाइस"</string>
+<string name="bluetooth_permission_request">"ब्लूटुथ छाड़ नेहोर"</string>
+<string name="bluetooth_ask_enablement">"ब्लूटुथ चालूय ऐप ए खोजोक् काना।"</string>
+<string name="bluetooth_ask_discovery" product="tablet">"ऐप लागित एटाक् ब्लूटुथ डिवाइस आमाक् टेबलेट ञेलानाक् बेनावे मेनेत् काना <xliff:g id="timeout">%1$d</xliff:g> सकेंड को"</string>
+<string name="bluetooth_ask_discovery" product="default">"ऐप लागित एटाक् ब्लूटुथ डिवाइस आमाक् फोन ञेलानाक् बेनावे मेनेत् काना <xliff:g id="timeout">%1$d</xliff:g> सेकेंड को"</string>
+<string name="bluetooth_ask_lasting_discovery" product="tablet">"ऐप लागित एटाक् ब्लूटुथ डिवाइस आमाक् टेबलेट ञेलानाक् बेनावे मेनेत् काना। ब्लूटुथ सेटिंग आम नो तायोम तेम फोराव दाड़ेयाक्आ।"</string>
+<string name="bluetooth_ask_lasting_discovery" product="default">"ऐप लागित एटाक् ब्लूटुथ डिवाइस आमाक् फोन ञेलानाक् बेनावे मेनेत् काना। ब्लूटुथ सेटिंग आम नो तायोम तेम फोराव दाड़ेयाक्आ।"</string>
+<string name="bluetooth_ask_enablement_and_discovery" product="tablet">"ऐप ब्लूटुथ  चालूयेम मेनेत् काना आर आमाक् टेबलेट एटाक् डिवाइस सालाक् ञेल ओचोय एम मेनेत् काना <xliff:g id="timeout">%1$d</xliff:g> सेकेंड को"</string>
+<string name="bluetooth_ask_enablement_and_discovery" product="default">"ऐप ब्लूटुथ  चालूयेम मेनेत् काना आर आमाक् टेबलेट फोन डिवाइस सालाक् ञेल ओचोय एम मेनेत् काना <xliff:g id="timeout">%1$d</xliff:g> सेकेंड को"</string>
+<string name="bluetooth_ask_enablement_and_lasting_discovery" product="tablet">"ऐप ब्लूटुथ  चालूयेम मेनेत् काना आर आमाक् टेबलेट डिवाइस सालाक् ञेल ओचोय एम मेनेत् काना। आम ब्लूटुथ सेटिंग तायोम तेम फेराव दाड़ेयाक्आ।"</string>
+<string name="bluetooth_ask_enablement_and_lasting_discovery" product="default">"ऐप ब्लूटुथ  चालूयेम मेनेत् काना आर आमाक् फोन डिवाइस सालाक् ञेल ओचोय एम मेनेत् काना। आम ब्लूटुथ सेटिंग तायोम तेम फेराव दाड़ेयाक्आ।"</string>
+<string name="bluetooth_turning_on">"ब्लूटुथ चालू काना ..."</string>
+<string name="bluetooth_turning_off">"ब्लूटुथ थुकुमोक् काना ..."</string>
+<string name="bluetooth_auto_connect">"आच् ते जोड़ाव"</string>
+<string name="bluetooth_connection_permission_request">"ब्लूटुथ जोड़ाव नेहोर"</string>
+<string name="bluetooth_connection_notif_message">"जाक् कातेन जोड़ाव मे \u0022<xliff:g id="device_name">%1$s</xliff:g>\u0022."</string>
+<string name="bluetooth_connection_dialog_text">"चेले आम जोड़ाव एम मेनेदा\u0022<xliff:g id="device_name">%1$s</xliff:g>\u0022?"</string>
+<string name="bluetooth_phonebook_request">"फओन पुथी सेटेरोक् नेहोर"</string>
+<string name="bluetooth_pb_acceptance_dialog_text">"%1$s  आमाक् जोगाजोग को आर कॉल नागाम रे सेटेरोक् एम मेनेदा। %2$s ते सेटेर ञामाम?"</string>
+<string name="bluetooth_remember_choice">"दोहड़ा आलोम कुलीया"</string>
+<string name="bluetooth_pb_remember_choice">"दोहड़ा आलोम कुलीया"</string>
+<string name="bluetooth_map_request">"सान्देस सेटेरोक् नेहोर"</string>
+<string name="bluetooth_map_acceptance_dialog_text">"%1$s आमाक् सान्देस रे सोटेरोक् एम मेनेत् काना। %2$s ते सेटेर ञामाम?"</string>
+<string name="date_and_time">"माँहित् &amp; ओकते सेटिंग"</string>
+<string name="choose_timezone">"ओकते टोठा बाछाव"</string>
+<string name="normal_date_format">"टोठारिया (<xliff:g id="date" example="12-31-2009">%s</xliff:g>)"</string>
+<string name="display_preview_label">"ञेलमाड़ाङ"</string>
+<string name="display_font_size_label">"फॉन्ट साइज"</string>
+<string name="intent_sender_sendbroadcast_text">"कोल<xliff:g id="broadcast">broadcast</xliff:g>"</string>
+<string name="intent_sender_startactivity_text">"एहोब <xliff:g id="activity">activity</xliff:g>"</string>
+<string name="intent_sender_account_label">"खाता"</string>
+<string name="proxy_settings_title">"प्रोक्सी  "</string>
+<string name="proxy_clear_text">"मेटाव  "</string>
+<string name="proxy_port_label">"प्रोक्सी हिंस"</string>
+<string name="proxy_exclusionlist_label">"प्रोक्सी लागित् बायपास"</string>
+<string name="proxy_defaultView_text">"डिफॉल्ट रेयाक् थापनारुवाड़"</string>
+<string name="proxy_action_text">"गान"</string>
+<string name="proxy_hostname_label">"प्रोक्सी पेड़ा ञुतुम"</string>
+<string name="proxy_error">"ओजम"</string>
+<string name="proxy_error_dismiss">"हे"</string>
+<string name="proxy_error_invalid_host">"आम ओका पेडा ञुतुम एम टाइप एदा बाङ बातावा।"</string>
+<string name="proxy_error_invalid_exclusion_list">"बागीयाक् सूची आम दाराय ते भागे लेकाते बाङ टाइपोक् काना। ओडोक् काक् डोमोन रेयाक् नासे जिराव खोन एटाक् सूची फाइप मे।"</string>
+<string name="proxy_error_empty_port">"आम जोतो पोर्ट टोठा रेयाक् लाकती मेनाक्आ।"</string>
+<string name="proxy_error_empty_host_set_port">"जुदी पेडा टोठा आजाड़ी गेया खान पोर्ट टोठा हो आजाड़ी गेया।"</string>
+<string name="proxy_error_invalid_port">"आम पोर्ट टाइप बाङ बातावक् काना।"</string>
+<string name="proxy_warning_limited_support">"HTTP  प्रोक्सी ब्राउजर ते बेबोहारोक् काना मेनखान एटाक् ऐप रे बाङ बेबोहार दाड़ेयाक्आ। "</string>
+<string name="proxy_url">"PAC यूआरएल: "</string>
+<string name="radio_info_signal_location_label">"ठाँव"</string>
+<string name="radio_info_neighboring_location_label">"CID सोराक्:"</string>
+<string name="radio_info_cellinfo_label">"सेल बाडाय"</string>
+<string name="radio_info_data_attempts_label">"डेटा लेगाय"</string>
+<string name="radio_info_gprs_service_label">"GPRS सेवा:"</string>
+<string name="radio_info_roaming_label">"रोमिंग"</string>
+<string name="radio_info_imei_label">"IMEI:"</string>
+<string name="radio_info_call_redirect_label">"कॉल दोहड़ा सोझेय।"</string>
+<string name="radio_info_ppp_resets_label">"PPP  रेयाक् नंबर बुट खोन सेटा दोहड़ायमे:"</string>
+<string name="radio_info_gsm_disconnects_label">"GSM  तोपाक् कोs:"</string>
+<string name="radio_info_current_network_label">"निताक् नेटवर्क"</string>
+<string name="radio_info_data_successes_label">"डेटा गानेना"</string>
+<string name="radio_info_ppp_received_label">"PPP rआताङ:"</string>
+<string name="radio_info_gsm_service_label">"GSM सेवा:"</string>
+<string name="radio_info_signal_strength_label">"सिंगनल दाड़े"</string>
+<string name="radio_info_call_status_label">"कॉल ओबोसता"</string>
+<string name="radio_info_ppp_sent_label">"PPP कोल:"</string>
+<string name="radio_info_radio_resets_label">"रेडियो सेट दोहड़ाय"</string>
+<string name="radio_info_message_waiting_label">"सान्देस ताङ्गीय"</string>
+<string name="radio_info_phone_number_label">"फोन नंबर।"</string>
+<string name="radio_info_band_mode_label">"सेडियो बेंड बाछावमे"</string>
+<string name="radio_info_network_type_label">"नेटवर्क टाइप"</string>
+<string name="radio_info_set_perferred_label">"माड़ाङा नेटवर्क टाइप सेट"</string>
+<string name="radio_info_ping_ipaddr">"पिंग Ip ठिकाना:"</string>
+<string name="radio_info_ping_hostname">"Ping पेड़ा ञुतुम (www.google.com):"</string>
+<string name="radio_info_http_client_test">"HTTP गाहकी बिडाव:"</string>
+<string name="ping_test_label">"ञिर ping बिडाव"</string>
+<string name="radio_info_smsc_label">"SMSC:"</string>
+<string name="radio_info_smsc_update_label">"नावाआरो"</string>
+<string name="radio_info_smsc_refresh_label">"रिफ्रेस "</string>
+<string name="radio_info_toggle_dns_check_label">"DNS टोगल पाछनाव"</string>
+<string name="oem_radio_info_label">"OEM-आसोल बाडाय/सेटिंग"</string>
+<string name="band_mode_title">"GSM/UMTS बेंड सेट"</string>
+<string name="band_mode_loading">"बेड सूची भआरीक् काना .."</string>
+<string name="band_mode_set">"सेट"</string>
+<string name="band_mode_failed">"बाङ गान"</string>
+<string name="band_mode_succeeded">"गानेना"</string>
+<string name="sdcard_changes_instructions">"जोखोच् USB तार आरहो जोड़ाववा फेराव लागुक्आ।"</string>
+<string name="sdcard_settings_screen_mass_storage_text">"सोमोल USB साङ्गे जोगावाक्"</string>
+<string name="sdcard_settings_total_bytes_label">"मोट बाइट को"</string>
+<string name="sdcard_settings_not_present_status" product="nosdcard">"USB जोगावाक् बाङ माउंट आ।"</string>
+<string name="sdcard_settings_not_present_status" product="default">"SD कार्ड बानुक"</string>
+<string name="sdcard_settings_available_bytes_label">"मेनाक् बाइटको"</string>
+<string name="sdcard_settings_mass_storage_status" product="nosdcard">"USB  जोगावाक् साङ्गे जोगावाक् डिवाइस लेकाते बेभार आकाना।"</string>
+<string name="sdcard_settings_mass_storage_status" product="default">"SD  कार्ड साङ्गे जोगावाक् डिवाइस लेकाते बेभारोक् काना।"</string>
+<string name="sdcard_settings_unmounted_status" product="nosdcard">"USB जोगावाक् नितोक् दो उचाड़ भागेगेया,."</string>
+<string name="sdcard_settings_unmounted_status" product="default">"SD कार्डे जोहगावाक् नितोक उचाड़ भागेया।"</string>
+<string name="sdcard_settings_bad_removal_status" product="nosdcard">"USB  जोगावाक् रे बेभार रे मेनाक्आ, मेनेत् नित् गो ओचोक् आकात् ताहेंकाना!"</string>
+<string name="sdcard_settings_bad_removal_status" product="default">"SD कार्ड जोगावाक् मोनाक्आ  जोखेच् ओल कादा।"</string>
+<string name="sdcard_settings_used_bytes_label">"बेभार बाइट को"</string>
+<string name="sdcard_settings_scanning_status" product="nosdcard">"USB  जोगावाक् मीडियो स्केनोक्..."</string>
+<string name="sdcard_settings_scanning_status" product="default">"SD  कार्ड मीडियो स्केनोक्..."</string>
+<string name="sdcard_settings_read_only_status" product="nosdcard">"USB जोगावाक् माउंट आक् एकेन पाड़हवमे।"</string>
+<string name="sdcard_settings_read_only_status" product="default">"SD कार्ड एकेन माउंट आक् पाड़हाव।"</string>
+<string name="skip_label">"एड़ाव"</string>
+<string name="next_label">"तायोमाक्"</string>
+<string name="language_picker_title">"पारसी"</string>
+<string name="activity_picker_label">"कामी बाछाव"</string>
+<string name="device_info_label">"डिवाइस बापाडाय"</string>
+<string name="battery_info_label">"बैटरी बापाडाय"</string>
+<string name="display_label">"स्क्रीन  "</string>
+<string name="phone_info_label" product="tablet">"टेबलेट बापाडाय"</string>
+<string name="phone_info_label" product="default">"फोन बापाडाय"</string>
+<string name="sd_card_settings_label" product="nosdcard">"USB जोगावाक्"</string>
+<string name="sd_card_settings_label" product="default">"SD कार्ड"</string>
+<string name="proxy_settings_label">"प्रोक्सी सेटिंग"</string>
+<string name="cancel">"बातिल"</string>
+<string name="settings_label">"सेटिंग"</string>
+<string name="settings_label_launcher">"सेटिंग"</string>
+<string name="settings_shortcut">"शॉर्टकट सेटिंग"</string>
+<string name="airplane_mode">"एयरफोन मोड"</string>
+<string name="radio_controls_title">"आरो..."</string>
+<string name="wireless_networks_settings_title">"आरो"</string>
+<string name="radio_controls_summary">" Wi\u2011Fi, ब्लूटुथ,एयरप्लेन मोड, मोबाइल नेटवर्क, &amp; VPNs बेबोसताय मे"</string>
+<string name="roaming">"रोमिंग डेटा"</string>
+<string name="roaming_enable">"रोमिंग जोखेच् डेटा सेवा सालाक् जोड़ाव"</string>
+<string name="roaming_disable">"रोमिंग जोखेच् डेटा सेवा सालाक् जोड़ाव"</string>
+<string name="roaming_reenable_message">"आमाक् होम नेटवर्क सालाक् डेटा रोमिंग थुकुम इदी काते आम डेटा जोनोड़ाव आत् केदाम।"</string>
+<string name="roaming_turn_it_on_button">"नोवाचालूयमे"</string>
+<string name="roaming_warning">"जोखेच् आम रोमिंग रे डेटा दावेम ञाम, खोम आम बाड़ती चार्ज को लागाव दाड़ेयामा"</string>
+<string name="roaming_warning_multiuser" product="tablet">"जोखेच् आम रोमिंग रे डेटा दाँवेम ञाम, खान आम बाड़ती चार्ज लागाव दाड़ेयामा! \n\n नोवा दो टेबलेट रेयाक् नोवा सेटिंग रे एसेरा।"</string>
+<string name="roaming_warning_multiuser" product="default">"जोखेच् आम रोमिंग रे डेटा दाँवेम ञाम, खान आम बाड़ती चार्ज लागाव दाड़ेयामा! \n\n नोवा दो फोन रेयाक् नोवा सेटिंग रे एसेरा।"</string>
+<string name="roaming_reenable_title">"रोमिंग डेटा दाँव एम?"</string>
+<string name="networks">"लाड़चाड़ सेकसन"</string>
+<string name="sum_carrier_select">"मित् नेटवर्क लाड़चाड़ बाछआवमे"</string>
+<string name="date_and_time_settings_title">"माँहित &amp; ओकतो"</string>
+<string name="date_and_time_settings_title_setup_wizard">"माँहिति आर ओकतो सेटमे"</string>
+<string name="date_and_time_settings_summary">"सेटमे माँहित्, ओकतो टोठा, &amp; फोरमेटको"</string>
+<string name="date_time_auto">"आच् तो माँहित &amp; ओकते"</string>
+<string name="date_time_auto_summaryOn">"नेटवर्क एमोगाक् ओकते बेभार"</string>
+<string name="date_time_auto_summaryOff">"नेटवर्क एमोगाक् ओकते बेभार"</string>
+<string name="zone_auto">"आच् ते ओकते टोठा"</string>
+<string name="zone_auto_summaryOn">"बेभआर नेटवर्क एमोगिच् ओकतो टोठा"</string>
+<string name="zone_auto_summaryOff">"बेभआर नेटवर्क एमोगिच् ओकतो टोठा"</string>
+<string name="date_time_24hour">"24-ताड़ाङ फोरमेट सेट"</string>
+<string name="date_time_set_time">"ओकते सेट"</string>
+<string name="date_time_set_timezone">"ओकते टोठा बाछाव"</string>
+<string name="date_time_set_date">"माँहित सेट"</string>
+<string name="date_time_date_format">"फोरमेट माँहित बाछाव"</string>
+<string name="zone_list_menu_sort_alphabetically">"होरोप एहोप् लेकाते सारियाव"</string>
+<string name="zone_list_menu_sort_by_timezone">"ओकते टोठा ते सारियाव"</string>
+<string name="zone_list_menu_sort_by_pinyin">"पिनयिन चाइनीज दारायते खाटो"</string>
+<string name="date_picker_title">"माँहित"</string>
+<string name="time_picker_title">"ओकतो\'"</string>
+<string name="biometric_weak_improve_matching_title">"मुठा जुड़ीय उतनाव"</string>
+<string name="biometric_weak_liveliness_title">"मेनाक् तेयात् पाछाव"</string>
+<string name="biometric_weak_liveliness_summary">"कुलुप लाड़ाय लागित् मेंत् रिपित रेयाक् लाकती मेनाक्आ"</string>
+<string name="lock_after_timeout">"आच् ते लॉक"</string>
+<string name="lock_after_timeout_summary">"<xliff:g id="timeout_string">%1$s</xliff:g> जापित तायोम"</string>
+<string name="show_owner_info_on_lockscreen_label">"मालिकाक् बापाय स्क्रीन रे उदुग ञेलमे"</string>
+<string name="owner_info_settings_title">"मालिक बापाडाय"</string>
+<string name="security_enable_widgets_title">"बिजेट सोमोला"</string>
+<string name="security_enable_widgets_disabled_summary">"एडमिनिस्ट्रेटोर दारायते बेसोमोला"</string>
+<string name="owner_info_settings_edit_text_hint">"कुलुप स्क्रीन रे पाट टाइप उदुम मे"</string>
+<string name="show_user_info_on_lockscreen_label">"कुलुप स्क्रीन रे बेभारिच् उदुक"</string>
+<string name="user_info_settings_title">"बेभारिच् बापाडाय"</string>
+<string name="show_profile_info_on_lockscreen_label">"कुलुप स्क्रीन रे प्रोफाइल उदुगमे"</string>
+<string name="profile_info_settings_title">"प्रोफाइल बापाडाय"</string>
+<string name="location_settings_title">"ठाँवेल "</string>
+<string name="security_settings_title">"रुखिया"</string>
+<string name="security_settings_summary">"इञाक् सेटमे टोठआ, स्क्रीन बेकुलुप, SIM कार्ड कुलुप, सिरजावाक् जोगाव कुलुप"</string>
+<string name="cdma_security_settings_summary">"इञाक् सेटमे टोठा, स्क्रीन बेकुलुप, सिरजावक् जोगाव कुलुप"</string>
+<string name="security_passwords_title">"पासवर्ड"</string>
+<string name="crypt_keeper_settings_title">"इंस्क्रीप्टसन"</string>
+<string name="crypt_keeper_encrypt_title" product="tablet">"इंस्क्रीप्टटेबलेट"</string>
+<string name="crypt_keeper_encrypt_title" product="default">"इंस्क्रीप्ट फोन"</string>
+<string name="crypt_keeper_encrypt_summary" product="tablet">" जोखेच् आमा टेबलेट रे पावर एम चालूया उन रे मित् नंबरानाक् PIN से पासवर्ड रेयाक् लाकती हुयुक्आ"</string>
+<string name="crypt_keeper_encrypt_summary" product="default">" जोखेच् आमा फोन रे पावर एम चालूया उन रे मित् नंबरानाक् PIN से पासवर्ड रेयाक् लाकती हुयुक्आ"</string>
+<string name="crypt_keeper_encrypted_summary">"इंस्क्रीप्ट आक्"</string>
+<string name="crypt_keeper_desc" product="tablet">" आम आमाक् खाताम एनक्रीप्ट दाड़ेयाक्आ, सेटिंग को, आतुरआड़गो ऐप आर ओना रेयाक् डेटा,मीडिया,आर एटाक् फाइल को। आम आमाक् टेबलेट मित् धाप एम एनक्रीप्ट दाड़ेयाक्आ,जोखेच् नोवा पावर ए चालूया डिक्रीप्ट लागित् ते नंबरानाक् PIN से पासवर्ड रेयक् लाकती हुयुक्आ। आम आमाक् टेबलेट डीक्रीप्ट बाम दाड़ेयाक्आ फेक्टरी रेयाक् डेटा बेनावाक् इका कातेन एम सेट दोहड़ा दाड़ेया, आमाक् जोतो डेटाक् मेटाक् तामा।\n\n इंक्रीप्शन रे मित् टाड़ाङ से बाड़ती ओकते हाताव दाड़ेयाक्आ। आम एहोप् लाहा रे चार्ज बेटरी आर आमाक् एंक्रीप्ट पुराक् हाबिच् दोहोय मे। जुदी ताला रे एंक्रीप्ट कामीधारा तोपागोक्आ, आमाक् किछू से जोतो डेटाम आत् दाड़ेयाक्आ।"</string>
+<string name="crypt_keeper_desc" product="default">" आम आमाक् खाताम एंक्रीप्ट दाड़ेयाक्आ, सेटिंग, आतुरआड़गो ऐप आर ओना रेयाक् डेटा, मीडिया, आर ओना रेयाक् फाइल को। आमाक् फओन मित् धाव एम एऩक्रीप्ट दाड़ेयाक् जोखेच् नोवा पावर एम चालूया डिक्रीप्ट लागित् ते नंबरानाक् PIN से पासवर्ड रेयाक् लाकती हुयुक्आ। आम आमाक् फोन डीक्रीप्ट बाम दाड़ेयाक्आ फेक्टरी रेयाक् डेटा बेनावाक् इका कातेन एम सेट दोहड़ा दाड़ेयाक्आ, आमाक् जोतो डेटा मेटाक् तामा। \n\n एंक्रीप्ट रे मित् टाड़ाङ से बाडड़ती ओकते लागाव दाड़ेयाक्आय़ आमा एहोप् लाहा रे चार्ज बेटरी आर आमाक् एंक्रीप् पुराक् हाबिच् दोहोय मे। जुदा ताला रे एंक्रीप्ट कामाधारा तोपागोक्आ, आमाक् किछू सो जोतो डेटाम आत् दाड़ेयाक्आ। "</string>
+<string name="crypt_keeper_button_text" product="tablet">"इंस्क्रीप्टटेबलेट"</string>
+<string name="crypt_keeper_button_text" product="default">"इंस्क्रीप्ट फोन"</string>
+<string name="crypt_keeper_low_charge_text">"आमाक् बौटरी चार्ज आर दोहड़ा लेगायमे।"</string>
+<string name="crypt_keeper_unplugged_text">"आमाक् चार्जर प्लग मे आर दोहड़ा लेगायमे।"</string>
+<string name="crypt_keeper_dialog_need_password_title">"पासवर्ड से PIN स्क्रीन लॉक बानुक्आ"</string>
+<string name="crypt_keeper_dialog_need_password_message">"जोखेच् आम एनक्रीप्ट सेट एम एहोबा उन के स्क्रीन लॉक लागित् ते PIN से पासवर्ड रेयाक् लाकती हुयुक्आ।"</string>
+<string name="crypt_keeper_confirm_title">"एंस्क्रीप्ट?"</string>
+<string name="crypt_keeper_final_desc" product="tablet">"जुदी आम एंस्क्रीप्सन लाड़चाड़ बेगानाक् आर  रापुत आ, आम डेटाम आत् दाड़ेयाक्आ।टेबलेट चालूक् रे आयमा ओकतेय लागाक् कान, एंस्क्रीप्सन रे मित् ताड़ाङ से बाड़ती ओकतेय हातावा डेटा आत दाड़ेयाक्आ। "</string>
+<string name="crypt_keeper_final_desc" product="default">"एंस्क्रीप्सन लाड़चाड़ रे बेगानाक् आर जुदी रापत् एना, खान आम डेटाम आत् दाड़ेयाक्आ। एंस्क्रीप्सन रे मित् ताड़ाङ से बाड़ती ओकते लागाव दाड़ेयाक्आ फोन चालूय रे।"</string>
+<string name="crypt_keeper_setup_title">"एंस्क्रीप्सन ओक्"</string>
+<string name="crypt_keeper_setup_description" product="tablet">"टेबलेट एंस्क्रीपसन जोखेच् हुयुक्आ आम ताङ्गीयमे।<xliff:g id="percent" example="50">^1</xliff:g>% पुरावेना।"</string>
+<string name="crypt_keeper_setup_description" product="default">"फोन एंस्क्रीपसन जोखेच् हुयुक्आ आम ताङ्गीयमे। <xliff:g id="percent" example="50">^1</xliff:g>% पुरावेना।"</string>
+<string name="crypt_keeper_cooldown">"दोहड़ा लेगाय मे <xliff:g id="delay" example="15">^1</xliff:g> टिड़िच् को."</string>
+<string name="crypt_keeper_enter_password">"आमाक् पासवड टाइपमे"</string>
+<string name="crypt_keeper_failed_title">"एंस्क्रीप्ट बाङ गान लेना"</string>
+<string name="crypt_keeper_failed_summary" product="tablet">"एंस्क्रीप्ट आनाट ताहेंकाना आर बाङ पुराव दाड़ेयादा। फोलोन, आमाक् टेबलेट नित हो मेनाक्आ। \n\n आमाक् टेबलेट रेयाक् बेबोहार होप् लागित् आम मित् कारखाना रेयाक् उनुदुक् सेट दोहड़ा रेयाक् लाकती मेनाक्आ। जोखेच् आम सेट आरोयेदा आमाक् टेबलेट सेट, आमक् जाहाँतिनाक् डेटा मेनाक् आमाक् Google  खाता जोगाव रुवाड़ड रेयाक् दाँवे एमोक् काना। "</string>
+<string name="crypt_keeper_failed_summary" product="default">"एंस्क्रीप्ट आनाट ताहेंकाना आर बाङ पुराव दाड़ेयादा। फोलोन, आमाक् फोन नित हो मेनाक्आ। \n\n आमाक् फोन रेयाक् बेबोहार एहोप् लागित् आम मित् कारखाना रेयाक् उनुदुक् सेट दोहड़ा रेयाक् लाकती मेनाक्आ। जोखेच् आम सेट आरोयेदा आमाक् फोन सेट, आमक् जाहाँतिनाक् डेटा मेनाक् आमाक् Google  खाता जोगाव रुवाड़ड रेयाक् दाँवे एमोक् काना। "</string>
+<string name="crypt_keeper_switch_input_method">"सिविच् खाड़ भांवार"</string>
+<string name="lock_settings_picker_title">"स्क्रीन कुलुप बाछाव"</string>
+<string name="backup_lock_settings_picker_title">"बैकअप कुलुप बाछाव"</string>
+<string name="unlock_set_unlock_launch_picker_title">"स्क्रीन कुलुप"</string>
+<string name="unlock_set_unlock_launch_picker_change_title">"स्क्रीन कुलुप फेराव"</string>
+<string name="unlock_set_unlock_launch_picker_change_summary">"PIN, से पासवर्ड रुखाया फेराव पैटर्न बेसोमोला "</string>
+<string name="unlock_set_unlock_launch_picker_enable_summary">"स्क्रीन कुलुप लागित् भावाँर बाछाव मे"</string>
+<string name="unlock_backup_info_summary">"जोखेच् सामाङ रे बाम ञेल दाड़ेयाक्आ, चेका लेका ते कुलुप एम लाड़ाया?"</string>
+<string name="unlock_set_unlock_off_title">"बाङ"</string>
+<string name="unlock_set_unlock_none_title">"एड़ाव"</string>
+<string name="unlock_set_unlock_none_summary">"रुखिया बाङ"</string>
+<string name="unlock_set_unlock_biometric_weak_title">"सामाङ बेकुलुप"</string>
+<string name="unlock_set_unlock_biometric_weak_summary">"काच् रुखिया, बिडावानाक्"</string>
+<string name="unlock_set_unlock_pattern_title">"पैटर्न"</string>
+<string name="unlock_set_unlock_pattern_summary">"होतेते रुखिया"</string>
+<string name="unlock_set_unlock_pin_summary">"होतेते सिरा रुखिया"</string>
+<string name="unlock_set_unlock_password_title">"पासवय़ाट"</string>
+<string name="unlock_set_unlock_password_summary">"सिरा रुखिया"</string>
+<string name="unlock_set_unlock_disabled_summary">"एडमिनिस्ट्रेटोर दारायते बेसोमोला, एंस्क्रीप्टसन नीति, से सिरजावाक् जोगावाक्"</string>
+<string name="unlock_set_unlock_mode_off">"बाङ"</string>
+<string name="unlock_set_unlock_mode_none">"एड़ाव"</string>
+<string name="unlock_set_unlock_mode_biometric_weak">"सामाङ बेकुलुप"</string>
+<string name="unlock_set_unlock_mode_pattern">"पैटर्न"</string>
+<string name="unlock_set_unlock_mode_password">"पासवय़ाट"</string>
+<string name="unlock_disable_lock_title">"स्क्रीन कुलुप थुकुम मे"</string>
+<string name="unlock_disable_lock_pattern_summary">"बेकुलुप पैटर्न ओचोग"</string>
+<string name="unlock_disable_lock_pin_summary">"PIN बेकुलुप ओचोग"</string>
+<string name="unlock_disable_lock_password_summary">"पासवार्ड बेकुलुप ओचोग"</string>
+<string name="unlock_change_lock_pattern_title">"बेकुलुप पैटर्न फेराव"</string>
+<string name="unlock_change_lock_pin_title">"PIN बेकुलुप फेराव"</string>
+<string name="unlock_change_lock_password_title">"पासवर्ड बेकुलुप फेराव"</string>
+<string name="lockpassword_password_too_short">"पासवर्ड एकाल हुयुक् लाकती %d  होरोप को"</string>
+<string name="lockpassword_pin_too_short">"PIN एकाल हुयुक् लाकती %d आखोर को"</string>
+<string name="lockpassword_press_continue">"हुयुक् लेताड़ लागित जागमे"</string>
+<string name="lockpassword_continue_label">"लेताड़"</string>
+<string name="lockpassword_password_too_long">"पासवर्ड ओना सोहोत लाकतीया<xliff:g id="number" example="17">%d</xliff:g> होरोप् को"</string>
+<string name="lockpassword_pin_too_long">"PIN ओना सोहोत लाकतीया <xliff:g id="number" example="17">%d</xliff:g> आखोर को"</string>
+<string name="lockpassword_pin_contains_non_digits">"PIN एकाल हुयुक् लाकती 0-9."</string>
+<string name="lockpassword_pin_recently_used">"डिवाइस एडमिन्स्ट्रेसन बाय छाड़ एदाक् निताक् PIN ।"</string>
+<string name="lockpassword_illegal_character">"पासवर्ड बेवरा दो बेआन होरोप् काना।"</string>
+<string name="lockpassword_password_requires_alpha">"पासवर्ड कोम खाच् कोम 1 होरोप् हुयुक् लाकतीया"</string>
+<string name="lockpassword_password_requires_digit">"पासवर्ड कोम खाच् कोम 1 लेखा रेयाक् हुयुक् लाकतीया."</string>
+<string name="lockpassword_password_requires_symbol">"पासवर्ड कोम खाच् कोम 1चिनहा रेयाक् हुयुक् लकतीयl."</string>
+<plurals name="lockpassword_password_requires_letters">
+<item quantity="one">"पासवर्ड कोम खाच् कोम 1 होरोपाक्"</item>
+<item quantity="other">"पासवर्ड कोम खाच् कोम %d आखोर को।"</item>
+</plurals>
+<plurals name="lockpassword_password_requires_lowercase">
+<item quantity="one">"पासवर्ड कोम खाच् कोम 1 काटिच् होरोप् हुयुक् लाकती।"</item>
+<item quantity="other">"पासवर्ड कोम खाच् कोम %d  काटिच् होरोपको। "</item>
+</plurals>
+<plurals name="lockpassword_password_requires_uppercase">
+<item quantity="one">"पासवर्ड कोम खाच् कोम 1 लाटू होरोप।"</item>
+<item quantity="other">"पासवर्ड कोम खाच् कोम  %d  लाटू होरोप को।"</item>
+</plurals>
+<plurals name="lockpassword_password_requires_numeric">
+<item quantity="one">"पासवर्ड कोम खाच् कोम 1 लेखा होरोप।"</item>
+<item quantity="other">"पासवर्ड कोमखाच् कोम %d  लेखा होरोपको।"</item>
+</plurals>
+<plurals name="lockpassword_password_requires_symbols">
+<item quantity="one">"पासवर्ड कोमखाच् कोम 1 आसोल चिनहा।"</item>
+<item quantity="other">"पासवर्ड कोमखाच् कोम %d ओसोल चिनहाको।"</item>
+</plurals>
+<plurals name="lockpassword_password_requires_nonletter">
+<item quantity="one">"पासवर्ड कोमखाच् कोम 1 बेहोरोप आखोर।"</item>
+<item quantity="other">"पासव्र्ड कोमखाच् कोम %d बेहोरोप आखोरको।"</item>
+</plurals>
+<string name="lockpassword_password_recently_used">"निताक् पासवर्ड डिवाइस एडमिनिस्ट्रेसन बाय छाड़ एदा।"</string>
+<string name="lockpassword_ok_label">"हे"</string>
+<string name="lockpassword_cancel_label">"बातिल"</string>
+<string name="lockpattern_tutorial_cancel_label">"बातिल"</string>
+<string name="lockpattern_tutorial_continue_label">"तायोमाक्"</string>
+<string name="lock_setup">"सेटअप पुरावेना"</string>
+<string name="device_admin_title">"डिवाइस एडमिनिस्ट्रेटोर  "</string>
+<string name="manage_device_admin">"डिवाइस एडमिनिस्ट्रेटोर को"</string>
+<string name="manage_device_admin_summary">"डिवाइस एडमिनिस्ट्रेटोर को ञाम ल"</string>
+<string name="manage_notification_access">"बापाडाय सेटेर"</string>
+<string name="manage_notification_access_summary_zero">"ऐप बापाडाय बाङ पाड़हाव दाड़ेयादा"</string>
+<plurals name="manage_notification_access_summary_nonzero">
+<item quantity="one">"%d ऐप बाङ पाड़हाव लेना"</item>
+<item quantity="other">"%d बापाडाय को पाड़हाव एना"</item>
+</plurals>
+<string name="no_notification_listeners">"जाहान बापाडाय आञ्जोम को थापित एदा।"</string>
+<string name="notification_listener_security_warning_title">"सोमोला<xliff:g id="service" example="NotificationReader">%1$s</xliff:g>?"</string>
+<string name="notification_listener_security_warning_summary">"<xliff:g id="notification_listener_name">%1$s</xliff:g> जोतो बापाडाय भावाँर से ओकाटोक् हो इंस्टल ऐप दाराय ते पोस्ट पाड़हाव लागित् सोमोल हुयुक्आ, जाहाँ नोवा लेका जोनाव ञुतुम लेकाते निजाक् बापाडाय आर आम दाराय ते कोल आकान सान्देस को पाट रे सेलेत् दाड़ेयाक्आ। नोवा हो ओना ताला रे नोवा बापाडाय को से बोताम जोका कातेन कामीय बातिल दाड़े रेय सोमोलाक्आ।  "</string>
+<string name="bluetooth_quick_toggle_title">"ब्लूटुथ"</string>
+<string name="bluetooth_quick_toggle_summary">"ब्लूटुथ चालूय "</string>
+<string name="bluetooth_settings">"ब्लूटुथ"</string>
+<string name="bluetooth_settings_title">"ब्लूटुथ"</string>
+<string name="bluetooth_settings_summary">"जोगाजोगको जोगाड, डिवाइस ञुतुम &amp; तोलासानाक् सेट"</string>
+<string name="bluetooth_pairing_request">"ब्लूटुथ जुड़ीय नेहोर"</string>
+<string name="bluetooth_enter_pin_msg">"जुड़ी सालाक् ते:<xliff:g id="bold">&lt;br&gt;&lt;b&gt;</xliff:g><xliff:g id="device_name">%1$s</xliff:g><xliff:g id="end_bold">&lt;/b&gt;&lt;br&gt;&lt;br&gt;</xliff:g> डिवाइस रे  PIN टाइप रेयाक् लाकती मेनाक्आ:"</string>
+<string name="bluetooth_enter_passkey_msg">"जुड़ी सालाक् ते:<xliff:g id="bold">&lt;br&gt;&lt;b&gt;</xliff:g><xliff:g id="device_name">%1$s</xliff:g><xliff:g id="end_bold">&lt;/b&gt;&lt;br&gt;&lt;br&gt;</xliff:g> डिवाइस रे पासकी टाइप रेयाक् लाकती मेनाक्आ:"</string>
+<string name="bluetooth_enable_alphanumeric_pin">"PIN बाबोत आखओर से चिनहा"</string>
+<string name="bluetooth_pin_values_hint">"जावलेकाते 0000 से 1234"</string>
+<string name="bluetooth_enter_pin_other_device">"एटाक् डिवाइस रे लागित् ते आम नोवा PIN रेयाक् लाकती हुय दाड़ेयाक्आ।"</string>
+<string name="bluetooth_enter_passkey_other_device">"एटाक् डिवाइस रे लागित् ते आम नोवा पासकी रेयाक् लाकती हुय दाड़ेयाक्आ।"</string>
+<string name="bluetooth_confirm_passkey_msg">"ते जुड़ीय सालाक् :&lt;br&gt;&lt;b&gt;<xliff:g id="device_name">%1$s</xliff:g>&lt;/b&gt;&lt;br&gt;&lt;br&gt;खाटीय मे नोवा पासकी ए उदुगा:&lt;br&gt;&lt;b&gt;<xliff:g id="passkey">%2$s</xliff:g>&lt;/b&gt;"</string>
+<string name="bluetooth_incoming_pairing_msg">"खोन:&lt;br&gt;&lt;b&gt;<xliff:g id="device_name">%1$s</xliff:g>&lt;/b&gt;&lt;br&gt;&lt;br&gt;नोवा डिवाइस सालाक् जुड़ीय?"</string>
+<string name="bluetooth_display_passkey_pin_msg">"जुड़ी सालाक् ते :<xliff:g id="bold1">&lt;br&gt;&lt;b&gt;</xliff:g><xliff:g id="device_name">%1$s</xliff:g><xliff:g id="end_bold1">&lt;/b&gt;&lt;br&gt;&lt;br&gt;</xliff:g>ओना रे टाइप मे:<xliff:g id="bold2">&lt;br&gt;&lt;b&gt;</xliff:g><xliff:g id="passkey">%2$s</xliff:g><xliff:g id="end_bold2">&lt;/b&gt;</xliff:g>, रुवाड़ आर खाडड़ लागित् तायोम ते ओताय मे।"</string>
+<string name="bluetooth_pairing_accept">"जुड़ी "</string>
+<string name="bluetooth_pairing_decline">"बातिल"</string>
+<string name="bluetooth_pairing_error_message">"सालाक् बाङ जुड़ी लेना <xliff:g id="device_name">%1$s</xliff:g>."</string>
+<string name="bluetooth_pairing_pin_error_message">"सालाक् बआङ जुड़ीलेना <xliff:g id="device_name">%1$s</xliff:g> चेदाक् जे बाहजुड़ी PIN या पासकी."</string>
+<string name="bluetooth_pairing_device_down_error_message">"सालाक् ते बाङ जोगाडोगाक् काना<xliff:g id="device_name">%1$s</xliff:g>."</string>
+<string name="bluetooth_pairing_rejected_error_message">"दारायते जुड़ीक् बातिल एना <xliff:g id="device_name">%1$s</xliff:g>."</string>
+<string name="bluetooth_connecting_error_message">"बाङ जोड़ाव लेना<xliff:g id="device_name">%1$s</xliff:g>."</string>
+<string name="bluetooth_preference_scan_title">"डिवाइस लागित् स्केन"</string>
+<string name="bluetooth_search_for_devices">"डिवाइस लागित् सेन्दरा"</string>
+<string name="bluetooth_searching_for_devices">"तोलास"</string>
+<string name="bluetooth_preference_device_settings">"डिवाइस सेटिंग"</string>
+<string name="bluetooth_preference_paired_devices">"जुड़ीयाक् डिवाइसको"</string>
+<string name="bluetooth_preference_found_devices">"डिवाइसक मेनाक्आ"</string>
+<string name="bluetooth_device_context_connect">"जोनोड़ाव"</string>
+<string name="bluetooth_device_context_disconnect">"बेजोड़ाव"</string>
+<string name="bluetooth_device_context_pair_connect">"जुड़ी &amp;  जोड़ाव"</string>
+<string name="bluetooth_device_context_unpair">"बेजुड़ी"</string>
+<string name="bluetooth_device_context_disconnect_unpair">"तोपाग &amp; बेजुड़ी"</string>
+<string name="bluetooth_device_context_connect_advanced">"विकल्प"</string>
+<string name="bluetooth_menu_advanced">"लाहाक् "</string>
+<string name="bluetooth_advanced_titlebar">"उतानावाक् ब्लूटुथ"</string>
+<string name="bluetooth_empty_list_bluetooth_off">"जोखेच ब्लूटुथ चालूक् काना, आमाक् डिवाइस सोर रेयाक् ब्लूटुथ डिवाइस सालाक् ए जोगाजोग दाड़ेयाक्आ।"</string>
+<string name="bluetooth_connect_specific_profiles_title">"जोड़ाव ..."</string>
+<string name="bluetooth_profile_a2dp">"मीडिया ऑडियो"</string>
+<string name="bluetooth_profile_headset">"फोन ऑडियो"</string>
+<string name="bluetooth_profile_opp">"फाइल उचाड़"</string>
+<string name="bluetooth_profile_hid">"डिवाइस इनपुट"</string>
+<string name="bluetooth_profile_pan">"इंटरनेट रे सेटेर"</string>
+<string name="bluetooth_profile_pan_nap">"इंटरनेट जोड़ानाक् हापाटिञ"</string>
+<string name="bluetooth_profile_map">"सान्देस सेटेर "</string>
+<string name="bluetooth_disconnect_a2dp_profile">"<xliff:g id="device_name">%1$s</xliff:g>  मीडिया ऑडियो खोन तोपाक् आकाना।"</string>
+<string name="bluetooth_disconnect_headset_profile">"<xliff:g id="device_name">%1$s</xliff:g> हेंडफ्री ऑडियो खोन तोपाक् आकाना।"</string>
+<string name="bluetooth_disconnect_hid_profile">"<xliff:g id="device_name">%1$s</xliff:g> इनपुट डिवाइस खोन तोपाक् आकाना।"</string>
+<string name="bluetooth_disconnect_pan_user_profile">"इंटरनेट सेटेर सेच् ते<xliff:g id="device_name">%1$s</xliff:g> तोपाक् काना।"</string>
+<string name="bluetooth_disconnect_pan_nap_profile" product="tablet">"<xliff:g id="device_name">%1$s</xliff:g> नोवा टेबलेट इंटरनेट जोड़ाव हापाटिञ खोन तोपाक् आकाना। "</string>
+<string name="bluetooth_disconnect_pan_nap_profile" product="default">"<xliff:g id="device_name">%1$s</xliff:g> नोवा फोन इंटरनेट जोड़ाव हापाटिञ खोन तोपाक् आकाना। "</string>
+<string name="bluetooth_device_advanced_title">"ब्लूटुथ डिवाइस जुड़ी आकादा"</string>
+<string name="bluetooth_device_advanced_online_mode_title">"जोनोड़ाव"</string>
+<string name="bluetooth_device_advanced_online_mode_summary">"ब्लूटुथ डिवाइस ते जोड़ाव"</string>
+<string name="bluetooth_device_advanced_profile_header_title">"प्रोफाइल"</string>
+<string name="bluetooth_device_advanced_rename_device">"ञुतुमआरो"</string>
+<string name="bluetooth_device_advanced_enable_opp_title">"हिजुक् कान फाइल उचाड़ छाड़"</string>
+<string name="bluetooth_a2dp_profile_summary_connected">"ऑडियो मीडिया ते जोड़ावाकाना"</string>
+<string name="bluetooth_headset_profile_summary_connected">"फोन ऑडियो ते जोड़ावाक्ना"</string>
+<string name="bluetooth_opp_profile_summary_connected">"सर्वर खोन फाइल उचाड़ जोड़ावाकाना"</string>
+<string name="bluetooth_map_profile_summary_connected">"नाकसा सालाक् जोड़ावाकाना"</string>
+<string name="bluetooth_opp_profile_summary_not_connected">"सर्वर खोन फाइल उचाड़ लागित् बाङ जोड़ाव आकाना"</string>
+<string name="bluetooth_hid_profile_summary_connected">"इनपुट डिवाइस ते जोड़ावेना"</string>
+<string name="bluetooth_pan_user_profile_summary_connected">"डिवाइस ते इंटरनेट सेटेर लागित् जोड़ावेना"</string>
+<string name="bluetooth_pan_nap_profile_summary_connected">"वाइस साँव ठाँवेल इंटरनेट जोड़ाव हापाटिञ"</string>
+<string name="bluetooth_a2dp_profile_summary_use_for">"ऑडियो मीडिया लागित् बेभार"</string>
+<string name="bluetooth_headset_profile_summary_use_for">"ऑडियो फोन लागित् बेभार"</string>
+<string name="bluetooth_opp_profile_summary_use_for">"फाइल उचाड़ लागित् बेभार"</string>
+<string name="bluetooth_hid_profile_summary_use_for">"इनपुट लागित बेभार"</string>
+<string name="bluetooth_pan_profile_summary_use_for">"इंटरनेट रे सेटेर लागित् बेभार"</string>
+<string name="bluetooth_map_profile_summary_use_for">"नाक्सा रे लागित् बेभार"</string>
+<string name="bluetooth_dock_settings">"डॉक सेटिंगंको"</string>
+<string name="bluetooth_dock_settings_title">"ऑडियो लागित् डॉक बेभार"</string>
+<string name="bluetooth_dock_settings_headset">"फोन स्पीक्र लेकाते"</string>
+<string name="bluetooth_dock_settings_a2dp">"मीडिया आर सेरेञ लागित्"</string>
+<string name="bluetooth_dock_settings_remember">"सेटिंग दिसावाक्"</string>
+<string name="wifi_display_settings_title">"कास्ट स्क्रीन "</string>
+<string name="wifi_display_enable_menu_item">"वायरलेस उदुक् सोमोला"</string>
+<string name="wifi_display_no_devices_found">"सोर को रे डिवाइस बाङञआम लेना।"</string>
+<string name="wifi_display_status_connecting">"जोड़ावोक्  "</string>
+<string name="wifi_display_status_connected">"जोनोड़ाव"</string>
+<string name="wifi_display_status_in_use">"बेवहार"</string>
+<string name="wifi_display_status_not_available">"बानुक्आनाङ"</string>
+<string name="wifi_display_details">"उदुक सेटिंग"</string>
+<string name="wifi_display_options_title">"वायरलेस उदुक् विकल्प"</string>
+<string name="wifi_display_options_forget">"हिड़िञ"</string>
+<string name="wifi_display_options_done">"गान"</string>
+<string name="wifi_display_options_name">"ञुतुम "</string>
+<string name="nfc_quick_toggle_summary" product="tablet">"जोखेच् टेबलेट रे जाक् कातेन एटाक् डिवाइस डेटा एपेम रेयाक् छाड़ मेनाक्आ"</string>
+<string name="nfc_quick_toggle_summary" product="default">"जोखेच् फोन रे जाक् कातेन एटाक् डिवाइस डेटा एपेम रेयाक् छाड़ मेनाक्आ"</string>
+<string name="android_beam_on_summary">"NFC दाराय ते ऐप रेयाक् बेवरा उछानोक् लागित् सापड़ाव मेनाक्आ"</string>
+<string name="android_beam_off_summary">"बन्दो"</string>
+<string name="android_beam_disabled_summary">"NFC थुकुम गेया ओजेते बानुक्आ"</string>
+<string name="android_beam_explained">"नोवा सुबिता को चालू मेनाक्आ, खान आम डिवास रेयाक् एचाक् NFC खेमोता डिवाइस लागित् बीम ऐप जिनिस कोम थुकुम दाड़ेयाक्आ। पारतुल लेकाते आम बाम ब्राउजर साहटा,युट्यूब वीडियो, जोगाजोग होड़को आस बाड़ती। \n\n मित् साँव ते जोतो डिवाइस एम आगू दाड़ेयाक्आ (जोवलेकाते गे रुवाड़ोक् मे) आर आमाक् स्क्रिन जागाक् मे। ऐप चेत् ए उछानाक् गोटयेत् काना।"</string>
+<string name="nsd_quick_toggle_title">"नेटवर्क सेवा ञेमेना"</string>
+<string name="nsd_quick_toggle_summary">"एटाक् ऐप को रे नोवा डिवाइस ऐप सेन्दरा को रेयाक् छाड़ ए एमायमे"</string>
+<string name="wifi_quick_toggle_title">"वाई-फाई  "</string>
+<string name="wifi_quick_toggle_summary">"वाई-फाई चालूय"</string>
+<string name="wifi_settings">"वाई-फाई  "</string>
+<string name="wifi_settings_category">"वाई-फाई सेटिंग"</string>
+<string name="wifi_settings_title">"वाई-फाई  "</string>
+<string name="wifi_settings_summary">"सेटअप &amp;  जोगाड़, वायरलेस सेटेर टुडाक्"</string>
+<string name="wifi_setup_wizard_title">"वाई-फाई बाछाव"</string>
+<string name="wifi_starting">"वाई-फाई चालूयेन…"</string>
+<string name="wifi_stopping">"वाई-फाई थुकुमेन…"</string>
+<string name="wifi_error">"भुल"</string>
+<string name="wifi_in_airplane_mode">"एयरप्लेन मोड रे"</string>
+<string name="wifi_fail_to_scan">"नेटवर्क को बाय स्कैन दाड़ेयाक्आ काना"</string>
+<string name="wifi_wapi_fail_to_init">"WAPI पोरमान साकाम बाङ पाड़हाक् काना \n पालेन क्रेडेंशिया जोगावाक् बाङ सोमोला"</string>
+<string name="wifi_wapi_fail_to_auth">"WAPI बातावानाक् बाङ गानलेना \n दायाकाते पासवर्ड से पोरमान साकाम पाछआनाव मे"</string>
+<string name="wifi_wapi_cert_lost">"निताक् जोड़ावाक् AP लागित् फोरमान साकाम बाङ ञेमा लेना"</string>
+<string name="wifi_notify_open_networks">"नेटवर्क बापाडाय"</string>
+<string name="wifi_notify_open_networks_summary">"बाडाय ओचोञ मे जोखेच् नेटवर्क झिच् मेनाक्आ"</string>
+<string name="wifi_poor_network_detection">"निरास जोनोड़ाव खोन बाञ्चाक्"</string>
+<string name="wifi_poor_network_detection_summary">"मित् वाई-फाई नेटवर्क रेयाक् बेभार जोखेच् नोवा रे भागे इंटरनेट जोड़ाव बाह ताहेना"</string>
+<string name="wifi_scan_always_available">"स्कैन ओक् जाव गे ताहेना"</string>
+<string name="wifi_scan_always_available_summary">"रेयाक् स्थापना सेवा आर एटाक् एप्लिकेशन नेटवर्क लोगित स्कैन मे चेदाक् वाङ वाई-फाई वंद आकाना"</string>
+<string name="wifi_install_credentials">"इस्टल पोरमानसाकाम"</string>
+<string name="wifi_scan_notify_text_location_on">"रेकान ठाँव आर एटाक् लाकती को लागित् सुतराव लागित्, गूगल आर एटाक् ऐप रेयाक् सोर रे नेटवर्क स्कैन दाड़ेयाक्आ, नोण्डे हाबिच् जे वाई-फआई थुकुम मेनाक्आ। आम नोङ्का बाम मेनेत् काना, उतनाव लागित् ते सेनोक् मे&gt; स्कैन ओक् जाव गे ताहेना।"</string>
+<string name="wifi_scan_notify_text_location_off">"जोखेच् वाई-फाई थुकुम ताहेना उन रे, ऐप सोर रेयाक् नेटवर्क ए स्कैन दाड़ेयाक्आ। जुदी आम नोङ्का हुय ओचो बाम मेनेत् खान, उतानाव ते सेनोक् मे &gt; स्कैन ओक् जाव गे ताहेना।"</string>
+<string name="wifi_scan_notify_remember_choice">"दोहड़ा आलोम उदुगा"</string>
+<string name="wifi_setting_sleep_policy_title">"वाई-फाई जापित ओकतो रे दोहोय"</string>
+<string name="wifi_setting_sleep_policy_error">"नोवा रे एटकेंटोड़ें मेनाक्आ सेटिंग फेरावमे"</string>
+<string name="wifi_suspend_optimizations">"वाई-फाई निजलेकातेहेवाय"</string>
+<string name="wifi_suspend_optimizations_summary">"जोखेच् वाई-फाई चालू ताहेना बैटरी रेयाक् बेभार कोम काक् मे"</string>
+<string name="wifi_add_network">"नेटवर्क तोङ्गेयाक्"</string>
+<string name="wifi_access_points">"वाई-फाई नेटवर्क को"</string>
+<string name="wifi_menu_wps_pbc">"WPS Push बोताम"</string>
+<string name="wifi_menu_more_options">"आरो अपशन"</string>
+<string name="wifi_menu_wps_pin">"WPS Pin खाड़"</string>
+<string name="wifi_menu_p2p">"Wi-Fi सोझे"</string>
+<string name="wifi_menu_scan">"स्कैन"</string>
+<string name="wifi_menu_advanced">"लाहाक् "</string>
+<string name="wifi_menu_connect">"नेटवर्व साँव जोड़ावमे"</string>
+<string name="wifi_menu_forget">"नेटवर्क हिड़िञ"</string>
+<string name="wifi_menu_modify">"नेटवर्क फेराव आरो"</string>
+<string name="wifi_empty_list_wifi_off">"ञेलमे नेटवर्क मेनाक्आ, वाई-फाई चालूय मे."</string>
+<string name="wifi_empty_list_wifi_on">"वाई-फाई नेटवर्क लागित् ए स्कैन एत्आ..."</string>
+<string name="wifi_empty_list_user_restricted">"वाई-फाई नेटवर्क लागित् फेराव रेयाक् छाड़ बानुका तामा।"</string>
+<string name="wifi_other_network">"एटाक् नेटवार्क..."</string>
+<string name="wifi_more">"आरो"</string>
+<string name="wifi_setup_wps">"आचते सेटअप (WPS)"</string>
+<string name="wifi_required_info_text">"सेटअप पुराव लागित्,आमाक् टेबलेट सेटेरोक् रेयाक् लाकती मेनाक् आ  Wi\u2011Fi। तायोम ते सेटअप मे,आम मोबाइल डेटा स्विच दाड़ेयाक्आ ओना ताला रे आर Wi\u2011Fi."</string>
+<string name="wifi_show_advanced">"लाहान विकल्प को उदुगमे"</string>
+<string name="wifi_wps_setup_title">"वाई-फाई रुखिया सेटअप"</string>
+<string name="wifi_wps_setup_msg">"WPS सेटिंग ओक्..."</string>
+<string name="wifi_wps_onstart_pbc">"आमाक् राउटर रे वाई-फाई रुखिया लागित सेटअप बोताम ओताय मे। वा को मेताक् काना  \"WPS\"से नोवा चिनहा बेवरा:"</string>
+<string name="wifi_wps_onstart_pin">"PIN खाड़ मे<xliff:g id="number">%1$s</xliff:g> आमाक् राउटर रे। सेटअप बार मिनट तेय पुराव दाड़ेयाक्आ।"</string>
+<string name="wifi_wps_complete">"WPS गानेना। नेटवर्क सालाक् जोड़ाव मे..."</string>
+<string name="wifi_wps_connected">"वाई-फाई नेटवर्क सालाक् जोड़ावेना <xliff:g id="network_name">%s</xliff:g>"</string>
+<string name="wifi_wps_in_progress">"WPS लाहा खोन हाराक् काना आर पुरावोक् रे बार मिनट ए हातावा"</string>
+<string name="wifi_wps_failed_generic">"WPS बाङ गानलेना। दायाकाते दोहड़ा किछू मिनट हाबिच् लेगाय मे।"</string>
+<string name="wifi_wps_failed_wep">"वायरलेस राउटर रुखिया सेटिंग (WEP) वाय सोता दाड़ेयाक् काना"</string>
+<string name="wifi_wps_failed_tkip">"वायरलेस राउटर रुखिया सेटिंग (TKIP) वाय सोता दाड़ेयाक् काना"</string>
+<string name="wifi_wps_failed_auth">"सारीथापना बाङगानलेना, दायाकाते दोहड़ा लेगायमे"</string>
+<string name="wifi_wps_failed_overlap">"एटागाक् WPS  सेसन बाछाव सोपोरोत् आकाना। दायाकाते किछू मिनट हाबिच्  दोहड़ा लेगायमे"</string>
+<string name="wifi_ssid">"नेटवार्क SSID"</string>
+<string name="wifi_ssid_hint">"SSID खाड़मे"</string>
+<string name="wifi_security">"रुखिया"</string>
+<string name="wifi_signal">"लिगनल दाड़े"</string>
+<string name="wifi_status">"अबस्था"</string>
+<string name="wifi_speed">"लिंक तापिस"</string>
+<string name="wifi_ip_address">"IP ठिकाना"</string>
+<string name="wifi_eap_method">"EAP भावाँर"</string>
+<string name="please_select_phase2">"फेज 2 सारीथापनाय"</string>
+<string name="wifi_eap_ca_cert">"CA पोरमान साकाम"</string>
+<string name="wifi_eap_user_cert">"बेभारिजाक् पोरमान साकाम"</string>
+<string name="wifi_eap_identity">"ओपरोम"</string>
+<string name="wifi_eap_anonymous">"आसोल ओपरोम"</string>
+<string name="wifi_wapi_psk_type">"पासवर्ड टाइप"</string>
+<string name="wifi_password">"पासवय़ाट"</string>
+<string name="wifi_show_password">"पासवर्ड उदुक"</string>
+<string name="wifi_wapi_as_certificate">"AS पोरमान साकाम"</string>
+<string name="wifi_wapi_user_certificate">"बेभारिजाक् पोरमान साकाम"</string>
+<string name="wifi_ip_settings">"IPसेटिंग को"</string>
+<string name="wifi_unchanged">"(बेफेराव)"</string>
+<string name="wifi_unspecified">"(बेआसोलाक्)"</string>
+<string name="wifi_remembered">"जोगाव आकान"</string>
+<string name="wifi_disabled_generic">"बेसोमोल"</string>
+<string name="wifi_disabled_network_failure">"बाङ ञेल खाराप इनटरनेट जोड़ाव"</string>
+<string name="wifi_disabled_password_failure">"सारीथापनाय आनाट"</string>
+<string name="wifi_not_in_range">"सीमाभितार बानुक्आ"</string>
+<string name="wifi_wps_available_first_item">"WPS मेनाक्आ"</string>
+<string name="wifi_wps_available_second_item">"\u0020(WPS मेनाक्आ)"</string>
+<string name="wifi_secured_first_item">"रिका सालाक् <xliff:g id="wifi_security_short">%1$s</xliff:g>"</string>
+<string name="wifi_secured_second_item">", रिका सालाक् <xliff:g id="wifi_security_short">%1$s</xliff:g>"</string>
+<string name="wifi_security_none">"झिज"</string>
+<string name="wifi_security_wapi_psk_hexadecimal">"WAPI PSK हेक्साडिसमल"</string>
+<string name="wifi_scan_always_turnon_message">"एटाक् लाकती को आर ठाँवेल रुखिया उतनावमे <xliff:g id="app_name">%1$s</xliff:g>  जेखेच् वाई-फाई थुकुम ताहेना, नेटवर्क स्कैन चालूमेनेदा। \n\n चेत आम नोवा जोतो ऐप लागित छाड़ एम एमाक् काना?"</string>
+<string name="wifi_scan_always_confirm_allow">"बाताव"</string>
+<string name="wifi_scan_always_confirm_deny">"बाङ बाताव"</string>
+<string name="wifi_connect">"जोनोड़ाव"</string>
+<string name="wifi_failed_connect_message">"नेटवर्क ते जोड़ाव बाङ गानलेना"</string>
+<string name="wifi_forget">"हिड़िञ"</string>
+<string name="wifi_failed_forget_message">"नेटवर्क हिड़िञ ते बाहगालेना"</string>
+<string name="wifi_save">"जोगाव"</string>
+<string name="wifi_failed_save_message">"नेटवर्क जोगाव ते बाङगानलेना"</string>
+<string name="wifi_cancel">"बातिल"</string>
+<string name="wifi_skip_anyway">"जाहारेगे एड़ाव"</string>
+<string name="wifi_dont_skip">"आलोम एड़ावा"</string>
+<string name="wifi_skipped_message" product="tablet">"चेंघा: आम डेटा इदीय लागित् ते आड़ती काउडी लागाव दाड़ेयामा।\n\n टेबलेट नेटवर्क कामीको नापाय ते सेन दाड़ेयाक् मा।"</string>
+<string name="wifi_skipped_message" product="default">"चेंघा: आम डेटा इदीय लागित् ते आड़ती काउडी लागाव दाड़ेयामा।\n\n फोन नेटवर्क कामीको नापाय ते सेन दाड़ेयाक् मा।"</string>
+<string name="wifi_and_mobile_skipped_message" product="tablet">"चेंघा: आम इंटरनेट जोनोड़ाव हुयेन ताम गेया, टेबलेट आमाक् सॉफ्टवेर डेटा पाछनाव रुवाड़ ए खोजोक् काना।"</string>
+<string name="wifi_and_mobile_skipped_message" product="default">"चेंघा: आम इंटरनेट जोनोड़ाव हुयेन ताम गेया, फोन आमाक् सॉफ्टवेर डेटा पाछनाव रुवाड़ ए खोजोक् काना।"</string>
+<string name="wifi_connect_failed_message" product="tablet">"नोवा वाई-फाई नेटवर्क सालाक् जोड़ाव टेबलेट दो सोमोल गेया।"</string>
+<string name="wifi_connect_failed_message" product="default">"नोवा वाई-फाई नेटवर्क सालाक् जोड़ाव फोन दो सोमोल गेया।"</string>
+<string name="wifi_advanced_titlebar">"वाई-फाई उतनावाक्"</string>
+<string name="wifi_setting_frequency_band_title">"वाई-फाई फ्रिक्वेंसी बेंड"</string>
+<string name="wifi_setting_frequency_band_summary">"आसोल फ्रिक्वेंसी तियोग रेयाक् लाड़चाड़ड"</string>
+<string name="wifi_setting_frequency_band_error">"फ्रीक्वेंसी बेंड सेटिंग रेयाक् आनाट मेनाक्आ।"</string>
+<string name="wifi_advanced_mac_address_title">"MACठिकाना"</string>
+<string name="wifi_advanced_ip_address_title">"IP ठिकाना"</string>
+<string name="wifi_advanced_settings_label">"IPसेटिंग को"</string>
+<string name="wifi_ip_settings_menu_save">"जोगाव"</string>
+<string name="wifi_ip_settings_menu_cancel">"बातिल"</string>
+<string name="wifi_ip_settings_invalid_ip_address">"बातावाक् IP ठिकाना टाइप मे"</string>
+<string name="wifi_ip_settings_invalid_gateway">"बातावाक् गेटवे ठिकाना टाइपमे"</string>
+<string name="wifi_ip_settings_invalid_dns">"बातावाक् DNS ठिकाना टाइप मे।"</string>
+<string name="wifi_ip_settings_invalid_network_prefix_length">"नेटवर्क लाहाजोड़ाव जिलिञ 0 आर 32. ताला रे हुयुक् लाकतीया।"</string>
+<string name="wifi_dns1">"DNS 1"</string>
+<string name="wifi_dns2">"DNS 2"</string>
+<string name="wifi_gateway">"गेटवे"</string>
+<string name="wifi_network_prefix_length">"नेटवर्क लाहजोड़ाव जिलिञ"</string>
+<string name="wifi_p2p_settings_title">"Wi-Fi सोझे"</string>
+<string name="wifi_p2p_device_info">"डिवाईस बापाडाय"</string>
+<string name="wifi_p2p_persist_network">"नोवा जोनोड़ाव दिसाय"</string>
+<string name="wifi_p2p_menu_search">"डिवाइस लागित् सेन्दरा"</string>
+<string name="wifi_p2p_menu_searching">"तोलास"</string>
+<string name="wifi_p2p_menu_rename">"डिवाइस ञुतुमआरो"</string>
+<string name="wifi_p2p_peer_devices">"जुड़ा डिवाइस"</string>
+<string name="wifi_p2p_remembered_groups">"दोल को दिसा"</string>
+<string name="wifi_p2p_failed_connect_message">"बाङ जोड़ावोगोक्आ"</string>
+<string name="wifi_p2p_failed_rename_message">"डिवाइस ञुतुम आरो  गानलेना."</string>
+<string name="wifi_p2p_disconnect_title">"तोपाक्?"</string>
+<string name="wifi_p2p_disconnect_message">"जुदी आम तोपाक् एदाम, माक् जोड़ावा सालाक् <xliff:g id="peer_name">%1$s</xliff:g> मुचादोक्आ."</string>
+<string name="wifi_p2p_disconnect_multiple_message">"जुदी आम तोपाक् एदा, आमाक् जोनोड़ाव सालाक् <xliff:g id="peer_name">%1$s</xliff:g> आर <xliff:g id="peer_count">%2$s</xliff:g> एटाक् डिवइस सालाक् मुचादोक्आ।"</string>
+<string name="wifi_p2p_cancel_connect_title">"तोपाग नेवता?"</string>
+<string name="wifi_p2p_cancel_connect_message">"चेत आम नेवतावाक् बातिल जोड़ाव साँव एम मेनेत् काना <xliff:g id="peer_name">%1$s</xliff:g>?"</string>
+<string name="wifi_p2p_delete_group_message">"नोवा दोल हिड़िञ काक्?"</string>
+<string name="wifi_tether_checkbox_text">"पोर्टेवल वाई-ई हॉटस्पॉट"</string>
+<string name="wifi_tether_starting">"हॉटस्पॉट चालूयमे"</string>
+<string name="wifi_tether_stopping">"हॉटस्पॉट थुकुममे"</string>
+<string name="wifi_tether_enabled_subtext">"पोर्टेवल हॉटस्पॉट <xliff:g id="network_ssid">%1$s</xliff:g> कामीयेत"</string>
+<string name="wifi_tether_failed_subtext">"पोर्टेवल हॉटस्पॉट तापुक्"</string>
+<string name="wifi_tether_configure_ap_text">"सेटअप वाई-फाई हॉटस्पॉट "</string>
+<string name="wifi_tether_configure_subtext">"<xliff:g id="network_ssid">%1$s</xliff:g> <xliff:g id="network_security">%2$s</xliff:g> पोर्टेवल वाइ-फाई हॉटस्पॉट"</string>
+<string name="wifi_tether_configure_ssid_default">"MocorDroid हॉटस्पॉट"</string>
+<string name="home_settings">"होम"</string>
+<string name="display_settings_title">"उदुक"</string>
+<string name="sound_settings">"आड़ाङ"</string>
+<string name="ringtone_title">"फोन रिगटोन"</string>
+<string name="all_volume_title">"वोल्यूम"</string>
+<string name="musicfx_title">"सेरेञ एसेर"</string>
+<string name="ring_volume_title">"साडे बाड़ति"</string>
+<string name="vibrate_in_silent_title">"थिर ताहेनरे तारको"</string>
+<string name="notification_sound_title">"डिफॉल्ट बापाडाय साडे"</string>
+<string name="notification_pulse_title">"फल्स बापाडाय तारास"</string>
+<string name="incoming_call_volume_title">"रिगटोन"</string>
+<string name="notification_volume_title">"बापाडाय "</string>
+<string name="checkbox_notification_same_as_incoming_call">"हिजुक् कॉल लागित् वोल्यूम ते बापाडायको"</string>
+<string name="notification_sound_dialog_title">"डिफॉल्ट बापाडाय साडे"</string>
+<string name="media_volume_title">"मीडिया"</string>
+<string name="media_volume_summary">"वीडियो आर सेरेञ लागित वोल्यूम सेटमे"</string>
+<string name="alarm_volume_title">"घांटी"</string>
+<string name="dock_settings_summary">"डॉक सेलेद लागित्  ऑडियो सेटिंग"</string>
+<string name="dtmf_tone_enable_title">"डाय़ाल पेड जाक् टोन "</string>
+<string name="sound_effects_enable_title">"आड़ाङ"</string>
+<string name="lock_sounds_enable_title">"स्क्रीन कुलुप आड़ाङ"</string>
+<string name="haptic_feedback_enable_title">"तारको जाक्"</string>
+<string name="audio_record_proc_title">"साडोकोबातिल काना"</string>
+<string name="volume_media_description">"रु, वीडियो, गेमको &amp;  एटाक् मीडिय"</string>
+<string name="volume_ring_description">"रिङटोन &amp; बापाडाय"</string>
+<string name="volume_notification_description">"नटिफिकेशन"</string>
+<string name="volume_alarm_description">"घांड़ीको"</string>
+<string name="volume_ring_mute">"थिर रिंगटोन &amp; बापाडाय को"</string>
+<string name="volume_media_mute">"थिर रु, &amp;  एटाक् मीडिया"</string>
+<string name="volume_notification_mute">"थिर बापाडाय"</string>
+<string name="volume_alarm_mute">"थिर अलार्म"</string>
+<string name="vibrate_when_ringing_title">"रिंग जोखोच् तारको"</string>
+<string name="dock_settings">"डॉक  "</string>
+<string name="dock_settings_title">"डॉक सेटिंगंको"</string>
+<string name="dock_audio_settings_title">"ऑडियो"</string>
+<string name="dock_audio_summary_desk">"डेस्कटॉप डॉक सेलेद लागित् ते सेटिंग"</string>
+<string name="dock_audio_summary_car">"कार डॉक सेलेद लागित् ते सेटिंग"</string>
+<string name="dock_audio_summary_none" product="tablet">"टेबलेट बाङ डॉक आकाना"</string>
+<string name="dock_audio_summary_none" product="default">"फोन बाङ डॉक आकाना"</string>
+<string name="dock_audio_summary_unknown">"डॉक सेलादाक् लागित् सेटिंग"</string>
+<string name="dock_not_found_title">"डॉकबाङ ञाम लेना"</string>
+<string name="dock_not_found_text" product="tablet">"आम क ऑडियो सेट लाहा रे टेबलेट डॉक कोराव रेयाक् लाकती मेनाक्आ।"</string>
+<string name="dock_not_found_text" product="default">"आम क ऑडियो सेट लाहा रे फोन डॉक कोराव रेयाक् लाकती मेनाक्आ।"</string>
+<string name="dock_sounds_enable_title">"डॉक बाड़तीय साडे"</string>
+<string name="dock_sounds_enable_summary_on" product="tablet">"साडे खाड़ लेगायमे से टेबलेट खोन डॉक ओचोगा"</string>
+<string name="dock_sounds_enable_summary_on" product="default">"साडे खाड़ लेगायमे से फोन खोन डॉक ओचागा "</string>
+<string name="dock_sounds_enable_summary_off" product="tablet">"साडे आलोम खाड़ लेगायमे से टेबलेट खोन डॉक ओचोगा"</string>
+<string name="dock_sounds_enable_summary_off" product="default">"साडे आलोम खाड़ लेगायमे से फोन खोन डॉक ओचोगा"</string>
+<string name="account_settings">"हिसाबको"</string>
+<string name="search_settings">"खोंज"</string>
+<string name="search_settings_summary">"नागाम आर सेटिंग तोलास जोगाड़मे"</string>
+<string name="display_settings">"उदुक"</string>
+<string name="accelerometer_title">"आच् ते आचुरोक् स्क्रीन"</string>
+<string name="accelerometer_summary_on" product="tablet">"जोखेच् आच् ते टेबलेट आचुरोक् स्विच् भागेउनावोक् मा"</string>
+<string name="accelerometer_summary_on" product="default">"जोखेच् आच् ते फोन आचुरोक् स्विच् भागेउनावोक् मा"</string>
+<string name="accelerometer_summary_off" product="tablet">"जोखेच् आच् ते टेबलेट आचुरोक् स्विच् भागेउनावोक् मा"</string>
+<string name="accelerometer_summary_off" product="default">"जोखेच् आच् ते फोन आचुरोक् स्विच् भागेउनावोक् मा"</string>
+<string name="brightness">"साफातेते"</string>
+<string name="brightness_summary">"स्क्रीन रेयाक् फारचातेत सानाहोप"</string>
+<string name="screen_timeout">"जापित"</string>
+<string name="touch_light_timeout">"तारास जोटेत"</string>
+<string name="touch_light_timeout_title">"तारास ओकते जाक"</string>
+<string name="touch_light_timeout_summary">"तायोम <xliff:g id="timeout_description">%1$s</xliff:g>  सेकेंड ते बाय कामी"</string>
+<string name="close_screen_bright_automode">"दायाकाते आच् ते स्क्री फारचातेत् सायताव कातेन थुकुमोक् मा"</string>
+<string name="screen_timeout_summary">"तायोम <xliff:g id="timeout_description">%1$s</xliff:g> ते बाय कामीया"</string>
+<string name="wallpaper_settings_title">"वालपेपर"</string>
+<string name="wallpaper_settings_fragment_title">"पालपेपर खोन बाछाव"</string>
+<string name="screensaver_settings_title">"दिन कुकमू"</string>
+<string name="screensaver_settings_summary_either_long">"जोखेच् डॉक आकात् से जापित आर चार्जोक् "</string>
+<string name="screensaver_settings_summary_either_short">"एटागाक्"</string>
+<string name="screensaver_settings_summary_sleep">"जोखेच् चार्जोक्"</string>
+<string name="screensaver_settings_summary_dock">"जोखेच् डॉक ओक्"</string>
+<string name="screensaver_settings_summary_off">"बन्दो"</string>
+<string name="screensaver_settings_disabled_prompt">"जोखेच फोन डॉक आर / से जापित मेनाक्आ चेत् लेकाते कोबोज कातेन कुकमू बाराबारीया।"</string>
+<string name="screensaver_settings_when_to_dream">"कुकमूय लागित् ते"</string>
+<string name="screensaver_settings_dream_start">"निताक् चालु"</string>
+<string name="screensaver_settings_button">"सेटिंग"</string>
+<string name="automatic_brightness">"आच् ते मालकाक्"</string>
+<string name="title_font_size">"फॉन्ट साइज"</string>
+<string name="dialog_title_font_size">"फॉन्ट साइज"</string>
+<string name="sim_lock_settings">"सिम कार्ड कुलुप सेटिंग"</string>
+<string name="sim_lock_settings_category">"सिम कार्ड कुलुप सेट मे"</string>
+<string name="sim_lock_settings_title">"SIM  कार्ड कुलुप"</string>
+<string name="sim_pin_toggle">"कुलुप SIM  कार्ड"</string>
+<string name="sim_lock_on" product="tablet">"टेबलेट बेभार रे PIN  रेयाक् लाकती"</string>
+<string name="sim_lock_on" product="default">"फोन  बेभार रे PIN  रेयाक् लाकती"</string>
+<string name="sim_lock_off" product="tablet">"टेबलेट बेभार रे PIN  रेयाक् लाकती"</string>
+<string name="sim_lock_off" product="default">"फोन  बेभार रे PIN  रेयाक् लाकती"</string>
+<string name="sim_pin_change">"फेराव SIM PIN"</string>
+<string name="sim_enter_pin">"SIM PIN"</string>
+<string name="sim_enable_sim_lock">"कुलुप SIM  कार्ड"</string>
+<string name="sim_disable_sim_lock">"बेकुलुप SIM कार्ड "</string>
+<string name="sim_enter_old">"मारे SIM PIN"</string>
+<string name="sim_enter_new">"नावाँ SIM PIN"</string>
+<string name="sim_reenter_new">"नावाँ PIN टाइप दोहड़ायमे"</string>
+<string name="sim_change_pin">"SIM PIN"</string>
+<string name="sim_bad_pin">"PIN भूलगेया"</string>
+<string name="sim_pins_dont_match">"PIN बआङ जुड़ीक् काना"</string>
+<string name="sim_change_failed">"PIN बाङ फेराक्आ। \n हुयदाड़ेयाक्आ PIN भूलगेया।"</string>
+<string name="sim_change_succeeded">"SIM PIN फेराव गानेना"</string>
+<string name="sim_lock_failed">"भाङ फेराक्आ SIM  कार्ड सोझे कुलुप।\n हुयदाड़ेयाक्आ PIN भूलगेया।"</string>
+<string name="sim_enter_ok">"हे"</string>
+<string name="sim_enter_cancel">"बातिल"</string>
+<string name="wrong_pin_code_pukked">"भुलSIM PIN कोड आनलोक डिभाइस खातिर बाहक सालाक योगायोग मे"</string>
+<plurals name="wrong_pin_code">
+<item quantity="one">"भुलSIM PIN कोड <xliff:g id="number">%d</xliff:g> मुचाद चेस्टा माड़ाह आनलोक डिभाइस खातिर बाहक सालाक योगायोग"</item>
+<item quantity="other">"भुलSIM PIN कोड <xliff:g id="number">%d</xliff:g>मुचाद चेस्टा"</item>
+</plurals>
+<string name="pin_failed">"SIM PIN  लाड़चाड़ बाङ गानलेना "</string>
+<string name="device_info_settings" product="tablet">"टेबलेट ओबोसता"</string>
+<string name="device_info_settings" product="default">"फोन ओबोसता"</string>
+<string name="system_update_settings_list_item_title">"सिस्टम नावाँआरो को"</string>
+<string name="firmware_version">"MocorDroid वार्जन"</string>
+<string name="model_number">"मॉडल नंबर"</string>
+<string name="fcc_equipment_id">"जिनिस ID"</string>
+<string name="baseband_version">"बेसबैंड वर्जन"</string>
+<string name="kernel_version">"कर्ल वर्जन"</string>
+<string name="build_number">"बेनाव नंबर"</string>
+<string name="selinux_status">"SELinux ओबोसता"</string>
+<string name="device_info_not_available">"बानुक्"</string>
+<string name="device_status_activity_title">"अबस्था"</string>
+<string name="device_status">"अबस्था"</string>
+<string name="device_status_summary" product="tablet">"बैटरी, नेटवर्क रेयाक् ओबोसता आर एटाक्बापाडाय को"</string>
+<string name="device_status_summary" product="default">"फोन नंब, उदुक एमान"</string>
+<string name="storage_settings">"जोगाव"</string>
+<string name="storage_settings_title">"जोगाव सेटिंग"</string>
+<string name="storage_settings_summary" product="nosdcard">"अनमाउंट USB जोगावाक्, जोगावाक् रेयाक् बेवरा मेनाक्आ"</string>
+<string name="storage_settings_summary" product="default">"अनमाउंट SD  कार्ड, जोगावाक् बेवरा मेनाक्आ"</string>
+<string name="status_number" product="tablet">"MDN"</string>
+<string name="status_number" product="default">"इञाक् फोन नंबर"</string>
+<string name="status_prl_version">"PRL वर्जन"</string>
+<string name="status_network_type">"मोवाइल नेटवर्क लेकान"</string>
+<string name="status_latest_area_info">"चालाविच् आक् बापाडाय"</string>
+<string name="status_data_state">"सोझे सेलुलर नेटवर्क"</string>
+<string name="status_service_state">"सोझे सेवा"</string>
+<string name="status_signal_strength">"लिगनल दाड़े"</string>
+<string name="status_roaming">"रोमिग"</string>
+<string name="status_operator">"नेटवर्क"</string>
+<string name="status_wifi_mac_address">"वाई-फाई MAC ठिकाना"</string>
+<string name="status_bt_address">"ब्लूटुथ ठिकाना"</string>
+<string name="status_serial_number">"थआर नंबर"</string>
+<string name="status_unavailable">"बानुक्आनाङ"</string>
+<string name="status_up_time">"चेतान ओकते"</string>
+<string name="status_awake_time">"दाड़ान ओकते"</string>
+<string name="internal_memory">"भितरी जोगावाक्"</string>
+<string name="sd_memory" product="nosdcard">"USB जोगावाक्"</string>
+<string name="sd_memory" product="default">"SD कार्ड"</string>
+<string name="memory_available">"मेनाक्"</string>
+<string name="memory_available_read_only">"मेनाक्आ ( एकेन पाड़हाव)"</string>
+<string name="memory_size">"गोटा जायगा"</string>
+<string name="memory_calculating_size">"लेखायेत"</string>
+<string name="memory_apps_usage">"ऐपको (ऐप डेट &amp;  मीडिया बेवरा)"</string>
+<string name="memory_media_usage">"मीडिया"</string>
+<string name="memory_downloads_usage">"डाउनलोड"</string>
+<string name="memory_dcim_usage">"पिक्चर"</string>
+<string name="memory_music_usage">"ऑडियो (रु, रिंगटोन, पॉड कास्ट एमान)"</string>
+<string name="memory_media_misc_usage">"आलगेल"</string>
+<string name="memory_others_usage">"बेभार (एटाक् लेकान रेयाक् फाइलको)"</string>
+<string name="memory_media_cache_usage">"केश डेटा"</string>
+<string name="sd_eject" product="nosdcard">"अनमाउंट हाटिञ जोगावाक्"</string>
+<string name="sd_eject" product="default">"SD कार्ड अनमाउंट"</string>
+<string name="sd_eject_summary" product="nosdcard">"भितरी USB जोगावाक् अनमाउंट"</string>
+<string name="sd_eject_summary" product="default">"SD कार्ड अनमाउंट गेया आदो आम नोवा नापाय तेम ओचोक् दाड़ेयाक्आ"</string>
+<string name="sd_insert_summary" product="nosdcard">"माउंटिंग लागित् ते USB जोगावाक् खाडड़ मे"</string>
+<string name="sd_insert_summary" product="default">"माउंटिंग लागित् ते SD कार्ड खाड़ मे"</string>
+<string name="sd_mount" product="nosdcard">"माउंट USB जोगावाक्"</string>
+<string name="sd_mount" product="default">"माउंट SD कार्ड"</string>
+<string name="sd_format" product="nosdcard">"USB जोगावाक् मेटाव"</string>
+<string name="sd_format" product="default">"SD कार्ड रेयाक् मेटाव"</string>
+<string name="sd_format_summary" product="nosdcard">" USB भितरी जोगावाक् खोन जोतो लेकान डेटा मेटाव मे, जेलेका सेरेञ आर चितार को"</string>
+<string name="sd_format_summary" product="default">" SD कार्ड खोन जोतो लेकान डेटा मेटावमे, जेलेका सेरेञ आर चितार को"</string>
+<string name="memory_clear_cache_title">"केश डेटा फारचाय?"</string>
+<string name="memory_clear_cache_message">"जोतो ऐप को रेयाक् केश डेटा फारचाय मा।"</string>
+<string name="mtp_ptp_mode_summary">"MTP से PTP  कामीय कामीयेत् काना"</string>
+<string name="dlg_confirm_unmount_title" product="nosdcard">"अनमाउंट USB जोगावाक्?"</string>
+<string name="dlg_confirm_unmount_title" product="default">"अनमाउंट SD कार्ड?"</string>
+<string name="dlg_confirm_unmount_text" product="nosdcard">"जुदी आम USB जोगावाक् अनमाउंट एत् काना,आमाक् किछूऐप थुकुमोक् तामा आर बाङ ञआम दाड़ेयाक्आ उनरे आम USB जोगावाक् जोडाव मे।"</string>
+<string name="dlg_confirm_unmount_text" product="default">"जुदी आम SDकार्ड अनमाउंट एत् काना, आमाक् किछूऐप थुकुमोक् तामा आर बाङ ञआम दाड़ेयाक्आ उनरे आम SD कार्ड जोडाव मे।"</string>
+<string name="dlg_error_unmount_text" product="nosdcard">"USB जोगावाक् बाङ अनमाउंट ओगोक्आ। तायोम ते दोहड़ा लेगाय मे।"</string>
+<string name="dlg_error_unmount_text" product="default">"SD कार्ड बाङ अनमाउंट ओगोक्आ। तायोम ते दोहडा लेगाय मे।"</string>
+<string name="unmount_inform_text" product="nosdcard">"USB  जोगावाक् अनमाउंट एना।"</string>
+<string name="unmount_inform_text" product="default">"SD कार्ड अनमाउंट एना।"</string>
+<string name="sd_ejecting_title">"अनमाउंटिंग"</string>
+<string name="sd_ejecting_summary">"अनमाउंटिंग हारा रे"</string>
+<string name="storage_low_title">"जोगाव जायगा सेन बाहरे गेया"</string>
+<string name="storage_low_summary">"जेलेका जोड़ावेत् किछू कामी होरा, बेस ते बाय कामीयेत् काना। आजाड़ी जायगा लागित् ते से किछूगान मेनाक् जिनिस, जेलेका ऐपको से मीडिया बाबोत मेटाव काक् मे।"</string>
+<string name="storage_menu_usb">"USB कंप्यूटर जोनोड़ाव"</string>
+<string name="storage_title_usb">"USB कंप्यूटर जोनोड़ाव"</string>
+<string name="usb_connection_category">"लेका जोड़ाव"</string>
+<string name="usb_mtp_title">"मीडिया डिवाइस (MTP)"</string>
+<string name="usb_mtp_summary">"विंडो रे मीडिया फाइल कोम उचाड़ दाड़ेयाक्आमा से बेभारे काना MocorDroid फाइल को Mac रेम उचाड़ दाड़ेयाक्आ (ञेलमे www.android.com/filetransfer)"</string>
+<string name="usb_ptp_title">"कैमरा(PTP)"</string>
+<string name="usb_ptp_summary">"आम कैमरा रे सॉफ्टवेर रेयाक् बेबोहार काते चितार एम उचाड़ेत् काना आर कंप्यूटर रे उचाड़ाक् फाइल MTP बाय सोताबोक् काना "</string>
+<string name="usb_label_installer_cd">"इंस्टल फाइल- उचाड़ सापाप् को"</string>
+<string name="storage_other_users">"एटाक् बेभारान को"</string>
+<string name="battery_status_title">"बैटरी ओबोसता"</string>
+<string name="battery_level_title">"बैटरी रेत"</string>
+<string name="apn_settings">"APN"</string>
+<string name="apn_edit">"सेटेरोक् टुडाक् सासापड़ाव"</string>
+<string name="apn_not_set">"बाङ सेट"</string>
+<string name="apn_name">"ञुतुम "</string>
+<string name="apn_http_proxy">"प्रोक्सी  "</string>
+<string name="apn_http_port">"पोर्ट"</string>
+<string name="apn_user">"बेभारिजा ञुतुम"</string>
+<string name="apn_password">"पासवय़ाट"</string>
+<string name="apn_server">"सर्वर"</string>
+<string name="apn_mms_proxy">"MMS प्रोक्सी"</string>
+<string name="apn_mms_port">"MMS पोर्ट"</string>
+<string name="apn_auth_type">"लेकान सारीथापनाय"</string>
+<string name="apn_auth_type_none">"बाङ"</string>
+<string name="apn_auth_type_pap_chap">"PAP से CHAP"</string>
+<string name="apn_type">"APN टाइप"</string>
+<string name="apn_protocol">"APN प्रोटॉकॉल"</string>
+<string name="apn_roaming_protocol">"APN रोमिंग प्रोटॉकॉल"</string>
+<string name="carrier_enabled">"APN सोमोल/ बेसोमोल"</string>
+<string name="carrier_enabled_summaryOn">"APN सोमोलाकाना"</string>
+<string name="carrier_enabled_summaryOff">"APN बेसोमोलाकाना"</string>
+<string name="bearer">"इदीयिच्"</string>
+<string name="mvno_type">"MVNO टाइप"</string>
+<string name="mvno_match_data">"MVNO गोनोङ"</string>
+<string name="menu_delete">"मेटावAPN"</string>
+<string name="menu_new">"नावाँ APN"</string>
+<string name="menu_save">"जोगाव"</string>
+<string name="menu_cancel">"इकाकाक्"</string>
+<string name="error_name_empty">"जुतुम जायगा आजाड़ी बाङ ताहेंदाड़ेयाक्आ।"</string>
+<string name="error_apn_empty">"APN  आजाड़ी बाङ ताहें दाड़ेयाक्आ"</string>
+<string name="error_mcc_not3">"MCC दो एकाल 3 आखोर ते पेरेजमे।"</string>
+<string name="error_mnc_not23">"MNC दो एकाल 2 खोन 3 आखोर ते पेरेज मे।"</string>
+<string name="restore_default_apn">"डिफॉल्ट APN सेटिंग जोगावरुवाड़ मे।"</string>
+<string name="menu_restore">"रिसेट डिफॉल्ट"</string>
+<string name="restore_default_apn_completed">"डिफॉल्ट APN सेटिंग पुरावेना।"</string>
+<string name="master_clear_title">"फ्रेक्टरी डेटा रीसेट"</string>
+<string name="master_clear_summary" product="tablet">"टेबलेट रे जोतो डेटा मेटावमे"</string>
+<string name="master_clear_summary" product="default">"फोन रे जोतो डेटा मेटावमे"</string>
+<string name="master_clear_desc" product="tablet">"नोवा ते टेबलेट रेयाक् जोतो डेटाय मेटाव काक्आ <b>भितरी जोगावाक्</b>, सालाक् ते:\n\n<li>आमाक् गूगल खाता</li>\n<li> सिस्टम आर ऐप डेटा आर सेटिंग</li>\n<li>डाउनलोड आक् ऐपको</li>"</string>
+<string name="master_clear_desc" product="default">"नोवा ते फोन रेयाक् जोतो डेटाय मेटाव काक्आ <b>भितरी जोगावाक्</b>, सालाक् ते:\n\n<li> आमाक् गूगल खाता</li>\n<li> सिस्टम आर ऐप डेटा आर सेटिंग</li>\n<li>डाउनलोड आक् ऐपको</li>"</string>
+<string name="master_clear_accounts" product="default">"\n\n आम निया हाली लातार रेयाक् खाता रे बोलोलेना:\n"</string>
+<string name="master_clear_desc_also_erases_external">"<li>रु</li>\n<li> चितारको </li>\n<li> एटाक् डेटा बेभारिच्</li>"</string>
+<string name="master_clear_desc_erase_external_storage" product="nosdcard">"\n\n रु, चातार आर एटाक् बेभारिच् डेटा फारचाय <b>USB जोगावाक्</b>  मेटाव रेयाक् लाकती मेनाक्आ।"</string>
+<string name="master_clear_desc_erase_external_storage" product="default">"\n\n रु, चातार आर एटाक् बेभारिच् डेटा फारचाय <b>SDकार्ड</b>  मेटाव रेयाक् लाकती मेनाक्आ।"</string>
+<string name="erase_external_storage" product="nosdcard">"USB जोगावाक् मेटाव"</string>
+<string name="erase_external_storage" product="default">"SD कार्ड रेयाक् मेटाव"</string>
+<string name="erase_external_storage_description" product="nosdcard">"USB जोगावाक् रेयाक् जोतो भितरी डेटा फारचायमे जेलेका रु से चितार"</string>
+<string name="erase_external_storage_description" product="default">"SD कार्ड रेयाक् जोतो भितरी डेटा फारचायमे जेलेका रु से चितार"</string>
+<string name="master_clear_button_text" product="tablet">"टेबलेट रीसेट"</string>
+<string name="master_clear_button_text" product="default">"फोन रीसेट"</string>
+<string name="master_clear_final_desc">"आमाक् जोतो निजाक् बापाडाय आर डाउनलोड ऐप को मेटावा? आम नोवा कामी रे बाम रुवाड़ दाड़ेयाक्आ!"</string>
+<string name="master_clear_final_button_text">"जोतोवाक् मेटावचावा"</string>
+<string name="master_clear_gesture_prompt">"आमाक् अनलॉक भावाँर गार मे"</string>
+<string name="master_clear_gesture_explanation">"आम आमाक् अनलॉक पैटर्न गार रेयाक् फैक्टरी डेटा खोन पुस्टाव लागित् रीसेट रेयाक् लाकती मेनाक्आ।"</string>
+<string name="master_clear_failed">"रीसेट बाङ सोदोर आकान ताहेंकाना, चेदाक् जे सिस्टम फारचाय सेवा बाङ ताहेंकाना।"</string>
+<string name="master_clear_confirm_title">"रीसेट?"</string>
+<string name="media_format_title" product="nosdcard">"USB जोगावाक् मेटाव"</string>
+<string name="media_format_title" product="default">"SD कार्ड रेयाक् मेटाव"</string>
+<string name="media_format_summary" product="nosdcard">"USB जोगावाक् रे जोतो डेटा मेटाव मे"</string>
+<string name="media_format_summary" product="default">"SD कार्ड रेयाक् जोतो डेटा मेटाव मे"</string>
+<string name="media_format_desc" product="nosdcard">"USB जोगावाक् जोतोम मेटावा? आमेम आदा <b>नोवा</b> जोगावाकात् डेटा!"</string>
+<string name="media_format_desc" product="default">"SD कार्ड एम मेटावा? आमेम आदा <b>नोवा</b> कार् रेयाक् डेटा!"</string>
+<string name="media_format_button_text" product="nosdcard">"USB जोगावाक् मेटाव"</string>
+<string name="media_format_button_text" product="default">"SD कार्ड रेयाक् मेटाव"</string>
+<string name="media_format_final_desc" product="nosdcard">"USB जोगावाक् रेयाक् मेटावा, जोतो नोवा रे जोगावाकात् फाइल को मेटाव? नोवा कामी रे बाम रुवाड़ दाडेयाक्आ!"</string>
+<string name="media_format_final_desc" product="default">"SD कार्ड रेयाक् मेटावा, जोतो नोवा रे जोगावाकात् फाइल को मेटाव? नोवा कामी रे बाम रुवाड़ दाडेयाक्आ!"</string>
+<string name="media_format_final_button_text">"जोतोवाक् मेटावचावा"</string>
+<string name="media_format_gesture_prompt">"आमाक् अनलॉक भावाँर गार मे"</string>
+<string name="media_format_gesture_explanation" product="nosdcard">"आम नोवा काथा पुस्टाव लागित् ते जे आम USB जोगावाक् को मेटाव एम मेनेत् काना आमाक् अनलॉक पैटर्न गार रेयाक् लाकती मेनाक्आ।"</string>
+<string name="media_format_gesture_explanation" product="default">"आम नोवा काथा पुस्टाव लागित् ते जे आम SD कार्ड खोन मेटाव एम मेनेत् काना आमाक् अनलॉक पैटर्न गार रेयाक् लाकती मेनाक्आ।"</string>
+<string name="call_settings_title">"कॉल सेटिंग"</string>
+<string name="call_settings_summary">"आड़ङ मेल सेट्अप, कॉल लाहाय, कॉल ताङ्गीय, कलर ID"</string>
+<string name="tether_settings_title_usb">"USB टेथरिंग"</string>
+<string name="tether_settings_title_wifi">"पोर्टेवल हॉटस्पॉट "</string>
+<string name="tether_settings_title_bluetooth">"ब्लूटुथ तोल दोहो"</string>
+<string name="tether_settings_title_usb_bluetooth">"तेथारिग"</string>
+<string name="tether_settings_title_all">"तोलोक् &amp;  पोर्टेवल हॉटस्पॉट"</string>
+<string name="usb_tethering_button_text">"USB टेथरिंग"</string>
+<string name="usb_tethering_available_subtext">"USB जोडावेना, तोलाक् ञेल मे"</string>
+<string name="usb_tethering_active_subtext">"तोलाकात्"</string>
+<string name="usb_tethering_storage_active_subtext">"जोखेच् USB जोगावक् बेभार रे ताहेंना बाङ तोल दोहोक्आ"</string>
+<string name="usb_tethering_unavailable_subtext">"USB बाङ जोड़ावाकाना"</string>
+<string name="usb_tethering_errored_subtext">"USB तोलदोहोक् तापुक्"</string>
+<string name="bluetooth_tether_checkbox_text">"ब्लूटुथ तोल दोहो"</string>
+<string name="bluetooth_tethering_available_subtext" product="tablet">"नोवा टेबलेट को रेयाक् इंटरनेट जोड़ाव हापाटिञा"</string>
+<string name="bluetooth_tethering_available_subtext" product="default">"नोवा फोन को रेयाक् इंटरनेट जोड़ाव हापाटिञा"</string>
+<string name="bluetooth_tethering_device_connected_subtext" product="tablet">"डिवाइस 1 ते टेबलेट रेयाक् इंटरनेट जोनोड़ाव हापाटिञा"</string>
+<string name="bluetooth_tethering_device_connected_subtext" product="default">"डिवाइस 1 ते फोन रेयाक् इंटरनेट जोनोड़ाव हापाटिञा"</string>
+<string name="bluetooth_tethering_devices_connected_subtext" product="tablet">"नोवा टेबलेट ते इंटरनेट जोनोड़ाव हापाटिञ  <xliff:g id="connectedDeviceCount">%1$d</xliff:g> डिवाइसको"</string>
+<string name="bluetooth_tethering_devices_connected_subtext" product="default">"नोवा फोन ते इंटरनेच जोनोड़ाव हापाटिञ  <xliff:g id="connectedDeviceCount">%1$d</xliff:g> डिवाइसको"</string>
+<string name="bluetooth_tethering_off_subtext" product="tablet">"नोवा टेबलेट रेयाक् इंटरनेट जोनोड़ाव बाङ हापाटिञा"</string>
+<string name="bluetooth_tethering_off_subtext" product="default">"नोवा फोन रेयाक् इंटरनेट जोनोड़ाव बाङ हापाटिञा"</string>
+<string name="bluetooth_tethering_errored_subtext">"बाङ तोलदोहोक्"</string>
+<string name="bluetooth_tethering_overflow_error">"बाड़ती बाङ तोल दोहोक्आ<xliff:g id="maxConnection">%1$d</xliff:g>डिवाइस"</string>
+<string name="bluetooth_untether_blank">"<xliff:g id="device_name">%1$s</xliff:g> बेतोलोगाक्"</string>
+<string name="tethering_help_button_text">"गोड़ो"</string>
+<string name="network_settings_title">"सेलुलर नेटवर्क"</string>
+<string name="manage_mobile_plan_title">"मोबाइल प्लान"</string>
+<string name="sms_application_title">"डिफॉल्ट SMS ऐप"</string>
+<string name="sms_change_default_dialog_title">"फेराव SMS ऐप"</string>
+<string name="sms_change_default_dialog_text">"बेभार <xliff:g id="new_app">%1$s</xliff:g> बोदोल ते <xliff:g id="current_app">%2$s</xliff:g> आमाक् SMS ऐप लेका?"</string>
+<string name="sms_change_default_no_previous_dialog_text">"बेभार<xliff:g id="new_app">%s</xliff:g> आमाक् SMS ऐप लेका?"</string>
+<string name="mobile_unknown_sim_operator">"बेबाडाय SIM लाड़चारिच्"</string>
+<string name="mobile_no_provisioning_url">"%1$s जाँन बाडायाक् वेबसाइ रे राखा मेनाक्आ "</string>
+<string name="mobile_insert_sim_card">"दायाकाते SIMकार्ड खाड़ मे आर चालूयमे"</string>
+<string name="mobile_connect_to_internet">"दायाकाते इंटरनेटलाँ जोड़ाव मे"</string>
+<string name="location_title">"इञाक् ठाँव"</string>
+<string name="location_mode_title">"मोड"</string>
+<string name="location_mode_high_accuracy_title">"आडी सोटीक"</string>
+<string name="location_mode_battery_saving_title">"बोटरी बाञ्चाव"</string>
+<string name="location_mode_sensors_only_title">"एकेन डिवाइस"</string>
+<string name="location_mode_location_off_title">"ठाँवेल बन्दो"</string>
+<string name="location_category_recent_location_requests">"निताक् ठाँव नेहोर"</string>
+<string name="location_no_recent_apps">"ऐप निताक् ठाँव लागित् बाय नेहोर आकादा"</string>
+<string name="location_category_location_services">"ठांव सेवा"</string>
+<string name="location_high_battery_use">"आडी बाड़ती बैटरी बेभार"</string>
+<string name="location_low_battery_use">"कोम बैटरी बेभार"</string>
+<string name="location_mode_screen_title">"ठाँव मोड"</string>
+<string name="location_mode_high_accuracy_description">"GPS बेभार, Wi\u2011Fi, आर मोबाइल नेटवर्क ते ठाँव ए पाछनावा"</string>
+<string name="location_mode_battery_saving_description">"Wi\u2011Fi बेभार आर मोबाइल नेटवर्क ते ठाँव ए पाछनावा"</string>
+<string name="location_mode_sensors_only_description">"आम ठाँव गोटाय लागित् ते GPS रेयाक् बेबोहार मे"</string>
+<string name="location_loading_injected_setting">"आरहो ञाम रुवाड़ मे…"</string>
+<string name="location_network_based">"Wi\u2011Fi &amp; मोबाइल नेटवर्क ठाँव"</string>
+<string name="location_neighborhood_level">"ऐप चाँड़  ठाँव ओनमान लागित् ते गूगल ठाँव सेवा रेयाक् गोड़ोय हातावेद। आनाड़ी जायगा रेयाक् डेटा जारवा आकना आर गूगल ठेन कोल एत् काना।"</string>
+<string name="location_neighborhood_level_wifi">"वाई-फाई दाराय ते ठाँव गोटाय"</string>
+<string name="location_gps">"GPS उपग्रह"</string>
+<string name="location_street_level" product="tablet">"देला आमाक् ठाँव लाय लागित् ते आमाक् टेबलेट रे GPS ऐप रेयाक् बेभार मे"</string>
+<string name="location_street_level" product="default">"देला आमाक् ठाँव लाय लागित् ते आमाक् फोन रे GPS ऐप रेयाक् बेभार मे"</string>
+<string name="assisted_gps">"GPS गोड़ोवाक् बेभार मे"</string>
+<string name="assisted_gps_enabled">"GPS गोड़ोवाक् लागित् नेटवर्क बेभार मे (नेटवर्क को कोम बेभार लागित् ते आलोम बाछाव मे)"</string>
+<string name="assisted_gps_disabled">"GPS रेयाक् गोड़ो लागित् ते सर्वर रेयाक् बेभार मे (GPS रेयाक् उदुक् सुसार आलोम  बाछावा)"</string>
+<string name="use_location_title">"ठाँव &amp;  Google तोलास"</string>
+<string name="use_location_summary">"देला आमाक् ठाँव सोटीक् तोलास फोलोन आर एटाक् लागित् गूगल बेभार मे"</string>
+<string name="location_access_title">"इञआक् जायगा रे सेटेरोक् मा"</string>
+<string name="location_access_summary">"देला आमाक् छाड़ काना जे आमाक् ठाँव बाडाय लागित ऐप बेभार मे"</string>
+<string name="location_sources_heading">"ठाँव रेयाक् सोत"</string>
+<string name="location_gps_config">"AGPS झिजुक सोमोल"</string>
+<string name="location_gps_config_summary">"जोखेच् भेनेगार नेटवर्क आबोहावा रे GPS ए सोमोला।"</string>
+<string name="agps_config_summary">"SUPL आर NTP  कॉन्फीगर"</string>
+<string name="location_gps_config_titlebar">"AGPS झिजुक सोमोल"</string>
+<string name="gps_config_titlebar">"GPS कॉन्फिगर"</string>
+<string name="gps_config_supl_host">"SUPL सर्वर ठिकाना"</string>
+<string name="gps_config_supl_port">"SUPL सर्वर पोर्टt"</string>
+<string name="gps_config_cert_path">"SUPL सर्ट फाइल होर"</string>
+<string name="gps_config_location_method">"कुसिया काडेर"</string>
+<string name="gps_config_start_mode">"GPS इंजन चालू मोड"</string>
+<string name="gps_config_connection_type">"जोनोडाव टाइप"</string>
+<string name="gps_enable_option">"AGPS झिजुक सोमोल"</string>
+<string name="gps_log_show">"AGPS LOG उदक्"</string>
+<string name="gps_log_show_summary">"AGPS लागित LOG उदुगमे"</string>
+<string name="agps_config_taile">"AGPS कॉन्फिगर"</string>
+<string name="agps_enable_option_tailebar">"AGPS झिजुक सोमोल"</string>
+<string name="agps_enable_option_registered">"रेडिस्टर्ड आक् नेटवर्क"</string>
+<string name="agps_enable_option_all">"जोतो नेटवर्क"</string>
+<string name="agps_enable_option_none">"AGPS आलोम बेभारा"</string>
+<string name="agps_enable_default_set_tailebar">"जोगाव आरोय डिफॉल्ट सेटिग"</string>
+<string name="agps_enable_default_set_text">"डिफॉल्ट सेटिँद जोगाव आरो लागित् पाछनाव मे"</string>
+<string name="agps_enable_default_set_button">"डिफॉल्ट सेटिंग"</string>
+<string name="agps_config_help_tailebar">"AGPS गोड़ो"</string>
+<string name="agps_config_help_text">"जुदी आम AGPS रे जोतो नेटवर्क एम बाछआव केदा AGPS रेयाक् बेबोहार रे जेगेतरियारी रोमिंग काउडी सिरजाक्आ, आमाक् फोन रे जेगेतरियारी रोमिंग विकल्प सोमोल मे।"</string>
+<string name="settings_other">"एटाक हड़"</string>
+<string name="about_settings" product="tablet">"टेबलेट ते  "</string>
+<string name="about_settings" product="default">"फोन ते "</string>
+<string name="about_settings_summary">"आनानाक् बापाडाय, ओबोसता, सॉफ्टवेयर वर्जन ञेला"</string>
+<string name="legal_information">"आनानाक् बापाडाय  "</string>
+<string name="contributors_title">"एमोगिच्"</string>
+<string name="regulatory_information">"बेनावा आन बापडाय"</string>
+<string name="copyright_title">"कोपीराइट"</string>
+<string name="license_title">"लाइसेंस"</string>
+<string name="terms_title">"नियम आर सोरतोको"</string>
+<string name="settings_license_activity_title">"आड़ाक् सोत लाइसेंस"</string>
+<string name="settings_license_activity_unavailable">"नोवा लाइसेंस भारीक् रे आनाट मेनाक्आ।"</string>
+<string name="settings_license_activity_loading">"लोडोक काना"</string>
+<string name="settings_safetylegal_title">"बाञ्चाक् बापाडाय"</string>
+<string name="settings_safetylegal_activity_title">"बाञ्चाक् बापाडाय"</string>
+<string name="settings_safetylegal_activity_unreachable">"आमाक् डेटा जोड़ाव बानुक् तामा। नोवा बापाडड़ाय ञेल मे, %s खोन जाहाँ कंप्यूटर इंटरनेट जोड़ाव मेनाक्आ सेनोक् मे।"</string>
+<string name="settings_safetylegal_activity_loading">"लोडोक काना"</string>
+<string name="lockpassword_choose_your_password_header">"आमाक् पासवर्ड थुकुमेना"</string>
+<string name="lockpassword_choose_your_pattern_header">"आमाक् पैटर्न थुकुमेना"</string>
+<string name="lockpassword_choose_your_pin_header">"आमाक् PIN थुकुमेना"</string>
+<string name="lockpassword_confirm_your_password_header">"आमाक् पासवर्ड पुस्टावमे"</string>
+<string name="lockpassword_confirm_your_pattern_header">"आमाक् पैटर्न पुस्टावमे"</string>
+<string name="lockpassword_confirm_your_pin_header">"आमाक् PIN पुस्टावमे"</string>
+<string name="lockpassword_confirm_passwords_dont_match">"पासवर्ड बाङ जुड़ीक् काना"</string>
+<string name="lockpassword_confirm_pins_dont_match">"PIN बआङ जुड़ीक् काना"</string>
+<string name="lockpassword_choose_lock_generic_header">"अनलॉक बाछाव"</string>
+<string name="lockpassword_password_set_toast">"पासवर्ड सेटेना"</string>
+<string name="lockpassword_pin_set_toast">"PIN सेटेना"</string>
+<string name="lockpassword_pattern_set_toast">"पैटर्नसेटेना"</string>
+<string name="lock_settings_title">"स्क्रीन रुखिया"</string>
+<string name="lockpattern_change_lock_pattern_label">"बेकुलुप पैटर्न फेराव"</string>
+<string name="lockpattern_change_lock_pin_label">"PIN बेकुलुप फेराव"</string>
+<string name="lockpattern_need_to_unlock">"जोगावाक् पैटर्न पुस्टाव"</string>
+<string name="lockpattern_need_to_unlock_wrong">"दोहड़ा लेगाय"</string>
+<string name="lockpattern_recording_intro_header">"अनलॉक पैटर्न गार"</string>
+<string name="lockpattern_recording_intro_footer">"गोड़ो लागित् मेनू रे ओतायमे"</string>
+<string name="lockpattern_recording_inprogress">"जोखेच् गानोक् काटुच् ओचोगमे"</string>
+<string name="lockpattern_recording_incorrect_too_short">"कोम खाच् कोम जोड़ाव <xliff:g id="number">%d</xliff:g> टुडाक् को। दोहड़ा लेगायमे"</string>
+<string name="lockpattern_pattern_entered_header">"पैटर्न बान्दी"</string>
+<string name="lockpattern_need_to_confirm">"नोवा काथा पुस्टाव लागित् ते आरहो पैटर्न गार मे"</string>
+<string name="lockpattern_pattern_confirmed_header">"आमाक् नावाँवाक् अनलॉक पैटर्न"</string>
+<string name="lockpattern_confirm_button_text">"कनफार्म"</string>
+<string name="lockpattern_restart_button_text">"आराक् गार"</string>
+<string name="lockpattern_retry_button_text">"लेगाय"</string>
+<string name="lockpattern_continue_button_text">"लेताड़"</string>
+<string name="lockpattern_settings_title">"अनलॉक पैटर्न  "</string>
+<string name="lockpattern_settings_enable_title">"पैटर्न रेयाक् लाकती मेनाक्आ"</string>
+<string name="lockpattern_settings_enable_summary">"स्क्रीन अनलॉक लागित ते पैटर्न गार मे"</string>
+<string name="lockpattern_settings_enable_visible_pattern_title">"पैटर्न ञेलोगाक् बेनावमे"</string>
+<string name="lockpattern_settings_enable_tactile_feedback_title">"तारको जाक्"</string>
+<string name="lockpattern_settings_enable_power_button_instantly_locks">"पावर बोताम लागे ओताय मे"</string>
+<string name="lockpattern_settings_choose_lock_pattern">"अनलॉक पैटर्न सेट मे"</string>
+<string name="lockpattern_settings_change_lock_pattern">"बेकुलुप पैटर्न फेराव"</string>
+<string name="lockpattern_settings_help_how_to_record">"ओका लेका ते मित् अनलॉक गार एम बेनावा"</string>
+<string name="lockpattern_too_many_failed_confirmation_attempts_header">"आयमाधाव भूल कुरुमुटू"</string>
+<string name="lockpattern_too_many_failed_confirmation_attempts_footer">"दोहड़ा लेगाय रे <xliff:g id="number">%d</xliff:g> सेकेंडको."</string>
+<string name="activity_not_found">"ऐप आमाक् फोन रे इंस्टल बानुक्आ"</string>
+<string name="manageapplications_settings_title">"ऐपको जोगाड़"</string>
+<string name="manageapplications_settings_summary">"ऐप बारोन मे, चाँड़ ते एहोब लागित् शॉर्टकट सेट मे"</string>
+<string name="applications_settings">"एप्पको"</string>
+<string name="applications_settings_summary">"ऐप बारोन मे, चाँड़ ते एहोब लागित् शॉर्टकट सेट मे"</string>
+<string name="applications_settings_header">"ऐप सेटिंग"</string>
+<string name="install_applications">"बाङ बाडाय सोत"</string>
+<string name="install_unknown_applications">"बाङ बाडायाक् सोत खो ऐप इंस्टल रेयाक् छाड़ एम"</string>
+<string name="install_all_warning" product="tablet">"आमाक् टेबलेट आर निजाक् डेटा बेबाडायाक् सोत को रेयाक् ऐप को रेयाक् झापटाव खोन बाड़ती रुखिया मेनाक्आ, आम नोवा काथा खोन हेंसारी मेनामा जे आम नोवाँ डिवाइस को रेयाक् बेभार लागित् रेयाक् फओलोन लेकाते आमाक् टेबलेट से डेटा नोकसान रेयाक् जाहाँ लेकान नोकसान रेयाक् पुरा लेकाते अंगीभार मेनामा।"</string>
+<string name="install_all_warning" product="default">"आमाक् फोन आर निजाक् डेटा बेबाडायाक् सोत को रेयाक् ऐप को रेयाक् झापटाव खोन बाड़ती रुखिया मेनाक्आ, आम नोवा काथा खोन हेंसारी मेनामा जे आम नोवाँ डिवाइस को रेयाक् बेभार लागित् रेयाक् फओलोन लेकाते आमाक् फोन से डेटा नोकसान रेयाक् जाहाँ लेकान नोकसान रेयाक् पुरा लेकाते अंगीभार मेनामा।"</string>
+<string name="verify_applications">"ठाँव लागित् एपप"</string>
+<string name="verify_applications_summary">"बाङको आगोच् लेलाहाते ठाँवेपप ओना को बाड़िजा"</string>
+<string name="advanced_settings">"उतनाव सेटिंग"</string>
+<string name="advanced_settings_summary">"आयमा विकल्प सेटिंग सोमोला"</string>
+<string name="application_info_label">"एप तथ्य"</string>
+<string name="storage_label">"जोगाव"</string>
+<string name="auto_launch_label">"डिफॉल्ट दाराय ते एहोबमे"</string>
+<string name="auto_launch_label_generic">"डिफॉल्ट को  "</string>
+<string name="screen_compatibility_label">"स्क्रीन सानाहोप"</string>
+<string name="permissions_label">"छाड़"</string>
+<string name="cache_header_label">"केश "</string>
+<string name="clear_cache_btn_text">"केच मेटाव"</string>
+<string name="cache_size_label">"केश "</string>
+<string name="controls_label">"कोबोज को"</string>
+<string name="force_stop">"दाड़े थुकुम"</string>
+<string name="total_size_label">"मोट"</string>
+<string name="application_size_label">"ऐप"</string>
+<string name="external_code_size_label">"USB जोगावाक् ऐप"</string>
+<string name="data_size_label">"डेटा"</string>
+<string name="external_data_size_label" product="nosdcard">"USB जोगाव डेटा"</string>
+<string name="external_data_size_label" product="default">"SD कार्ड"</string>
+<string name="uninstall_text">"बाङ इंस्टलेना"</string>
+<string name="uninstall_all_users_text">"जोतो बेभारको लागित् अनइंस्टल"</string>
+<string name="install_text">"इंस्टल  "</string>
+<string name="disable_text">"बेसोमोल "</string>
+<string name="enable_text">"सोमोल"</string>
+<string name="clear_user_data_text">"डेटा मेटाव"</string>
+<string name="app_factory_reset">"अनइंस्टल नावाँआरोको"</string>
+<string name="auto_launch_enable_text">"डिफॉल्ट दारायते आम नोवा ऐप एहोब एम बाछाव दाड़ेयाक्आ।"</string>
+<string name="always_allow_bind_appwidgets_text">"आम नोवा ऐप बिजेट बेनाव लागित् एम बाछाव आकादा आर आयाक् डेटा रेम सेटेरा"</string>
+<string name="auto_launch_disable_text">"डिफॉल्ट सेट को बानुक्आ"</string>
+<string name="clear_activities">"डिफॉल्ट को फारचाय"</string>
+<string name="screen_compatibility_text">"नोवा बाक्सा रे स्क्रीन बाङ सापड़ाव दाड़ेयाक्आ। आम नोवा ओका लेकातेम साहोप् ओचोया कोबोज दाड़याक् आमा।।"</string>
+<string name="ask_compatibility">"जोखेच् एहोबाम लायमे"</string>
+<string name="enable_compatibility">"स्केल ऐप"</string>
+<string name="unknown">"बाङबाडाया"</string>
+<string name="sort_order_alpha">"खाटो ञुतुम"</string>
+<string name="sort_order_size">"साइज ते खाटोय"</string>
+<string name="show_running_services">"सेनोक् कान सेवा को उदुक्"</string>
+<string name="show_background_processes">"केश कामीकासनी को उदुक्"</string>
+<string name="reset_app_preferences">"ऐप माड़ाङ लाकतीयाक् रीसेट"</string>
+<string name="reset_app_preferences_title">"ऐप माड़ाङ लाकतीयाक् को रीसेट?"</string>
+<string name="reset_app_preferences_desc">"नेवा रे माड़ाङ लाकतीयानाक् को रीसेट हुयुक्आ:\n\n <li>बेसोमोल ऐपको</li>\n <li>बेसोमोल ऐप बापाडायको</li>\n <li>कामी लागित् डिफॉल्ट एप्लिकेसनको</li>\n <li>ऐपको लागित डेटा बैकग्राउंड बारोनको</li>\n <li>एटाक् ठाड़ बारोनको</li>\n\n आम ऐप रेयाक् डेटा बाम आदा।"</string>
+<string name="reset_app_preferences_button">"डेटा"</string>
+<string name="manage_space_text">"जायगा जोगाड़"</string>
+<string name="filter">"छआकाव"</string>
+<string name="filter_dlg_title">"छाकावोक् विकल्प बाछावमे"</string>
+<string name="filter_apps_all">"जोतो"</string>
+<string name="filter_apps_disabled">"बेसोमोल"</string>
+<string name="filter_apps_third_party">"डाउनलोडोक् काना"</string>
+<string name="filter_apps_running">"सेनोक् कान  "</string>
+<string name="filter_apps_onsdcard" product="nosdcard">"USB जोगावाक्"</string>
+<string name="filter_apps_onsdcard" product="default">"SD कार्ड चालू"</string>
+<string name="disabled">"बेसोमोल"</string>
+<string name="not_installed">"बाङ इंस्टलेना"</string>
+<string name="no_applications">"ऐपको बाङकाना"</string>
+<string name="internal_storage">"भितरी जोगावाक्"</string>
+<string name="sd_card_storage" product="nosdcard">"USB जोगावाक्"</string>
+<string name="sd_card_storage" product="default">"SD कार्ड जोगावाक्"</string>
+<string name="recompute_size">"रीकंप्यटिंग साइज"</string>
+<string name="clear_data_dlg_title">"ऐप डेटा मेटाव?"</string>
+<string name="clear_data_dlg_text">"नोवा ऐप रेयाक् जोतो डेटा एकाल ते मेटाव उतारेना। नोवा रे जोतो फाइलको, सेटिंगको, खाताको, डेटबेस एमान सेलेत् मेनाक्आ।"</string>
+<string name="dlg_ok">"हे"</string>
+<string name="dlg_cancel">"बातिल"</string>
+<string name="app_not_found_dlg_text">"इंस्टल आकान ऐपको सूची रे ऐप बाङ ञाम लेना।"</string>
+<string name="clear_data_failed">"ऐप डेटा बाङ फारजावा।"</string>
+<string name="app_factory_reset_dlg_title">"अनइंस्टल नावाँआरो?"</string>
+<string name="app_factory_reset_dlg_text">"नोवा MocorDroid सिस्टम ऐप को जोतो नावाँ आरोवाक् अनइंस्टॉल काक्आ।"</string>
+<string name="clear_failed_dlg_title">"डेटा मेटाव"</string>
+<string name="clear_failed_dlg_text">"ऐप लागित् डेटा बाङ फआरचावा"</string>
+<string name="security_settings_desc" product="tablet">"नोवा ऐप आमाक् टेबलेट रे लातार रेयाक् लेकातेम सेटेर दाड़ेयाक्आ।"</string>
+<string name="security_settings_desc" product="default">"नोवा ऐप आमाक् फोन रे लातार रेयाक् लेकातेम सेटेर दाड़ेयाक्आ।"</string>
+<string name="security_settings_desc_multi" product="tablet">"नोवा ऐप दो आमाक् टेबलेट रे लातार रेयाक् लेकाते बेबोहार रे सुतराव आर दिसा बेबार लागित् हुय दाड़ेयाक्आ, नोवा रे किछू गान छाड़को मेनाक्आ। <xliff:g id="base_app_name">%1$s</xliff:g> चेदाक् दे नोवा ओना कामीकासनी ते गे सेनोक्आ <xliff:g id="additional_apps_list">%2$s</xliff:g>:"</string>
+<string name="security_settings_desc_multi" product="default">"नोवा ऐप दो आमाक् फोन रे लातार रेयाक् लेकाते बेबोहार रे सुतराव आर दिसा बेबार लागित् हुय दाड़ेयाक्आ, नोवा किछूगान छाड़को  मेनाक्आ। <xliff:g id="base_app_name">%1$s</xliff:g> चेदाक् दे नोवा ओना कामीकासनी ते गे सेनोक्आ <xliff:g id="additional_apps_list">%2$s</xliff:g>:"</string>
+<string name="join_two_items">"<xliff:g id="first_item">%1$s</xliff:g> आर <xliff:g id="second_item">%2$s</xliff:g>"</string>
+<string name="join_many_items_last">"<xliff:g id="all_but_last_item">%1$s</xliff:g> आर <xliff:g id="last_item">%2$s</xliff:g>"</string>
+<string name="join_many_items_first">"<xliff:g id="first_item">%1$s</xliff:g>, <xliff:g id="all_but_first_and_last_item">%2$s</xliff:g>"</string>
+<string name="join_many_items_middle">"<xliff:g id="added_item">%1$s</xliff:g>, <xliff:g id="rest_of_items">%2$s</xliff:g>"</string>
+<string name="security_settings_billing_desc">"नोवा ऐप आमाक् मेमोरीय फेराव दाड़ेयाक्आ"</string>
+<string name="security_settings_premium_sms_desc">"प्रीमियम SMS कोल"</string>
+<string name="computing_size">"कम्प्यूटिंग"</string>
+<string name="invalid_size_value">"कंप्यूटर पैकेज साइज बाङकाना।"</string>
+<string name="empty_list_msg">"आम ठान एटाक् तेहार होड़ाक् ऐप को इंस्टल बानुक्आ"</string>
+<string name="version_text">"वर्जन<xliff:g id="version_num">%1$s</xliff:g>"</string>
+<string name="move_app">"उचाड़"</string>
+<string name="move_app_to_internal" product="tablet">"टेबलेट ते उचाडड़"</string>
+<string name="move_app_to_internal" product="default">"फोन ते उचाड़"</string>
+<string name="move_app_to_sdcard" product="nosdcard">"USB जोगावाक् ते उचाड़"</string>
+<string name="move_app_to_sdcard" product="default">"SD काड लाड़ा"</string>
+<string name="moving">"लाड़ाक्"</string>
+<string name="insufficient_storage">"जोगाव लागित जायगा बानुक्आ"</string>
+<string name="does_not_exist">"ऐप बानूक्आ।"</string>
+<string name="app_forward_locked">"ऐप कॉपी रुखिया मेनाक्आ।"</string>
+<string name="invalid_location">"इंस्टल ठाँव बाङ बातावाक् काना।"</string>
+<string name="system_package">"बाहरे मीडिया रे सिस्टम नावांआरो बाङ इंस्टल दाड़ेयाक्आ।"</string>
+<string name="force_stop_dlg_title">"दाड़े ते थुकुम"</string>
+<string name="force_stop_dlg_text">"ऐप जुदी आम दाड़ेतेम थुकुम केदा, बाड़िच् बेवहार दाड़ेयाक्आ"</string>
+<string name="move_app_failed_dlg_text">"ऐप बाङ उचाड़ोक्आ। <xliff:g id="reason">%1$s</xliff:g>"</string>
+<string name="app_install_location_title">"इंस्टल जायगा बातलावाक्"</string>
+<string name="app_install_location_summary">"नावाँ ऐपको लागित् इंस्टल फेराव लागित् ओका ठाँवेम लायेत् काना"</string>
+<string name="app_disable_dlg_title">"बेसोमोल सिरजाव ऐप?"</string>
+<string name="app_disable_dlg_text">"जुदी आम बेसोमोल सिरजाव ऐप,  एटाक् ऐप को बाड़िच ए बेवहारा"</string>
+<string name="app_special_disable_dlg_title">"बेसोमोल ऐप आर डेटा मेटाव"</string>
+<string name="app_special_disable_dlg_text">"जुदी आम बेसोमोल ऐप सिरजावा, एटाक् ऐपको बाड़िच् बेवहारा। आमाक् डेटा मेटाव आकाना।"</string>
+<string name="app_disable_notifications_dlg_title">"बापाडाय थुकुम मे"</string>
+<string name="app_disable_notifications_dlg_text">"नोवा ऐप खोन जुदी आम बापाडाय एम थुकुमेत् काना, आमा लाकतीया चेघा आर नावाँ आरो खोन एटेदोक्आमा।"</string>
+<string name="app_ops_settings">"OPS ऐप"</string>
+<string name="app_ops_running">"सेनोक् कान  "</string>
+<string name="app_ops_never_used">"(कएकाल बाङ बेभार)"</string>
+<string name="storageuse_settings_title">"जोगावाक् बेभार"</string>
+<string name="storageuse_settings_summary">"ऐपको दारायते जोगावाक् ञेल"</string>
+<string name="runningservices_settings_title">"सेनोक् कान कामीको"</string>
+<string name="runningservices_settings_summary">"नित सेनोक् कान सेवाको कोबोज आर ञएल"</string>
+<string name="service_restarting">"चालू दोहड़ाय"</string>
+<string name="cached">"बैकग्राउंड कामीकासनी ञेलमे"</string>
+<string name="no_running_services">"बाङ सेनोक् कान"</string>
+<string name="service_started_by_app">"ऐप चालूयेना"</string>
+<string name="service_background_processes">"<xliff:g id="memory">%1$s</xliff:g> एनकाते"</string>
+<string name="service_foreground_processes">"<xliff:g id="memory">%1$s</xliff:g> बेबोराकान"</string>
+<string name="running_process_item_user_label">"बेभार: <xliff:g id="user_name">%1$s</xliff:g>"</string>
+<string name="running_process_item_removed_user_label">"उचाड़ाक् बेभाक"</string>
+<string name="running_processes_item_description_s_s">"<xliff:g id="numprocess">%1$d</xliff:g>कामीकासनी आर <xliff:g id="numservices">%2$d</xliff:g> सेवा"</string>
+<string name="running_processes_item_description_s_p">"<xliff:g id="numprocess">%1$d</xliff:g> कामीकासनी आर <xliff:g id="numservices">%2$d</xliff:g>सेवा"</string>
+<string name="running_processes_item_description_p_s">"<xliff:g id="numprocess">%1$d</xliff:g> कामीकासनी को आर <xliff:g id="numservices">%2$d</xliff:g> सोवा"</string>
+<string name="running_processes_item_description_p_p">"<xliff:g id="numprocess">%1$d</xliff:g> कामीकासनी को आर <xliff:g id="numservices">%2$d</xliff:g> सेवाको"</string>
+<string name="runningservicedetails_settings_title">"चालाक् कान ऐप"</string>
+<string name="no_services">"बाय कामीयेत"</string>
+<string name="runningservicedetails_services_title">"सेवाको"</string>
+<string name="runningservicedetails_processes_title">"कामीकासनीको"</string>
+<string name="service_stop">"तिंगुन"</string>
+<string name="service_manage">"सेटिंग"</string>
+<string name="service_stop_description">"नोवा सेवा ऐप लागित् एहोप् आकात् ताहेंकाना। नोवा रोकाव ते ऐप बाङ गान रेयाक् ओजे हुय दाड़ेयाक्आ।"</string>
+<string name="heavy_weight_stop_description">"नोवा ऐप नापाय लेकाते बाङ रोकाव दाड़ेयाक्आ। आम नोवाम रोकाव, खान आम आमाक् निताक् किछू कामीम आत् दाडेयाक्आ।"</string>
+<string name="background_process_stop_description">"नोवा मित् मारेनाक् ऐप कामीकासनी काना जे नित हों नोवा चालाक् आरहो सेनोक् । नोण्डे जावलेकाते नोवा रोकाव रेयाक् जाहाँन ओजे बानुकाआ।"</string>
+<string name="service_manage_description">"<xliff:g id="client_name">%1$s</xliff:g>: नितोक बेभार मेनाक्आ। सेटिंग रे जाक् कातेन नोवा कोबोज मे।"</string>
+<string name="main_running_process_description">"आसोल कामीकासनी रे बेभार मे।"</string>
+<string name="process_service_in_use_description">"सेवा <xliff:g id="comp_name">%1$s</xliff:g>बेभार मेनाक्आ."</string>
+<string name="process_provider_in_use_description">"एमोगिच् <xliff:g id="comp_name">%1$s</xliff:g>बेभार मेनाक्आ."</string>
+<string name="runningservicedetails_stop_dlg_title">"सिस्टम सेवा थुकुम"</string>
+<string name="runningservicedetails_stop_dlg_text" product="tablet">"चेत् आम नोवा सेवाम थुकुमेत् काना, खान आमाक् टेबलेट रेयाक् किछू सुबिता को जाहांतिन हाबिच् आमा नोवा  थुकुम कातेन नापाय ते कामीय हापे दाड़ेयाक्आ। "</string>
+<string name="runningservicedetails_stop_dlg_text" product="default">"चेत् आम नोवा सेवाम थुकुमेत् काना, खान आमाक् फोन रेयाक् किछू सुबिता को जाहांतिन हाबिच् आमा नोवा  थुकुम कातेन नापाय ते कामीय हापे दाड़ेयाक्आ। "</string>
+<string name="language_settings">"पारसी &amp; इंपुट"</string>
+<string name="language_keyboard_settings_title">"पारसी &amp; इंपुट"</string>
+<string name="language_settings_category">"पारसी सेटिंग"</string>
+<string name="keyboard_settings_category">"कीबोर्ड &amp; इंपट भावांर"</string>
+<string name="phone_language">"पारसी"</string>
+<string name="auto_replace">"आच् तेउचाड़ोक्"</string>
+<string name="auto_replace_summary">"सुही भुल ओल साबादको"</string>
+<string name="auto_caps">"आच् ते पुजीरियारी"</string>
+<string name="auto_caps_summary">"आयात रेयाक् पाहिल आखोर लाटू"</string>
+<string name="auto_punctuate">"आच् ते टोकन"</string>
+<string name="hardkeyboard_category">"होड़मो कीबोर्ड सेटिंग"</string>
+<string name="auto_punctuate_summary">"इंसर्ट लागित ते स्प्स की दोहडऋ ओतायमे \u0022.\u0022"</string>
+<string name="show_password">"पासवर्ड ञेलोगाक् बेनावमे"</string>
+<string name="ime_security_warning">"नोवा इनपुट भावाँर ते जोतो पाट को टाइप कातेन जारवा रे सोमोल हुय दाड़ेयाक्आ पासवर्ड आर क्रेडिट कार्ड नंबर लेकान निज डेटा हो सेलेत् मेनाक्आ। नोवा ऐप खोन हिजुक् काना <xliff:g id="ime_application_name">%1$s</xliff:g>।नोवा इनपुट भावाँर बेबोहाराम?"</string>
+<string name="spellchecker_security_warning">"नोवा बानान ञेलाक् काना जोतो पाट टाइप मे, आमाक् निजतेयाक् पासवर्ड आर क्रेडिट कार्ड नंबर लेकान डेटा तुमाल रेयाक् सोमोल हुय दाड़ेयाक्आ। नोवा ऐप खोन हिजुक् काना। <xliff:g id="spellchecker_application_name">%1$s</xliff:g>. नोवा बानान ञेलाक् बेबोहाराम?"</string>
+<string name="spellchecker_quick_settings">"सेटिंग"</string>
+<string name="spellchecker_language">"पारसी"</string>
+<string name="failed_to_open_app_settings_toast">"सेटिंग झिच् बाङ गानलेना<xliff:g id="spell_application_name">%1$s</xliff:g>"</string>
+<string name="pointer_settings_category">"माउस/ट्रैकपेड"</string>
+<string name="pointer_speed">"टुगानाक् तापिस"</string>
+<string name="game_controller_settings_category">"गेम कोबोजाक्"</string>
+<string name="vibrate_input_devices">"तारको बेबोहार"</string>
+<string name="vibrate_input_devices_summary">"जोखेच् एनेच् सालाक् कोबोज लागित् ते तारकोवाक् सेलेद मे।"</string>
+<string name="keyboard_layout_dialog_title">"कीबोर्ड बाहरेमोहण्डा बाछाव मे"</string>
+<string name="keyboard_layout_dialog_setup_button">"कीबोर्ड बुनियाद सेट मे।"</string>
+<string name="keyboard_layout_dialog_switch_hint">"स्विच् कोबोज लागित् ते, स्पेसबार ओतायमे"</string>
+<string name="keyboard_layout_default_label">"डिफल्ड"</string>
+<string name="keyboard_layout_picker_title">"कीबोर्ड बुनियाद"</string>
+<string name="user_dict_settings_title">"निजाक् साबादमुराई"</string>
+<string name="user_dict_settings_add_menu_title">"जोड़ाव "</string>
+<string name="user_dict_settings_add_dialog_title">"साबाद मुराइ मेसा"</string>
+<string name="user_dict_settings_add_screen_title">"भेन्ताकाथा"</string>
+<string name="user_dict_settings_add_dialog_more_options">"आरो अपशन"</string>
+<string name="user_dict_settings_add_dialog_less_options">"कोम विकल्प"</string>
+<string name="user_dict_settings_add_dialog_confirm">"हे"</string>
+<string name="user_dict_settings_add_word_option_name">"साबाद"</string>
+<string name="user_dict_settings_add_shortcut_option_name">"शॉर्टकट  "</string>
+<string name="user_dict_settings_add_locale_option_name">"पारसी"</string>
+<string name="user_dict_settings_add_word_hint">"मि् साबाद टाइप मे"</string>
+<string name="user_dict_settings_add_shortcut_hint">"एटागाक् सॉर्टकट"</string>
+<string name="user_dict_settings_edit_dialog_title">"साबाद सासापड़ाव मे"</string>
+<string name="user_dict_settings_context_menu_edit_title">"बोदोलोक"</string>
+<string name="user_dict_settings_context_menu_delete_title">"मेटाव"</string>
+<string name="user_dict_settings_empty_text">"बेभारिच् आक् साबादमुराई रे जाहाँन साबाद बानुकाआ। आम जोड़ाव (+) बोताम जाक् कातेन मित् साबाद जोड़ाव मेय़"</string>
+<string name="user_dict_settings_all_languages">"जोतो पारसी लागित्"</string>
+<string name="user_dict_settings_more_languages">"बाड़ती पारसीको"</string>
+<string name="testing">"बिडाव"</string>
+<string name="testing_phone_info" product="tablet">"टेबलेट बापाडाय"</string>
+<string name="testing_phone_info" product="default">"फोन रेयाक् बापाडाय"</string>
+<string name="testing_battery_info">"बौटरी रेयाक् बापाडाय"</string>
+<string name="quick_launch_title">"चाँड़ एहोब"</string>
+<string name="quick_launch_summary">"ऐप एहोब लागित् कीबोर्ड शॉर्टकट सेट मे"</string>
+<string name="quick_launch_assign_application">"कामी ऐप"</string>
+<string name="quick_launch_no_shortcut">"शॉर्टकट बानुक्आ"</string>
+<string name="quick_launch_shortcut">"तोलास+ <xliff:g id="shortcut_letter">%1$s</xliff:g>"</string>
+<string name="quick_launch_clear_dialog_title">"मेटाव  "</string>
+<string name="quick_launch_clear_dialog_message">"आमाक् शॉर्टकाट लागित् <xliff:g id="shortcut_letter">%1$s</xliff:g> (<xliff:g id="application_name">%2$s</xliff:g>)  फारचा दाड़ेयाक्आ।"</string>
+<string name="quick_launch_clear_ok_button">"हे"</string>
+<string name="quick_launch_clear_cancel_button">"बातिल"</string>
+<string name="quick_launch_display_mode_applications">"एप्पको"</string>
+<string name="quick_launch_display_mode_shortcuts">"शॉर्टकट को"</string>
+<string name="input_methods_settings_title">"पाट इनपुट"</string>
+<string name="input_method">"भितरी निय़म"</string>
+<string name="current_input_method">"डिफल्ड"</string>
+<string name="input_method_selector">"इनपुट भावाँर बाछावमे"</string>
+<string name="input_method_selector_show_automatically_title">"आच् ते"</string>
+<string name="input_method_selector_always_show_title">"जावगे उदुक"</string>
+<string name="input_method_selector_always_hide_title">"जावगे दानाङ"</string>
+<string name="configure_input_method">"सेट मे इनपुट मेथोड"</string>
+<string name="input_method_settings">"सेटिंग"</string>
+<string name="input_method_settings_button">"सेटिंग"</string>
+<string name="active_input_method_subtypes">"लाड़वना इनपुट भावाँर"</string>
+<string name="use_system_language_to_select_input_method_subtypes">"सिस्टम पारसी बेबोहार"</string>
+<string name="input_methods_settings_label_format">"<xliff:g id="ime_name">%1$s</xliff:g> सेटिंग को"</string>
+<string name="input_methods_and_subtype_enabler_title">"लाड़ावना इनपुट भावाँर बाछावमे"</string>
+<string name="onscreen_keyboard_settings_summary">"स्क्रीन रेयाक् सामाह रे सेटिंग को"</string>
+<string name="builtin_keyboard_settings_title">"फिजिकल कीबोर्ड"</string>
+<string name="builtin_keyboard_settings_summary">"होड़मो कीबोर्ड सेटिंग"</string>
+<string name="development_settings_title">"डेभलॉपर विकल्प"</string>
+<string name="development_settings_summary">"ऐप उतनाव लागित् विकल्प सेट मे"</string>
+<string name="development_settings_not_available">"डेवलपर विकल्प रे बेभारिच् लागित् बानुक्आ"</string>
+<string name="enable_adb">"USBडिबगिंग"</string>
+<string name="enable_adb_summary">"USB जोड़ाव लेन रे डिबग मोड रे"</string>
+<string name="clear_adb_keys">"USB डिबगिंग एजोंट को बातिल कोम"</string>
+<string name="bugreport_in_power">"पावर मेनू बग बेवरा"</string>
+<string name="bugreport_in_power_summary">"बग बेवरा ञाम लागित् ते मेनू रे विकल्प सेलेद मे"</string>
+<string name="keep_screen_on">"बेरेत ताहेनमे"</string>
+<string name="keep_screen_on_summary">"चार्जिंग ओकते रे स्क्रीन तिस हों बाङ थुकुमोक्आ"</string>
+<string name="bt_hci_snoop_log">"ब्लूटुथ HCI स्रूप लॉग सोमोल मे"</string>
+<string name="bt_hci_snoop_log_summary">"मित् फाइल रे जोतो ब्लूटुथ HCIपैकेज रेयाक् डाबहाव"</string>
+<string name="select_runtime_title">"चालाव ओकते बाछाव मे"</string>
+<string name="select_runtime_dialog_title">"चालाव ओकते बाछाव मे"</string>
+<string name="select_runtime_warning_message">"खोन चालाव ओकते फेराव लागित् रिबुट मे <xliff:g id="old" example="libdvm.so">%1$s</xliff:g> ते <xliff:g id="new" example="libart.so">%2$s</xliff:g>?"</string>
+<string name="wifi_display_certification">"वायरलेस सारीथापना उदुग"</string>
+<string name="wifi_display_certification_summary">"वायरलेस ते उदुग सारीथापनाय लागित् विकल्प उदुग मे"</string>
+<string name="allow_mock_location">"नोकोल ठाँव रेयाक् छाड़ एमाय"</string>
+<string name="allow_mock_location_summary">"नोकोल ठाँव रेयाक् छाड़ एमाय"</string>
+<string name="adb_warning_title">"जोतो USB डिबाङगिग "</string>
+<string name="adb_warning_message">"USB डिबगिंग उतनाव रेयाक् जोस काना। आमाक् कम्प्यूटर आर आमाक् डिवाइस रे ताला रे डेटा एपेम बाडाय बाङ ते आमाक् डिवाइस रे ऐप इंस्टल मे आर लॉग डेटा को पाड़हाव लागित् बेबोहार मे।"</string>
+<string name="adb_keys_warning_message">"आम कम्प्यूटर रे लाहा खोन गे छाड़ मेनाक् तामा USB डिबगिंग लागित् बेबोहार बातिल काक् मे?"</string>
+<string name="dev_settings_warning_title">"सेटिंग उतनाव रेयाक् छाड़ एमोक् मे?"</string>
+<string name="dev_settings_warning_message">" नोवा सेटिंग उतनाव बेबोहार लागित् काना। उनी आयाक् डिवाइस आर ओना रे नेहोर साकाम से उनीयाक् बाड़िच् बेबोहार रेयाक् ओजे हुय दाड़ेयाक्आ।"</string>
+<string name="verify_apps_over_usb_title">"USB रे ऐप रेयाक् सारीय थापनायमे"</string>
+<string name="verify_apps_over_usb_summary">"बाड़िजाक् बेवहार लागित् ते  ADB/ADT रेयाक् दारायते इंस्टल ऐप रेयाक् पाछनावमे।"</string>
+<string name="enforce_read_external_title" product="nosdcard">"USB जोगावाक् रुखिया"</string>
+<string name="enforce_read_external_summary" product="nosdcard">"ऐप को USB जोगावाक् पाड़हाव लागित् ते छाड़ नेहोर लाकतीया"</string>
+<string name="enforce_read_external_confirm_title" product="nosdcard">"USB जोगावाक् रुखिया?"</string>
+<string name="enforce_read_external_confirm_message" product="nosdcard">"जोखेच् USB जोगावाक् रुखिया गेया, ऐप को बाहरे जोगावाक् डेटा पाड़हाव लागित् ते छाड़ नोहोर लाकतीया। \n\n किछू ऐप को डेवलपर को दाराय ते बाङ नावाँ आरो लेखान बाय कामीया।"</string>
+<string name="enforce_read_external_title" product="default">"SD कार्ड रुखिया"</string>
+<string name="enforce_read_external_summary" product="default">"ऐप SD कार्ड पाड़हाव लागित ते छाड़ नोहोर लाकतीया"</string>
+<string name="enforce_read_external_confirm_title" product="default">"SD कार्ड रुखिया?"</string>
+<string name="enforce_read_external_confirm_message" product="default">"जोखेच् SD कार्डे रुखिया गेया, ऐप बाहरे जोगावाक् डेटा पाड़हाव लागित् छाड़ नेहोर लाकतीया। \n\n किछू ऐप डेवलपर्स दाराय ते बाङ नावाँ आरो लेन खान बाय कामी दाड़ेयाक्आ।"</string>
+<string name="enable_terminal_title">"ठाँवेल टर्मिनल"</string>
+<string name="enable_terminal_summary">"ठाँवेल शेल रेयाक् रासकाम हामेट दाड़ेयाक्आ टर्मिनल ऐप चालाव ताम"</string>
+<string name="gadget_picker_title">"गैजेट बाछआवमे"</string>
+<string name="widget_picker_title">"बिजेट बाछाव मे"</string>
+<string name="allow_bind_app_widget_activity_allow_bind_title">"बिजेट बेनाव मे आर सेटेर दाँव ञामा?"</string>
+<string name="allow_bind_app_widget_activity_allow_bind">"आम बिजेट तायोम ते बेनाव मे <xliff:g id="widget_host_name">%1$s</xliff:g> नोवा उदुगेत् जोतो डेटा रेम सेटेर दाड़ेयाक्आ।"</string>
+<string name="allow_bind_app_widget_activity_always_allow_bind">"जाव दाँव एम <xliff:g id="widget_host_name">%1$s</xliff:g> बिजेट बेनाव मे आर ओना रेयाक् डेटा रे सोटेरोक् मे"</string>
+<string name="battery_history_days">"<xliff:g id="days">%1$d</xliff:g>d <xliff:g id="hours">%2$d</xliff:g>h <xliff:g id="minutes">%3$d</xliff:g>m <xliff:g id="seconds">%4$d</xliff:g>s"</string>
+<string name="battery_history_hours">"<xliff:g id="hours">%1$d</xliff:g>h <xliff:g id="minutes">%2$d</xliff:g>m <xliff:g id="seconds">%3$d</xliff:g>s"</string>
+<string name="battery_history_minutes">"<xliff:g id="minutes">%1$d</xliff:g>m <xliff:g id="seconds">%2$d</xliff:g>s"</string>
+<string name="battery_history_seconds">"<xliff:g id="seconds">%1$d</xliff:g>s"</string>
+<string name="battery_history_days_no_seconds">"<xliff:g id="days">%1$d</xliff:g>d <xliff:g id="hours">%2$d</xliff:g>h <xliff:g id="minutes">%3$d</xliff:g>m"</string>
+<string name="battery_history_hours_no_seconds">"<xliff:g id="hours">%1$d</xliff:g>h <xliff:g id="minutes">%2$d</xliff:g>m"</string>
+<string name="battery_history_minutes_no_seconds">"<xliff:g id="minutes">%1$d</xliff:g>m"</string>
+<string name="usage_stats_label">"आँकड़ाको रेयाक् बेभआर"</string>
+<string name="testing_usage_stats">"आँकड़ाको रेयाक् बेभआर"</string>
+<string name="display_order_text">"खाटो दारायते"</string>
+<string name="app_name_label">"ऐप"</string>
+<string name="launch_count_label">"लेखा"</string>
+<string name="usage_time_label">"बेभार ओकते"</string>
+<string name="accessibility_settings">"सेटेरतेत्  "</string>
+<string name="accessibility_settings_title">"सेटेरतेनाक् सेटिंग"</string>
+<string name="accessibility_services_title">"सेवाको"</string>
+<string name="accessibility_system_title">"सिस्टम"</string>
+<string name="accessibility_captioning_title">"केप्सन को"</string>
+<string name="accessibility_screen_magnification_title">"निजाक् हिसाब ते स्क्रीन"</string>
+<string name="accessibility_screen_magnification_summary">"जोखेच् सुबिता चालू ताहेना, खान आम स्क्रीन रे पेधाव ओता काते जुम भितरी आर बाहरे दाड़ेयाक्आ \n\n  जोखेच् जे चाड़ तेम बाड़ती, आम दाड़ेयाक्आ:\n<ul><li> पैन। बारया से बाड़ती काटूप् ते स्क्रीन रेम ओर दाड़ेयाक्आ </li>\n<li> जूम थाक सायताव मे: बारया से बाड़ती काटूप् मित् साव ते ठेप से ओना पासनाव मे  </li></ul>\n\n आम जोतो बेथापित लेकातेम सेलेत् दाड़ेयाक् आ चेता पेधाप ठेप आक साप् कातेन आमाक् काटुप् रेयाक् ताला रे मेनाक्आ। नोवा सोझे लाटू वाकान रे, आम स्कर्न एटाक् एटाक् हिंस को रेयाक् बाडाय लागित् तो आमाक् कुटूप् ओर दाड़ेयाक्आ मारेनाक् ओबोसता रे रुवाड़ लागित ते आमाक् काटुप् राकाबमे. \n\n नोट लाटूय लागित् पेधाव -टैप कीबोर्ड आर नेविगेसन बार को इका कातेनजोतो जायगा रेय कामीया।"</string>
+<string name="accessibility_global_gesture_preference_title">"शॉर्टकट ते सेटेरतेनाक्"</string>
+<string name="accessibility_global_gesture_preference_summary_on">"चालु"</string>
+<string name="accessibility_global_gesture_preference_summary_off">"बन्दो"</string>
+<string name="accessibility_global_gesture_preference_description">"जोखेच् नोवा सुबिता चालूयेत् काना, आम चाड़ ते बार धाप रे सेटेर कात्न सुबिता कोम सोमोल दाड़ेयाक्आ: \n\nदाड़ेयाक्आ 1: ओता रो साप ते जोखेच् आम मित् आड़ाभ एम आञअजोम से मित् लेकान तारकोम आटकारेत् काना। \n\nदाड़ेयाक्आ 2: जाक् आर बारया काटूप ते जोखेच् आम ऑडियो पुस्टाव तेम आञअजोमा \n\n डिवाइस रेन आयमा बेभारको मेनाक् कोवा, खान लॉक् स्क्रीन रे नोवा शॉर्टकटरेयाक् बेभार ते बेथिपित लेकाते सेटेर दाड़ेयाक्आ जाहाँ हाबिच् डिवाइस झिच् मेनाक्आ।"</string>
+<string name="accessibility_toggle_large_text_preference_title">"लाटू पाट"</string>
+<string name="accessibility_toggle_screen_magnification_preference_title">"स्क्रीन लाटूय"</string>
+<string name="accessibility_toggle_screen_magnification_auto_update_preference_title">"आच् ते स्क्रीन लाटूय नावाँआरोक्"</string>
+<string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">"ऐप आतिञ रे स्क्रीन लाटुय नावाँआरोय"</string>
+<string name="accessibility_power_button_ends_call_prerefence_title">"पावर बोताम तो कॉल मुचाद"</string>
+<string name="accessibility_toggle_speak_password_preference_title">"रोड़ पासवर्डको"</string>
+<string name="accessibility_long_press_timeout_preference_title">"जाक् &amp;  साप् रे बिलोम"</string>
+<string name="accessibility_menu_item_settings">"सेटिंग"</string>
+<string name="accessibility_feature_state_on">"चालु"</string>
+<string name="accessibility_feature_state_off">"बन्दो"</string>
+<string name="captioning_preview_title">"दोहड़ा ञेल"</string>
+<string name="captioning_standard_options_title">"मानावाक् विकल्प"</string>
+<string name="captioning_locale">"पारसी"</string>
+<string name="captioning_text_size">"पाट साइज"</string>
+<string name="captioning_preset">"कैप्सन केता"</string>
+<string name="captioning_custom_options_title">"कस्टम बिकल्प"</string>
+<string name="captioning_background_color">"बैकग्राउंड रोङ"</string>
+<string name="captioning_background_opacity">"बैकग्राउंड सानाहोप्"</string>
+<string name="captioning_foreground_color">"पाट रोङ"</string>
+<string name="captioning_foreground_opacity">"पाट सानाहोप"</string>
+<string name="captioning_edge_color">"आड़े रेयाक् रोड़"</string>
+<string name="captioning_edge_type">"आड़े लेकाना"</string>
+<string name="captioning_typeface">"फॉन्ट घारोञ्ज"</string>
+<string name="captioning_preview_text">"कैप्सन नोवा लेका ञोलोक् लाकती"</string>
+<string name="locale_default">"डिफल्ड"</string>
+<string name="color_none">"बाङ"</string>
+<string name="color_white">"पोंड "</string>
+<string name="color_gray">"गुली"</string>
+<string name="color_black">"हेंदे "</string>
+<string name="color_red">"आराक्"</string>
+<string name="color_green">"गादेत्"</string>
+<string name="color_blue">"लिल"</string>
+<string name="color_cyan">"गादेत् लील"</string>
+<string name="color_yellow">"सासाङ "</string>
+<string name="color_magenta">"पोड़सोतआराक्"</string>
+<string name="enable_service_title">"बेभार <xliff:g id="service" example="TalkBack">%1$s</xliff:g>?"</string>
+<string name="capabilities_list_title">"<xliff:g id="service" example="TalkBack">%1$s</xliff:g> ते लाकती को:"</string>
+<string name="capability_title_receiveAccessibilityEvents">"आमाक् कामीधारा को ञेलेत्"</string>
+<string name="capability_desc_receiveAccessibilityEvents">"आम जोखेच् जाहाँ ऐप तो गालमाराक् एम मेनेत् काना, खान बापाडाय ञाम मे।"</string>
+<string name="disable_service_title">"हापे <xliff:g id="service" example="TalkBack">%1$s</xliff:g>?"</string>
+<string name="disable_service_message">"OK जाक् हापे<xliff:g id="service" example="TalkBack">%1$s</xliff:g>."</string>
+<string name="accessibility_no_services_installed">"इंस्टल रेयाक् सेवा बानुक्आ"</string>
+<string name="accessibility_service_no_apps_title">"मित् स्क्रीन रीडर रेयाक् लाकती?"</string>
+<string name="accessibility_service_no_apps_message">"टॉक बैक दो बाङ ञेञएल आर मेत्  ते को ञेञेल को बेभार को लागित् रोड़ फीडबैक एमोक् एम आकाना। चेता आम  MocorDroid बाजार खोन एनका ते इंस्टल एम मेनेत् काना?"</string>
+<string name="accessibility_service_default_description">"बेवरा एमोगाक् बानुक्आ"</string>
+<string name="settings_button">"सेटिंग"</string>
+<string name="print_settings">"छापाक्"</string>
+<string name="print_settings_title">"छापा सेवा"</string>
+<string name="print_service_security_warning_title">"बेभार <xliff:g id="service" example="My Print Service">%1$s</xliff:g>?"</string>
+<string name="print_service_security_warning_summary">"आमाक् दस्तावेज छापाय लागित् ते आयाक् होर रे मित् से मित् खोन बाड़ती सर्वर दारायते ते सेन दाड़ेयाक्आ।"</string>
+<string name="print_no_services_installed">"सेवा को बाङ इंस्टाल आकाना"</string>
+<string name="print_no_printers_found">"प्रिंटर बाय ञामेदा"</string>
+<string name="print_menu_item_settings">"सेटिंग"</string>
+<string name="print_menu_item_add_printers">"प्रिंटर तोङ्गेयाक्"</string>
+<string name="print_feature_state_on">"चालु"</string>
+<string name="print_feature_state_off">"बन्दो"</string>
+<string name="print_menu_item_add_service">"सार्बिस जोड़ाव"</string>
+<string name="print_menu_item_add_printer">"प्रिन्टर जड़ाव"</string>
+<string name="print_menu_item_search">"खोंज"</string>
+<string name="print_searching_for_printers">"प्रिंटर तोलास"</string>
+<string name="print_service_disabled">"सेवा बेसोमोला"</string>
+<string name="print_print_jobs">"छापा कामी को"</string>
+<string name="print_print_job">"छापा कामी"</string>
+<string name="print_restart">"दोहड़ा एतहब"</string>
+<string name="print_cancel">"बातिल"</string>
+<string name="print_printing_state_title_template">"छापाक कान<xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g>"</string>
+<string name="print_cancelling_state_title_template">"बातिलोक् कान<xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g>"</string>
+<string name="print_failed_state_title_template">"प्रिंटर तापुक<xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g>"</string>
+<string name="print_blocked_state_title_template">"प्रिंटर एसेदेना <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g>"</string>
+<string name="print_search_box_shown_utterance">"सेनदरा ब्कसा उदुक्"</string>
+<string name="print_search_box_hidden_utterance">"दानाङ बाकसा तोलास"</string>
+<plurals name="print_search_result_count_utterance">
+<item quantity="one">"<xliff:g id="count" example="1">%1$s</xliff:g> प्रिंटर ञाम"</item>
+<item quantity="other">"<xliff:g id="count" example="2">%1$s</xliff:g> छापाव आक थापन  "</item>
+</plurals>
+<string name="power_usage_summary_title">"बैटरी  "</string>
+<string name="power_usage_summary">"चेत् लेकाते बैटरीम बेभारा"</string>
+<string name="power_usage_not_available">"बैटरी बेभार डेटा बानुक्आ।"</string>
+<string name="battery_since_unplugged">"बेप्लग कातेन बैटरी बेबोहार मे"</string>
+<string name="battery_since_reset">"रीसेट तायोम बैटरी बेबोहार मे"</string>
+<string name="battery_stats_on_battery">"<xliff:g id="time">%1$s</xliff:g> बैटरी रे"</string>
+<string name="battery_stats_duration">"<xliff:g id="time">%1$s</xliff:g> खोन बे प्लग"</string>
+<string name="battery_stats_charging_label">"चार्जिङ"</string>
+<string name="battery_stats_screen_on_label">"स्क्रीन झिच्"</string>
+<string name="battery_stats_gps_on_label">"GPS झिच्"</string>
+<string name="battery_stats_wifi_running_label">"वाई-फाई  "</string>
+<string name="battery_stats_wake_lock_label">"बेरेत"</string>
+<string name="battery_stats_phone_signal_label">"सेलुलर नेटवर्क सिगनल"</string>
+<string name="awake">"डिवाइस बेरेत ओकते"</string>
+<string name="wifi_on_time">"वाई-फाई चालूय ओकते"</string>
+<string name="bluetooth_on_time">"वाई-फाई चालूय ओकते"</string>
+<string name="usage_name_percent">"<xliff:g id="name">%1$s</xliff:g>" - "<xliff:g id="number" example="30">%2$s</xliff:g><xliff:g id="percent" example="%">%%</xliff:g>"</string>
+<string name="history_details_title">"नागाम बेवरा"</string>
+<string name="details_title">"बेवराको बेभार"</string>
+<string name="details_subtitle">"बेवराको बेभार"</string>
+<string name="controls_subtitle">"पावर सानाहोप् बेभार"</string>
+<string name="packages_subtitle">"पैकेज को सेलेदकाक्"</string>
+<string name="power_screen">"स्क्रीन  "</string>
+<string name="power_wifi">"वाई-फाई  "</string>
+<string name="power_bluetooth">"ब्लूटुथ"</string>
+<string name="power_cell">"कॉल तेंगोकाक्"</string>
+<string name="power_phone">"आड़ाङ कॉल"</string>
+<string name="power_idle" product="tablet">"टेवलेट इडेल "</string>
+<string name="power_idle" product="default">"टेवलेट इडेल"</string>
+<string name="usage_type_cpu">"जासती खोन जसती लेखा रे"</string>
+<string name="usage_type_cpu_foreground">"सीपीयू जोतोते"</string>
+<string name="usage_type_wake_lock">"बेरेत् ताहेन"</string>
+<string name="usage_type_wifi_running">"सीपीयू माडङतेयाक् मुठान"</string>
+<string name="usage_type_phone" product="tablet">"टेबलेट"</string>
+<string name="usage_type_phone" product="default">"फोन"</string>
+<string name="usage_type_data_send">"मोबाइल डेटा कोल"</string>
+<string name="usage_type_data_recv">"मोबाइल डेटा आताङ"</string>
+<string name="usage_type_data_wifi_send">"Wi\u2011Fi कोल डेटा"</string>
+<string name="usage_type_data_wifi_recv">"Wi\u2011Fi डेटा आताङ् आकाना"</string>
+<string name="usage_type_audio">"ऑडियो"</string>
+<string name="usage_type_video">"वीडियो"</string>
+<string name="usage_type_on_time">"मोबाइल रेड़ियो लाडचाड़"</string>
+<string name="usage_type_no_coverage">"वाई-फाई पेकेटस भेजा"</string>
+<string name="battery_action_stop">"दाड़े थुकुम"</string>
+<string name="battery_action_app_details">"एप तथ्य"</string>
+<string name="battery_action_app_settings">"ऐप सेटिंग"</string>
+<string name="battery_action_display">"जोतो वाटरी खोमता"</string>
+<string name="battery_action_wifi">"वाई-फाई सेटिंग"</string>
+<string name="battery_action_bluetooth">"लेखातेयाक् दाड़े बेबोहार"</string>
+<string name="battery_desc_voice">"ञेल रेनाङ दाड़े बेबोहार"</string>
+<string name="battery_desc_standby" product="tablet">"स्क्रिन बायसाव"</string>
+<string name="battery_desc_standby" product="default">"बलुटुत बायसाव"</string>
+<string name="battery_desc_radio">"बेटरी बेबोहार दारायते आडङ कोल"</string>
+<string name="battery_sugg_radio">"बेटरी बेबोहार जोखोन टेबलेट बेकोरोआ"</string>
+<string name="battery_desc_display">"बेटरी बेबोहार दाराते सेल रेड़ियो"</string>
+<string name="battery_sugg_display">"जोखेच् सेल सीमाबाहरे लेनखान पावर जेगाव लागित् ते एयरप्लेन मेड से स्विच् काक् मे"</string>
+<string name="battery_desc_wifi">"बैटरी फ्लेसलाइट लागित् बेबोहारेक् काना"</string>
+<string name="battery_sugg_wifi">"देयालाइट आर उदुग लागित् ते बैटरी बोबोहारोक् काना"</string>
+<string name="battery_desc_bluetooth">"स्क्रीन रेयाक् बाड़ती तारास कोममे आर /से स्क्रीन ओकतेबाहरेयमे"</string>
+<string name="battery_sugg_bluetooth_basic">"ब्लूटुथ  थुकुम काक् मे जोखेच् ओना बाङ बेबोहारोक् काना"</string>
+<string name="battery_sugg_bluetooth_headset">"जुदी ब्लूटुथ डिवाइस सालाक् जोड़ाव रेयाक् लेगायमे"</string>
+<string name="battery_desc_apps">"ऐप दारायते बैटरी बेबोहरोक् काना"</string>
+<string name="battery_sugg_apps_info">"ऐप थिर से अनइंस्टल"</string>
+<string name="battery_sugg_apps_gps">"बाछाव मोड बाछाव मे"</string>
+<string name="battery_sugg_apps_settings">"बैटरी कोम खोरचा लागित् ऐप सेटिंग लागित् तेय सोलहा दाड़ेयाक्आ"</string>
+<string name="battery_desc_users">"बैटरी बेबोहारिच् दारायते बेभार"</string>
+<string name="menu_stats_unplugged">"<xliff:g id="unplugged">%1$s</xliff:g>  बाङ प्लग तायोम"</string>
+<string name="menu_stats_last_unplugged">"तायोम ओकतो बाङ प्लग लागित्ते  <xliff:g id="unplugged">%1$s</xliff:g>"</string>
+<string name="menu_stats_total">"जोतोको बेभार"</string>
+<string name="menu_stats_refresh">"रिफ्रेस "</string>
+<string name="process_mediaserver_label">"मीडिया सर्वर"</string>
+<string name="process_stats_summary_title">"कामीयाक् डेटा"</string>
+<string name="process_stats_summary">"गीकी कामीकासनी चालाव लागिति डेटाको"</string>
+<string name="app_memory_use">"मेमोरी रेयाक् बेभार"</string>
+<string name="process_stats_total_duration">"<xliff:g id="type">%1$s</xliff:g> ऐपको चेतान<xliff:g id="time">%2$s</xliff:g>"</string>
+<string name="process_stats_type_background">"देयातेयाक्  "</string>
+<string name="process_stats_type_foreground">"लाहाजायगा"</string>
+<string name="process_stats_type_cached">"पाञअजा"</string>
+<string name="process_stats_memory_status">"डिवाइस मेमोरी नितोक् मेनाक्आ<xliff:g id="memstate">%1$s</xliff:g>"</string>
+<string name="process_stats_avg_ram_use">"गोड़ रैम रेयाक् बेभआर"</string>
+<string name="process_stats_max_ram_use">"बाड़ती रैम रेयाक् बेभारमे"</string>
+<string name="process_stats_run_time">"ञिर ओकते"</string>
+<string name="services_subtitle">"सेवाको"</string>
+<string name="menu_proc_stats_duration">"ओकते"</string>
+<string name="menu_duration_3h">"3 घन्टा"</string>
+<string name="menu_duration_6h">"6 ताड़ाङ"</string>
+<string name="menu_duration_12h">"12 घन्टा"</string>
+<string name="menu_duration_1d">"1 दिन"</string>
+<string name="menu_show_system">"सिस्टम उदुक"</string>
+<string name="menu_use_uss">"यूएसएस रेयाक् बेभार"</string>
+<string name="menu_proc_stats_type">"सोझे टाइप"</string>
+<string name="menu_proc_stats_type_background">"देयातेयाक्  "</string>
+<string name="menu_proc_stats_type_foreground">"लाहाजायगा"</string>
+<string name="menu_proc_stats_type_cached">"पाञअजा"</string>
+<string name="voice_input_output_settings">"डेटाको इनपुट &amp; लेकानतेयाक्"</string>
+<string name="voice_input_output_settings_title">"आड़ाङ इनपुट &amp;  लेकानतेयाक् सिरजाव"</string>
+<string name="voice_search_settings_title">"आड़ाङ पांजा"</string>
+<string name="keyboard_settings_title">"MocorDroid कीबोर्ड"</string>
+<string name="voice_category">"रोड़"</string>
+<string name="recognizer_title">"आड़ाङ पाछनावाक्"</string>
+<string name="recognizer_settings_title">"आड़ाङ पांजा"</string>
+<string name="recognizer_settings_summary">"सेटिंग को लागित् ते \'<xliff:g id="recognizer_name">%s</xliff:g>\'"</string>
+<string name="tts_settings">"पाट खोन रोड़ सेटिंगको"</string>
+<string name="tts_settings_title">"पाट खोन रोड़ बाहेरेक्"</string>
+<string name="use_default_tts_settings_title">"जावगे इञआक् सेटिंग बेबोहारमे"</string>
+<string name="use_default_tts_settings_summary">"ऐप सेटिंगको लातार रे डिफॉल्ट सेटिंग ओवरराइड आकाना"</string>
+<string name="tts_default_settings_section">"डिफॉल्ट सेटिंग"</string>
+<string name="tts_default_synth_title">"डिफॉल्ट इंजन"</string>
+<string name="tts_default_synth_summary">"रोड़ आताङ इंजन आक् पाट लागित् बेबोहारोक् आन गोटायेत् कानाय।"</string>
+<string name="tts_default_rate_title">"रोड़ दोर"</string>
+<string name="tts_default_rate_summary">"तापिस जाहाँ रे पाट रोड़ोगोक् काना"</string>
+<string name="tts_default_pitch_title">"पिच"</string>
+<string name="tts_default_pitch_summary">"रोड़ानाक् पाट रेयाक् आड़ाङे एसोरेत् काना"</string>
+<string name="tts_default_lang_title">"पारसी"</string>
+<string name="tts_lang_not_selected">"पारसी रेयाक् बाछाव बाङ हुय आकाना"</string>
+<string name="tts_default_lang_summary">"रोड़ानाक् पाट लागित् ते पारसी रेयाक् आसोल आड़ाङ सेट"</string>
+<string name="tts_play_example_title">"मित पारतुल आञ्जोम मे"</string>
+<string name="tts_play_example_summary">"पारसी साकित् लागित् खाटो उदुक् चालाव मे"</string>
+<string name="tts_install_data_title">"आड़ाङ डेटा इंस्टलमे"</string>
+<string name="tts_install_data_summary">"पारसी साकित् लागित् तो लाकतीयानाक् आड़ङ डेटा इंस्टलमे"</string>
+<string name="tts_data_installed_summary">" "साडे आड़ाङ साकित् रेयाक् लाकती खोन माड़ाङ खोन गे इंस्टल मेनाक्आ"</string>
+<string name="tts_settings_changed_demo">"आमाक् संटिंग को फेराव आकाना। नोवा काना जे ओना चेत् लेका साडे रेयाक् मित् पारतुल काना।"</string>
+<string name="tts_engine_error">"इंजन बाम चालाव दाड़ेयाक् एम बाछाव आकादा।"</string>
+<string name="tts_engine_error_config">"कनफिगार"</string>
+<string name="tts_engine_error_reselect">"आर मित् इंजन बाछावमे"</string>
+<string name="tts_engine_security_warning">"नोवा रोड़ छाकाक् इंजन जोतो पाट रेयाक् पासवर्ड आ क्रेडिट कार्डनंबर लेकान निजी डेटा सालाक्, काथाको जारवा रेयाक् सोमोल हुय दाड़ेयाक्आ। नोवा दो हुजिक् काना <xliff:g id="tts_plugin_engine_name">%s</xliff:g> इंजन खोन। नोवा रेड़ साकितछाकाव इंजन रेयाक् बेभार सोमोलाम?"</string>
+<string name="tts_engine_network_required">"नोवापाट खोन रोड़ ते सिरजाव ओचोय लागित् ते नेटवर्क सालाक् जोड़ाव रेयाक् लाकती मेनाक्आ।"</string>
+<string name="tts_default_sample_string">"नोवा दो रोड़ साकितछाकाव रेयाक् पातुल काना"</string>
+<string name="tts_status_title">"डिफॉल्ट पारसी ओबोसता"</string>
+<string name="tts_status_ok">"<xliff:g id="locale" example="English (United States)">%1$s</xliff:g> पुरा तेय सोतावाक् काना"</string>
+<string name="tts_status_requires_network">"<xliff:g id="locale" example="English (United States)">%1$s</xliff:g> नेटवर्क रेयाक् लागती मेनाक्आ"</string>
+<string name="tts_status_not_supported">"<xliff:g id="locale" example="English (United States)">%1$s</xliff:g> बाय सोतोक् काना"</string>
+<string name="tts_status_checking">"पाछनाव"</string>
+<string name="tts_engines_section">"इंजन को"</string>
+<string name="tts_engine_name_settings">"<xliff:g id="tts_plugin_engine_name">%s</xliff:g> सेटिंग को"</string>
+<string name="tts_engine_name_is_enabled_summary">"<xliff:g id="tts_plugin_engine_name">%s</xliff:g> सोमोल गेया"</string>
+<string name="tts_engine_name_is_disabled_summary">"<xliff:g id="tts_plugin_engine_name">%s</xliff:g> बेसोमोला"</string>
+<string name="tts_engine_settings_section">"इंजन सेटिंग"</string>
+<string name="tts_engine_settings_title">"सेटिंग को लागित् <xliff:g id="tts_engine_name">%s</xliff:g>"</string>
+<string name="pico_languages_and_voices">"पारसी आर आड़ाङ"</string>
+<string name="pico_installed">"इंस्टलेना"</string>
+<string name="pico_not_installed">"बाङ इंस्टलेना"</string>
+<string name="pico_voice_summary_female">"आयोजानाङ"</string>
+<string name="pico_voice_summary_male">"कोड़ाजानाङ"</string>
+<string name="tts_notif_engine_install_title">"रोड़ साकितछआकाव इंजन इस्टलेना"</string>
+<string name="tts_notif_engine_install_message">"नावाँ इंजन  बेभार हा रे सोमोलमे"</string>
+<string name="tts_engine_settings_button">"इंजन सेटिंग एहोबमे"</string>
+<string name="tts_engine_preference_section_title">"कुसीयाक् इंजन"</string>
+<string name="tts_general_section_title">"साधारन"</string>
+<string name="gadget_title">"पावर कोबोज"</string>
+<string name="gadget_toggle_wifi">"वाई-फाई सेटिंग नावांआरोय"</string>
+<string name="gadget_toggle_bluetooth">"ब्लूटु सेटिंग नावाँआरोक्"</string>
+<string name="gadget_state_template">"<xliff:g name="feature" example="Wi-Fi">%1$s</xliff:g> <xliff:g name="state" example="off">%2$s</xliff:g>"</string>
+<string name="gadget_state_on">"चालु"</string>
+<string name="gadget_state_off">"बन्दो"</string>
+<string name="gadget_state_turning_on">"चालबरुवाड़"</string>
+<string name="gadget_state_turning_off">"तुकुम रुवाड़"</string>
+<string name="gadget_wifi">"वाई-फाई  "</string>
+<string name="gadget_bluetooth">"ब्लूटुथ"</string>
+<string name="gadget_location">"ठाँवेल "</string>
+<string name="gadget_sync">"सिंक"</string>
+<string name="gadget_brightness_template">"साफातेत <xliff:g name="state" example="half">%1$s</xliff:g>"</string>
+<string name="gadget_brightness_state_auto">"अटो"</string>
+<string name="gadget_brightness_state_full">"पुरा"</string>
+<string name="gadget_brightness_state_half">"आदकेरा"</string>
+<string name="gadget_brightness_state_off">"बन्दो"</string>
+<string name="credentials_title">"हामेटाक् जोगाव"</string>
+<string name="credentials_install" product="nosdcard">"जोगावाक् खोन इंस्टल"</string>
+<string name="credentials_install" product="default">"SD कार्ड खोन इंस्टल"</string>
+<string name="credentials_install_summary" product="nosdcard">"जोगावाक् खोन पोरमान साकाम इंटल"</string>
+<string name="credentials_install_summary" product="default">"SD कार्ड खोन पोरमान साकाम इंस्टल"</string>
+<string name="credentials_reset">"हामेटाक् साफाय"</string>
+<string name="credentials_reset_summary">"जातो पान साकाम ओचोग"</string>
+<string name="trusted_credentials">"पातियावाक् मेटाक्"</string>
+<string name="trusted_credentials_summary">"पातियावाक् CA पोरमान साकाम उदुग"</string>
+<string name="credential_storage_type">"जोगावाक् टाइप"</string>
+<string name="credential_storage_type_hardware">"हार्डवेर तेपेत"</string>
+<string name="credential_storage_type_software">"एन सॉफ्टवेर"</string>
+<string name="credentials_install_gesture_prompt">"आमाक् अनलॉक भावाँर गार मे"</string>
+<string name="credentials_install_gesture_explanation">"हामेटाक् इंस्टल पुस्टाउ लागित् ते आमाक् अनलॉक लावेर ओचो रेयाक् लाकती मेनाक्आ।"</string>
+<string name="credentials_unlock_hint">"हामेटाक् जोगाव लागित् ते पावर्ड टाइपमे।"</string>
+<string name="credentials_old_password">"निताक् पासवर्ड"</string>
+<string name="credentials_reset_hint">"जोतो जिनि ओडोक् मे?"</string>
+<string name="credentials_password_too_short">"पासवर्ड 8 होरोप् खोन कोम बाङ हुयुक् लाकतीया"</string>
+<string name="credentials_wrong_password">"बाहजुड़ी पासवर्ड"</string>
+<string name="credentials_reset_warning">"पासवर्ड भूलगेया। आरमित धाव लेगाय लाहा हामेटाक् जोगावाक् मेटावोक्आ।"</string>
+<string name="credentials_reset_warning_plural">"पासव्रड भूलगेया। आम <xliff:g id="number" example="5">%1$d</xliff:g> आर मित् धाव फेराव लाहा रे हामेटाक् जोगावाक् मेटावोक्आ।"</string>
+<string name="credentials_erased">"हामेट जोगावाक् मेटावेना।"</string>
+<string name="credentials_not_erased">"हामेट जोगावाक् बाङ मेटावोक्आ।"</string>
+<string name="credentials_enabled">"हामेट जोगावाक् बाङ मेटावोक्आ।"</string>
+<string name="credentials_configure_lock_screen_hint">"आम हामेट जोगावा एम बेभार दाड़ेयाक्आ ओना लाहा रे आम स्क्रीन रेयाक् PIN से पासवर्डसेट रेया लाकती मेनाक्आ।"</string>
+<string name="emergency_tone_title">"इमरजेंसी टोन"</string>
+<string name="emergency_tone_summary">"मित मुहिम कॉल लागिति सेट बेबोहार दोहोवाकाना"</string>
+<string name="privacy_settings">"दहड़ा सेट"</string>
+<string name="privacy_settings_title">"दहड़ा सेट"</string>
+<string name="backup_section_title">"बैकअप &amp;  जोगावरुवाड़"</string>
+<string name="personal_data_section_title">"निजाक् डेटा"</string>
+<string name="backup_data_title">"इञाक् डेटा सोतावाक् मे"</string>
+<string name="backup_data_summary">"ऐप डेटा बैकअप, वाई-फाई पासवर्डको, आर एटाक् सेटिंग को गुगल सेवा ते"</string>
+<string name="backup_configure_account_title">"बैकअप खाता"</string>
+<string name="backup_configure_account_default_summary">"सोतावाक् डेटा निताक् खाता रे बाङ जोगावोक् काना"</string>
+<string name="auto_restore_title">"आच् ते जोगावरुवाड़"</string>
+<string name="auto_restore_summary">"जोखोच् ऐप दोहड़ा इंस्टलोक्आ, डेटा आर सेटिंग जोगाव रुवाडड़ सोतावाक्आ"</string>
+<string name="local_backup_password_title">"डेस्टॉप बैकअप पासवर्ड"</string>
+<string name="local_backup_password_summary_none">"डेस्कटॉप पुरुन बैकअप नितोक् रुखिया बानुक्आ"</string>
+<string name="local_backup_password_summary_change">"पार बैकअप से फेराव लागित् ते डेस्कटॉप लागित् पासवर्ड साहाय लागित् जोटेदमे"</string>
+<string name="local_backup_password_toast_success">"नावाँ बैकअप पासवर्ड सेट"</string>
+<string name="local_backup_password_toast_confirmation_mismatch">"नावाँ पासवर्ड आर पुस्टावाक् ते बाङ जुड़ीक् काना"</string>
+<string name="local_backup_password_toast_validation_failure">"बैकअप पासवर्ड सेटिंग बाङ गानलेना"</string>
+<string name="backup_erase_dialog_message">"आमाक् वाई-फाई पासवर्ड, बुकमार्क, ए सेटिंग आर ऐप को रेयाक् डेटा हेंयाक् थुकुम मे, सालाक् ते गुगल सर्वर रेयाक् जोतो जालादाक् को मेटावेम मेनेदा?"</string>
+<string name="device_admin_settings_title">"डिवाइस एडमिनिस्ट्रेसन सेटिंग"</string>
+<string name="active_device_admin_msg">"डिवाइस मेनेजर"</string>
+<string name="remove_device_admin">"बेसोमोले"</string>
+<string name="select_device_admin_msg">"डिवाइस एडमिनिस्ट्रेटोर को"</string>
+<string name="no_device_admins">"डिवाइस एडमिनिस्ट्रेटर रे बानुक्आ"</string>
+<string name="add_device_admin_msg">"डिवाइस एडमिनिस्ट्रेटर चालूयमे"</string>
+<string name="add_device_admin">"कामीयेत"</string>
+<string name="device_admin_add_title">"डिवाइस मेनेजर"</string>
+<string name="device_admin_warning">"ऐप नोवा डिवाइस एडमिनिस्ट्रेटर कामी ओचोय रेयाक् दावे एमाक् काना  <xliff:g id="app_name">%1$s</xliff:g>लातार रेयाक् कामी लागित् तेः"</string>
+<string name="device_admin_status">"नोवा एडमिनिस्ट्रेटर कामीयेत् काना आर ऐप दाँवे एमोक् काना <xliff:g id="app_name">%1$s</xliff:g> लातार रेयाक् की लागित् तेः"</string>
+<string name="untitled_apn">"बेञुतुमाक्"</string>
+<string name="sound_category_sound_title">"साधारन"</string>
+<string name="sound_category_notification_title">"नटिफिकेशन"</string>
+<string name="sound_category_call_ringtone_vibrate_title">"कॉल रिंगटोन &amp;  तारको"</string>
+<string name="sound_category_system_title">"सिस्टम"</string>
+<string name="wifi_setup_title">"वाई-फाई सेटअप"</string>
+<string name="wifi_setup_title_editing_network">"नेटवार्क वाई-फाई ते जोड़ाव <xliff:g id="network_name" example="Happy Mobile">%s</xliff:g>"</string>
+<string name="wifi_setup_title_connecting_network">"नेटवर्क वाई-फाई ते जोड़ाक् <xliff:g id="network_name" example="Happy Mobile">%s</xliff:g>..."</string>
+<string name="wifi_setup_title_connected_network">"नेटवर्क वाई-फाई ते जोड़ावेना <xliff:g id="network_name" example="Happy Mobile">%s</xliff:g>"</string>
+<string name="wifi_setup_title_add_network">"नटेवर्क तोङ्गेयाक्"</string>
+<string name="wifi_setup_not_connected">"जोड़ाव बानुक आ"</string>
+<string name="wifi_setup_add_network">"नेटवर्क तोङ्गेयाक्"</string>
+<string name="wifi_setup_refresh_list">"फारचा आरो"</string>
+<string name="wifi_setup_skip">"एड़ाव"</string>
+<string name="wifi_setup_next">"तायोमाक्"</string>
+<string name="wifi_setup_back">"रुवाड़"</string>
+<string name="wifi_setup_detail">"नेटवर्क बेवरा"</string>
+<string name="wifi_setup_connect">"जोनोड़ाव"</string>
+<string name="wifi_setup_forget">"हिड़िञ"</string>
+<string name="wifi_setup_save">"जोगाव"</string>
+<string name="wifi_setup_cancel">"बातिल"</string>
+<string name="wifi_setup_status_scanning">"नेटवर्क स्केनोक्"</string>
+<string name="wifi_setup_status_select_network">"नोवा जाक् कातेन नेटवर्क जोड़ाव मे"</string>
+<string name="wifi_setup_status_existing_network">"सेनोक् कान नेटवर्क जोड़ावमे"</string>
+<string name="wifi_setup_status_unsecured_network">"बेरिका नेटवर्क जोड़ावमे"</string>
+<string name="wifi_setup_status_edit_network">"नेटवर्क कंफिगकरेसन लागित् टाइपमे"</string>
+<string name="wifi_setup_status_new_network">"नावा नेटवर्क जोड़ावमे"</string>
+<string name="wifi_setup_status_connecting">"जोड़ावोक्…"</string>
+<string name="wifi_setup_status_proceed_to_next">"तायोम धाप सेनोक् मे"</string>
+<string name="wifi_setup_status_eap_not_supported">"EAP बाय सोताक् काना।"</string>
+<string name="wifi_setup_eap_not_supported">"सेटअप ओकते रे EAP वाई-फाई जोड़ाव कॉंफिगर बाङ हुय दाड़ेयाक्आ। सेटअप तायोम ते, आम सेटिंग दाड़ेयाक्आ &gt; वायरलेस &amp;  नेटवर्क।"</string>
+<string name="wifi_setup_description_connecting">"किछू मिनट कॉंफिगर जोड़ाव बाङ हुयुक्आ --"</string>
+<string name="wifi_setup_description_connected">"जाक् <b>नेक्स्ट</b> चालाव दाड़ेय़ाक् से बाङ सेटअप.\n\n"जाक् <b>पीछे</b> तेजोड़ान भेनेगार वाई-फाई नेटवर्क।"</string>
+<string name="accessibility_sync_enabled">"सिंक सोमोल"</string>
+<string name="accessibility_sync_disabled">"सिंक बेसोमोल"</string>
+<string name="accessibility_sync_error">"सिंक तापुक्"</string>
+<string name="sync_failed">"सिंक बेगान"</string>
+<string name="sync_active">"सिंक कामीय"</string>
+<string name="account_sync_settings_title">"सिंक"</string>
+<string name="sync_is_failing">"सिंक नितोक् आनाट ञाम आकादा। नोवा चाँड़ गे रुवाड़ा।"</string>
+<string name="add_account_label">"खाता जोनोड़ाव"</string>
+<string name="background_data">"देयापाहटा डेटा"</string>
+<string name="background_data_summary">"ऐप सिंक दाड़ेयाक्आ, कोल, आर डेटा आताङ रेयाक् ओकते"</string>
+<string name="background_data_dialog_title">"बेसोमोल देयापाहटा डेटा"</string>
+<string name="background_data_dialog_message">"देयापाहटा डेटा रेयाक् बोसोमोल बैचरी जियोन ए एमाक् काना आर डेटा बेभार कोम आय। किछू ऐप नित हो देयापाहटा डेटा जोड़ाव रेयाक् बेबार दाड़ेयाक्आ।"</string>
+<string name="sync_automatically">"आच् ते सिंक ऐप डेटा"</string>
+<string name="sync_enabled">"सिंक चालूगेया"</string>
+<string name="sync_disabled">"सिंक थुकुम गेया"</string>
+<string name="sync_error">"सिंक तापुक गेया"</string>
+<string name="last_synced">"मुचात् सिंक आकाना <xliff:g id="last_sync_time">%1$s</xliff:g>"</string>
+<string name="sync_in_progress">"सिंकसिंग नितोक्…"</string>
+<string name="settings_backup">"बैक अप सेटिंग"</string>
+<string name="settings_backup_summary">"इञाक् बैकअप सेटिग"</string>
+<string name="sync_menu_sync_now">"नितोक् सिंक"</string>
+<string name="sync_menu_sync_cancel">"बातिल सिंक"</string>
+<string name="sync_calendar">"केलेण्डर"</string>
+<string name="sync_contacts">"जोगाजोगको  "</string>
+<string name="sync_plug">"<font fgcolor="#ffffffff"> आताङ दाराम Google sync!</font> \n डेटा को मेसा कातेन Google आच् लेकाते ते आमाक् जोड़ावान सालाक् बेभार रेयाक् छाड़ ए एमोक् काना, नियुक्तिको, आर जाहाँ रे आम कोरावेत काना खोन बाड़ती गेया। "</string>
+<string name="header_application_sync_settings">"ऐप सिंक सेटिंगको"</string>
+<string name="header_data_and_synchronization">"माँहित &amp;  सिंक्रोनाइजेसन"</string>
+<string name="preference_change_password_title">"पासवर्ड फेराव"</string>
+<string name="header_account_settings">"खाता सेंटिंग"</string>
+<string name="remove_account_label">"खाता ओचोग"</string>
+<string name="header_add_an_account">"खाता लेकाते जोनोड़ाव"</string>
+<string name="finish_button_label">"पुराव"</string>
+<string name="really_remove_account_title">"खाता ओचोग?"</string>
+<string name="really_remove_account_message" product="tablet">"नोवा खाता ओचोग खान नोवा रेयाक् सान्देस जोगाजोग आर टेबलेट रेयाक् एटाक् डेटा को मेटाव दाड़ेयाक्आ!"</string>
+<string name="really_remove_account_message" product="default">"नोवा खाता ओचोग खान नोवा रेयाक् सान्देस जोगाजोग आर फोन रेयाक् एटाक् डेटा को मेटाव दाड़ेयाक्आ!"</string>
+<string name="remove_account_failed" product="tablet">"खाता रे किछू ऐप को दाराय ते  लाकती मेनाक्आ। आम एकेन टेबलेट रेयाक् फैक्टरी डिफॉल्ट रे सेट दोहड़ा कातेन नोवाम ओचोक् दाड़ेयाक् (जाहाँटाक् आमाक् जोतो डेटा ओचोक् काक् काना) रे सेटिंग &gt; बैकअप  &amp; सेट दोहड़ाय मे।"</string>
+<string name="remove_account_failed" product="default">"खाता रे किछू ऐप को दाराय ते  लाकती मेनाक्आ। आम एकेन फोन रेयाक् फैक्टरी डिफॉल्ट रे सेट दोहड़ा कातेन नोवाम ओचोक् दाड़ेयाक् (जाहाँटाक् आमाक् जोतो डेटा ओचोक् काक् काना) रे सेटिंग &gt; बैकअप  &amp; सेट दोहड़ाय मे।"</string>
+<string name="provider_label">"पुश किरिञ"</string>
+<string name="sync_item_title">"<xliff:g id="authority" example="Calendar">%s</xliff:g>"</string>
+<string name="cant_sync_dialog_title">"ती ते बाङ सिंक ओक्"</string>
+<string name="cant_sync_dialog_message">"नोवा थाक लागित् नितोक सिंक बेसोमोल गेया। नोवा सेटिंग को फेराव लागित् बेथिर खोन देयापाहटा डेटा आर आच्ते सिंक चालूय मे।"</string>
+<string name="status_wimax_mac_address">"4G MAC ठिकाना"</string>
+<string name="enter_password">"डिक्रीप्ट जोगावाक् लागित् ते पासवर्ड टाइप मे"</string>
+<string name="try_again">"दोहड़ा लेगायमे।"</string>
+<string name="delete">"मेटाव"</string>
+<string name="misc_files">"आलगेल फाइल"</string>
+<string name="misc_files_selected_count">"बाछावाक् <xliff:g id="number" example="3">%1$d</xliff:g>खोन बाहरे<xliff:g id="total" example="15">%2$d</xliff:g>"</string>
+<string name="misc_files_selected_count_bytes">"<xliff:g id="number" example="3.25MB">%1$s</xliff:g> उजी रे<xliff:g id="total" example="15.25MB">%2$s</xliff:g>"</string>
+<string name="select_all">"जोतो सेलेद् मे"</string>
+<string name="hdcp_checking_title">"HDCP पाछनाव"</string>
+<string name="hdcp_checking_dialog_title">"सेट HDCP पाछानाव बेवहार"</string>
+<string name="debug_debugging_category">"भुल सुधार "</string>
+<string name="debug_app">"डिबग ऐप बाछाव"</string>
+<string name="debug_app_not_set">"डिबग एप्लिकेसन सेट बानुक्आ"</string>
+<string name="debug_app_set">"डिबग ओक एप्लिकेसन: <xliff:g id="app_name">%1$s</xliff:g>"</string>
+<string name="select_application">"एप्लिकेसन बाछाव"</string>
+<string name="no_application">"एकाल बाङ"</string>
+<string name="wait_for_debugger">"डिबग ओक् लागित् ताङगी"</string>
+<string name="wait_for_debugger_summary">"डिबग आकात् आऐप को कामी आगूय लागित् ते माड़ाङ जोगाव लागित् ताङ्गेयेत् काना"</string>
+<string name="debug_input_category">"इनपुट"</string>
+<string name="debug_drawing_category">"गारेत्"</string>
+<string name="debug_hw_drawing_category">"हार्डवेर चाँड़ कामीय"</string>
+<string name="debug_monitoring_category">"तानखीय"</string>
+<string name="strict_mode">"केटेच् मोड सोमोला"</string>
+<string name="strict_mode_summary">"फेलैश स्क्रीन जोखेच् ऐप ओसोल बाबेर रे जिलिञ ए कामीयेत् काना"</string>
+<string name="pointer_location">"ठाँव लायाक्"</string>
+<string name="pointer_location_summary">"स्क्रीन चेतान रे निताक डेटा उदुग लागित् जाग मे"</string>
+<string name="show_touches">"जाक कातेन उदुक"</string>
+<string name="show_touches_summary">"जोटेत कातेन ञेनेल को उदुग"</string>
+<string name="show_screen_updates">"सामाङ नावाँ आरो उदुग"</string>
+<string name="show_screen_updates_summary">"जोखेच् ओना नावाँ आरोय फलेश पुरा विंडो रे चेतान को रे"</string>
+<string name="show_hw_screen_updates">"GPU ञेनेल नावाँ आरो उदुग"</string>
+<string name="show_hw_screen_updates_summary">"विंडो को भितरी ञेनेल फ्लेश जोखेच् GPU सालाक् ते सापड़ाक्आ"</string>
+<string name="show_hw_layers_updates">"हार्डवेयर बुनियाद नावाँ आरो उदुग मे"</string>
+<string name="show_hw_layers_updates_summary">"जोखेच् नावा आरोक्आ हार्डवेयर बुनियाद फ्लैस गादेदोक्आ"</string>
+<string name="debug_hw_overdraw">"डिबग GPU चेतान गार"</string>
+<string name="disable_overlays">"बेसोमोल HW  चेतानथाक् को"</string>
+<string name="disable_overlays_summary">"जाव बेभार मे GPU स्क्रीन सायताव लागित"</string>
+<string name="enable_opengl_traces_title">"झिच् OpenGL सोमोल मे"</string>
+<string name="debug_layout">"उदुग बुनियाद सीमा"</string>
+<string name="debug_layout_summary">"क्लीप बारोन, मार्जिन को एमान उदुगमे।"</string>
+<string name="force_rtl_layout_all_locales">"RTL  दाड़े बुनियाद बातलावाक्"</string>
+<string name="force_rtl_layout_all_locales_summary">"जोतो ठावेल लागित् RTL दाड़े बुनियाद बातलावाक्"</string>
+<string name="show_cpu_usage">"CPU बेबोहार उदुगमे"</string>
+<string name="show_cpu_usage_summary">"निताक्  CPU बेबोहार स्क्रीन ओवरले रे उदुगमे"</string>
+<string name="force_hw_ui">"GPU  दाड़े सोपोरोत "</string>
+<string name="force_hw_ui_summary">"दाड़े ते बेबोहार ते GPU लागित 2d गारोक्"</string>
+<string name="force_msaa">"दाड़े 4x MSAA"</string>
+<string name="force_msaa_summary">"सोमोल4x MSAA छे OpenGL ES 2.0 ऐपको"</string>
+<string name="show_non_rect_clip">"डिबग बेपोंडास क्लिप रे कामीको"</string>
+<string name="track_frame_time">"प्रोफाइल GPU थापित"</string>
+<string name="window_animation_scale_title">"विंडो एनिमेसन स्केल"</string>
+<string name="transition_animation_scale_title">"ट्रांजिसन एनिमेसन स्केल"</string>
+<string name="animator_duration_scale_title">"एनिमेसन ओकतो स्केल"</string>
+<string name="overlay_display_devices_title">"दोसाराक् उनुदुक् को पाञ्जायेत"</string>
+<string name="debug_applications_category">"एप्पको"</string>
+<string name="immediately_destroy_activities">"चालू आलोम दोहोया"</string>
+<string name="immediately_destroy_activities_summary">"नोवा बेभारिच् लेकाते साहटा चाँड़ ते गे जोतो लेकान कामी कोय नोस्टोया"</string>
+<string name="app_process_limit_title">"बैकग्राउण्ड कामीकासनी सीमातो"</string>
+<string name="show_all_anrs">"ANR को जोतो उदुक"</string>
+<string name="show_all_anrs_summary">"बैकग्राउंड ऐप गालमाराक् लागित तेऐप बाय उदुक् एत् काना"</string>
+<string name="data_usage_summary_title">"डेटा बेवहार रेनाक् रिती निती       "</string>
+<string name="data_usage_cycle">"डेटा बेबोहार आचुर"</string>
+<string name="data_usage_menu_roaming">"रोमिंग डेटा"</string>
+<string name="data_usage_menu_restrict_background">"डेटा बैकग्राउंड बारोन"</string>
+<string name="data_usage_menu_split_4g">"4G  बेबोहार जुदाय"</string>
+<string name="data_usage_menu_show_wifi">" Wi\u2011Fi बेभार उदुग मे"</string>
+<string name="data_usage_menu_show_ethernet">"ईथरनेट बेबोहार उदुक"</string>
+<string name="data_usage_menu_metered">"मोबाइल हॉटस्पॉट को"</string>
+<string name="data_usage_menu_auto_sync">"डेटा आच् ते सिंक"</string>
+<string name="data_usage_change_cycle">"फेराव आचुरोक् ..."</string>
+<string name="data_usage_pick_cycle_day">"चादो रेयाक् माहाँ को आचुर लेकाते डेटा बेबोहार सेट दोहड़ायमे:"</string>
+<string name="data_usage_empty">"निया ओकते ऐप डेटा बाह बेबोहारोक्आ।"</string>
+<string name="data_usage_label_foreground">"लाहाजायगा"</string>
+<string name="data_usage_label_background">"देयातेयाक्  "</string>
+<string name="data_usage_app_restricted">"बारोनाक्"</string>
+<string name="data_usage_disable_mobile">"मोबाइल डेटा बेसोमोलो?"</string>
+<string name="data_usage_disable_mobile_limit">"मोबाइल डेटा सीमातो"</string>
+<string name="data_usage_disable_4g_limit">"4G डेटा सीमातो सेट"</string>
+<string name="data_usage_disable_3g_limit">"2G-3G डेटा सीमातो सेट"</string>
+<string name="data_usage_disable_wifi_limit">"वाई-फाई डेटा सीमातो सेट"</string>
+<string name="data_usage_tab_wifi">"वाई-फाई  "</string>
+<string name="data_usage_tab_ethernet">"एथारनेट"</string>
+<string name="data_usage_tab_mobile">"फोन"</string>
+<string name="data_usage_list_mobile">"फोन"</string>
+<string name="data_usage_list_none">"बाङ"</string>
+<string name="data_usage_enable_mobile">"मोबाइल  डेटा"</string>
+<string name="data_usage_enable_3g">"2G-3G डेटा"</string>
+<string name="data_usage_enable_4g">"4G डेटा"</string>
+<string name="data_usage_app_settings">"ऐप सेटिंग ञेल"</string>
+<string name="data_usage_app_restrict_background">"डेटा बैकग्राउंड बारोन"</string>
+<string name="data_usage_app_restrict_background_summary">"मोबाइल नेटवर्क रे देया साहटा बेसोमोल मे। जुदी मेनाक् खान बे मोबाइल नेटवर्क रेयाक् बेभार हुयुक्आ।  ."</string>
+<string name="data_usage_app_restrict_background_summary_disabled">"नोवा ऐप लागित् साहटा देया डेटा बारोन लागित् ते, माड़ाङ मोबाइल डेटा सीमातो सेट मे।"</string>
+<string name="data_usage_app_restrict_dialog_title">"बैकग्राउंड डेटा बारोना?"</string>
+<string name="data_usage_app_restrict_dialog">"नोवा सुबिता नोङ्कान ऐप रेयाक् ओजे हुय दाड़ेयाक्आ जाहाँटाक् एकेन मोबाइल नेटवर्क ञाम लेन खान कामीय बोन्द लागित् ते साहटा देया डेटा रे टेहाड़ रे मेनाक्आ। \n\n आम एप रेयाक् भितरी मेनाक् सेटिंग रे बाड़ती लाकती डेटा बेभार कोबोज ञाम दाड़ेयाक्आ।"</string>
+<string name="data_usage_restrict_denied_dialog">"साहटा डेटा को बारोन हुय दाड़ेयाक्आ, जोखेच् आम मोबाइल डेटा सीमातो सेट आ।"</string>
+<string name="data_usage_auto_sync_on_dialog_title">"डेटा आच् ते सिंक चालूक् मा?"</string>
+<string name="data_usage_auto_sync_on_dialog" product="tablet">"वेब रे आमाक् खाते रे कोराव आकात् जाहाँलेकान फेराव आच् ते आमाक् टेबलेट रे कॉपी हुयुक् आ।\n\nकिछू खाता को रे आमाक् टेबलेट रे आम दाराय ते कोराव आकात् फेराव आच् ते वेब रे कॉपी दाड़ेयाक्आ। मित् google खाता रे नोवा लेकातेय कामीयेक् काना\n\nमिमित् खाता को रे ओका लेकानाक् बापाडाय को साइताव लागित् ते बाछाव लागित्, सेटिंग &gt; खाता को रे सेनोक् मे।"</string>
+<string name="data_usage_auto_sync_on_dialog" product="default">"वेब रे आमाक् खाते रे कोराव आकात् जाहाँलेकान फेराव आच् ते आमाक् फोन रे कॉपी हुयुक् आ।\n\nकिछू खाता को रे आमाक् फोन रे आम दाराय ते कोराव आकात् फेराव आच् ते वेब रे कॉपी दाड़ेयाक्आ। मित् google खाता रे नोवा लेकातेय कामीयेक् काना\n\nमिमित् खाता को रे ओका लेकानाक् बापाडाय को साइताव लागित् ते बाछाव लागित्, सेटिंग &gt; खाता को रे सेनोक् मे।"</string>
+<string name="data_usage_auto_sync_off_dialog_title">"डेटा आच् ते सिंक थुकुमोक्आ?"</string>
+<string name="data_usage_auto_sync_off_dialog">"नेवा डेटा आर बैटरी बेबोहार रेयाक् ए राखाया, मेनखान आम मैन्यूअल लेकाते मिमित् खाता को सिक लागित् हाले बापाडाय तुमाल रेयाक् लाकती हुयुक्आ। आर नावाँ आरो लेन खान आम बाडाय बाम ञामा।"</string>
+<string name="data_usage_cycle_editor_title">"डेटा आचुर बेबोहार लागित् सेट आरो"</string>
+<string name="data_usage_cycle_editor_subtitle">"मिमित् चाँदो रेयाक् माँहितः"</string>
+<string name="data_usage_cycle_editor_positive">"सेट"</string>
+<string name="data_usage_warning_editor_title">"डेटा बेबोहार सोन्तोर सेट"</string>
+<string name="data_usage_limit_editor_title">"डेटा बेबोहार सीमातो सेट"</string>
+<string name="data_usage_limit_dialog_title">"बेबोहार डेटा सीमातो"</string>
+<string name="data_usage_limit_dialog_mobile" product="tablet">"आमाक् मोबाइल डेटा जोड़ाव रेयाक् लाई सीमा हाबिच् सेटेरोक् रे बेसोमोल काक् तामा।\n\n चेदाक् जे डेटा बेभार आमाक् टेबलेट दाराय ते सोङ्गोक् काना, आर आमाक् इदीयाक् जुदी जुदा बेभार लागित् खाता हों हुय दाड़ेयाक्आ, ओना इयाते मारेनाक् सीमा रे बेभार लागित् बिचार मे।"</string>
+<string name="data_usage_limit_dialog_mobile" product="default">"आमाक् मोबाइल डेटा जोड़ाव रेयाक् लाई सीमा हाबिच् सेटेरोक् रे बेसोमोल काक् तामा।\n\n चेदाक् जे डेटा बेभार आमाक् फोन दाराय ते सोङ्गोक् काना, आर आमाक् इदीयाक् जुदी जुदा बेभार लागित् खाता हों हुय दाड़ेयाक्आ, ओना इयाते मारेनाक् सीमा रे बेभार लागित् बिचार मे।"</string>
+<string name="data_usage_restrict_background_title">"बैकग्राउंड डेटा बारोना?"</string>
+<string name="data_usage_restrict_background">"जुदी आम देयासाहटा रेयाक् मोबाइल डेटा कोम बारोनेत् काना, खान किछू ऐप आर सेवाको उन हाबिच् बाय कामीया जाहाँ तिन हाबिच्  Wi\u2011Fi  नेटवर्क जोनोड़ाव बाङ ताहेन।"</string>
+<string name="data_usage_restrict_background_multiuser" product="tablet">"जुदी आम देयासाहटा रेयाक् मोबाइल डेटा कोम बारोनेत् काना, खान किछू ऐप आर सेवाको उन हाबिच् बाय कामीया जाहाँ तिन हाबिच्  Wi\u2011Fi  नेटवर्क जोनोड़ाव बाङ ताहेन।\n\n नोवा सेटिंग जोतो टेबलेट बेभारिच् कोय एसेर कोवा।"</string>
+<string name="data_usage_restrict_background_multiuser" product="default">"जुदी आम देयासाहटा रेयाक् मोबाइल डेटा कोम बारोनेत् काना, खान किछू ऐप आर सेवाको उन हाबिच् बाय कामीया जाहाँ तिन हाबिच्  Wi\u2011Fi  नेटवर्क जोनोड़ाव बाङ ताहेन।\n\n नोवा सेटिंग जोतो फोन बेभारिच् कोय एसेर कोवा।"</string>
+<string name="data_usage_sweep_warning">"<font size="21"><xliff:g id="number" example="128">^1</xliff:g></font> <font size="9"><xliff:g id="unit" example="KB">^2</xliff:g></font>\n<font size="12">सोनतोर</font>"</string>
+<string name="data_usage_sweep_limit">"<font size="21"><xliff:g id="number" example="128">^1</xliff:g></font> <font size="9"><xliff:g id="unit" example="KB">^2</xliff:g></font>\n<font size="12">सीमातो</font>"</string>
+<string name="data_usage_uninstalled_apps">"ऐप को ओचोग"</string>
+<string name="data_usage_uninstalled_apps_users">"ऐपको आर बेभारको ओचोक् एना"</string>
+<string name="data_usage_received_sent">"<xliff:g id="received" example="128KB">%1$s</xliff:g> आताङाक्, <xliff:g id="sent" example="1.3GB">%2$s</xliff:g> कोल"</string>
+<string name="data_usage_total_during_range">"<xliff:g id="range" example="Jul 1 - Jul 31">%2$s</xliff:g>: बाबोत <xliff:g id="total" example="128KB">%1$s</xliff:g> बेभाराक्।"</string>
+<string name="data_usage_total_during_range_mobile" product="tablet">"<xliff:g id="range" example="Jul 1 - Jul 31">%2$s</xliff:g>: बाबोत <xliff:g id="total" example="128KB">%1$s</xliff:g>बेभाराक्, आमाक् टेबलेट ते सोङोक्आ। आमाक् कैरियर रेयाक् डेटा बेबोहार लेखा रे भेनेगार हुयदाड़ेयाक्आ।"</string>
+<string name="data_usage_total_during_range_mobile" product="default">"<xliff:g id="range" example="Jul 1 - Jul 31">%2$s</xliff:g>: बाबोत <xliff:g id="total" example="128KB">%1$s</xliff:g>बेभाराक्, आमाक् फोन ते सोङोक्आ। आमाक् कैरियर रेयाक् डेटा बेबोहार लेखा रे भेनेगार हुयदाड़ेयाक्आ।"</string>
+<string name="data_usage_metered_title">"मोबाइल हॉटस्पॉट को"</string>
+<string name="data_usage_metered_body">" Wi\u2011Fi नेटवर्क रेयाक् बाछाव मे जाहाँटाक् मोबाइल हॉटस्पॉट रे मेनाक्आ। जोखेच् देयासाहटा रे नोवा नोवा नेटवर्क को रेयाक् बेभार लेखान ते ऐप को रे बारोन दाड़ेयाक्आ । लाटू आतु आड़गो लागित् ते नोवा नेटवर्क रेयाक् बेभार माड़ाङ रे लाहा खोन ऐप को  चेंघाय एम दाड़ेयाक्आ।"</string>
+<string name="data_usage_metered_mobile">"सेलुलर नेटवर्क"</string>
+<string name="data_usage_metered_wifi">"वाई-फाई नेटवर्क को"</string>
+<string name="data_usage_metered_wifi_disabled">"मोबाइल हॉटस्पॉट रेयाक् बाछाव लागित् ते, Wi\u2011Fi चालूय मे।"</string>
+<string name="cryptkeeper_emergency_call">"लाकतिय़ाक  कल"</string>
+<string name="cryptkeeper_return_to_call">"कॉल रुवाड़"</string>
+<string name="vpn_name">"ञुतुम "</string>
+<string name="vpn_type">"टाइप"</string>
+<string name="vpn_server">"सर्वर ठिकाना"</string>
+<string name="vpn_mppe">"PPP एंरीप्सन (MPPE)"</string>
+<string name="vpn_l2tp_secret">"L2TP ओको"</string>
+<string name="vpn_ipsec_identifier">"IPSec ओःरोमाक्"</string>
+<string name="vpn_ipsec_secret">"IPSec की लाहा हाटिञाक्"</string>
+<string name="vpn_ipsec_user_cert">"IPSec बाभारिजाक् पोरमान साकाम"</string>
+<string name="vpn_ipsec_ca_cert">"IPSec CA पोरमान साकाम"</string>
+<string name="vpn_ipsec_server_cert">"IPSec पोरमान साकाम"</string>
+<string name="vpn_show_options">"लाहान विकल्प को उदुगमे"</string>
+<string name="vpn_search_domains">"DNS बिसोय तोलास"</string>
+<string name="vpn_dns_servers">"DNS सर्वर (परतुल 8.8.8.8)"</string>
+<string name="vpn_routes">"लाहाकोल होर (परतुल 10.0.0.0/8)"</string>
+<string name="vpn_username">"बेभारिजा ञुतुम"</string>
+<string name="vpn_password">"पासवय़ाट"</string>
+<string name="vpn_save_login">"खाता बापाडाय जोगाव"</string>
+<string name="vpn_not_used">"(बाङ बेभाराक्)"</string>
+<string name="vpn_no_ca_cert">"(स्रवर बाङ ञेलआरोवा)"</string>
+<string name="vpn_no_server_cert">"(सर्वर खोन आताङाक्)"</string>
+<string name="vpn_cancel">"बातिल"</string>
+<string name="vpn_save">"जोगाव"</string>
+<string name="vpn_connect">"जोनोड़ाव"</string>
+<string name="vpn_edit">"VPN प्रोफाइल सासापड़ाव"</string>
+<string name="vpn_connect_to">"ते जोड़ाव<xliff:g id="profile" example="School">%s</xliff:g>"</string>
+<string name="vpn_create">"VPN प्रोफाइल तोगेय"</string>
+<string name="vpn_menu_edit">"प्रोफाइल सासापड़ाव"</string>
+<string name="vpn_menu_delete">"प्रोफाइल मेटाव"</string>
+<string name="vpn_menu_lockdown">"VPN जाव गे चालू"</string>
+<string name="vpn_lockdown_summary">"नेटवर्क सालाक् जोड़ाव ताहेन लागित् ते जाव गे मित् VPN प्रोफाइल बाछाव मे। नेटवर्क ट्रेफिर दो नोवा VPN सालाक् जोड़ाव हुय लेन खाना गे छाड़ ए एमोक्आ।"</string>
+<string name="vpn_lockdown_none">"बाङ"</string>
+<string name="vpn_lockdown_config_error">"जाव गे VPN  सर्वर आर DNS लागति ते IP ठिकान रेयाक् लाकती हुयुक्आ।"</string>
+<string name="vpn_no_network">"नोवा रे नेटवर्क जोनोड़ाव बानुक्आ। दायाकते तोयोम ते दोहड़ा लेगायमे।"</string>
+<string name="vpn_missing_cert">"पोरमान साकाम आत् आकाना। दायाकाते प्रोफाइल सासापड़ावमे।"</string>
+<string name="trusted_credentials_system_tab">"सिस्टम"</string>
+<string name="trusted_credentials_user_tab">"बेभारिच्"</string>
+<string name="trusted_credentials_disable_label">"बेसोमोल "</string>
+<string name="trusted_credentials_enable_label">"सोमोल"</string>
+<string name="trusted_credentials_remove_label">"साहा"</string>
+<string name="trusted_credentials_enable_confirmation">"सिस्टम रे CA  पोरमान साकाम सोमोला?"</string>
+<string name="trusted_credentials_disable_confirmation">"सिस्टम रे CA पोरमान साकाम बाङ सोमोला?"</string>
+<string name="trusted_credentials_remove_confirmation">"एकाल ते बेभारिजाक् CA  पोरमान साकाम ओचक् उतार काक्आ?"</string>
+<string name="spellcheckers_settings_title">"बानान ञेञेलाक्"</string>
+<string name="current_backup_pw_prompt">"नोण्डे आमाक् निताक् पुरा बैकअप पासवर्ड टाइप मे"</string>
+<string name="new_backup_pw_prompt">"नोण्डे आमाक् नावाँ पुरा बैकअप पासवर्ड टाइप मे"</string>
+<string name="confirm_new_backup_pw_prompt">"नोण्डे आमाक् नावाँ पुरा बैकअप पासवर्ड टाइप  दोहड़ाय मे"</string>
+<string name="backup_pw_set_button_text">"बैकअप पासवर्ड सेटमे"</string>
+<string name="backup_pw_cancel_button_text">"बातिल"</string>
+<string name="percentage">"<xliff:g id="number" example="30">%d</xliff:g>%%"</string>
+<string name="additional_system_update_settings_list_item_title">"तोगेयाक् सिस्टम नावाँआरोको"</string>
+<string name="selinux_status_disabled">"बेसोमोल"</string>
+<string name="selinux_status_permissive">"छाड़ानाक्"</string>
+<string name="selinux_status_enforcing">"दाड़ेते"</string>
+<string name="ssl_ca_cert_warning">"नेटवर्क पालेन तानखीयेदा"</string>
+<string name="done_button">"गान"</string>
+<string name="ssl_ca_cert_dialog_title">"नेटवर्क तानखीया"</string>
+<string name="ssl_ca_cert_info_message">"नोवा डिवाइस दारायते जोगाड़ोक् काना: \n<xliff:g id="managing_domain">%s</xliff:g>\n\n  आमरेन एटमिनिस्ट्रेटोर दो आमाक् नोट्वर्क कामीधार, सालाक् ते ईमेल, ऐपको आर राखा वेबसाइट कोय तानखी दाड़ेयाक्आ \n\n बाड़ती बाडाय लागित ते आम रेन एडमिनिस्ट्रेटोर सालाक् जोगाजोग मे।"</string>
+<string name="ssl_ca_cert_warning_message">"तेसार होड़ आमाक् नेटवर्क कामीधारा, सालाक् ते ईमेल, ऐपको आर राखा वेबसाइट कोय तानखी दाड़ेयाक्आ। \n\n मित् पातियावानका क्रेडेंसियल आमाक् डिवाइस रे इंस्टल तो नोवा हुय दाड़ेयाक्आ।"</string>
+<string name="ssl_ca_cert_settings_button">"पातियावानक् क्रेडेंसियल को पाछनाव"</string>
+<string name="user_settings_title">"बेभारको"</string>
+<string name="user_list_title">"बेभारिजाक् &amp; प्रोफाइल"</string>
+<string name="user_add_user_menu">"बेभार्को तेगेय से प्रोफाइल"</string>
+<string name="user_summary_restricted_profile">"प्रोफाइल बारोन"</string>
+<string name="user_need_lock_message">"बारोनाक् प्रोफाइल सिजाव लाहा दाड़ेयाक्, आम स्क्रनी कुलुप ऐपको आर निज डेटा रुखिया रेयाक् लाकती मेनाक् तामा।"</string>
+<string name="user_set_lock_button">"कुलुप सेट"</string>
+<string name="user_summary_not_set_up">"सेटअप बानुक्"</string>
+<string name="user_summary_restricted_not_set_up">"सेटअप बानुक्- बारोन प्रोफाइल"</string>
+<string name="user_owner">"मालिक"</string>
+<string name="user_you">"आम (<xliff:g id="name" example="Name">%s</xliff:g>)"</string>
+<string name="user_nickname">"बाहनाञुतुम"</string>
+<string name="user_add_user_type_title">"जोड़ाव "</string>
+<string name="user_add_user_item_summary">"बेभारिजाक् आयाक् ऐपको आर् बेवरा मेनाक् ताया"</string>
+<string name="user_add_profile_item_summary">"आमाक खाता खोन आम बारोनाक् ऐपको आरे बेवरा को रेम सेटेर दाड़ेयाक्आ"</string>
+<string name="user_add_user_item_title">"बेभारिच्"</string>
+<string name="user_add_profile_item_title">"प्रोफाइल बारोन"</string>
+<string name="user_add_user_title">"नावाँ बेभारिच् तोङ्गेये"</string>
+<string name="user_add_user_message_long">"आम आड़ती बेभारिच् बेनाव कातेन एटाक् होड़  सालाक् नोवाडिवाइस एम एजमाल दाड़ेयाक्आ। मिमित् बेभारको वाक् आकोवा ठाँव हुयुक् ताहना, जाहाँटाक् जे उन आयाक् ऐपको, वॉलपेर, आर नोवा लेकाना ते आच् लेका दाड़ेयाक्आ। बेभारिच् टेबलेटसेटिंग को होंय साइताव दाड़ेयाक्आ जेलेका Wi\u2011Fi जाहाँटाक् दो जोतो गेय एसेर कोवा।\n\n मित् नावाँ बेभारिच् बेनाव तायोम, उनी होड़ दो सेटअप रेयाक् कामीधारा रेयाक् दाराय ते सेनोक् रेयाक् लाकती हुयुक् काना। \n\n जाहाँय एटाक् बेभारिच् एटाक् जोतो बेभार को सेच् खोन नोवाँ आरो ऐप छाड़ ए सिकार दाड़ेयाक्आ।"</string>
+<string name="user_add_user_message_short">"मित् नावाँ बेभारिच् बेनाव तायोम, उनी होड़ सेटअप रेयाक् कामीधारा दाराय ते हुयुक् रेयाक् लाकती मेनाक्आ। \n\n जाहाँय बेभारिच् एटाक् जोतो बेभारको सेच् खोन नावाँ आरो ऐप छाड़ कोय सिकार दाड़ेयाक्आ।"</string>
+<string name="user_setup_dialog_title">"नित् बेभारिजाक् सेटअप"</string>
+<string name="user_setup_dialog_message">"रिकायमे जे होड़ टेबलेट हाताव आर आयाक् जायगा रे सेटअप लागित् मेनाया"</string>
+<string name="user_setup_profile_dialog_message">"नित् प्रफाइल सेटअप"</string>
+<string name="user_setup_button_setup_now">"नित सेट मे"</string>
+<string name="user_setup_button_setup_later">"नितोक दो बाङ"</string>
+<string name="user_cannot_manage_message" product="tablet">"एकेन टेबलेट मालिक बेभारकोय बारोन दाड़ेयाकोवा।"</string>
+<string name="user_cannot_manage_message" product="default">"एकेन फोन मालिक बेभारकोय बारोन दाड़ेयाकोवा।"</string>
+<string name="user_cannot_add_accounts_message">"बारोनाक् प्रोफाइल खाता बाङ जोड़ाव दाड़ेयाक्आ"</string>
+<string name="user_remove_user_menu">"मेटाव <xliff:g id="user_name">%1$s</xliff:g> नोवा डिवाइस खोन"</string>
+<string name="user_new_user_name">"नावा युजार"</string>
+<string name="user_new_profile_name">"नावाँ प्रोफाइल"</string>
+<string name="user_confirm_remove_self_title">"आम आमते ओचोगोक् मे"</string>
+<string name="user_confirm_remove_title">"बेभारिच् ओचेगेयाम?"</string>
+<string name="user_profile_confirm_remove_title">"प्रोफाइल को ओचोगाम?"</string>
+<string name="user_confirm_remove_self_message" product="tablet">"आम टेबलेट रे नोङ्कान ठाँव रे मेनामा आर डेटाम आत् देड़ेयाक्आ। आम नोवा कामी लाहा लेका दो बाम कामी दाड़ेयाक्आ।"</string>
+<string name="user_confirm_remove_self_message" product="default">"आम फोन रे नोङ्कान ठाँव रे मेनामा आर डेटाम आत् देड़ेयाक्आ। आम नोवा कामी लाहा लेका दो बाम कामी दाड़ेयाक्आ।"</string>
+<string name="user_confirm_remove_message" product="tablet">"नुई बेभारिच् आका ठाँव आर डेटा नोवा टेबलेट खोन आदोक्आ। आम नोवा कामी लाहा लेका बाम दाड़ेयाक्आ"</string>
+<string name="user_confirm_remove_message" product="default">"नुई बेभारिच् आका ठाँव आर डेटा नोवा फोन खोन आदोक्आ। आम नोवा कामी लाहा लेका बाम दाड़ेयाक्आ"</string>
+<string name="user_profile_confirm_remove_message" product="tablet">"नोवा प्रोफाइल रेयाक् ठाँव आर डेटा नोवा टेबलेट खोन आदोक्आ। आमाक् नोवा कामी लाहा लेका बाम दाड़ेयाक्आ। "</string>
+<string name="user_profile_confirm_remove_message" product="default">"नोवा प्रोफाइल रेयाक् ठाँव आर डेटा नोवा फोन खोन आदोक्आ। आमाक् नोवा कामी लाहा लेका बाम दाड़ेयाक्आ। "</string>
+<string name="user_adding_new_user">"नावाँ बेभार को जोड़ाव कोम…"</string>
+<string name="user_delete_user_description">"बेभारको ओचोक् कोम…"</string>
+<string name="user_delete_button">"मेटाव"</string>
+<string name="application_restrictions">"ऐप आर जिनिस रेयाक छाड़ एमोक्"</string>
+<string name="apps_with_restrictions_header">"बारोन सालाक् ऐप रेयाक् बेभार"</string>
+<string name="apps_with_restrictions_settings_button">"ऐप पासनाव रेयाक् सेटिंग"</string>
+<string name="home_app_uninstall_button">"नोवा ऐप रेयाक् इंस्टल बातिल काक्"</string>
+<string name="only_one_home_message">"होम सेटिंग जोखेच् हाबिच् आम मित् आर होम ऐप इंस्टल दानाङोक्आ।"</string>
+<string name="global_change_warning" product="tablet">"नोवा सेटिंग निया टेबलेट रेन जोतो बेभारकोय एसेरेत कोवा।"</string>
+<string name="global_change_warning" product="default">"नोवा सेटिंग निया फोन रेन जोतो बेभारकोय एसेरेत कोवा।"</string>
+<string name="global_locale_change_title">"पारसी फोरावमे"</string>
+<string name="global_font_change_title">"फॉन्ट साइज"</string>
+<string name="nfc_payment_settings_title">"टेप &amp;एमाम"</string>
+<string name="nfc_payment_no_apps">"एकेन मित् सेच् ते एमाय मे"</string>
+<string name="nfc_payment_learn_more">"आरो पाड़हावमे"</string>
+<string name="nfc_payment_menu_item_add_service">"ऐपको ञाम"</string>
+<string name="nfc_payment_set_default_label">"आमाक् माड़ाङ लाकतीयाक् को सेट मे"</string>
+<string name="nfc_payment_set_default">"जाव बेभार<xliff:g id="app">%1$s</xliff:g> जेकेच् आम टेप &amp; एमाम?"</string>
+<string name="nfc_payment_set_default_instead_of">"जोव बेभार<xliff:g id="app">%1$s</xliff:g>बोदोल ते <xliff:g id="app">%2$s</xliff:g> जोखेच् आम टेप &amp; एमाम?"</string>
+<string name="restriction_settings_title">"बारोनको"</string>
+<string name="restriction_menu_reset">"बारोन को ओचोग"</string>
+<string name="restriction_menu_change_pin">"PIN फेरावमे"</string>
+<string name="app_notifications_switch_label">"बापाडाय उदुगमे"</string>
+<string name="help_label">"गोड़ो"</string>
+<string name="user_account_title">"खाता लागित् ते जिनिस"</string>
+<string name="user_picture_title">"फोट ओरोम साकाम"</string>
+<string name="cell_broadcast_settings">"सेल उछान"</string>
+<string name="user_restrictions_title">"एप्लीकेशन आर जिनिस बारोन"</string>
+<string name="user_rename">"ञुतुमआरो"</string>
+<string name="app_restrictions_custom_label">"ऐप सेट बारोन"</string>
+<string name="user_restrictions_controlled_by">"कोबोजोक् <xliff:g id="app">%1$s</xliff:g>"</string>
+<string name="app_not_supported_in_limited">"नोवा ऐप बारोन प्रोफाइल रे बाय सोहोदोक् काना।"</string>
+<string name="app_sees_restricted_accounts">"नोवा एप्लिकेसन आयाक् खाता रेय बेभार दाड़ेयाक्आ"</string>
+<string name="restriction_wifi_config_title">"मोबाइल आर वाई-फाई"</string>
+<string name="restriction_wifi_config_summary">"वाइ-फाई आर मोबाइल रे सेटिंग फेराव रेयाक् छाड़ एम"</string>
+<string name="restriction_bluetooth_config_title">"ब्लूटुथ"</string>
+<string name="restriction_bluetooth_config_summary">"ब्लूटुथ जुड़ीय आर सेटिंग रे फेराव रेयाक् छाड़ एम"</string>
+<string name="restriction_nfc_enable_summary" product="tablet">"जोखेच् टेबलेट रे जाक् कातेन एटाक् डिवाइस डेटा एपेम रेयाक् छाड़ मेनाक्आ"</string>
+<string name="restriction_nfc_enable_summary" product="default">"जोखेच् फोन रे जाक् कातेन एटाक् डिवाइस डेटा एपेम रेयाक् छाड़ मेनाक्आ"</string>
+<string name="restriction_location_enable_title">"ठाँवेल "</string>
+<string name="restriction_location_enable_summary">"देला ऐप आमाक् ठाँव रेयाक् बापाडाय बेभार मे"</string>
+<string name="wizard_back">"रुवाड़"</string>
+<string name="wizard_next">"तायोमाक्"</string>
+<string name="wizard_finish">"पुराव"</string>
+<string name="user_image_take_photo">"फोटो हातावमे"</string>
+<string name="user_image_choose_photo">"फोटो गैलेरी बाछआव मे"</string>
+<string name="recovery_update_title">"सिस्टम सॉफ्टवेयर नावाँ आरोय"</string>
+<string name="recovery_update_message">"सिस्टम सॉफ्टवेय नावाआरोय मेनाक् रुखिया खातरा को रे, ओकोवाक् बापाडाय बाहरेक्, डेटा खुती आरा सोम्पोती आर एटाक् रुखिया एटकेंटोड़ें को रेयाक् ते खुतीय आगू दाड़ेयाक्आ। नावाँआरोय रेयाक् पुस्टाव लागित् ते \'ओके\', क्लीक मे, जुदी नावाँआरो बाङ हुयुक् कानाखान, \'बातिल\'रे क्लीक मे।"</string>
+<string name="recovery_sdacrd_status">"SD कार्ड बानुक आ"</string>
+<string name="recovery_updatefile_status">"नावाँ आरो ZIP फाइल बाङ ञाम लेना"</string>
+<string name="recovery_update_level">"कोम काच् कोम 35% रेयाक् खेमोता हाराय कामी बाय एहोप दाड़ेयाक्आ, दायाकाते रिचार्ज मे।"</string>
+<string name="recovery_no_package">"SD कार्ड रे नावाँ आरोय पैकेज को बानुक्आ"</string>
+<string name="network_preference_settings">"नेटवर्क बेबोसता"</string>
+<string name="network_type_choosen">"लाकतीयाक् नेटवर्क जोड़ाव मे"</string>
+<string name="default_cmcc_accesspoints_list">"डिफॉल्ट पातियावक् सेटेर टुडाक् को"</string>
+<string name="user_defined_accesspoints_list">"कस्टम पातियाउ सेटेर टुडाक् को"</string>
+<string name="other_accesspoints_list">"बेबाडाय सेटेर टुडाक्"</string>
+<string name="wifi_mac">"मैक् ठिकाना"</string>
+<string name="wifi_netmask">"नेटमास्क"</string>
+<string name="wifi_auto_connect_titile">"आच् ते जोड़ाक्"</string>
+<string name="wifi_auto_connect_summary">"ऐप आच् तो जोड़ाक् आ जोखेच् वाई-फाई एम झिजा"</string>
+<string name="wifi_trusted_ap">"पातियावाक् AP"</string>
+<string name="wifi_trusted_ap_category">"पातियावाक् AP आर लाकतीयाना"</string>
+<string name="wifi_trusted_ap_summary">"पातियावाक् AP ञेनेल आर लाकतीयाक्"</string>
+<string name="wifi_move_ap_up">"चेतान"</string>
+<string name="wifi_move_ap_down">"लातार"</string>
+<string name="wifi_save_update">"जोगाव"</string>
+<string name="wifi_disconnect">"बेजोड़ाव"</string>
+<string name="mobile_to_wlan_policy_title">"वाई-फाई जोड़ाव सेटिंग नीति"</string>
+<string name="mobile_to_wlan_policy_category">"नेटवर्क गालमाराव बाछाव मे"</string>
+<string name="mobile_to_wlan_policy_error">"नोवा दो मित् सोलुलर रेयाक् सेटिंग आनाट ताहेंकाना"</string>
+<string name="mobile_to_wlan_popup_prefix">"वाई-फाई सिगनल ए ञामकेदा"</string>
+<string name="mobile_to_wlan_popup_suffix">"जोखेच् वाइ-फाई एम बेबोहारा, नेटवर्क बेबोहार रे डेटा हिंस बानिज हुय दाड़ेयाक्आ"</string>
+<string name="mobile_choice">"मोबाइल नेट कुसीयाक्"</string>
+<string name="mobile_to_wlan_popup_title">"पातियावाक् वाई-फाई AP ञाम मे"</string>
+<string name="download_complete_filename">"आतुर आड़गो पुरावेना, फाइल पथ रे जोगावमे:"</string>
+<string name="gps_to_wifi_yes">"हें"</string>
+<string name="gps_to_wifi_no">"बाङ"</string>
+<string name="gprs_access">"GPRS सेटेर"</string>
+<string name="wlan_access">"वाई-फाई सेटेर  "</string>
+<string name="select_net_access_type">"नेटवर्क बाछाव भावाँर, दायाकाते आमाक् नेटवर्क सेटेर बाछाव मे"</string>
+<string name="select_trusted_ap_access">"पातियावानाक् सेटेर टुडाक् को"</string>
+<string name="select_trusted_ap_connect">"जोनोड़ाव"</string>
+<string name="download_wifi_unaviliable">"वाई-फाई नेटवर्क तोपाक् आकाना,  इन्टरनेट लागित् मोबाइल रेयाक् नेटवर्क बेभार मे"</string>
+<string name="download_select_gprs_yes">"हें"</string>
+<string name="download_select_gprs_no">"बाङ"</string>
+<string name="wlan_not_available">"वाई-फाई बानुक् आना, चेदाक् बाङ मे मोबाइल नेटवर्क रेयाक् बेभार हुयुक्"</string>
+<string name="mobile_net_yes">"हें"</string>
+<string name="mobile_net_no">"बाङ"</string>
+<string name="key_index">"की उदागाक्"</string>
+<string name="wifi_unable_connect_network">"नेटवर्क जोड़ाव बानुक्आ"</string>
+<string name="wifi_network_mask">"नेटमास्क"</string>
+<string name="wifi_ip_settings_invalid_network_mask">"मित् बातावाक् नेटमास्क ठिकाना टाइप मे"</string>
+<string name="trusted_ap_list_null">"बाङ पातियाव AP"</string>
+<string name="wep_password_tip_text">"दायाकाते खाड़ मे 5, 13, 16 ASCII होरोप को से 10, 26, 32 HEX होरोप् को लागित् WEP ञमाय।"</string>
+<string name="mobile_data_connect_disable">"बाङ"</string>
+<string name="mobile_data_connect_enable">"हें"</string>
+<string name="network_disconnect_title">"नोटिस"</string>
+<string name="network_disconnect_message">"वाई-फाई नेटवर्क तोपाक् आकाना \n मोबाइल दाराय ते डेटा जोड़ावाम? \n जुदी आमाक् नेट रे डेटा प्लान बानुक्आ खान बाड़ी चार्ज लागाव दाडड़ेयाक्आ।"</string>
+<string name="swtichmachine">"आइमर स्विच मशीन"</string>
+<string name="power_on">"पावर चालूय"</string>
+<string name="power_off">"पावर थुकुम"</string>
+<string name="every_day">"दिनाम"</string>
+<string name="never">"बाङ"</string>
+<string name="done">"गान"</string>
+<string name="revert">"रुवाड़"</string>
+<string name="time">"ओकतो\'"</string>
+<string name="alarm_repeat">"दहड़ा "</string>
+<string name="set_alarm">"घांटी बाइसाव"</string>
+<string name="set_alarm_on">"अलार्म सेट चालूय"</string>
+<string name="set_alarm_off">"अलार्म सेट थुकुम"</string>
+<string name="day">"1 दिन"</string>
+<string name="days">"<xliff:g id="days">%s</xliff:g> माहाको"</string>
+<string name="hour">"मित् घन्टा"</string>
+<string name="hours">"<xliff:g id="hours">%s</xliff:g> ताड़ाङ"</string>
+<string name="minute">"मित् मिनट"</string>
+<string name="minutes">"<xliff:g id="minutes">%s</xliff:g> मिनटको"</string>
+<string name="alarm_klaxon_service_desc">"आड़ाङ प्लेबैक सेवा लागित् डेस्क घड़ी रे अलार्म सेट मे।"</string>
+<string name="alarm_alread_exist">"टाइल स्विच मशी <xliff:g id="time">%s</xliff:g>  लाहाखोन गे मेनाक्आस दायाकाते एटाक् ओकते सेट मे"</string>
+<string name="hardware_version">"हार्डवेय वर्जन"</string>
+<string name="choose_sub">"SIM बाछाव"</string>
+<string name="mobile_network_settings_other">"एटाक हड़"</string>
+<string name="applications_manager">"एप्लिकेसन मेनेजर"</string>
+<string name="tasks_manager">"कामी मेनेजर"</string>
+<string name="go_to_app">"ऐप ते सेनोक् "</string>
+<string name="audio_profiles">"ऑडियो प्रोफाइल"</string>
+<string name="font_setting_title">"फॉन्ट"</string>
+<string name="font_setting_tab_sys">"फॉन्ट बेनाव"</string>
+<string name="font_setting_tab_usr">"बेभारिजाक् फॉन्ट"</string>
+<string name="font_setting_menu_add">"फॉन्ट तोङ्गेया"</string>
+<string name="font_setting_menu_reset">"डिफॉल्ट फॉन्ट सेट"</string>
+<string name="font_setting_default_font">"डिफॉल्ट फॉन्ट  "</string>
+<string name="font_setting_menu_delete">"फॉन्ट मेटाव"</string>
+<string name="font_setting_no_fonts">"फॉन्ट को बानुक्"</string>
+<string name="font_setting_dialog_delete">"मेटाव"</string>
+<string name="font_setting_dialog_deleting">"मेटाक्"</string>
+<string name="font_setting_dialog_delete_confirmation">"मेटाक्आ?"</string>
+<string name="font_setting_dialog_delete_confirmation_and_reset">"नोवा फॉन्ट नेगे बेबोहार आकाना, डिफॉल्ट फॉन्ट मेटाव तायोम हों बेबोहार दाड़ेयाक्आ, मेटाव लेताड़ मे?"</string>
+<string name="font_setting_dialog_import">"नावाँ फॉन्ट आगूय"</string>
+<string name="font_setting_dialog_importing">"नावाँ फॉन्ट आगूयेत्"</string>
+<string name="font_setting_dialog_set_font">"नावाँ फॉन्ट सेट"</string>
+<string name="font_setting_dialog_set_font_confirmation">"नोवा फॉन्ट बेबोहार?"</string>
+<string name="font_setting_dialog_set_default">"डिफॉल्ट फॉन्ट बेबोहार"</string>
+<string name="font_setting_dialog_set_default_confirmation">"डिफॉल्ट फॉन्ट बेबोहार?"</string>
+<string name="font_setting_not_selected">"दायाकाते माड़ाङ ओना फॉन्ट बाछाव मे जाहाँ मेटाव एम मेनेत् काना"</string>
+<string name="font_setting_not_enable">"इकाञ मे, नोवा फॉन्ट बानुक्आ, दायाकाते आगूयमे"</string>
+<string name="font_setting_is_current">"नोवा लाहाखोन गे नेहाली फॉन्ट काना"</string>
+<string name="font_setting_is_contant">"नोवा फॉन्ट लाहाखोन मेनाक्आ"</string>
+<string name="font_setting_name_too_long">"नोवा फॉन्ट ञुतुम आडी जिलिञा,  75 होरोप खोन बा़ड़ती मेनाक्आ, दायाकाते ञतुम आरोम मे"</string>
+<string name="uplink_rate">"काडेरानाक् भारीक् दोर: <xliff:g id="maxuprate">%s</xliff:g>, निताक् भारीक् दोर: <xliff:g id="uprate">%s</xliff:g>मिमित् तिड़िच्"</string>
+<string name="downlink_rate">"काडेरानाक् आतुर आड़गो दोर: <xliff:g id="maxdownrate">%s</xliff:g>, निताक् आतुर आड़गो दोर: <xliff:g id="downrate">%s</xliff:g>मिमिच् तिड़िच्"</string>
+<string name="total_rate">"कोल डेटा: <xliff:g id="maxSend">%s</xliff:g>, आताङ डेटा: <xliff:g id="maxReceive">%s</xliff:g>"</string>
+<string name="usb_settings">"USB सेटिंग को"</string>
+<string name="usb_charge_only">"एकेन चार्ज"</string>
+<string name="usb_charge_only_summary">"USB जोखेच् चार्ज मोड रेगे एकेन बेबोहार लातीया"</string>
+<string name="usb_charge_only_storage_active_subtext">"USB जोगावाक् चार्ज मोड रेगे एकेन बेबोहार लातीया"</string>
+<string name="usb_charge_only_notification">"चार्ज जड़ाव मे "</string>
+<string name="usb_storage">"USB जोगावाक्"</string>
+<string name="usb_storage_summary">"सोमोल USB साङ्गे जोगावाक्"</string>
+<string name="ums_settings">"UMS सेटिंग"</string>
+<string name="ums_mounted_setting">"PC नितोक  ums ते माउंट आकाना, दायकाते ताङ्गीयमे..."</string>
+<string name="ums_unmounted_setting">"PC  नितोक् ums अनमाउंट आकानास दायाकाते ताङ्गीयमेt..."</string>
+<string name="usb_virtual_drive">"USB ओहमा डिवाइस"</string>
+<string name="usb_virtual_drive_summary">"USB ओहमा डिवाइस सोमोला"</string>
+<string name="remember_choice">"इञाक कुसि उइहार दोहोय़ मे"</string>
+<string name="remember_choice_summary">"इञाक् बाछावाक् ए धिसावाञ मा आर दिसावाक् कामीय आच् तायोम ओकते खोन एहोबोक्"</string>
+<string name="internal_format">"मोबाइल रेयाक् भितरी जोगावाक् मेटाव मे"</string>
+<string name="internal_format_summary">"मोबाइल रेयाक् भितरी जोतो डेटा मेटाव काक् मे, जेलेका सेरेञ आर चितार"</string>
+<string name="media_format_title_internal">"भितरी जोगावाक् मेटावमे"</string>
+<string name="media_format_desc_internal">"जोतो भितरी रेयाक् जोगावाक् एम मेटावा?आमेम आदा <b>जोतो</b> जोगावाक् डेटा!"</string>
+<string name="media_format_button_text_internal">"भितरी जोगावाक् मेटावमे"</string>
+<string name="media_format_final_desc_internal">"भितरी मेमोरी मेटाव मेस ओण्डे जोगावाक् जोतो फाइल को ओचोगाम? आम नोवा कामी बाम रुवाड़ दाड़ेयाक्आ।!"</string>
+<string name="delete_file_warning">"बाछावाक् फाइल से उदुगाक् ओचोग लेताड़ दोहोयाम?"</string>
+<string name="sdcard_not_available">"SD कार्ड बानुक्आ"</string>
+<string name="network_settings_tab">"नेटवर्क"</string>
+<string name="more_settings_tab">"आरो"</string>
+<string name="device_settings_tab">"इञाक् डिवाइस"</string>
+<string name="personal_settings_tab">"निजाक्"</string>
+<string name="individual_title">"एसकार उताराक्"</string>
+<string name="language_time_title">"पारसी &amp; ओकते"</string>
+<string name="about_title">"बाबोत रे"</string>
+<string name="text_blue">"ब्लूटुथ"</string>
+<string name="text_gps">"LBS"</string>
+<string name="text_sync">"सिंक"</string>
+<string name="text_bright">"साफातेते"</string>
+<string name="simslotcfg_title">"WCDMA कार्ड सेटिंग"</string>
+<string name="simslotcfg_sub_summary">"WCDMA कार्ड बाछाव मे, रिबुट रेयाक् लाकती मेनाक्आ!"</string>
+<string name="wifi_eap_sim_slots">"SIM स्लोट"</string>
+<string name="wifi_eap_sim_slot1">"SIM स्लोट 1"</string>
+<string name="wifi_eap_sim_slot2">"SIM स्लोट 2"</string>
+<string name="toast_datatime_error">"आमाक् सेटिंग नितहाबिच् गापान तियोह हाबिच् बाङ सेटेराकाना।"</string>
+<string name="install_credentials">"इस्टल पोरमानसाकाम"</string>
+<string name="cancel_select_all">"जोतो बतिल"</string>
+<string name="title_delete_other_file">"आलगेल फाइल को मेटाव"</string>
+<string name="msg_deleteing_other_file">"आलगेल फाइल को नितोक् मेटाव"</string>
+<string name="timerpower_afternoon">"पीएम"</string>
+<string name="timerpower_morning">"एएम"</string>
+<string name="widget_toast_airplane_is_on_wlan">"फोन दो एयरप्लेन मोड रे ताहेँन ओकते आम वाईफाई वेभार बाङेम दाड़ेयाक्आ। "</string>
+<string name="widget_toast_airplane_is_on_bt">"जोखेच् फोन एयरप्लेन मोड रे ताहेँना उन ओकते आम ब्लूटूथ बाङेम बेभार दाड़ेयाक्आ।"</string>
+<string name="memory_video_usage">"वीडियो"</string>
+<string name="master_clear_level">"कोम खाच् कोम 30% रेयाक् खेमोता मेनाक्आ, मेताक् मे रीसेट फोन कामीय चालाव दोहोय लागित् ते?"</string>
+<string name="factory_dialog_title">"चाँड़ते"</string>
+<string name="confirm">"हे"</string>
+<string name="softap_bt_cannot_coexist">"जोखेच ब्लूटुथ सोमोल , चालू गेया, सॉफटेब बाय कामीया, जुदी आम ओना बेभारेम मेनेदा सॉपटेप , दायाकाते रियकाय मे जे ब्लूटुथ बेसोमोल मे।    "</string>
+<string name="bt_softap_cannot_coexist">"जोखेच् लेबड़ेच् टेप सोमोल आकाना से फेराव आकाना ब्लूटुथ ते बाम कामी जाड़ेयाक्आ, आम ब्लूटुथ रेयाक् बेभार एम मेनेत् काना, खान रिकाय मे जे लेबड़ेच् टेप बेसोमोल गेया।       "</string>
+<string name="hotspot">"वाई-फाई हॉटस्पॉट"</string>
+<string name="hotspot_settings">"वाई-फाई रॉटस्पॉट सेटअप"</string>
+<string name="hotspot_connected_stations">"बेभारको जोड़ावेना"</string>
+<string name="hotspot_no_connected_station">"0 जोड़ाविच् बेभारिच्"</string>
+<string name="hotspot_blocked_stations">"तेबेद बेभारिच्"</string>
+<string name="hotspot_no_blocked_station">"0 तेबेदिच् बेभारिच्"</string>
+<string name="block">"कुलुप"</string>
+<string name="unblock">"बाङ तेपेद"</string>
+<string name="delete_applications">"एप्लीकेसन मेटाव"</string>
+<string name="uninstall">"बाङ इंस्टलेना"</string>
+<string name="beatch_no_select_uninstall">"बैच् अनइस्टल"</string>
+<string name="cancle_select_all">"जोतो बाछवाक् बातिल काक्"</string>
+<string name="beatch_uninstall">"बेच अनइंस्टल (<xliff:g id="UNINSTALL_DESCRIPTION">%1$s</xliff:g>)"</string>
+<string name="confirm_beatch_uninstall_message">"चेत् आम खाटी गेया जे अनइंस्टला <xliff:g id="UNINSTALL_DESCRIPTION">%1$s</xliff:g> एप्लिकेसन को？"</string>
+<string name="confirm_beatch_one_uninstall_message">"चेत आम खाटी गेया जे अनइंस्टला <xliff:g id="UNINSTALL_DESCRIPTION">%1$s</xliff:g> एप्लीकेसन？"</string>
+<string name="uninstalling_message">"अनइंस्टल, दायाकाते ताङ्गीय मे ..."</string>
+<string name="uninstall_done">""<xliff:g id="UNINSTALL_DONE">%1$s</xliff:g> एप्लिकेसनको अनइस्टल हुयेना"</string>
+<string name="uninstall_one_app_done">""<xliff:g id="UNINSTALL_DONE">%1$s</xliff:g> एप्लीकेसन अनइंस्टल हुयाना"</string>
+<string name="confirm_one_uninstall_message">"चेत आम खाटी गेया जे अनइंस्टला <xliff:g id="UNINSTALL_DESCRIPTION">%1$s</xliff:g> एप्लीकेसन？"</string>
+<string name="sort_order_time">"खाटो ओकते"</string>
+<string-array name="sort_type">
+<item>"साइज"</item>
+<item>"ञुतुम "</item>
+<item>"ओकतो\'"</item>
+</string-array>
+<string name="DM_config">"CMCC आखरिञ तायोम सेवा बाड़तीय"</string>
+<string name="DM_config_summary">"चालू हुय लेनखान आच् ते चालूक् सेट मे"</string>
+<string name="softap_need_mobile_data_enabled">"पोर्टेबल वाई-फाई हॉस्पॉट मोबाइल डेटा जोड़ाव रेयाक् लाकती मेनाक्आ, नोवा रे आड़ती खोरचा लागाव दाड़ेयाक्आ।"</string>
+<string name="show_crash_report_summary">"स्क्रीन रे CRASH बेवरा उदुगमे"</string>
+<string name="show_crash_report">"CRASH बेवरा उदुगमे"</string>
+<string name="sd_eject_usb">"अनमाउंट हाटिञ जोगावाक्"</string>
+<string name="sd_eject_summary_usb">"भितरी USB जोगावाक् अनमाउंट"</string>
+<string name="sd_insert_summary_usb">"माउंटिंग लागित् ते USB जोगावाक् खाडड़ मे"</string>
+<string name="sd_mount_usb">"माउंट USB जोगावाक्"</string>
+<string name="sd_format_usb">"USB जोगावाक् मेटाव"</string>
+<string name="sd_format_summary_usb">" USB भितरी जोगावाक् खोन जोतो लेकान डेटा मेटाव मे, जेलेका सेरेञ आर चितार को"</string>
+<string name="dlg_confirm_unmount_title_usb">"अनमाउंट USB जोगावाक्?"</string>
+<string name="dlg_confirm_unmount_text_usb">"जुदी आम USB जोगावाक् अनमाउंट एत् काना,आमाक् किछूऐप थुकुमोक् तामा आर बाङ ञआम दाड़ेयाक्आ उनरे आम USB जोगावाक् जोडाव मे।"</string>
+<string name="dlg_error_unmount_text_usb">"USB जोगावाक् बाङ अनमाउंट ओगोक्आ। तायोम ते दोहड़ा लेगाय मे।"</string>
+<string name="unmount_inform_text_usb">"USB  जोगावाक् अनमाउंट एना।"</string>
+<string name="move_app_to_internal_sdcard" product="default">" भितरी SD कार्ड ते सेनोक् मे "</string>
+<string name="battery_percentage">"चार्ज रेयाक् सायपिछी"</string>
+<string name="stroage_not_mounted">"जोगावाक् रे साजाव बानुक्आ"</string>
+<string name="do_not_prompt_text">"आलम नेहोरा"</string>
+<string name="connect_to_cmcc_ap_message">"चीन रेयाक् मोबाइल ते वाई-फाई जोड़ाव आकाना, वाई-फाई जोड़ाव लेताड़ दोहोय रे काउडी लागा दाड़ेयाक्आ।"</string>
+<string name="show_dialog_connect_to_cmcc_title">"चाँड़ जोड़ावेना"</string>
+<string name="show_dialog_connect_to_cmcc_summary">"जोड़ावाकान चांड़ तेय उदुगा"</string>
+<string name="reset_wifi_policy_show_dialog_title">"चाँड़ ते आरोक्"</string>
+<string name="reset_wifi_policy_show_dialog_toast_message">"जोगाव आकाना"</string>
+<string name="airplane_mode_wifi_notification">"बापाडाय "</string>
+<string name="airplane_mode_wifi_notification_message">"वया-फाइ आम गे बिमान मोड चेतान झिज दाड़ेय़ाक् आ"</string>
+<string name="not_ask_again">"बाङ इसारा"</string>
+<string name="ask_next_time">"दायोम दाराम लाईमे"</string>
+<string name="network_id_illegal_character">"दायाकाते मित् टेन बातावाक् id टाइप मे"</string>
+<string name="max_input_character">"बाड़ती तेत्  512 होरोप् मेनाक्आ"</string>
+<string name="tilte_input_more">"इका,एकेन 512 होरोप् एम खाड़ दाड़ेयाक्आ"</string>
+<string name="weak_wifi_signal_title">"जोड़ाव एपि चिनहा लिचाड़"</string>
+<string name="weak_wifi_signal_message">"एपी सिगनल निरास ञामोक् काना, खान एटाक् एपी जोड़ाव रे पातियाक् एम मेनेत् काना? नोङकाना बानिज दो डेटा रे आनाट हेच् दाड़ेयाक्आ।\n सेटेर टुडाक् मेनाक्आ:"</string>
+<string name="wifi_set_time_alarm_warning">"अटो जोड़ाव आर बाङ जोड़ाव अक्त मित् लाकति बाङ"</string>
+<string name="wifi_auto_roam">"आच् ते रोआम"</string>
+<string name="header_category_common">"साधारोन"</string>
+<string name="sim_settings_title">"SIM कार्ड को"</string>
+<string name="current_input_method_pikel">"निताक् कीबोर्ड"</string>
+<string name="save">"जोगाव"</string>
+<string name="name_too_long">"ञुतुम आडी जिलिञा, ओना 50. खोन कोम हुयुक् ताकतीया।"</string>
+<string name="sim_editor_title">"SIM स्लोट %1$d"</string>
+<string name="voice_broadcast_settings">"आड़ाङ सेटिंग को"</string>
+<string name="voice_broadcast_settings_tile">"ऐड़ैङ उछान को"</string>
+<string name="uninstall_app_settings">"एप्लीकेसन मेटाव"</string>
+<string name="voice_menu">"आड़ाङ मेनू"</string>
+<string name="voice_date">"आड़ाङ माँहित"</string>
+<string name="voice_call">"आड़ाङ कॉल"</string>
+<string name="voice_contacts">"आड़ाङ जोगाजोग"</string>
+<string name="voice_incall">"आड़ाङ कॉल रे"</string>
+<string name="voice_message">"आड़ाङ सान्देस"</string>
+<string name="default_feature_bar_options">"विकल्पको"</string>
+<string name="default_feature_bar_back">"रुवाड़"</string>
+<string name="default_feature_bar_center">"बाछाव"</string>
+<string name="sim_status_title">"SIM ओबोसता"</string>
+<string name="imei_information_title">"IMEI बापाडाय"</string>
+<string name="slot_number">"(स्लोट<xliff:g id="slot_num">%1$d</xliff:g>)"</string>
+<string name="lock_settings_title_pikel">"डिवाइस रुखिया"</string>
+<string name="owner_info_settings_title_pikel">"कुलुप् स्क्रीन सान्देस"</string>
+<string name="phone_memory_title">"भितरी जोगावाक्"</string>
+<string name="phone_memory_category_title">"भितरी जोगावाक्"</string>
+<string name="sdcard_memory_title">"जोगावाक् पोर्टेवल"</string>
+<string name="manage_app_settings_category">"सूची हाटिञ बेभार"</string>
+<string name="sim_slot_empty">"SIM  आजाड़ी गेया"</string>
+<string name="data_switch_started">"SIM डेटा चालूय लागित, नोवा दो मिनट  ए हाताव दाड़ेयाक्आ..."</string>
+<string name="data_usage_menu_cellular_networks">"सेलुलर नेटवर्क"</string>
+<string name="data_usage_disclaimer">"आमाक् डिवाइस डेटा इदीय लेखा भेनेगार हुय दाड़ेयाक्आ"</string>
+<string name="data_usage_app">"ऐप बेबोहार"</string>
+<string name="sim_editor_name">"SIM ञुतुम"</string>
+<string name="sim_name_hint">"SIM ञुतुम खाड़"</string>
+<string name="color_title">"रोङ"</string>
+<string name="sim_editor_carrier">"कैरियर"</string>
+<string name="sim_editor_number">"नंबर"</string>
+<string name="mouse_control_applications">"माउस कोबोज"</string>
+<string name="mouse_control_exit">"चेत् आम जोतो डेटा जोगाव एम मेनेत् काना?"</string>
+<string name="mouse_control_title">"माउस कोबोज को सोमोल लागित् ते ऐप को बाछाव मे।"</string>
+<string name="current_label_phone">"फोन"</string>
+<string name="not_any_file">"ओका फाइल गे बानुक्आ"</string>
+<string name="settings_more_sprd">"आरो"</string>
+<string name="enable_data_connection">"डेटा जोगाजोग सोमोल गेया"</string>
+<string name="disable_data_connection">"डेटा जोगाजोग बेसोमोल गेया"</string>
+</resources>

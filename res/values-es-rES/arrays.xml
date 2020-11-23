@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="timezone_filters">
+<item>"América"</item>
+<item>"Europa"</item>
+<item>"África"</item>
+<item>"Asia"</item>
+<item>"Australia"</item>
+<item>"Pacífico"</item>
+<item>"Todos"</item>
+</string-array>
+<string-array name="screen_timeout_entries">
+<item>"15 SEGUNDOS"</item>
+<item>"30 segundos"</item>
+<item>"1 minuto"</item>
+<item>"2 minutos"</item>
+<item>"5 minutos"</item>
+<item>"10 minutos"</item>
+<item>"30 minutos"</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>"1.5 segundos"</item>
+<item>"6  segundos"</item>
+<item>"Siempre activado"</item>
+<item>"Siempre cierre"</item>
+</string-array>
+<string-array name="dream_timeout_entries">
+<item>"Nunca"</item>
+<item>"15 SEGUNDOS"</item>
+<item>"30 segundos"</item>
+<item>"1 minuto"</item>
+<item>"2 minutos"</item>
+<item>"5 minutos"</item>
+<item>"10 minutos"</item>
+<item>"30 minutos"</item>
+</string-array>
+<string-array name="lock_after_timeout_entries">
+<item>"Inmediatamente"</item>
+<item>"5 segundos"</item>
+<item>"15 SEGUNDOS"</item>
+<item>"30 segundos"</item>
+<item>"1 minuto"</item>
+<item>"2 minutos"</item>
+<item>"5 minutos"</item>
+<item>"10 minutos"</item>
+<item>"30 minutos"</item>
+</string-array>
+<string-array name="entries_font_size">
+<item>"Pequeño"</item>
+<item>"Normal"</item>
+<item>"Grande"</item>
+<item>"Enorme"</item>
+</string-array>
+<string-array name="tts_rate_entries">
+<item>"Muy lento"</item>
+<item>"Lento"</item>
+<item>"Normal"</item>
+<item>"Veloz"</item>
+<item>"Más veloz"</item>
+<item>"Muy veloz"</item>
+<item>"Rápido"</item>
+<item>"Muy rápido"</item>
+<item>"Lo más veloz"</item>
+</string-array>
+<string-array name="tts_pitch_entries">
+<item>"Muy bajo"</item>
+<item>"Baja"</item>
+<item>"Normal"</item>
+<item>"Alta"</item>
+<item>"Muy alto"</item>
+</string-array>
+<string-array name="wifi_status">
+<item></item>
+<item>"Analizando\u2026"</item>
+<item>"Conectando\u2026"</item>
+<item>"Autenticando\u2026"</item>
+<item>"Obteniendo dirección IP\u2026"</item>
+<item>"Conectado"</item>
+<item>"Suspendido"</item>
+<item>"Desconectando\u2026"</item>
+<item>"Desconectado"</item>
+<item>"Infructuoso"</item>
+<item>"Bloqueado"</item>
+<item>"Evitando temporalmente mala conexión"</item>
+</string-array>
+<string-array name="wifi_status_with_ssid">
+<item></item>
+<item>"Analizando\u2026"</item>
+<item>"Conectándose a <xliff:g id="network_name">%1$s</xliff:g>\u2026"</item>
+<item>"Autenticando con <xliff:g id="network_name">%1$s</xliff:g>\u2026"</item>
+<item>"Obteniendo dirección IP desde <xliff:g id="network_name">%1$s</xliff:g>\u2026"</item>
+<item>"Conectado a <xliff:g id="network_name">%1$s</xliff:g>"</item>
+<item>"Suspendido"</item>
+<item>"Desconectando desde <xliff:g id="network_name">%1$s</xliff:g>\u2026"</item>
+<item>"Desconectado"</item>
+<item>"Infructuoso"</item>
+<item>"Bloqueado"</item>
+<item>"Evitando temporalmente mala conexión"</item>
+</string-array>
+<string-array name="wifi_security">
+<item>"@string/wifi_security_none"</item>
+<item>"@string/wifi_security_wep"</item>
+<item>"@string/wifi_security_psk_generic"</item>
+<item>"@string/wifi_security_eap"</item>
+<item>"@string/wifi_security_wapi_psk"</item>
+<item>"@string/wifi_security_wapi_cert"</item>
+</string-array>
+<string-array name="wifi_p2p_wps_setup">
+<item>"Presionar botón"</item>
+<item>"PIN del dispositivo par"</item>
+<item>"PIN de este dispositivo"</item>
+</string-array>
+<string-array name="wifi_p2p_status">
+<item>"Conectado"</item>
+<item>"Invitado"</item>
+<item>"Infructuoso"</item>
+<item>"Disponible"</item>
+<item>"Fuera de rango"</item>
+</string-array>
+<string-array name="bluetooth_visibility_timeout_entries">
+<item>"2 minutos"</item>
+<item>"5 minutos"</item>
+<item>"1 hora"</item>
+<item>"Ningún tiempo de espera"</item>
+</string-array>
+<string-array name="wifi_signal">
+<item>"Baja calidad"</item>
+<item>"Aceptable"</item>
+<item>"Bueno"</item>
+<item>"Excelente"</item>
+</string-array>
+<string-array name="wifi_sleep_policy_entries">
+<item>"Siempre"</item>
+<item>"Sólo cuando está conectado"</item>
+<item>"Nunca (aumenta el uso de datos)"</item>
+</string-array>
+<string-array name="wifi_sleep_policy_entries_wifi_only">
+<item>"Siempre"</item>
+<item>"Sólo cuando está conectado"</item>
+<item>"Nunca"</item>
+</string-array>
+<string-array name="wifi_frequency_band_entries">
+<item>"AUTOMÁTICO"</item>
+<item>"Sólo 5 GHz"</item>
+<item>"Sólo 2.4 GHz"</item>
+</string-array>
+<string-array name="usage_stats_display_order_types">
+<item>"Tiempo de uso"</item>
+<item>"Cuenta de lanzamiento"</item>
+<item>"Nombre de la aplicación"</item>
+</string-array>
+<string-array name="wifi_peap_phase2_entries">
+<item>"Ninguno"</item>
+<item>"MSCHAPV2"</item>
+<item>"GTC"</item>
+</string-array>
+<string-array name="wifi_phase2_entries">
+<item>"Ninguno"</item>
+<item>"PAP"</item>
+<item>"MSCHAP"</item>
+<item>"MSCHAPV2"</item>
+<item>"GTC"</item>
+</string-array>
+<string-array name="wifi_ip_settings">
+<item>"DHCP"</item>
+<item>"Estático"</item>
+</string-array>
+<string-array name="wifi_proxy_settings">
+<item>"Ninguno"</item>
+<item>"Manual"</item>
+</string-array>
+<string-array name="emergency_tone_entries">
+<item>"Apagado"</item>
+<item>"Alerta"</item>
+<item>"Vibrar"</item>
+</string-array>
+<string-array name="apn_auth_entries">
+<item>"Ninguno"</item>
+<item>"PAP"</item>
+<item>"CHAP"</item>
+<item>"PAP o CHAP"</item>
+</string-array>
+<string-array name="bearer_entries">
+<item>"LTE"</item>
+<item>"eHRPD"</item>
+<item>"Sin especificar"</item>
+</string-array>
+<string-array name="mvno_type_entries">
+<item>"Ninguno"</item>
+<item>"SPN"</item>
+<item>"IMSI"</item>
+<item>"GID"</item>
+</string-array>
+<string-array name="app_install_location_entries">
+<item>"Almacenamiento de dispositivo interno"</item>
+<item>"Tarjeta SD extraíble"</item>
+<item>"Dejar que el sistema decida"</item>
+</string-array>
+<string-array name="app_ums_install_location_entries">
+<item>"Almacenamiento de dispositivo interno"</item>
+<item>"Almacenamiento interno móvil"</item>
+<item>"Dejar que el sistema decida"</item>
+</string-array>
+<string-array name="dualsim_summaries">
+<item>" SIM 1 "</item>
+<item>" SIM 2 "</item>
+<item>"Indica siempre"</item>
+</string-array>
+<string-array name="dualsim_primary_summaries">
+<item>" SIM 1 "</item>
+<item>" SIM 2 "</item>
+</string-array>
+<string-array name="dualsim_mms_summaries">
+<item>" SIM 1 "</item>
+<item>" SIM 2 "</item>
+<item>"Indica siempre"</item>
+<item>"AUTOMÁTICO"</item>
+</string-array>
+<string-array name="dualsim_entries">
+<item>"SIM 1"</item>
+<item>"SIM 2"</item>
+</string-array>
+<string-array name="dualsim_setting_entries">
+<item>"SIM 1"</item>
+<item>"SIM 2"</item>
+<item>"Indica siempre"</item>
+</string-array>
+<string-array name="silent_mode_entries">
+<item>"Apagado"</item>
+<item>"Vibrar"</item>
+<item>"SILENCIO"</item>
+</string-array>
+<string-array name="app_ops_categories">
+<item>"Ubicación"</item>
+<item>"Personal"</item>
+<item>"Centro de Mensajes"</item>
+<item>"Medios"</item>
+<item>"dispositivo"</item>
+</string-array>
+<string-array name="app_ops_summaries">
+<item>"ubicación aproximada"</item>
+<item>"ubicación precisa"</item>
+<item>"GPS"</item>
+<item>"Vibrar"</item>
+<item>"leer contactos"</item>
+<item>"modificar contactos"</item>
+<item>"leer el registro de llamadas"</item>
+<item>"modificar registro de llamadas"</item>
+<item>"leer calendario"</item>
+<item>"modificar calendario"</item>
+<item>"búsqueda de Wi-Fi"</item>
+<item>"Notificación"</item>
+<item>"búsqueda del móvil"</item>
+<item>"llamar a un teléfono"</item>
+<item>"leer SMS"</item>
+<item>"redactar SMS"</item>
+<item>"recibir SMS"</item>
+<item>"recibir SMS de emergencia"</item>
+<item>"recibir MMS"</item>
+<item>"recibir push de WAP"</item>
+<item>"Enviar SMS"</item>
+<item>"leer ICC SMS"</item>
+<item>"redactar ICC SMS"</item>
+<item>"modificar configuración"</item>
+<item>"dibujar en la parte superior"</item>
+<item>"notificaciones de acceso"</item>
+<item>"Cámara"</item>
+<item>"grabar audio"</item>
+<item>"reproducir audio"</item>
+<item>"leer portapapeles"</item>
+<item>"modificar portapapeles"</item>
+<item>"botones de medios"</item>
+<item>"enfoque de audio"</item>
+<item>"volumen principal"</item>
+<item>"volumen de voz"</item>
+<item>"volumen de tono"</item>
+<item>"Volumen multimedia"</item>
+<item>"Volumen de la alarma"</item>
+<item>"Volumen de notificación"</item>
+<item>"Volumen Bluetooth"</item>
+<item>"mantener en funcionamiento"</item>
+<item>"controlar ubicación"</item>
+<item>"supervisar ubicación de alta potencia"</item>
+</string-array>
+<string-array name="app_ops_labels">
+<item>"Ubicación"</item>
+<item>"Ubicación"</item>
+<item>"Ubicación"</item>
+<item>"Vibrar"</item>
+<item>"leer contactos"</item>
+<item>"modificar contactos"</item>
+<item>"leer el registro de llamadas"</item>
+<item>"modificar registro de llamadas"</item>
+<item>"leer calendario"</item>
+<item>"modificar calendario"</item>
+<item>"Ubicación"</item>
+<item>"Publicar notificación"</item>
+<item>"Ubicación"</item>
+<item>"llamar a un teléfono"</item>
+<item>"Leer SMS/MMS"</item>
+<item>"redactar SMS/MMS"</item>
+<item>"Recibir SMS/MMS"</item>
+<item>"Recibir SMS/MMS"</item>
+<item>"Recibir SMS/MMS"</item>
+<item>"Recibir SMS/MMS"</item>
+<item>"Enviar SMS/MMS"</item>
+<item>"Leer SMS/MMS"</item>
+<item>"redactar SMS/MMS"</item>
+<item>"modificar configuración"</item>
+<item>"dibujar en la parte superior"</item>
+<item>"notificaciones de acceso"</item>
+<item>"Cámara"</item>
+<item>"grabar audio"</item>
+<item>"reproducir audio"</item>
+<item>"leer portapapeles"</item>
+<item>"modificar portapapeles"</item>
+<item>"botones de medios"</item>
+<item>"enfoque de audio"</item>
+<item>"volumen principal"</item>
+<item>"volumen de voz"</item>
+<item>"volumen de tono"</item>
+<item>"Volumen multimedia"</item>
+<item>"Volumen de la alarma"</item>
+<item>"Volumen de notificación"</item>
+<item>"Volumen Bluetooth"</item>
+<item>"mantener en funcionamiento"</item>
+<item>"Ubicación"</item>
+<item>"Ubicación"</item>
+</string-array>
+<string-array name="long_press_timeout_selector_titles">
+<item>"Corto"</item>
+<item>"Medio"</item>
+<item>"Largo"</item>
+</string-array>
+<string-array name="captioning_typeface_selector_titles">
+<item>"Predeterminado"</item>
+<item>"Sans-serif"</item>
+<item>"Sans-serif condensed"</item>
+<item>"Serif"</item>
+<item>"Monospace"</item>
+</string-array>
+<string-array name="captioning_font_size_selector_titles">
+<item>"Muy pequeño"</item>
+<item>"Pequeño"</item>
+<item>"Normal"</item>
+<item>"Grande"</item>
+<item>"Muy grande"</item>
+</string-array>
+<string-array name="captioning_edge_type_selector_titles">
+<item>"Ninguno"</item>
+<item>"Contorno"</item>
+<item>"Sombra paralela"</item>
+</string-array>
+<string-array name="captioning_preset_selector_titles">
+<item>"Blanco sobre negro"</item>
+<item>"Negro sobre blanco"</item>
+<item>"Amarillo sobre negro"</item>
+<item>"Amarillo sobre azul"</item>
+<item>"Personalizado"</item>
+</string-array>
+<string-array name="select_runtime_titles">
+<item>"Dalvik"</item>
+<item>"ART"</item>
+<item>"ART (depuración)"</item>
+</string-array>
+<string-array name="select_runtime_summaries">
+<item>"Utilizar Dalvik"</item>
+<item>"Usar ART"</item>
+<item>"Usar depuración de depuración ART"</item>
+</string-array>
+<string-array name="hdcp_checking_titles">
+<item>"Nunca comprobar"</item>
+<item>"Comprobar solamente contenido DRM"</item>
+<item>"Comprobar siempre"</item>
+</string-array>
+<string-array name="hdcp_checking_summaries">
+<item>"Nunca utilizar comprobación HDCP"</item>
+<item>"Usar comprobación HDCP sólo para contenido DRM"</item>
+<item>"Siempre utilizar comprobación HDCP"</item>
+</string-array>
+<string-array name="window_animation_scale_entries">
+<item>"Animación desactivada"</item>
+<item>"Escala de animación ,5x"</item>
+<item>"Escala de animación 1x"</item>
+<item>"Escala de animación 1,5x"</item>
+<item>"Escala de animación 2x"</item>
+<item>"Escala de animación 5x"</item>
+<item>"Escala de animación 10x"</item>
+</string-array>
+<string-array name="transition_animation_scale_entries">
+<item>"Animación desactivada"</item>
+<item>"Escala de animación ,5x"</item>
+<item>"Escala de animación 1x"</item>
+<item>"Escala de animación 1,5x"</item>
+<item>"Escala de animación 2x"</item>
+<item>"Escala de animación 5x"</item>
+<item>"Escala de animación 10x"</item>
+</string-array>
+<string-array name="animator_duration_scale_entries">
+<item>"Animación desactivada"</item>
+<item>"Escala de animación ,5x"</item>
+<item>"Escala de animación 1x"</item>
+<item>"Escala de animación 1,5x"</item>
+<item>"Escala de animación 2x"</item>
+<item>"Escala de animación 5x"</item>
+<item>"Escala de animación 10x"</item>
+</string-array>
+<string-array name="overlay_display_devices_entries">
+<item>"Ninguno"</item>
+<item>"720x480 mdpi"</item>
+<item>"720 x 480 mdpi (seguro)"</item>
+<item>"1280x720 tvdpi"</item>
+<item>"1280 x 720 tvdpi (seguro)"</item>
+<item>"1920x1080 xhdpi"</item>
+<item>"1920 x 1080 xhdpi (seguro)"</item>
+<item>"1280 x 720 tvdpi y 1920 x 1080 xhdpi"</item>
+</string-array>
+<string-array name="enable_opengl_traces_entries">
+<item>"Ninguno"</item>
+<item>"Logcat"</item>
+<item>"Systrace (gráficos)"</item>
+<item>"Pila de llamadas en glGetError"</item>
+</string-array>
+<string-array name="show_non_rect_clip_entries">
+<item>"Apagado"</item>
+<item>"Dibujar región de recorte no rectangular en azul"</item>
+<item>"Destacar en verde comandos de dibujo probados"</item>
+</string-array>
+<string-array name="track_frame_time_entries">
+<item>"Apagado"</item>
+<item>"En pantalla como barras"</item>
+<item>"En pantalla como líneas"</item>
+<item>"Dumpsys gfxinfo en adb shell"</item>
+</string-array>
+<string-array name="debug_hw_overdraw_entries">
+<item>"Apagado"</item>
+<item>"Mostrar áreas superpuestas"</item>
+<item>"Mostrar áreas para Deuteranomalía"</item>
+<item>"Mostrar contador de superposiciones"</item>
+</string-array>
+<string-array name="app_process_limit_entries">
+<item>"Límite estándar"</item>
+<item>"Sin procesos en segundo plano"</item>
+<item>"Máximo 1 proceso"</item>
+<item>"Máximo 2 procesos"</item>
+<item>"Máximo 3 procesos"</item>
+<item>"Máximo 4 procesos"</item>
+</string-array>
+<string-array name="vpn_types_long">
+<item>"PPTP VPN"</item>
+<item>"Claves precompartidas de VPN L2TP/IPSec"</item>
+<item>"VPN L2TP/IPSec con certificados"</item>
+<item>"VPN IPSec con claves precompartidas y autenticación Xauth"</item>
+<item>"VPN IPSec con certificados y autenticación Xauth"</item>
+<item>"VPN IPSec con certificados y autenticación híbrida"</item>
+</string-array>
+<string-array name="vpn_states">
+<item>"Desconectado"</item>
+<item>"Inicializando\u2026"</item>
+<item>"Conectando\u2026"</item>
+<item>"Conectado"</item>
+<item>"Tiempo de espera agotado"</item>
+<item>"Infructuoso"</item>
+</string-array>
+<string-array name="security_settings_premium_sms_values">
+<item>"Preguntar"</item>
+<item>"Nunca Permitir"</item>
+<item>"Permitir Siempre"</item>
+</string-array>
+<string-array name="ram_states">
+<item>"Normal"</item>
+<item>"Moderado"</item>
+<item>"Baja"</item>
+<item>"Crítico"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>"Esto se establece por menos de 1 minuto a partir de ahora." "</item>
+<item>"Esto se establece para <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> desde ahora."</item>
+<item>"Esto se establece para <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> desde ahora."</item>
+<item>"Esto se establece para <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> y <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> desde ahora."</item>
+<item>"Esto se establece para <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> desde ahora."</item>
+<item>"Esto se establece para <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> y <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> desde ahora."</item>
+<item>"Esto se establece para <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> y <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> desde ahora."</item>
+<item>"Esto se establece para <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, and <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> desde ahora."</item>
+</string-array>
+<string-array name="mobile_to_wlan">
+<item>"Conexión Automática"</item>
+<item>"Conexión Manual"</item>
+<item>"Preguntar siempre"</item>
+</string-array>
+<string-array name="agps_setting_entries">
+<item>"Abrir"</item>
+<item>"Cerrar"</item>
+</string-array>
+<string-array name="auto_time_entries">
+<item>"Utilizar hora proporcionada por la red"</item>
+<item>"Utilizar hora proporcionada por GPS"</item>
+<item>"Apagado"</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>"Utilizar hora proporcionada por la red"</item>
+<item>"Apagado"</item>
+</string-array>
+<string-array name="color_picker">
+<item>"Verde azulado"</item>
+<item>"Azul"</item>
+<item>"Índigo"</item>
+<item>"Púrpura"</item>
+<item>"Rosado"</item>
+<item>"Rojo"</item>
+</string-array>
+</resources>

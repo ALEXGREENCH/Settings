@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"apn جي قسم جي ترتيب"</string>
+<string name="user_could_input_apn_type">"صارف apn جي قسم کي داخل ڪري سگهي ٿو"</string>
+<string name="could_not_input_the_same_apn_type">"ساڳي apn جي قسم کي داخل نه ڪري سگهيو"</string>
+<string name="apn_type_message">"توهان جي نئين apn ۾ مروجه قسم شامل ڪونهي."</string>
+<string name="error_apn_type_message">"apn جو قسم خالي نه ٿو ٿي سگهي"</string>
+<string name="error_apn_type">"جنهن apn جو قسم توهان داخل ڪيو آهي تنهن جي سهولت ڪانهي، مهريباني ڪري ٻيهر داخل ڪريو!"</string>
+<string name="same_apn_type">"توهان apn جو ساڳي قسم داخل ڪيو آهي، مهرباني ڪري ٻيهر داخل ڪريو!"</string>
+<string name="empty_apn_type">"توهان ڪنهن به قسم جي apn چونڊيو يا داخل نه ڪيو آهي، مهرباني ڪري ٻيهر داخل ڪريو!"</string>
+<string name="dual_settings_title_uui">"Sim ڪارڊ جي نگراني"</string>
+<string name="dual_voice_setting_title">"آواز جي ترتيب"</string>
+<string name="dual_video_setting_title">"ويڊيو جي ترتيب"</string>
+<string name="dual_mms_setting_title">"ايس ايم ايس جي ترتيب"</string>
+<string name="dual_primary_setting_title">"ابتدائي ڪارڊ جي ترتيب"</string>
+<string name="dual_settings_title">"ٻٽي Sim جون ترتيبون"</string>
+<string name="sim_name_setting_title">"Sim جي ناليص تدوين ڪريو"</string>
+<string name="sim_number_setting_title">"Sim جي نمبر جي تدوين ڪريو"</string>
+<string name="sim_number_setting_null">" مرتب ٿيل ڪونهي"</string>
+<string name="sim_color_setting_title">"پسمنظر جو رنگ مرتب ڪريو"</string>
+<string name="dual_settings_always_prompt">"هميشه حڪم تي هلايو"</string>
+<string name="mms_settings_auto">" پاڻمرادو"</string>
+<string name="no_need_set_data_subscription">"ڊيٽا جي رڪنيت جي ترتيب ضرورت ڪانهي."</string>
+<string name="voice_setting_title">"آوازي ڪال جون ترتيبون"</string>
+<string name="video_setting_title">"ويڊيو ڪال جون ترتيبون"</string>
+<string name="mms_setting_title">"ايم ايم ايس ۽ ايس ايم ايس جون ترتيبون"</string>
+<string name="sim_reply_setting">"Sim جون جواب جون ترتيبون"</string>
+<string name="reply_message_setting">"ايم ايم ايس يا ايس ايم ايس جو جواب ڏيو"</string>
+<string name="closeData">" بند ڪريو"</string>
+<string name="data_title">" ڊيٽا ڪنيڪشن کي فعال ڪريو جي ترتيب"</string>
+<string name="sel_sub_title">"اضافي ترتيبون"</string>
+<string name="sel_sub_summary">"Sim ڪارڊ کي فعال يا غيرفعال ڪرڻ"</string>
+<string name="set_data_subscription_timeout">"ديٽا ڪنيڪشن جي ترتيبن جي مدت پوري ٿي وئي آهي!"</string>
+<string name="set_dds_failed">"خرابي ٿي وئي! سمورا ڊيٽا ڪنيڪشن صاف ڪريو ۽ ٻيهر ڪوشش ڪريو!"</string>
+<string name="set_dds_success">"ڪاميابي سان مرتب ٿي ويو"</string>
+<string name="set_dds_success_gsm">"ڪاميابي سان مرتب ٿي ويو. ڊيٽا ڪنيڪشن کي ثانوي کانچي تي سوئچ ڪريو، LTE سروس دستياب ڪانهي."</string>
+<string name="set_data_subscription_progress">"ترتيب ٿي رهي آهي، مهرباني ڪري انتظار ڪندا..."</string>
+<string name="set_data_subscription_error_ok">"ٺيڪ آهي"</string>
+<string name="set_data_subscription_error_title">" خرابي"</string>
+<string name="set_data_subscription_error">"هن SIM ڪارڊ کان سواءِ، مهرباني ڪري ٻيهر ڪوشش ڪندا!"</string>
+<string name="sim_retries_left">"جو باقي تعداد"</string>
+<string name="menu_kill_apps_services">"سمورا اطلاقات بند ڪريو"</string>
+<string name="back_groud_data_usage_restrict_protocal">"پسمنظر جي ڊيٽا جي استعمال جو پروٽوڪول."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"پسمنظر جي ڊيٽا جي استعمال جو پروٽوڪول قبول ٿا ڪرڻ چاهيو؟""</string>
+<string name="apn_edit_quit">"ترڪ ڪريو"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> جي رسائي جي پوائنٽ جي تدوين ڪريو"</string>
+<string name="input_pin_limit">"مهرباني ڪري 4-8 عدد ان پٽ ڪريو"</string>
+<string name="agps_supl_manual_settings">"SUPL سرور جون هٿراڌو ترتيبون"</string>
+<string name="agps_supl_manual_settings_summary">"SUPL سرور ۽ پورٽ جي هٿراڌو ترتيب"</string>
+<string name="str_clear">" صاف ڪريو"</string>
+<string name="str_save">" محفوظ ڪريو"</string>
+<string name="gps_location_suplserver">" سرور"</string>
+<string name="agps_setting">"Agps سوئچ"</string>
+<string name="open">" کوليو"</string>
+<string name="close">" بند ڪريو"</string>
+<string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> موبائل نيٽ ورڪ جون ترتيبون"</string>
+<string name="pin_enabled_success">"SIM PIN فعال ٿيل آهي"</string>
+<string name="pin_disabled_success">"SIM PIN غيرفعال ٿيل آهي"</string>
+<string name="gps_time_sync_attention_gps_on">"GPS جي تقرر ۾اهو وڌ ۾ وڌ 1 منٽ وٺندو. ان کان سواءِ، ڪمزور ماحولياتي سگنل جي ڪري GPS وقت کي مهيا ڪرڻ ۾ ناڪم ٿي سگهي ٿو. \n\n ڇا توهان کي تسلي آهي ته GPS پاران مهيا ڪيل وقت کي استعمال ڪرڻ چاهيندا؟"</string>
+<string name="gps_time_sync_attention_gps_off">""GPS پاران مهيا ڪيل وقت کي استعمال ڪرڻ لاءِ، پهريائين توهان کي GPS فعال ڪرڻو پوندو. بعد ۾ اهو  GPS جي تقرر ۾ وڌ ۾ وڌ 1 منٽ لڳائيندو، ڪمزور ماحولياتي سگنل جي ڪري GPS وقت کي مهيا ڪرڻ ۾ ناڪم ٿي سگهي ٿو. \n\n ڇا توهان کي تسلي آهي ته GPS  کي فعال ڪري GPS پاران  مهيا ڪيل وقت جو انتظار ڪرڻ چاهيندا؟"</string>
+<string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+<string name="sim_lock_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> جون مقفلي ترتيبون"</string>
+<string name="device_status_ex">"SIM<xliff:g id="SIM">%s</xliff:g> جو مقام"</string>
+<string name="lte_service">" 4G سروس/ ابتدائي ڪارڊ چونڊيو"</string>
+<string name="lte_enabled">"""</string>
+<string name="lte_service_network_mode_settings_dialog_title">" نيٽ ورڪ جي طرز جي چونڊ ڪريو"</string>
+<string name="whether_close_lte_service">" مهرباني ڪري خاطري ڪندا ته توهان 4G سروس کي بند ٿا ڪرڻ چاهيو؟"</string>
+<string name="whether_enable_lte_service">" مهرباني ڪري خاطري ڪندا ته توهان 4G سروس کي فعال ٿا ڪرڻ چاهيو؟"</string>
+<string name="whether_switch_lte_service_sim">"4G سروس کي فعال ڪريو"</string>
+<string name="lte_service_attention">" توجه فرمايو"</string>
+<string name="lte_service_switch">"4G سروس تي سوئچ ٿي رهيو آهي، مهرباني ڪري انتظار ڪندا..."</string>
+<string-array name="lte_preferred_networks_choices">
+<item>" 4G/3G/2G جو اجتماعي طرز"</item>
+<item>" صرف 2G/3G جو طرز"</item>
+</string-array>
+<string name="wifi_alarm_category_title">"Wi-Fi جي گهنٽي جي ترتيب"</string>
+<string name="wifi_connect_alarm_title">"Wi-Fi کي پاڻمرادو منسلڪ ڪريو"</string>
+<string name="wifi_disconnect_alarm_title">"Wi-Fi کي پاڻمرادو غيرمنسلڪ ڪريو"</string>
+<string name="wifi_alarm_time_title">" وقت ترتيب ڏيو"</string>
+<string name="not_stand_by">"ممنوعه"</string>
+<string name="main_card_slot">"ابتدائي."</string>
+<string name="gsm_card_slot">"ثانوي."</string>
+<string name="cellular_data_title">" سيليولر ڊيٽا"</string>
+<string name="sim_selection_required_pref">"چونڊ گهربل آهي"</string>
+<string name="stand_by_set_changed_prompt">"Sim جي سرگرم عملي حالت تبديل ٿي ويندي، مهرباني ڪري خاطري ڪريو ڪٿي جاري رکڻ ته ڪون ٿا چاهيو؟" </string>
+<string name="okay">"ٺيڪ آهي"</string>
+<string name="primary_card_switching">"مرتب ٿي رهيو آهي، مهرباني ڪري انتظار فرمائيندا..."</string>
+<string name="select_primary_card">"ابتدائي ڪارڊ چونڊيو"</string>
+<string name="sim_calls_ask_first_prefs_title">"هر وقت پڇو"</string>
+<string name="sim_preferred_title">"ترجيحاتي SIM ڪارڊ جي تجديد ٿا ڪرڻ چاهيو؟"</string>
+<string name="sim_preferred_message">"توهان جي ڊيوائس ۾ فقط <xliff:g id="new_sim">%1$s</xliff:g> هي SIM آهي. ڇا توهان هن SIM کي سيليولر ڊيٽا، ڪالن ۽ ايس ايم ايس پيغامات جي لاءِ استعمال ڪرڻ چاهيندا؟"</string>
+<string name="select_sim_for_data">"ڊيٽا لاءِ ڪنهن SIM جي چونڊ ڪريو"</string>
+<string name="select_sim_for_calls">"سان ڪال ڪريو"</string>
+<string name="sim_card_select_title">" SIM ڪارڊ چونڊيو"</string>
+<string name="select_primary_slot_description_4g">"(ابتدائي ڪارڊ 4G/2G سروس کي سهوليت ڏئي ٿو، ثانوي ڪارڊ صرف 2G سروس کي سهوليت ڏئي ٿو.)"</string>
+<string name="whether_switch_primary_card">"مهرباني ڪري خاطري ڪريو ته ڪٿي ابتدائي ڪارڊ کي نه ڪارڊ سوئچ ته ڪو نه پيا ڪريو؟\n (سيليولر ڊيٽا به هن ڪارڊ تي منتقل ٿي ويندي.)"</string>
+<string-array name="light_color_picker">
+<item>" سائو"</item>
+<item>" نيرو"</item>
+<item>"انڊيگو"</item>
+<item>"واڱڻائي"</item>
+<item>" گلابي"</item>
+<item>" ڳاڙهو"</item>
+<item>"پيلو"</item>
+</string-array>
+<string name="select_primary_slot_description">"(ابتدائي ڪارڊ WCDMA/GSM طرز جي سهولت ڏئي ٿو، ثانوي ڪارڊ صرف GSM طرز جي سهولت ڏئي ٿو.)"</string>
+<string name="sim_pref_divider">"لاءِ ترجيحاتي SIM"</string>
+<string name="calls_title">" ڪالون"</string>
+<string name="sms_messages_title">"ايس ايم ايس پيغامات"</string>
+<string name="feature_bar_softkey_edit">" تدوين ڪريو"</string>
+<string name="feature_bar_softkey_off">"بند ڪريو"</string>
+<string name="feature_bar_softkey_on">" کوليو"</string>
+<string name="feature_bar_softkey_options">" چونڊيو"</string>
+<string name="dialog_restore_default_apn">"سمورا APN جيڪي توهان شامل ڪيا آهن سي هٽي ويندا، ۽ باقي رهندڙ APN واپس مروجه ترتيبن ۾ مرتب ٿي ويندا. ڇا توهان کي جاري رکڻ جي خاطري آهي؟"</string>
+</resources>

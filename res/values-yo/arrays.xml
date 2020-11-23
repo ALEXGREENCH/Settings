@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="timezone_filters">
+<item>"अमेरिका"</item>
+<item>"यूरोप"</item>
+<item>"अफ्रीका"</item>
+<item>"एशिया"</item>
+<item>"आस्ट्रेलिया"</item>
+<item>"प्रशांत"</item>
+<item>"सब्भै"</item>
+</string-array>
+<string-array name="screen_timeout_entries">
+<item>"15 सेकंड"</item>
+<item>"30 सेकंड"</item>
+<item>"1 मिनट"</item>
+<item>"2 मिनट"</item>
+<item>"5 मिनट"</item>
+<item>"10 मिनट"</item>
+<item>"30 मिनट"</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>"1.5 सेकंड"</item>
+<item>"6 सेकंड"</item>
+<item>"म्हेशां चालू"</item>
+<item>"म्हेशां बंद रक्खो"</item>
+</string-array>
+<string-array name="dream_timeout_entries">
+<item>"कदें बी नेईं"</item>
+<item>"15 सेकंड"</item>
+<item>"30 सेकंड"</item>
+<item>"1 मिनट"</item>
+<item>"2 मिनट"</item>
+<item>"5 मिनट"</item>
+<item>"10 मिनट"</item>
+<item>"30 मिनट"</item>
+</string-array>
+<string-array name="lock_after_timeout_entries">
+<item>"फौरन"</item>
+<item>"5 सेकंड"</item>
+<item>"15 सेकंड"</item>
+<item>"30 सेकंड"</item>
+<item>"1 मिनट"</item>
+<item>"2 मिनट"</item>
+<item>"5 मिनट"</item>
+<item>"10 मिनट"</item>
+<item>"30 मिनट"</item>
+</string-array>
+<string-array name="entries_font_size">
+<item>"निक्का"</item>
+<item>"समान्य"</item>
+<item>"बड्डा"</item>
+<item>"बड़ा बड्डा"</item>
+</string-array>
+<string-array name="tts_rate_entries">
+<item>"बड़ा बल्लें"</item>
+<item>"बल्लें "</item>
+<item>"समान्य"</item>
+<item>"तेज"</item>
+<item>"तेजतर"</item>
+<item>"बड़ा तेज"</item>
+<item>"तीव्र"</item>
+<item>"बड़ा तीव्र"</item>
+<item>"सभनें थमां तेज"</item>
+</string-array>
+<string-array name="tts_pitch_entries">
+<item>"बड़ा घट्ट"</item>
+<item>"घट्ट"</item>
+<item>"समान्य"</item>
+<item>"उच्ची"</item>
+<item>"बड़ा मता"</item>
+</string-array>
+<string-array name="wifi_status">
+<item></item>
+<item>"स्कैन होआ करदा ऐ..."</item>
+<item>"कनेक्ट होआ करदा ऐ..."</item>
+<item>"प्रमाणीकरण होआ करदा ऐ..."</item>
+<item>"IP पता हासल करै करदा ऐ..."</item>
+<item>"कनेक्टड"</item>
+<item>"मोह्‌तल"</item>
+<item>"डिसकनेक्ट होआ करदा ऐ..."</item>
+<item>"डिसकनेक्टड"</item>
+<item>"असफल"</item>
+<item>"ब्लाक ऐ"</item>
+<item>"आरजी तौर पर माड़े कनेक्शन थमां दूरी बनाई जा करदी ऐ"</item>
+</string-array>
+<string-array name="wifi_status_with_ssid">
+<item></item>
+<item>"स्कैन होआ करदा ऐ..."</item>
+<item>"<xliff:g id="network_name">%1$s</xliff:g> कन्नै कनेक्ट होआ करदा ऐ..."</item>
+<item>"<xliff:g id="network_name">%1$s</xliff:g> कन्नै प्रमाणीकरण होआ करदा ऐ..."</item>
+<item>"<xliff:g id="network_name">%1$s</xliff:g> थमां IP पता हासल करै करदा ऐ..."</item>
+<item>"<xliff:g id="network_name">%1$s</xliff:g> कन्नै कनेक्ट होए दा ऐ"</item>
+<item>"मोह्‌तल"</item>
+<item>"<xliff:g id="network_name">%1$s</xliff:g> थमां डिसकनेक्ट होआ करदा ऐ..."</item>
+<item>"डिसकनेक्टड"</item>
+<item>"असफल"</item>
+<item>"ब्लाक ऐ"</item>
+<item>"आरजी तौर पर माड़े कनेक्शन थमां दूरी बनाई जा करदी ऐ"</item>
+</string-array>
+<string-array name="wifi_security">
+<item>"@string/wifi_security_none"</item>
+<item>"@string/wifi_security_wep"</item>
+<item>"@string/wifi_security_psk_generic"</item>
+<item>"@string/wifi_security_eap"</item>
+<item>"@string/wifi_security_wapi_psk"</item>
+<item>"@string/wifi_security_wapi_cert"</item>
+</string-array>
+<string-array name="wifi_p2p_wps_setup">
+<item>"पुश बटन"</item>
+<item>"पियर डिवाइस थमां पिन"</item>
+<item>"इस डिवाइस थमां पिन"</item>
+</string-array>
+<string-array name="wifi_p2p_status">
+<item>"कनेक्टड"</item>
+<item>"सद्देआ गेदा"</item>
+<item>"असफल"</item>
+<item>"उपलब्ध"</item>
+<item>"हद्द-थमां-बाह्​र"</item>
+</string-array>
+<string-array name="bluetooth_visibility_timeout_entries">
+<item>"2 मिनट"</item>
+<item>"5 मिनट"</item>
+<item>"1 घैंटा"</item>
+<item>"कदें बी टाइम आउट नेईं"</item>
+</string-array>
+<string-array name="wifi_signal">
+<item>"माड़ा"</item>
+<item>"दरम्याना"</item>
+<item>"शैल"</item>
+<item>"उत्तम"</item>
+</string-array>
+<string-array name="wifi_sleep_policy_entries">
+<item>"म्हेशां"</item>
+<item>"सिर्फ जदूं प्लगइन होए"</item>
+<item>"कदें बी नेईं (डेटा बरतून बधदी ऐ)"</item>
+</string-array>
+<string-array name="wifi_sleep_policy_entries_wifi_only">
+<item>"म्हेशां"</item>
+<item>"सिर्फ जदूं प्लगइन होए"</item>
+<item>"कदें बी नेईं"</item>
+</string-array>
+<string-array name="wifi_frequency_band_entries">
+<item>"आटो"</item>
+<item>"5 GHz सिर्फ"</item>
+<item>"2.4 GHz सिर्फ"</item>
+</string-array>
+<string-array name="usage_stats_display_order_types">
+<item>"बरतून समां"</item>
+<item>"लान्च गिनती"</item>
+<item>"ऐप नांऽ"</item>
+</string-array>
+<string-array name="wifi_peap_phase2_entries">
+<item>"कोई नेईं"</item>
+<item>"MSCHAPV2"</item>
+<item>"GTC"</item>
+</string-array>
+<string-array name="wifi_phase2_entries">
+<item>"कोई नेईं"</item>
+<item>"PAP"</item>
+<item>"MSCHAP"</item>
+<item>"MSCHAPV2"</item>
+<item>"GTC"</item>
+</string-array>
+<string-array name="wifi_ip_settings">
+<item>"DHCP"</item>
+<item>"नचिल्ला"</item>
+</string-array>
+<string-array name="wifi_proxy_settings">
+<item>"कोई नेईं"</item>
+<item>"हत्थें"</item>
+</string-array>
+<string-array name="emergency_tone_entries">
+<item>"बंद"</item>
+<item>"अलर्ट"</item>
+<item>"वाइब्रेट"</item>
+</string-array>
+<string-array name="apn_auth_entries">
+<item>"कोई नेईं"</item>
+<item>"PAP"</item>
+<item>"CHAP"</item>
+<item>"PAP जां CHAP"</item>
+</string-array>
+<string-array name="bearer_entries">
+<item>"LTE"</item>
+<item>"eHRPD"</item>
+<item>"अनिर्धारत"</item>
+</string-array>
+<string-array name="app_install_location_entries">
+<item>"अंदरूनी डिवाइस स्टोरज"</item>
+<item>"बाह्​र कड्ढने जोग SD कार्ड"</item>
+<item>"सिस्टम गी फैसला करन देओ"</item>
+</string-array>
+<string-array name="app_ums_install_location_entries">
+<item>"अंदरूनी डिवाइस स्टोरज"</item>
+<item>"मोबाइल अंदरूनी स्टोरज"</item>
+<item>"सिस्टम गी फैसला करन देओ"</item>
+</string-array>
+<string-array name="dualsim_summaries">
+<item>" SIM 1 "</item>
+<item>" SIM 2 "</item>
+<item>"म्हेशां प्राम्प्ट"</item>
+</string-array>
+<string-array name="dualsim_primary_summaries">
+<item>" SIM 1 "</item>
+<item>" SIM 2 "</item>
+</string-array>
+<string-array name="dualsim_mms_summaries">
+<item>" SIM 1 "</item>
+<item>" SIM 2 "</item>
+<item>"म्हेशां प्राम्प्ट"</item>
+<item>"आटो"</item>
+</string-array>
+<string-array name="dualsim_entries">
+<item>"SIM 1"</item>
+<item>"SIM 2"</item>
+</string-array>
+<string-array name="dualsim_setting_entries">
+<item>"SIM 1"</item>
+<item>"SIM 2"</item>
+<item>"म्हेशां प्राम्प्ट"</item>
+</string-array>
+<string-array name="silent_mode_entries">
+<item>"बंद"</item>
+<item>"वाइब्रेट"</item>
+<item>"म्यूट"</item>
+</string-array>
+<string-array name="app_ops_categories">
+<item>"लोकेशन"</item>
+<item>"निजी"</item>
+<item>"सनेहा भेजेआ जा करदा ऐ"</item>
+<item>"मीडिया"</item>
+<item>"डिवाइस"</item>
+</string-array>
+<string-array name="app_ops_summaries">
+<item>"कोर्स लोकेशन"</item>
+<item>"फाइन लोकेशन"</item>
+<item>"GPS"</item>
+<item>"वाइब्रेट"</item>
+<item>"रावते पढ़ो"</item>
+<item>"रावते संशोधत करो"</item>
+<item>"काल लाग पढ़ो"</item>
+<item>"काल लाग संशोधत करो"</item>
+<item>"कलेंडर पढ़ो"</item>
+<item>"कलेंडर संशोधत करो"</item>
+<item>"wi-fi स्कैन"</item>
+<item>"सूचना"</item>
+<item>"सेल स्कैन"</item>
+<item>"फोन काल करो"</item>
+<item>"SMS पढ़ो"</item>
+<item>"SMS लिखो"</item>
+<item>"SMS हासल करो"</item>
+<item>"अपाताकली SMS हासल करो"</item>
+<item>"MMS हासल करो"</item>
+<item>"WAP पुश हासल करो"</item>
+<item>"SMS भेजो"</item>
+<item>"ICC SMS पढो"</item>
+<item>"ICC SMS लिखो"</item>
+<item>"सेटिंग्स संशोधत करो"</item>
+<item>"शीर्श पर ड्रा करो"</item>
+<item>"सूचनां ऐक्सस करो"</item>
+<item>"कैमरा"</item>
+<item>"आडियो रिकार्ड करो"</item>
+<item>"आडियो प्ले करो"</item>
+<item>"क्लिपबोर्ड पढ़ो"</item>
+<item>"क्लिपबोर्ड संशोधत करो"</item>
+<item>"मीडिया बटन"</item>
+<item>"आडियो फोक्स"</item>
+<item>"मास्टर वाल्यूम"</item>
+<item>"वायस वाल्यूम"</item>
+<item>"रिंग वाल्यूम"</item>
+<item>"मीडिया वाल्युम"</item>
+<item>"अलार्म वाल्युम"</item>
+<item>"सूचना वाल्युम"</item>
+<item>"ब्लूटुथ वाल्युम"</item>
+<item>"जागदे रवौ"</item>
+<item>"लोकेशन मानिटर करो"</item>
+<item>"हाई पावर लोकेशन मानिटर करो"</item>
+</string-array>
+<string-array name="app_ops_labels">
+<item>"लोकेशन"</item>
+<item>"लोकेशन"</item>
+<item>"लोकेशन"</item>
+<item>"वाइब्रेट"</item>
+<item>"रावते पढ़ो"</item>
+<item>"रावते संशोधत करो"</item>
+<item>"काल लाग पढ़ो"</item>
+<item>"काल लाग संशोधत करो"</item>
+<item>"कलेंडर पढ़ो"</item>
+<item>"कलेंडर संशोधत करो"</item>
+<item>"लोकेशन"</item>
+<item>"सूचना पोस्ट करो"</item>
+<item>"लोकेशन"</item>
+<item>"फोन काल करो"</item>
+<item>"SMS/MMS पढ़ो"</item>
+<item>"SMS/MMS लिखो"</item>
+<item>"SMS/MMS हासल करो"</item>
+<item>"SMS/MMS हासल करो"</item>
+<item>"SMS/MMS हासल करो"</item>
+<item>"SMS/MMS हासल करो"</item>
+<item>"SMS/MMS भेजो"</item>
+<item>"SMS/MMS पढ़ो"</item>
+<item>"SMS/MMS लिखो"</item>
+<item>"सेटिंग्स संशोधत करो"</item>
+<item>"शीर्श पर ड्रा करो"</item>
+<item>"सूचनां ऐक्सस करो"</item>
+<item>"कैमरा"</item>
+<item>"आडियो रिकार्ड करो"</item>
+<item>"आडियो प्ले करो"</item>
+<item>"क्लिपबोर्ड पढ़ो"</item>
+<item>"क्लिपबोर्ड संशोधत करो"</item>
+<item>"मीडिया बटन"</item>
+<item>"आडियो फोक्स"</item>
+<item>"मास्टर वाल्यूम"</item>
+<item>"वायस वाल्यूम"</item>
+<item>"रिंग वाल्यूम"</item>
+<item>"मीडिया वाल्युम"</item>
+<item>"अलार्म वाल्युम"</item>
+<item>"सूचना वाल्युम"</item>
+<item>"ब्लूटुथ वाल्युम"</item>
+<item>"जागदे रवौ"</item>
+<item>"लोकेशन"</item>
+<item>"लोकेशन"</item>
+</string-array>
+<string-array name="long_press_timeout_selector_titles">
+<item>"निक्का"</item>
+<item>"मीडियम"</item>
+<item>"लम्मा"</item>
+</string-array>
+<string-array name="captioning_typeface_selector_titles">
+<item>"डिफाल्ट"</item>
+<item>"Sans-serif"</item>
+<item>"Sans-serif condensed"</item>
+<item>"Serif"</item>
+<item>"मोनोस्पेस"</item>
+</string-array>
+<string-array name="captioning_font_size_selector_titles">
+<item>"बड़ा निक्का"</item>
+<item>"निक्का"</item>
+<item>"समान्य"</item>
+<item>"बड्डा"</item>
+<item>"बड़ा बड्डा"</item>
+</string-array>
+<string-array name="captioning_edge_type_selector_titles">
+<item>"कोई नेईं"</item>
+<item>"रूपरेखा"</item>
+<item>"परछामां पाओ"</item>
+</string-array>
+<string-array name="captioning_preset_selector_titles">
+<item>"काले पर चिट्टा"</item>
+<item>"चिट्टे पर काला"</item>
+<item>"काले पर पीला"</item>
+<item>"नीले पर पीला"</item>
+<item>"कस्टम"</item>
+</string-array>
+<string-array name="select_runtime_titles">
+<item>"Dalvik"</item>
+<item>"ART"</item>
+<item>"ART(डीबग)"</item>
+</string-array>
+<string-array name="select_runtime_summaries">
+<item>"Dalvik बरतून करो"</item>
+<item>"ART दी बरतून करो"</item>
+<item>"ART डिबग बिल्ड दी बरतून करो"</item>
+</string-array>
+<string-array name="hdcp_checking_titles">
+<item>"कदें बी नेईं जांचो"</item>
+<item>"सिर्फ DRM समग्गरी जांचो"</item>
+<item>"म्हेशां चैक करो"</item>
+</string-array>
+<string-array name="hdcp_checking_summaries">
+<item>"HDCP चेकिंग कदें बी नेईं बरतो"</item>
+<item>"DRM समग्गरी लेई म्हेशां HDCP चेकिंग बरतो"</item>
+<item>"म्हेशां HDCP चेकिंग बरतो"</item>
+</string-array>
+<string-array name="window_animation_scale_entries">
+<item>"ऐनीमेशन बंद"</item>
+<item>"ऐनीमेशन स्केल .5x"</item>
+<item>"ऐनीमेशन स्केल 1x"</item>
+<item>"ऐनीमेशन स्केल 1.5x"</item>
+<item>"ऐनीमेशन स्केल 2x"</item>
+<item>"ऐनीमेशन स्केल 5x"</item>
+<item>"ऐनीमेशन स्केल 10x"</item>
+</string-array>
+<string-array name="transition_animation_scale_entries">
+<item>"ऐनीमेशन बंद"</item>
+<item>"ऐनीमेशन स्केल .5x"</item>
+<item>"ऐनीमेशन स्केल 1x"</item>
+<item>"ऐनीमेशन स्केल 1.5x"</item>
+<item>"ऐनीमेशन स्केल 2x"</item>
+<item>"ऐनीमेशन स्केल 5x"</item>
+<item>"ऐनीमेशन स्केल 10x"</item>
+</string-array>
+<string-array name="animator_duration_scale_entries">
+<item>"ऐनीमेशन बंद"</item>
+<item>"ऐनीमेशन स्केल .5x"</item>
+<item>"ऐनीमेशन स्केल 1x"</item>
+<item>"ऐनीमेशन स्केल 1.5x"</item>
+<item>"ऐनीमेशन स्केल 2x"</item>
+<item>"ऐनीमेशन स्केल 5x"</item>
+<item>"ऐनीमेशन स्केल 10x"</item>
+</string-array>
+<string-array name="overlay_display_devices_entries">
+<item>"कोई नेईं"</item>
+<item>"720x480 mdpi"</item>
+<item>"720x480 mdpi (सुरक्षत)"</item>
+<item>"1280x720 tvdpi"</item>
+<item>"1280x720 tvdpi (सुरक्षत)"</item>
+<item>"1920x1080 xhdpi"</item>
+<item>"1920x1080 xhdpi (सुरक्षत)"</item>
+<item>"1280x720 tvdpi ते 1920x1080 xhdpi"</item>
+</string-array>
+<string-array name="enable_opengl_traces_entries">
+<item>"कोई नेईं"</item>
+<item>"Logcat"</item>
+<item>"Systrace (ग्राफिक्स)"</item>
+<item>"glGetError पर काल स्टैक करो"</item>
+</string-array>
+<string-array name="show_non_rect_clip_entries">
+<item>"बंद"</item>
+<item>"गैर आयताकार क्लिप खेत्तर नीले रंग च ड्रा करो"</item>
+<item>"परखे गेदे ड्राइंग आदेशें गी हरे रंग च दर्शाओ"</item>
+</string-array>
+<string-array name="track_frame_time_entries">
+<item>"बंद"</item>
+<item>"बार दे रूप च स्क्रीन पर"</item>
+<item>"स्क्रीन पर लाइनें दे रूप च"</item>
+<item>"adb shell dumpsys gfxinfo च"</item>
+</string-array>
+<string-array name="debug_hw_overdraw_entries">
+<item>"बंद"</item>
+<item>"ओवरड्रा खेत्तर दस्सो"</item>
+<item>"डियूट्रोऐनामोली लेई खेत्तर दस्सो"</item>
+<item>"ओवरड्रा काउंटर दस्सो"</item>
+</string-array>
+<string-array name="app_process_limit_entries">
+<item>"मानक सीमा"</item>
+<item>"कोई पछौकड़ प्रक्रियां नेईं"</item>
+<item>"सभनें थमां घट्ट 4 प्रक्रिया"</item>
+<item>"सभनें थमां घट्ट 2 प्रक्रियां"</item>
+<item>"सभनें थमां घट्ट 3 प्रक्रियां"</item>
+<item>"सभनें थमां घट्ट 4 प्रक्रियां"</item>
+</string-array>
+<string-array name="vpn_types_long">
+<item>"PPTP VPN"</item>
+<item>"पूर्व- सांझा कीऽ कन्नै L2TP/IPSec VPN"</item>
+<item>"सार्टिफिकेटें कन्नै L2TP/IPSec VPN"</item>
+<item>"पूर्व- सांझा कीऽ ते ऐक्थ प्रमाणीकरण कन्नै IPSec VPN"</item>
+<item>"सार्टिफिकेटें ते ऐक्थ प्रमाणीकरण कन्नै IPSec VPN"</item>
+<item>"सार्टिफिकेटें ते हाईब्रेड प्रमाणीकरण कन्नै IPSec VPN"</item>
+</string-array>
+<string-array name="vpn_states">
+<item>"डिसकनेक्टड"</item>
+<item>"शुरू कीता जा करदा ऐ..."</item>
+<item>"कनेक्ट होआ करदा ऐ..."</item>
+<item>"कनेक्टड"</item>
+<item>"टाइम-आउट"</item>
+<item>"असफल"</item>
+</string-array>
+<string-array name="security_settings_premium_sms_values">
+<item>"पुच्छो"</item>
+<item>"कदें बी हां नेईं करो"</item>
+<item>"म्हेशां हां करो"</item>
+</string-array>
+<string-array name="ram_states">
+<item>"समान्य"</item>
+<item>"मद्धम"</item>
+<item>"घट्ट"</item>
+<item>"म्हत्वपूर्ण"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>"एह् हूनै थमां 1 मिनट दे घट्ट समें लेई सेट कीता गेआ ऐ।"  ."</item>
+<item>"एह् हूनै थमां <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> लेई सेट कीता गेआ ऐ।"</item>
+<item>"एह् हूनै थमां <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> लेई सेट कीता गेआ ऐ।"</item>
+<item>"एह् हूनै थमां <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ते <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> लेई सेट कीता गेआ ऐ।"</item>
+<item>"एह् हूनै थमां <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> लेई सेट कीता गेआ ऐ।"</item>
+<item>"एह् हूनै थमां <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ते<xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> लेई सेट कीता गेआ ऐ।"</item>
+<item>"एह् हूनै थमां <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> ते<xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> लेई सेट कीता गेआ ऐ।"</item>
+<item>"एह् हूनै थमां <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> , <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, ते <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> लेई सेट कीता गेआ ऐ।"</item>
+</string-array>
+<string-array name="mobile_to_wlan">
+<item>"आटो कनेक्ट"</item>
+<item>"दस्ती कनेक्ट"</item>
+<item>"म्हेशां पुच्छो"</item>
+</string-array>
+<string-array name="agps_setting_entries">
+<item>"खोलो"</item>
+<item>"बंद करो"</item>
+</string-array>
+<string-array name="auto_time_entries">
+<item>"नेटवर्क-दित्ता समां बरतो"</item>
+<item>"GPS-दित्ता समां बरतो"</item>
+<item>"बंद"</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>"नेटवर्क-दित्ता समां बरतो"</item>
+<item>"बंद"</item>
+</string-array>
+<string-array name="color_picker">
+<item>"हरिताभ नीला"</item>
+<item>"नीला"</item>
+<item>"इंडिगो"</item>
+<item>"बैगंनी"</item>
+<item>"गुलाबी"</item>
+<item>"लाल"</item>
+</string-array>
+</resources>

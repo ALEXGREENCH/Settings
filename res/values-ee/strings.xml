@@ -1,0 +1,2266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="yes">"হোই"</string>
+<string name="no">"নত্তে"</string>
+<string name="create">"শাও"</string>
+<string name="allow">"য়াহল্লু"</string>
+<string name="deny">"য়াগনু"</string>
+<string name="device_info_default">"মশক খঙদবা"</string>
+<plurals name="show_dev_countdown">
+<item quantity="one">"নহাক হৌজিক <xliff:g id="step_count">%1$d</xliff:g> দিব্লপর অমা ওইগদবদগী খোঙথাং ঙাইরে."</item>
+<item quantity="other">"নহাক হৌজিক <xliff:g id="step_count">%1$d</xliff:g> দিব্লপর অমা ওইগদবদগী খোঙথাংশীং ঙাইরে."</item>
+</plurals>
+<string name="show_dev_on">"নহাক হৌজিক দিব্লপর অমা ওইরে!"</string>
+<string name="show_dev_already">"দরকার ওইদে, নহাক হান্ননা দিব্লপর অমা ওইরে."</string>
+<string name="header_category_wireless_networks">"ৱায়রলেস &amp; নেটৱার্কশীং"</string>
+<string name="header_category_device">"দিভাইস"</string>
+<string name="header_category_personal">"ইশাগী ওইবা"</string>
+<string name="header_category_system">"সিস্টেম"</string>
+<string name="turn_on_radio">"রেদিও থাও"</string>
+<string name="turn_off_radio">"রেদিও মুথৎলু"</string>
+<string name="sms_over_ims_on">"IMS কি মথক্তা SMS থাও"</string>
+<string name="sms_over_ims_off">"IMS কি মথক্তা SMS মুথৎলু"</string>
+<string name="ims_reg_required_on">"IMS রেজিস্ট্রেসন থাবা দরকার ওই"</string>
+<string name="ims_reg_required_off">"IMS রেজিস্ট্রেসন মুথৎপা দরকার ওই"</string>
+<string name="lte_ram_dump_on">"lte ram দম্প থাও"</string>
+<string name="lte_ram_dump_off">"lte ram দম্প মুথৎলু"</string>
+<string name="radioInfo_menu_viewADN">"SIM এদ্রেশ বুক য়েংঙু"</string>
+<string name="radioInfo_menu_viewFDN">"ফিক্স তৌবা দাইলিং নম্বরশীং য়েংঙু"</string>
+<string name="radioInfo_menu_viewSDN">"সার্ভিস দাইলিং নম্বরশীং য়েংঙু"</string>
+<string name="radioInfo_menu_getPDP">"PDP লিস্ট ফংঙু"</string>
+<string name="radioInfo_service_in">"সার্ভিস তৌরিবা"</string>
+<string name="radioInfo_service_out">"সার্ভিস তৌদ্রবা"</string>
+<string name="radioInfo_service_emergency">"ইমর্জেন্সি কোলশীং খক্তং"</string>
+<string name="radioInfo_service_off">"রেদিও থাদে"</string>
+<string name="radioInfo_roaming_in">"রোমিং"</string>
+<string name="radioInfo_roaming_not">"রোমিং তৌদে"</string>
+<string name="radioInfo_phone_idle">"শীজিন্নদনা লৈবা"</string>
+<string name="radioInfo_phone_ringing">"রিং খিংলিবা"</string>
+<string name="radioInfo_phone_offhook">"কোল চত্থরি"</string>
+<string name="radioInfo_data_disconnected">"শম্নবা ককথৎলে"</string>
+<string name="radioInfo_data_connecting">"শম্নরি"</string>
+<string name="radioInfo_data_connected">"শম্নরে"</string>
+<string name="radioInfo_data_suspended">"মতম খরগী ককথৎলে"</string>
+<string name="radioInfo_unknown">"মশক খঙদবা"</string>
+<string name="radioInfo_display_bytes">"বাইটশীং"</string>
+<string name="sdcard_unmount" product="nosdcard">"USB স্টোরেজ থাংথৌ"</string>
+<string name="sdcard_unmount" product="default">"SD কার্দ থাংথৌ"</string>
+<string name="sdcard_format" product="nosdcard">"USB স্টোরেজ মুথৎলু"</string>
+<string name="sdcard_format" product="default">"SD কার্দ মুথৎলু"</string>
+<string name="small_font">"অপিকপা"</string>
+<string name="medium_font">"ময়ায় ওইনা চাওবা"</string>
+<string name="large_font">"অচৌবা"</string>
+<string name="font_size_save">"ওকে"</string>
+<string name="sdcard_setting" product="nosdcard">"USB স্টোরেজ"</string>
+<string name="sdcard_setting" product="default">"SD কার্দ"</string>
+<string name="battery_info_status_label">"বেট্টরি স্টেটস:"</string>
+<string name="battery_info_power_label">"পাৱর প্লগ:"</string>
+<string name="battery_info_scale_label">"বেট্টরি স্কেল:"</string>
+<string name="battery_info_level_label">"বেট্টরিগী থাক:"</string>
+<string name="battery_info_health_label">"বেট্টরিগী হেল্থ:"</string>
+<string name="battery_info_technology_label">"বেট্টরি টেক্নোলোজি:"</string>
+<string name="battery_info_voltage_label">"বেট্টরি ভোল্টেজ:"</string>
+<string name="battery_info_temperature_label">"বেট্টরি টেম্পরেচর:"</string>
+<string name="battery_info_temperature_units">"\u00B0 C"</string>
+<string name="battery_info_uptime">"বূট তৌবদগী মতম:"</string>
+<string name="battery_info_awake_battery">"বেট্টরিদা এৱেক টাইম:"</string>
+<string name="battery_info_awake_plugged">"চার্জ তৌরিঙৈদা এৱেক টাইম:"</string>
+<string name="battery_info_screen_on">"স্ক্রীন ওন মতম:"</string>
+<string name="battery_info_status_unknown">"মশক খঙদবা"</string>
+<string name="battery_info_status_charging">"চার্জ তৌরি"</string>
+<string name="battery_info_status_charging_ac">"(AC)"</string>
+<string name="battery_info_status_charging_wireless">"(ৱায়রলেস)"</string>
+<string name="battery_info_status_discharging">"দিসচার্জ তৌরি"</string>
+<string name="battery_info_status_not_charging">"চার্জ তৌদে"</string>
+<string name="battery_info_status_full">"পিক থনবা"</string>
+<string name="battery_info_power_unplugged">"প্লগ লৌথোকপা"</string>
+<string name="battery_info_power_ac">"AC"</string>
+<string name="battery_info_power_wireless">"ৱায়র য়াওদবা"</string>
+<string name="battery_info_power_ac_usb">"AC+USB"</string>
+<string name="battery_info_power_unknown">"মশক খঙদবা"</string>
+<string name="battery_info_health_unknown">"মশক খঙদবা"</string>
+<string name="battery_info_health_good">"অফবা"</string>
+<string name="battery_info_health_overheat">"হেনজিন্না মৈসা পীবা"</string>
+<string name="battery_info_health_dead">"শিরবা"</string>
+<string name="battery_info_health_over_voltage">"ভোল্টেজ হেনবা"</string>
+<string name="battery_info_health_unspecified_failure">"মশক খঙদবা অশোয়বা"</string>
+<string name="battery_info_health_cold">"অইংবা"</string>
+<string name="bluetooth">"ব্লুটুথ"</string>
+<string name="bluetooth_is_discoverable">"নক্না লৈবা ব্লুটুথ দিভাইসশীং লোইনমক্তা উই (<xliff:g id="discoverable_time_period">%1$s</xliff:g>)"</string>
+<string name="bluetooth_is_discoverable_always">"নক্না লৈবা ব্লুটুথ দিভাইসশীং লোইনমক্তা উই"</string>
+<string name="bluetooth_not_visible_to_other_devices">"অতোপ্পা ব্লুটুথ দিভাইসশীংদা উদে"</string>
+<string name="bluetooth_only_visible_to_paired_devices">"জুরা শেম্বা দিভাইসশীং খক্তংদা উই"</string>
+<string name="bluetooth_visibility_timeout">"উবগী মতম লোইবা"</string>
+<string name="bluetooth_lock_voice_dialing">"ভোইস দাইলিং শো লোল্লু"</string>
+<string name="bluetooth_lock_voice_dialing_summary">"স্ক্রীন শো লোল্লিঙৈদা ব্লুটুথ দাইলর অদু শীজিন্নবা থিংঙু"</string>
+<string name="bluetooth_devices">"ব্লুটুথ দিভাইসশীং"</string>
+<string name="bluetooth_device_name">"দিভাইস মমিং"</string>
+<string name="bluetooth_device_details">"দিভাইস সেটিংশীং"</string>
+<string name="bluetooth_profile_details">"প্রোফাইল সেটিংশীং"</string>
+<string name="bluetooth_name_not_set">"মমিং সেট তৌদে, একাওন্ট মমিং শীজিন্নরি"</string>
+<string name="bluetooth_scan_for_devices">"দিভাইসশীংগী স্কেন তৌ"</string>
+<string name="bluetooth_rename_device" product="tablet">"টেব্লেত হন্না মমিং থোল্লু"</string>
+<string name="bluetooth_rename_device" product="default">"ফোন মমিং থোল্লু"</string>
+<string name="bluetooth_rename_button">"হন্না মমিং থোল্লু"</string>
+<string name="bluetooth_disconnect_title">"শম্নবা ককথৎকদ্রা?"</string>
+<string name="bluetooth_disconnect_all_profiles">"মসিনা নহাক্কি কনেক্সন লোইশিনগনি লোয়ননা:&lt;br&gt;&lt;b&gt;<xliff:g id="device_name">%1$s</xliff:g>&lt;/b&gt;"</string>
+<string name="bluetooth_disable_profile_title">"প্রোফাইল য়াহল্লোইদ্রা?"</string>
+<string name="bluetooth_disable_profile_message">"মসিনা য়াহল্লরোই:&lt;br&gt;&lt;b&gt;<xliff:g id="profile_name">%1$s</xliff:g>&lt;/b&gt;&lt;br&gt;&lt;br&gt;দগী:&lt;br&gt;&lt;b&gt;<xliff:g id="device_name">%2$s</xliff:g>&lt;/b&gt;"</string>
+<string name="bluetooth_connected">"শম্নরে"</string>
+<string name="bluetooth_connected_no_headset">"শম্নরে (ফোন লৈতে)"</string>
+<string name="bluetooth_connected_no_a2dp">"শম্নরে (মেদিয়া লৈতে)"</string>
+<string name="bluetooth_connected_no_map">"শম্নরে (মেসেজ চংবা য়াদে)"</string>
+<string name="bluetooth_connected_no_headset_no_a2dp">"শম্নরে (ফোন নত্ত্রগা মেদিয়া লৈতে)"</string>
+<string name="bluetooth_disconnected">"শম্নবা ককথৎলে"</string>
+<string name="bluetooth_disconnecting">"শম্নবা ককথৎলি..."</string>
+<string name="bluetooth_connecting">"শম্নরি..."</string>
+<string name="bluetooth_pairing">"জুরা শেম্লি..."</string>
+<string name="bluetooth_device">"মমিং থোন্দবা ব্লুটুথ দিভাইস"</string>
+<string name="progress_scanning">"থিরি"</string>
+<string name="bluetooth_no_devices_found">"নক্নবা ব্লুটুথ দিভাইসশীং ফংদে."</string>
+<string name="bluetooth_notif_ticker">"ব্লুটুথ জুরা শেম্নবা হায়জবা"</string>
+<string name="bluetooth_notif_title">"জুরা শেম্নবা হায়জবা"</string>
+<string name="bluetooth_notif_message">"লোয়ননা জুরা শেম্নবা শোকউ <xliff:g id="device_name">%1$s</xliff:g>."</string>
+<string name="bluetooth_show_received_files">"ফংলবা ফাইলশীং উৎলু"</string>
+<string name="bluetooth_ftp_switch_on">"FTP সার্ভর থাও"</string>
+<string name="bluetooth_ftp_switch_off">"FTP সার্ভর মুথৎলু"</string>
+<string name="bluetooth_ftp_acceptance_dialog_text">"%1$s নহাক্কি ফাইল ত্রান্সফর সার্ভর এক্সেস তৌবা পাম্মি. %2$s দা এক্সেস পীগদ্রা?"</string>
+<string name="bluetooth_ftp_acceptance_dialog_title">"ফাইল ত্রান্সফর সার্ভর এক্সেস তৌনবা হায়জবা"</string>
+<string name="device_picker">"ব্লুটুথ দিভাইস খন্নবা পোৎ"</string>
+<string name="bluetooth_permission_request">"ব্লুটুথ অয়াবা লৌনবগী হায়জবা"</string>
+<string name="bluetooth_ask_enablement">"এপ অমনা ব্লুটুথ থাবা পাম্মি."</string>
+<string name="bluetooth_ask_discovery" product="tablet">"এপ অমনা নহাক্কি টেব্লেতপু অতোপ্পা ব্লুটুথ দিভাইসশীংদা উহনবা পাম্মি গী <xliff:g id="timeout">%1$d</xliff:g> সেকেন্দশীং."</string>
+<string name="bluetooth_ask_discovery" product="default">"এপ অমনা নহাক্কি ফোনবু অতোপ্পা ব্লুটুথ দিভাইসশীংদা উহনবা পাম্মি গী <xliff:g id="timeout">%1$d</xliff:g> সেকেন্দশীং."</string>
+<string name="bluetooth_ask_lasting_discovery" product="tablet">"এপ অমনা নহাক্কি টেব্লেতপু অতোপ্পা ব্লুটুথ দিভাইসশীংদা উহনবা পাম্মি. নহাক মসি ব্লুটুথ সেটিংশীংদা কোন্না হোংবা য়াই."</string>
+<string name="bluetooth_ask_lasting_discovery" product="default">"এপ অমনা নহাক্কি ফোনবু অতোপ্পা ব্লুটুথ দিভাইসশীংদা উহনবা পাম্মি. নহাক মসি ব্লুটুথ সেটিংশীংদা কোন্না হোংবা য়াই."</string>
+<string name="bluetooth_ask_enablement_and_discovery" product="tablet">"এপ অমনা ব্লুটুথ থাবা অমসুং নহাক্কি টেব্লেত অতোপ্পা দিভাইসশীংদা উহনবা পাম্মি গী <xliff:g id="timeout">%1$d</xliff:g> সেকেন্দশীং."</string>
+<string name="bluetooth_ask_enablement_and_discovery" product="default">"এপ অমনা ব্লুটুথ থাবা অমসুং নহাক্কি ফোন অতোপ্পা দিভাইসশীংদা উহনবা পাম্মি গী <xliff:g id="timeout">%1$d</xliff:g> সেকেন্দশীং."</string>
+<string name="bluetooth_ask_enablement_and_lasting_discovery" product="tablet">"এপ অমনা ব্লুটুথ থাবা অমসুং নহাক্কি টেব্লেত অতোপ্পা দিভাইসশীংদা উহনবা পাম্মি. নহাক মসি ব্লুটুথ সেটিংশীংদা কোন্না হোংবা য়াই."</string>
+<string name="bluetooth_ask_enablement_and_lasting_discovery" product="default">"এপ অমনা ব্লুটুথ থাবা অমসুং নহাক্কি ফোন অতোপ্পা দিভাইসশীংদা উহনবা পাম্মি. নহাক মসি ব্লুটুথ সেটিংশীংদা কোন্না হোংবা য়াই."</string>
+<string name="bluetooth_turning_on">"ব্লুটুথ থারগনি..."</string>
+<string name="bluetooth_turning_off">"ব্লুটুথ মুথৎলগনি..."</string>
+<string name="bluetooth_auto_connect">"মশা মথন্তা-শম্নবা"</string>
+<string name="bluetooth_connection_permission_request">"ব্লুটুথ কনেক্সনগী হায়জবা"</string>
+<string name="bluetooth_connection_notif_message">"দা শম্ননবা শোকউ \u0022<xliff:g id="device_name">%1$s</xliff:g>\u0022."</string>
+<string name="bluetooth_connection_dialog_text">"নহাক শম্নবা পাম্ব্রা দা \u0022<xliff:g id="device_name">%1$s</xliff:g>\u0022?"</string>
+<string name="bluetooth_phonebook_request">"ফোন বুক চংনবা হায়জবা"</string>
+<string name="bluetooth_pb_acceptance_dialog_text">"%1$s নহাক্কি কন্টেক্টশীং অমসুং কোল হিস্টরি চংবা পাম্মি. %2$s দা এক্সেস পীগদ্রা?"</string>
+<string name="bluetooth_remember_choice">"হন্না হংগনু"</string>
+<string name="bluetooth_pb_remember_choice">"হন্না হংগনু"</string>
+<string name="bluetooth_map_request">"মেসেজ চংনবা হায়জবা"</string>
+<string name="bluetooth_map_acceptance_dialog_text">"%1$s না নহাক্কি মেসেজশীং চংবা পাম্মি. %2$s দা চংহনগদ্রা?"</string>
+<string name="date_and_time">"তাং &amp; মতমগী সেটিংশীং"</string>
+<string name="choose_timezone">"মতমগী জোন খল্লু"</string>
+<string name="normal_date_format">"রিজনেল (<xliff:g id="date" example="12-31-2009">%s</xliff:g>)"</string>
+<string name="display_preview_label">"প্রিভ্যু:"</string>
+<string name="display_font_size_label">"ফোন্ট চাওবা পিকপা:"</string>
+<string name="intent_sender_sendbroadcast_text">"থাও <xliff:g id="broadcast">broadcast</xliff:g>"</string>
+<string name="intent_sender_startactivity_text">"হৌ <xliff:g id="activity">activity</xliff:g>"</string>
+<string name="intent_sender_account_label">"একাওন্ট:"</string>
+<string name="proxy_settings_title">"প্রোক্সি"</string>
+<string name="proxy_clear_text">"ক্লিয়র তৌ"</string>
+<string name="proxy_port_label">"প্রোক্সি পোর্ট"</string>
+<string name="proxy_exclusionlist_label">"বাইপাস প্রোক্সি গী"</string>
+<string name="proxy_defaultView_text">"দিফাওল্টশীং হান্নগীদা হনজিন্না থম্মু"</string>
+<string name="proxy_action_text">"তৌখ্রে"</string>
+<string name="proxy_hostname_label">"প্রোক্সি হোস্ট মমিং"</string>
+<string name="proxy_error">"পুক্নিং চংবা"</string>
+<string name="proxy_error_dismiss">"ওকে"</string>
+<string name="proxy_error_invalid_host">"নহাক্না টাইপ তৌবা হোস্ট মমিং অদু চৎনদে."</string>
+<string name="proxy_error_invalid_exclusion_list">"নহাক্না টাইপ তৌবা য়াওদবগী লিস্ট অদু ফজনা ফোরমেট তৌদে. য়াওদবগী দোমেনশীংগী কোমানা-তোঙান খায়দোকপা লিস্ট অমা টাইপ তৌ."</string>
+<string name="proxy_error_empty_port">"নহাক পোর্ট ফিল্দ অদু মপুং ফাহনবা দরকার ওই."</string>
+<string name="proxy_error_empty_host_set_port">"হোস্ট ফিল্দ অদু হাংলবদি পোর্ট ফিল্দ অদু হাংগদবনি."</string>
+<string name="proxy_error_invalid_port">"নহাক্না টাইপ তৌবা পোর্ট অদু চৎনদে."</string>
+<string name="proxy_warning_limited_support">"HTTP প্রোক্সি অদু ব্রাওজরনা শীজিন্নৈ তৌইগুম্বশুং অতোপ্পা এপশীংনা শীজিন্নদবা য়াই."</string>
+<string name="proxy_url">"PAC URL: "</string>
+<string name="radio_info_signal_location_label">"লৈফম:"</string>
+<string name="radio_info_neighboring_location_label">"য়ুমথংনবা CID:"</string>
+<string name="radio_info_cellinfo_label">"সেলইনফো:"</string>
+<string name="radio_info_data_attempts_label">"দাতা হোৎনবশীং:"</string>
+<string name="radio_info_gprs_service_label">"GPRS সার্ভিস:"</string>
+<string name="radio_info_roaming_label">"রোমিং:"</string>
+<string name="radio_info_imei_label">"IMEI:"</string>
+<string name="radio_info_call_redirect_label">"কোল হন্না দাইরেক্ত তৌ:"</string>
+<string name="radio_info_ppp_resets_label">"বূট তৌবদগী হন্না সেট তৌবা PPP মশীং:"</string>
+<string name="radio_info_gsm_disconnects_label">"GSM শম্নবা ককখ্রে:"</string>
+<string name="radio_info_current_network_label">"হৌজিক্কি নেটৱার্ক:"</string>
+<string name="radio_info_data_successes_label">"দাতা মায় পাকপশীং:"</string>
+<string name="radio_info_ppp_received_label">"PPP ফংলে:"</string>
+<string name="radio_info_gsm_service_label">"GSM সার্ভিস:"</string>
+<string name="radio_info_signal_strength_label">"সিগ্নেল মপাঙ্গল:"</string>
+<string name="radio_info_call_status_label">"কোল স্টেটস:"</string>
+<string name="radio_info_ppp_sent_label">"PPP থাখ্রে:"</string>
+<string name="radio_info_radio_resets_label">"রেদিও হন্না সেট তৌবশীং:"</string>
+<string name="radio_info_message_waiting_label">"মেসেজ ঙাইরি:"</string>
+<string name="radio_info_phone_number_label">"ফোন নম্বর:"</string>
+<string name="radio_info_band_mode_label">"রেদিও বেন্দ খল্লু"</string>
+<string name="radio_info_network_type_label">"নেটৱার্ক মখল:"</string>
+<string name="radio_info_set_perferred_label">"হেন্না পাম্বা নেটৱার্ক মখল সেট তৌ:"</string>
+<string name="radio_info_ping_ipaddr">"Ping Ip এদ্রেশ:"</string>
+<string name="radio_info_ping_hostname">"Ping হোস্ট মমিং(www.google.com):"</string>
+<string name="radio_info_http_client_test">"HTTP ক্লাইন্ট চাংয়েং:"</string>
+<string name="ping_test_label">"ping চাংয়েং রন তৌ"</string>
+<string name="radio_info_smsc_label">"SMSC:"</string>
+<string name="radio_info_smsc_update_label">"অপদেত তৌ"</string>
+<string name="radio_info_smsc_refresh_label">"রিফ্রেশ তৌ"</string>
+<string name="radio_info_toggle_dns_check_label">"DNS চেক টোগল তৌ"</string>
+<string name="oem_radio_info_label">"OEM-তাংদাংবা ইনফো/সেটিংশীং"</string>
+<string name="band_mode_title">"GSM/UMTS বেন্দ সেট তৌ"</string>
+<string name="band_mode_loading">"বেন্দ লিস্ট লোদ তৌরি..."</string>
+<string name="band_mode_set">"সেট তৌ"</string>
+<string name="band_mode_failed">"মায় পাক্তে"</string>
+<string name="band_mode_succeeded">"মায় পাকই"</string>
+<string name="sdcard_changes_instructions">"অহোংবশীং অদু USB কেবল হন্না শম্নবা মতমদা থোকই."</string>
+<string name="sdcard_settings_screen_mass_storage_text">"USB মাস স্টোরেজ য়াহল্লু"</string>
+<string name="sdcard_settings_total_bytes_label">"অপুনবা বাইটশীং:"</string>
+<string name="sdcard_settings_not_present_status" product="nosdcard">"USB স্টোরেজ থাঙ্গৎতে."</string>
+<string name="sdcard_settings_not_present_status" product="default">"SD কার্দ লৈতে."</string>
+<string name="sdcard_settings_available_bytes_label">"অফংবা বাইটশীং:"</string>
+<string name="sdcard_settings_mass_storage_status" product="nosdcard">"USB স্টোরেজ মাস স্টোরেজ দিভাইস অমা ওইনা শীজিন্নরি."</string>
+<string name="sdcard_settings_mass_storage_status" product="default">"SD কার্দ মাস স্টোরেজ দিভাইস অমা ওইনা শীজিন্নরি."</string>
+<string name="sdcard_settings_unmounted_status" product="nosdcard">"হৌজিক USB স্টোরেজ অদু লৌথোকপদা অকায়বা লৈররোই."</string>
+<string name="sdcard_settings_unmounted_status" product="default">"হৌজিক SD কার্দ অদু লৌথোকপদা অকায়বা লৈররোই."</string>
+<string name="sdcard_settings_bad_removal_status" product="nosdcard">"USB স্টোরেজ অদু শীজিন্নরিঙৈ মতমদা লৌথোক্লম্মি!"</string>
+<string name="sdcard_settings_bad_removal_status" product="default">"SD কার্দ অদু শীজিন্নরিঙৈ মতমদা লৌথোক্লম্মি!"</string>
+<string name="sdcard_settings_used_bytes_label">"শীজিন্নরবা বাইটশীং:"</string>
+<string name="sdcard_settings_scanning_status" product="nosdcard">"মেদিয়াগী USB স্টোরেজ স্কেন তৌরি..."</string>
+<string name="sdcard_settings_scanning_status" product="default">"মেদিয়াগী SD কার্দ স্কেন তৌরি..."</string>
+<string name="sdcard_settings_read_only_status" product="nosdcard">"USB স্টোরেজ রীদ-ওনলি ওইনা থাঙ্গৎলে."</string>
+<string name="sdcard_settings_read_only_status" product="default">"SD কার্দ রীদ-ওনলি ওইনা থাঙ্গৎলে."</string>
+<string name="skip_label">"চোংঙু"</string>
+<string name="next_label">"মথং"</string>
+<string name="language_picker_title">"লোন"</string>
+<string name="activity_picker_label">"এক্টিভিতি খল্লু"</string>
+<string name="device_info_label">"দিভাইস পাও"</string>
+<string name="battery_info_label">"বেট্টরি ইনফো"</string>
+<string name="display_label">"স্ক্রীন"</string>
+<string name="phone_info_label" product="tablet">"টেব্লেত ইনফো"</string>
+<string name="phone_info_label" product="default">"ফোন ইনফো"</string>
+<string name="sd_card_settings_label" product="nosdcard">"USB স্টোরেজ"</string>
+<string name="sd_card_settings_label" product="default">"SD কার্দ"</string>
+<string name="proxy_settings_label">"প্রোক্সি সেটিংশীং"</string>
+<string name="cancel">"ককথৎলু"</string>
+<string name="settings_label">"সেটিংশীং"</string>
+<string name="settings_label_launcher">"সেটিংশীং"</string>
+<string name="settings_shortcut">"সেটিংশীংগী সোর্তকত"</string>
+<string name="airplane_mode">"এয়রপ্লেন মোদ"</string>
+<string name="radio_controls_title">"হেন্না..."</string>
+<string name="wireless_networks_settings_title">"হেন্না"</string>
+<string name="radio_controls_summary">"Wi\u2011Fi, ব্লুটুথ, এয়রপ্লেন মোদ, মোবাইল নেটৱার্কশীং, &amp; VPNশীং মেনেজ তৌ"</string>
+<string name="roaming">"দাতা রোমিং"</string>
+<string name="roaming_enable">"রোমিং তৌরিঙৈদা দাতা সার্ভিসশীংদা শম্নৌ"</string>
+<string name="roaming_disable">"রোমিং তৌরিঙৈদা দাতা সার্ভিসশীংদা শম্নৌ"</string>
+<string name="roaming_reenable_message">"নহাক দাতা শম্নবা মাংখ্রে মরমদি নহাক নহাক্কি হোম নেটৱার্ক দাতা রোমিং মুথৎলগা থাদোক্লে."</string>
+<string name="roaming_turn_it_on_button">"মদু থাও"</string>
+<string name="roaming_warning">"নহাক দাতা রোমিং য়াহনবা মতমদা, নহাক রোমিং চার্জশীং চাওনা তিংবা য়াই!"</string>
+<string name="roaming_warning_multiuser" product="tablet">"নহাক দাতা রোমিং য়াহনবা মতমদা, নহাক রোমিং চার্জশীং চাওনা তিংবা য়াই!\n\nসেটিং অসিনা টেব্লেত অসিদা য়ুজরশীং লোইনমক শোকহল্লি."</string>
+<string name="roaming_warning_multiuser" product="default">"নহাক দাতা রোমিং য়াহনবা মতমদা, নহাক রোমিং চার্জশীং চাওনা তিংবা য়াই!\n\nসেটিং অসিনা ফোন অসিদা য়ুজরশীং লোইনমক শোকহল্লি."</string>
+<string name="roaming_reenable_title">"দাতা রোমিং য়াহনগদ্রা?"</string>
+<string name="networks">"ওপরেতর খনবা"</string>
+<string name="sum_carrier_select">"নেটৱার্ক ওপরেতর অমা খল্লু"</string>
+<string name="date_and_time_settings_title">"তারিখ &amp; মতম"</string>
+<string name="date_and_time_settings_title_setup_wizard">"তাং অমসুং মতম সেট তৌ"</string>
+<string name="date_and_time_settings_summary">"তাং, মতম, মতমগী জোন, &amp; ফোরমেতশীং সেট তৌ"</string>
+<string name="date_time_auto">"মশা মথন্তা তাং &amp; মতম"</string>
+<string name="date_time_auto_summaryOn">"নেটৱার্কনা-পীবা মতম শীজিন্নৌ"</string>
+<string name="date_time_auto_summaryOff">"নেটৱার্কনা-পীবা মতম শীজিন্নৌ"</string>
+<string name="zone_auto">"মশা মথন্তা শেম্বা মতমগী জোন"</string>
+<string name="zone_auto_summaryOn">"নেটৱার্ক্না-পীবা মতমগী জোন শীজিন্নৌ"</string>
+<string name="zone_auto_summaryOff">"নেটৱার্ক্না-পীবা মতমগী জোন শীজিন্নৌ"</string>
+<string name="date_time_24hour">"পুং-24 গী ফোরমেত শীজিন্নৌ"</string>
+<string name="date_time_set_time">"মতম সেট তৌ"</string>
+<string name="date_time_set_timezone">"মতমগী জোন খল্লু"</string>
+<string name="date_time_set_date">"তারিখ সেট তৌ"</string>
+<string name="date_time_date_format">"তাংগী ফোরমেত খল্লু"</string>
+<string name="zone_list_menu_sort_alphabetically">"অলফাবেটকি ওইনা শিল্লু"</string>
+<string name="zone_list_menu_sort_by_timezone">"মতমগী জোন ওইনা শিল্লু"</string>
+<string name="zone_list_menu_sort_by_pinyin">"চাইনিজ পিনয়িন শীজিন্নরগা শেম শাও"</string>
+<string name="date_picker_title">"তারিখ"</string>
+<string name="time_picker_title">"মতম"</string>
+<string name="biometric_weak_improve_matching_title">"মায় চানহনবা ফগৎহল্লু"</string>
+<string name="biometric_weak_liveliness_title">"লৈরিব্রা চেক তৌনবা"</string>
+<string name="biometric_weak_liveliness_summary">"শো হাংলিঙৈ মতমদা মীৎ খপ্পা দিকার ওই"</string>
+<string name="lock_after_timeout">"মশা মখন্তা শো লোল্লু"</string>
+<string name="lock_after_timeout_summary">"<xliff:g id="timeout_string">%1$s</xliff:g> তুম্বা মতুংদা"</string>
+<string name="show_owner_info_on_lockscreen_label">"লোক স্ক্রীন্দা মপুগী পাও উৎলু"</string>
+<string name="owner_info_settings_title">"মপুগী পাও"</string>
+<string name="security_enable_widgets_title">"ৱিদজেতশীং য়াহল্লু"</string>
+<string name="security_enable_widgets_disabled_summary">"এদমিনিস্ট্রেতরনা য়াহন্দে"</string>
+<string name="owner_info_settings_edit_text_hint">"লোক স্ক্রীন্দা উৎনবা টেক্সট টাইপ তৌ"</string>
+<string name="show_user_info_on_lockscreen_label">"লোক স্ক্রীন্দা য়ুজর ইনফো উৎলু"</string>
+<string name="user_info_settings_title">"য়ুজর ইনফো"</string>
+<string name="show_profile_info_on_lockscreen_label">"লোক স্ক্রীন্দা প্রোফাইল ইনফো উৎলু"</string>
+<string name="profile_info_settings_title">"প্রোফাইল ইনফো"</string>
+<string name="location_settings_title">"মফম"</string>
+<string name="security_settings_title">"সেক্যুরিতি"</string>
+<string name="security_settings_summary">"ঐগী লৈফম, স্ক্রীন অনলোক, SIM কার্দ লোক, ক্রেদেন্সিয়েল স্টোরেজ লোক সেট তৌ"</string>
+<string name="cdma_security_settings_summary">"ঐগী লৈফম, স্ক্রীন অনলোক, ক্রেদেন্সিয়েল স্টোরেজ লোক সেট তৌ"</string>
+<string name="security_passwords_title">"পাসৱার্দশীং"</string>
+<string name="crypt_keeper_settings_title">"এনক্রিপ্সন"</string>
+<string name="crypt_keeper_encrypt_title" product="tablet">"টেব্লেত এনক্রিপ্ট তৌ"</string>
+<string name="crypt_keeper_encrypt_title" product="default">"ফোন এনক্রিপ্ট তৌ"</string>
+<string name="crypt_keeper_encrypt_summary" product="tablet">" নহাক্না নহাক্কি টেব্লেত পাৱর থাবা মতম খুদিংমক্তা মদু দিক্রিপ্ট তৌনবা মশীংগী PIN নত্ত্রগা পাসৱার্দ অমা দরকার ওই"</string>
+<string name="crypt_keeper_encrypt_summary" product="default">" নহাক্না নহাক্কি ফোন পাৱর থাবা মতম খুদিংমক্তা মদু দিক্রিপ্ট তৌনবা মশীংগী PIN নত্ত্রগা পাসৱার্দ অমা দরকার ওই"</string>
+<string name="crypt_keeper_encrypted_summary">"এনক্রিপ্ট তৌরে"</string>
+<string name="crypt_keeper_desc" product="tablet">" নহাক নহাক্কি একাওন্টশীং, সেটিংশীং, দাওনলোদ তৌবা এপশীং অমসুং মখোয়গী দাতা, মেদিয়া, অমসুং অতোপ্পা ফাইলশীং এনক্রিপ্ট তৌবা য়াই. নহাক নহাক্কি টেব্লেত এনক্রিপ্ট তৌখিবগা, নহাক্না মদু পাৱর থাবা মতম খুদিংমক্তা মদু দিক্রিপ্ট তৌনবা মশীংগী PIN নত্ত্রগা পাসৱার্দ অমা নহাক দরকার ওই. নহাক্কি দাতা লোইনমক মুথৎতুনা, ফেক্তরি দাতা হন্না সেট তৌবা অমা পাংথোকপা নত্তনা অতোপ্পা মওং অমনা নহাক নহাক্কি টেব্লেত দিক্রিপ্ট তৌবা য়ারোই.\n\nএনক্রিপ্ট তৌবদা পুং অমা নত্ত্রগা অমদগী হেনবা চংই. নহাক চার্জ তৌবা বেট্টরি অমগা লোয়ননা হৌগদবনি অমসুং এনক্রিপ্ট তৌবা মপুং ফাদ্রিবা ফাওবা নহাক্কি টেব্লেত প্লগ ইন তৌদুনা থমগদবনি. নহাক এনক্রিপ্ট তৌবগী প্রোসেস অদুদা মরক থৎলুরবদি, নহাক দাতা খরা নত্ত্রগা লোইনমক মাংগনি."</string>
+<string name="crypt_keeper_desc" product="default">" নহাক নহাক্কি একাওন্টশীং, সেটিংশীং, দাওনলোদ তৌবা এপশীং অমসুং মখোয়গী দাতা, মেদিয়া, অমসুং অতোপ্পা ফাইলশীং এনক্রিপ্ট তৌবা য়াই. নহাক নহাক্কি ফোন এনক্রিপ্ট তৌখিবগা, নহাক্না মদু পাৱর থাবা মতম খুদিংমক্তা মদু দিক্রিপ্ট তৌনবা মশীংগী PIN নত্ত্রগা পাসৱার্দ অমা নহাক দরকার ওই. নহাক্কি দাতা লোইনমক মুথৎতুনা, ফেক্তরি দাতা হন্না সেট তৌবা অমা পাংথোকপা নত্তনা অতোপ্পা মওং অমনা নহাক নহাক্কি ফোন দিক্রিপ্ট তৌবা য়ারোই.\n\nএনক্রিপ্ট তৌবদা পুং অমা নত্ত্রগা অমদগী হেনবা চংই. নহাক চার্জ তৌবা বেট্টরি অমগা লোয়ননা হৌগদবনি অমসুং এনক্রিপ্ট তৌবা মপুং ফাদ্রিবা ফাওবা নহাক্কি ফোন প্লগ ইন তৌদুনা থমগদবনি. নহাক এনক্রিপ্ট তৌবগী প্রোসেস অদুদা মরক থৎলুরবদি, নহাক দাতা খরা নত্ত্রগা লোইনমক মাংগনি."</string>
+<string name="crypt_keeper_button_text" product="tablet">"টেব্লেত এনক্রিপ্ট তৌ"</string>
+<string name="crypt_keeper_button_text" product="default">"ফোন এনক্রিপ্ট তৌ"</string>
+<string name="crypt_keeper_low_charge_text">"নহাক্কি বেট্টরি চার্জ তৌ অমসুং হন্না হোৎনৌ."</string>
+<string name="crypt_keeper_unplugged_text">"নহাক্কি চার্জর প্লগ ইন তৌ অমসুং হন্না হোৎনৌ."</string>
+<string name="crypt_keeper_dialog_need_password_title">"লোক স্ক্রীন PIN নত্ত্রগা পাসৱার্দ লৈতে"</string>
+<string name="crypt_keeper_dialog_need_password_message">"নহাক এনক্রিপ্ট তৌবা হৌদ্রিঙৈ মমাংদা নহাক লোক স্ক্রীন PIN অমা নত্ত্রগা পাসৱার্দ সেট তৌবা দরাকর ওই."</string>
+<string name="crypt_keeper_confirm_title">"এনক্রিপ্ট তৌগদ্রা?"</string>
+<string name="crypt_keeper_final_desc" product="tablet">"এনক্রিপ্ট তৌবগী ওপরেসন হনবা য়াদে অমসুং নহাক মদু মরক্তা লেপহল্লবদি, নহাক দাতা মাংগনি. এনক্রিপ্টসন তৌবদা পুং অমা নত্ত্রগা মদুদগী হেনবা চংঙি, মদুগী মনুংদা টেব্লেত অদু কয়ারক হন্না স্টার্ট তৌগনি. "</string>
+<string name="crypt_keeper_final_desc" product="default">"এনক্রিপ্ট তৌবগী ওপরেসন হনবা য়াদে অমসুং নহাক মদু মরক্তা লেপহল্লবদি, নহাক দাতা মাংগনি. এনক্রিপ্টসন তৌবদা পুং অমা নত্ত্রগা মদুদগী হেনবা চংঙি, মদুগী মনুংদা ফোন অদু কয়ারক হন্না স্টার্ট তৌগনি. "</string>
+<string name="crypt_keeper_setup_title">"এনক্রিপ্ট তৌরি"</string>
+<string name="crypt_keeper_setup_description" product="tablet">"নহাক্কি টেব্লেত এনক্রিপ্ট তৌরিঙৈদা ঙাইয়ু. <xliff:g id="percent" example="50">^1</xliff:g>% মপুং ফারে."</string>
+<string name="crypt_keeper_setup_description" product="default">"নহাক্কি ফোন এনক্রিপ্ট তৌরিঙৈদা ঙাইয়ু. <xliff:g id="percent" example="50">^1</xliff:g>% মপুং ফারে."</string>
+<string name="crypt_keeper_cooldown">"হন্না হোৎনৌ দা <xliff:g id="delay" example="15">^1</xliff:g> সেকেন্দশীং."</string>
+<string name="crypt_keeper_enter_password">"নহাক্কি পাসৱার্দ টাইপ তৌ"</string>
+<string name="crypt_keeper_failed_title">"এনক্রিপ্ট তৌবা মায় পাক্তে"</string>
+<string name="crypt_keeper_failed_summary" product="tablet">"এনক্রিপ্ট তৌবা মরক্তা লেপ্লুরে অমসুং মপুং ফাবা ঙমদ্রে. মরম অদুনা, নহাক্কি টেব্লেত্তা য়াওবা দাতা মখা তানা এক্সেস তৌবা ঙমদ্রে. \n\n নহাক্কি টেব্লেত শীজিন্নবা হৌনবা, নহাক ফেক্তরি রিসেট পাংথোকপা দরকার ওই. রিসেট তৌরবা মতুংদা নহাক নহাক্কি টেব্লেত সেট অপ তৌবা মতমদা, নহাক্কি Google একাওন্টতা বেক অপ তৌখিবা দাতা হন্না ফংবগী তানজা অমা ফংগনি."</string>
+<string name="crypt_keeper_failed_summary" product="default">"এনক্রিপ্ট তৌবা মরক্তা লেপ্লুরে অমসুং মপুং ফাবা ঙমদ্রে. মরম অদুনা, নহাক্কি ফোন্দা য়াওবা দাতা মখা তানা এক্সেস তৌবা ঙমদ্রে. \n\n নহাক্কি ফোন শীজিন্নবা হৌনবা, নহাক ফেক্তরি রিসেট পাংথোকপা দরকার ওই. রিসেট তৌরবা মতুংদা নহাক নহাক্কি ফোন সেট অপ তৌবা মতমদা, নহাক্কি Google একাওন্টতা বেক অপ তৌখিবা দাতা হন্না ফংবগী তানজা অমা ফংগনি."</string>
+<string name="crypt_keeper_switch_input_method">"ইনপুত মেথোদ ওল্লু"</string>
+<string name="lock_settings_picker_title">"স্ক্রীন লোক খল্লু"</string>
+<string name="backup_lock_settings_picker_title">"বেক অপ লোক খল্লু"</string>
+<string name="unlock_set_unlock_launch_picker_title">"স্ক্রীন শো লোনবা"</string>
+<string name="unlock_set_unlock_launch_picker_change_title">"লোক স্ক্রীন হোংঙু"</string>
+<string name="unlock_set_unlock_launch_picker_change_summary">"পেটর্ন, PIN, নত্ত্রগা পাসৱার্দ সেক্যুরিতি হোংঙু নত্ত্রগা য়াহনগনু"</string>
+<string name="unlock_set_unlock_launch_picker_enable_summary">"স্ক্রীন অদু শো লোন্নবা মেথোদ অমা খল্লু"</string>
+<string name="unlock_backup_info_summary">"ফেস অনলোকনা নহাক উবা ঙমদ্রবদি, নহাক করম্না শো হাংবা পামগনি?"</string>
+<string name="unlock_set_unlock_off_title">"অমত্তা লৈতে"</string>
+<string name="unlock_set_unlock_none_title">"স্বাইপ তৌ"</string>
+<string name="unlock_set_unlock_none_summary">"সেক্যুরিতি লৈতে"</string>
+<string name="unlock_set_unlock_biometric_weak_title">"মমায় শো হাংবা"</string>
+<string name="unlock_set_unlock_biometric_weak_summary">"সেক্যুরিতি নেম্বা, চাংয়েং তৌবা"</string>
+<string name="unlock_set_unlock_pattern_title">"পেটর্ন"</string>
+<string name="unlock_set_unlock_pattern_summary">"ময়ায় ওইবা সেক্যুরিতি"</string>
+<string name="unlock_set_unlock_pin_summary">"ময়ায় ওইবদগী অৱাংবা সেক্যুরিতি"</string>
+<string name="unlock_set_unlock_password_title">"পাসৱার্দ"</string>
+<string name="unlock_set_unlock_password_summary">"অৱাংবা সেক্যুরিতি"</string>
+<string name="unlock_set_unlock_disabled_summary">"এদমিনিস্ট্রেতর, এনক্রিপ্টসন পোলিসি, নত্ত্রগা ক্রেদেন্সিয়েল স্টোরেজনা য়াহন্দবা"</string>
+<string name="unlock_set_unlock_mode_off">"অমত্তা লৈতে"</string>
+<string name="unlock_set_unlock_mode_none">"স্বাইপ তৌ"</string>
+<string name="unlock_set_unlock_mode_biometric_weak">"মমায় শো হাংবা"</string>
+<string name="unlock_set_unlock_mode_pattern">"পেটর্ন"</string>
+<string name="unlock_set_unlock_mode_password">"পাসৱার্দ"</string>
+<string name="unlock_disable_lock_title">"স্ক্রীন লোক মুথৎলু"</string>
+<string name="unlock_disable_lock_pattern_summary">"শো হাংবগী পেটর্ন লৌথোকউ"</string>
+<string name="unlock_disable_lock_pin_summary">"শো হাংবগী PIN লৌথোকউ"</string>
+<string name="unlock_disable_lock_password_summary">"শো হাংবগী পাসৱার্দ লৌথোকউ"</string>
+<string name="unlock_change_lock_pattern_title">"শো হাংবগী পেটর্ন হোংঙু"</string>
+<string name="unlock_change_lock_pin_title">"শো হাংবগী PIN হোংঙু"</string>
+<string name="unlock_change_lock_password_title">"শো হাংবগী পাসৱার্দ হোংঙু"</string>
+<string name="lockpassword_password_too_short">"পাসৱার্দ য়ামদ্রবদা %d কেরেক্তরশীংগী ওইগদবনি"</string>
+<string name="lockpassword_pin_too_short">"PIN য়ামদ্রবদা %d দিজিতশীংগী ওইগদবনি"</string>
+<string name="lockpassword_press_continue">"তৌবা লোইরবা মতুংদা কন্টিন্যু শোকউ"</string>
+<string name="lockpassword_continue_label">"মখা চত্থৌ"</string>
+<string name="lockpassword_password_too_long">"পাসৱার্দ হন্থবা ওইগদবনি <xliff:g id="number" example="17">%d</xliff:g> কেরেক্তরশীং."</string>
+<string name="lockpassword_pin_too_long">"PIN হন্থবা ওইগদবনি <xliff:g id="number" example="17">%d</xliff:g> দিজিতশীং."</string>
+<string name="lockpassword_pin_contains_non_digits">"PIN 0-9 দিজিতশীং খক্তং য়াওগদবনি."</string>
+<string name="lockpassword_pin_recently_used">"দিভাইস এদমিনিস্ট্রেতরনা হন্দক্তা ফংবা PIN অমা শীজিন্নবা য়াহন্দে."</string>
+<string name="lockpassword_illegal_character">"পাসৱার্দতা আইননা য়াদবা কেরেক্তর অমা য়াওই."</string>
+<string name="lockpassword_password_requires_alpha">"পাসৱার্দতা য়ামদ্রবদা ময়েক অমা য়াওগদবনি."</string>
+<string name="lockpassword_password_requires_digit">"পাসৱার্দতা য়ামদ্রবদা দিজিত অমা য়াওগদবনি."</string>
+<string name="lockpassword_password_requires_symbol">"পাসৱার্দতা য়ামদ্রবদা সিম্বোল অমা য়াওগদবনি."</string>
+<plurals name="lockpassword_password_requires_letters">
+<item quantity="one">"পাসৱার্দতা য়ামদ্রবদা ময়েক 1 য়াওগদবনি."</item>
+<item quantity="other">"পাসৱার্দতা য়ামদ্রবদা %d ময়েকশীং য়াওগদবনি."</item>
+</plurals>
+<plurals name="lockpassword_password_requires_lowercase">
+<item quantity="one">"পাসৱার্দতা য়ামদ্রবদা লৱারকেস ময়েক 1 য়াওগদবনি."</item>
+<item quantity="other">"পাসৱার্দতা য়ামদ্রবদা %d লৱারকেস ময়েকশীং য়াওগদবনি."</item>
+</plurals>
+<plurals name="lockpassword_password_requires_uppercase">
+<item quantity="one">"পাসৱার্দতা য়ামদ্রবদা অপরকেস ময়েক 1 য়াওগদবনি."</item>
+<item quantity="other">"পাসৱার্দতা য়ামদ্রবদা %d অপরকেস ময়েকশীং য়াওগদবনি."</item>
+</plurals>
+<plurals name="lockpassword_password_requires_numeric">
+<item quantity="one">"পাসৱার্দতা য়ামদ্রবদা মশীংগী দিজিত 1 য়াওগদবনি."</item>
+<item quantity="other">"পাসৱার্দতা য়ামদ্রবদা %d মশীংগী দিজিত য়াওগদবনি."</item>
+</plurals>
+<plurals name="lockpassword_password_requires_symbols">
+<item quantity="one">"পাসৱার্দতা য়ামদ্রবদা স্পেসিয়েল সিম্বোল 1 য়াওগদবনি."</item>
+<item quantity="other">"পাসৱার্দতা য়ামদ্রবদা %d স্পেসিয়েল সিম্বোলশীং য়াওগদবনি."</item>
+</plurals>
+<plurals name="lockpassword_password_requires_nonletter">
+<item quantity="one">"পাসৱার্দতা য়ামদ্রবদা ময়েক নত্তবা কেরেক্তর 1 য়াওগদবনি."</item>
+<item quantity="other">"পাসৱার্দতা য়ামদ্রবদা %d ময়েক নত্তবা কেরেক্তরশীং য়াওগদবনি."</item>
+</plurals>
+<string name="lockpassword_password_recently_used">"দিভাইস এদমিনিস্ট্রেতরনা হন্দক্তা শেম্বা পাসৱার্দ অমা শীজিন্নবা য়াহন্দে."</string>
+<string name="lockpassword_ok_label">"ওকে"</string>
+<string name="lockpassword_cancel_label">"ককথৎলু"</string>
+<string name="lockpattern_tutorial_cancel_label">"ককথৎলু"</string>
+<string name="lockpattern_tutorial_continue_label">"মথং"</string>
+<string name="lock_setup">"সেট অপ মপুং ফারে."</string>
+<string name="device_admin_title">"দিভাইস এদমিনিস্ট্রেসন"</string>
+<string name="manage_device_admin">"দিভাইস এদমিনিস্ট্রেতরশীং"</string>
+<string name="manage_device_admin_summary">"দিভাইস এদমিনিস্ট্রেতরশীং য়েংঙু নত্ত্রগা দিএক্টিবেত তৌ"</string>
+<string name="manage_notification_access">"নোটিফিকেশন চংবা"</string>
+<string name="manage_notification_access_summary_zero">"এপশীং নোটিফিকেশনশীং পাবা ঙমদে"</string>
+<plurals name="manage_notification_access_summary_nonzero">
+<item quantity="one">"%d এপশীং নোটিফিকেশন পাবা ঙম্মি"</item>
+<item quantity="other">"%d এপশীং নোটিফিকেশনশীং পাবা ঙম্মি"</item>
+</plurals>
+<string name="no_notification_listeners">"নোটিফিকেশন তানবশীং ইনস্টোল তৌদে."</string>
+<string name="notification_listener_security_warning_title">"য়াহল্লু<xliff:g id="service" example="NotificationReader">%1$s</xliff:g>?"</string>
+<string name="notification_listener_security_warning_summary">" <xliff:g id="notification_listener_name">%1$s</xliff:g> সিস্টেম অদুনা নত্ত্রগা ইনস্টোল তৌবা এপ অমনা হেক্তা পোস্ট তৌবা নোটিফিকেশনশীং লোইনমক পাবা ঙমগনি, মদুদা নঙোন্দা থাবা কন্টেক্ট মমিংশীং অমসুং মেসেজশীংগী টেকস্ট অদুগুম্বা নশাগী পাও য়াওবা য়াই. মসিনা নোটিফিকেশনশীং অসি দিসমিস তৌবা নত্ত্রগা মখোয়গী মনুংদা লৈবা এক্সন বট্টনশীং শোকপসু ঙমগনি. "</string>
+<string name="bluetooth_quick_toggle_title">"ব্লুটুথ"</string>
+<string name="bluetooth_quick_toggle_summary">"ব্লুটুথ থাও"</string>
+<string name="bluetooth_settings">"ব্লুটুথ"</string>
+<string name="bluetooth_settings_title">"ব্লুটুথ"</string>
+<string name="bluetooth_settings_summary">"কনেক্সনশীং মেনেজ তৌ, দিভাইস মমিং সেট তৌ &amp; পুথোকপা য়াবা"</string>
+<string name="bluetooth_pairing_request">"ব্লুটুথ জুরা শেম্নবা হায়জবা"</string>
+<string name="bluetooth_enter_pin_msg">"জুরা শেম্নবা লোয়ননা:<xliff:g id="bold">&lt;br&gt;&lt;b&gt;</xliff:g><xliff:g id="device_name">%1$s</xliff:g><xliff:g id="end_bold">&lt;/b&gt;&lt;br&gt;&lt;br&gt;</xliff:g>দিভাইস অদুগী দরকার ওইবা PIN টাইপ তৌ:"</string>
+<string name="bluetooth_enter_passkey_msg">"জুরা শেম্নবা লোয়ননা:<xliff:g id="bold">&lt;br&gt;&lt;b&gt;</xliff:g><xliff:g id="device_name">%1$s</xliff:g><xliff:g id="end_bold">&lt;/b&gt;&lt;br&gt;&lt;br&gt;</xliff:g>দিভাইস অদুগী দরকার ওইবা পাসকী টাইপ তৌ:"</string>
+<string name="bluetooth_enable_alphanumeric_pin">"PIN দা ময়েকশীং নত্ত্রগা সিম্বোলশীং য়াওই"</string>
+<string name="bluetooth_pin_values_hint">"মহৌশানা 0000 নত্ত্রগা 1234"</string>
+<string name="bluetooth_enter_pin_other_device">"নহাক PIN অসি অতোপ্পা দিভাইস অদুদসু টাইপ তৌবা দরকার ওইগনি."</string>
+<string name="bluetooth_enter_passkey_other_device">"নহাক পাসকী অসি অতোপ্পা দিভাইস অদুদসু টাইপ তৌবা দরকার ওইগনি."</string>
+<string name="bluetooth_confirm_passkey_msg">"লোয়ননা জুরা শেম্নবা:&lt;br&gt;&lt;b&gt;<xliff:g id="device_name">%1$s</xliff:g>&lt;/b&gt;&lt;br&gt;&lt;br&gt;মদুনা পাসকী অসি উৎলি হায়বা শোয়হনগনু:&lt;br&gt;&lt;b&gt;<xliff:g id="passkey">%2$s</xliff:g>&lt;/b&gt;"</string>
+<string name="bluetooth_incoming_pairing_msg">"দগী:&lt;br&gt;&lt;b&gt;<xliff:g id="device_name">%1$s</xliff:g>&lt;/b&gt;&lt;br&gt;&lt;br&gt;দিভাইস অসিগা জুরা শেমগদ্রা?"</string>
+<string name="bluetooth_display_passkey_pin_msg">"জুরা শেম্নবা লোয়ননা:<xliff:g id="bold1">&lt;br&gt;&lt;b&gt;</xliff:g><xliff:g id="device_name">%1$s</xliff:g><xliff:g id="end_bold1">&lt;/b&gt;&lt;br&gt;&lt;br&gt;</xliff:g>মদুগী মথক্তা টাইপ তৌ:<xliff:g id="bold2">&lt;br&gt;&lt;b&gt;</xliff:g><xliff:g id="passkey">%2$s</xliff:g><xliff:g id="end_bold2">&lt;/b&gt;</xliff:g>, অদুদগী রিটর্ন নত্ত্রগা এন্টর নম্মু."</string>
+<string name="bluetooth_pairing_accept">"জুরা"</string>
+<string name="bluetooth_pairing_decline">"ককথৎলু"</string>
+<string name="bluetooth_pairing_error_message">"লোয়ননা জুরা শেম্বা ঙমদে <xliff:g id="device_name">%1$s</xliff:g>."</string>
+<string name="bluetooth_pairing_pin_error_message">"লোয়ননা জুরা শেম্বা ঙমদে <xliff:g id="device_name">%1$s</xliff:g> চুমদবা PIN নত্ত্রগা পাসকী অমনা মরম ওইদুনা."</string>
+<string name="bluetooth_pairing_device_down_error_message">"লোয়ননা পাও ফাওনবা ঙমদ্রে <xliff:g id="device_name">%1$s</xliff:g>."</string>
+<string name="bluetooth_pairing_rejected_error_message">"জুরা শেম্বা লৌ য়াদ্রে না <xliff:g id="device_name">%1$s</xliff:g>."</string>
+<string name="bluetooth_connecting_error_message">"শম্নবা ঙমদ্রে দা <xliff:g id="device_name">%1$s</xliff:g>."</string>
+<string name="bluetooth_preference_scan_title">"দিভাইসশীংগী স্কেন তৌ"</string>
+<string name="bluetooth_search_for_devices">"দিভাইসশীংগী থিয়ু"</string>
+<string name="bluetooth_searching_for_devices">"থিরি..."</string>
+<string name="bluetooth_preference_device_settings">"দিভাইস সেটিংশীং"</string>
+<string name="bluetooth_preference_paired_devices">"জুরা শেম্লবা দিভাইসশীং"</string>
+<string name="bluetooth_preference_found_devices">"অফংবা দিভাইসশীং"</string>
+<string name="bluetooth_device_context_connect">"শম্নৌ"</string>
+<string name="bluetooth_device_context_disconnect">"শম্নবা ককথৎলু"</string>
+<string name="bluetooth_device_context_pair_connect">"জুরা &amp; শম্নৌ"</string>
+<string name="bluetooth_device_context_unpair">"জুরা শেমদবা"</string>
+<string name="bluetooth_device_context_disconnect_unpair">"শম্নবা তোকউ &amp; জুরা শেমগনু"</string>
+<string name="bluetooth_device_context_connect_advanced">"ওপসনশীং..."</string>
+<string name="bluetooth_menu_advanced">"খুমাং থাবা"</string>
+<string name="bluetooth_advanced_titlebar">"এদভান্স ব্লুটুথ"</string>
+<string name="bluetooth_empty_list_bluetooth_off">"ব্লুটুথ থাবা মতমদা, নহাক্কি দিভাইস অদু অতোপ্পা নক্নবা ব্লুটুথ দিভাইসশীংগা পাও ফাওনবা ঙমগনি."</string>
+<string name="bluetooth_connect_specific_profiles_title">"দা শম্নৌ..."</string>
+<string name="bluetooth_profile_a2dp">"মেদিয়া ওদিও"</string>
+<string name="bluetooth_profile_headset">"ফোন ওদিও"</string>
+<string name="bluetooth_profile_opp">"ফাইল ত্রান্সফর"</string>
+<string name="bluetooth_profile_hid">"ইনপুত দিভাইস"</string>
+<string name="bluetooth_profile_pan">"ইন্টরনেট এক্সেস"</string>
+<string name="bluetooth_profile_pan_nap">"ইন্টরনেট কনেক্সন শরুক য়ামিন্নবা"</string>
+<string name="bluetooth_profile_map">"মেসেজ এক্সেস"</string>
+<string name="bluetooth_disconnect_a2dp_profile">"<xliff:g id="device_name">%1$s</xliff:g> মেদিয়া ওদিওদগী শম্নবা ককথৎখিগনি."</string>
+<string name="bluetooth_disconnect_headset_profile">"<xliff:g id="device_name">%1$s</xliff:g> হেন্দস ফ্রী ওদিওদগী শম্নবা ককথৎখিগনি."</string>
+<string name="bluetooth_disconnect_hid_profile">"<xliff:g id="device_name">%1$s</xliff:g> ইনপুত দিভাইসতগী শম্নবা ককথৎখিগনি."</string>
+<string name="bluetooth_disconnect_pan_user_profile">"ইন্টরনেত এক্সেস ফাওনা <xliff:g id="device_name">%1$s</xliff:g> শম্নবা ককথৎখিগনি."</string>
+<string name="bluetooth_disconnect_pan_nap_profile" product="tablet">"<xliff:g id="device_name">%1$s</xliff:g> টেব্লেত অসিগী ইন্টরনেট কনেক্সন শরুক য়ামিন্নবদগী শম্নবা ককথৎখিগনি."</string>
+<string name="bluetooth_disconnect_pan_nap_profile" product="default">"<xliff:g id="device_name">%1$s</xliff:g> ফোন অসিগী ইন্টরনেট কনেক্সন শরুক য়ামিন্নবদগী শম্নবা ককথৎখিগনি."</string>
+<string name="bluetooth_device_advanced_title">"জুরা শেম্বা ব্লুটুথ দিভাইস"</string>
+<string name="bluetooth_device_advanced_online_mode_title">"শম্নৌ"</string>
+<string name="bluetooth_device_advanced_online_mode_summary">"ব্লুটুথ দিভাইসতা শম্নৌ"</string>
+<string name="bluetooth_device_advanced_profile_header_title">"প্রোফাইলশীং"</string>
+<string name="bluetooth_device_advanced_rename_device">"হন্না মমিং থোল্লু"</string>
+<string name="bluetooth_device_advanced_enable_opp_title">"চংলকপা ফাইল ত্রান্সফরশীং য়াহল্লু"</string>
+<string name="bluetooth_a2dp_profile_summary_connected">"মেদিয়া ওদিওদা শম্নরে"</string>
+<string name="bluetooth_headset_profile_summary_connected">"ফোন ওদিওদা শম্নরে"</string>
+<string name="bluetooth_opp_profile_summary_connected">"ফাইল ত্রান্সফর সার্ভরদা শম্নরে"</string>
+<string name="bluetooth_map_profile_summary_connected">"মেপতা শম্নরে"</string>
+<string name="bluetooth_opp_profile_summary_not_connected">"ফাইল ত্রান্সফর সার্ভরদা শম্নদে"</string>
+<string name="bluetooth_hid_profile_summary_connected">"ইনপুত দিভাইসতা শম্নরে"</string>
+<string name="bluetooth_pan_user_profile_summary_connected">"ইন্টরনেট এক্সেস তৌনবা দিভাইসতা শম্নরে"</string>
+<string name="bluetooth_pan_nap_profile_summary_connected">"লোকেল ইন্টরনেট কনেক্সন দিভাইস অদুগা শরুক য়ামিন্নরি"</string>
+<string name="bluetooth_a2dp_profile_summary_use_for">"মেদিয়া ওদিওগী শীজিন্নৌ"</string>
+<string name="bluetooth_headset_profile_summary_use_for">"ফোন ওদিওগী শীজিন্নৌ"</string>
+<string name="bluetooth_opp_profile_summary_use_for">"ফাইল ত্রান্সফরগী শীজিন্নৌ"</string>
+<string name="bluetooth_hid_profile_summary_use_for">"ইনপুতকি শীজিন্নৌ"</string>
+<string name="bluetooth_pan_profile_summary_use_for">"ইন্টরনেট এক্সেসকি শীজিন্নৌ"</string>
+<string name="bluetooth_map_profile_summary_use_for">"মেপকি শীজিন্নৌ"</string>
+<string name="bluetooth_dock_settings">"দোক সেটিংশীং"</string>
+<string name="bluetooth_dock_settings_title">"ওদিওগী দোক শীজিন্নৌ"</string>
+<string name="bluetooth_dock_settings_headset">"স্পীকর ফোন ওইনা"</string>
+<string name="bluetooth_dock_settings_a2dp">"ম্যুজিক অমসুং মেদিয়াগী ওইনা"</string>
+<string name="bluetooth_dock_settings_remember">"সেটিংশীং নিংশিংঙু"</string>
+<string name="wifi_display_settings_title">"থাদবা স্ক্রীন"</string>
+<string name="wifi_display_enable_menu_item">"ৱায়রলেস দিসপ্লে য়াহল্লু"</string>
+<string name="wifi_display_no_devices_found">"নক্নবা দিভাইসশীং ফংদে."</string>
+<string name="wifi_display_status_connecting">"শম্নরি"</string>
+<string name="wifi_display_status_connected">"শম্নরে"</string>
+<string name="wifi_display_status_in_use">"শীজিন্নরি"</string>
+<string name="wifi_display_status_not_available">"ফংদে"</string>
+<string name="wifi_display_details">"দিসপ্লে সেটিংশীং"</string>
+<string name="wifi_display_options_title">"ৱায়রলেস দিসপ্লে ওপসনশীং"</string>
+<string name="wifi_display_options_forget">"কাওথোকউ"</string>
+<string name="wifi_display_options_done">"তৌখ্রে"</string>
+<string name="wifi_display_options_name">"মমিং"</string>
+<string name="nfc_quick_toggle_summary" product="tablet">"টেব্লেত অদুনা অতোপ্পা দিভাইস অমা শোকপা মতমদা দাতা এক্সচেনজ য়াহল্লু"</string>
+<string name="nfc_quick_toggle_summary" product="default">"ফোন অদুনা অতোপ্পা দিভাইস অমা শোকপা মতমদা দাতা এক্সচেনজ য়াহল্লু"</string>
+<string name="android_beam_on_summary">"এপ কন্টেন্ট NFC ফাওনা থানবা শেম শারে"</string>
+<string name="android_beam_off_summary">"ওফ"</string>
+<string name="android_beam_disabled_summary">"ফংদে মরমদি NFC মুথৎলি"</string>
+<string name="android_beam_explained">"ফিচর অসি থাবা মতমদা, নহাক এপ কন্টেন্ট অদু অতোপ্পা NFC-ঙম্বা দিভাইস অমদা দিভাইসশীং অদু নক্না পুন্না পায়মিন্নরগা বীম তৌবা য়াই. খুদম ওইনা, নহাক ব্রাওজর পেজশীং, YouTube ভিদিওশীং, মীগী কন্টেক্টশীং, অমসুং অহেনবা বীম তৌবা য়াই.\n\nদিভাইসশীং অদু পুন্নদা পুরকউ (মহৌশানা মনিং মনিং ওনশিন্নরগা) অমসুং অদুদগী নহাক্কি স্ক্রীন শোকউ. এপ অদুনা করি বীম তৌগনি লেপ্পি."</string>
+<string name="nsd_quick_toggle_title">"নেটৱার্ক সার্ভিস পুথোকপা"</string>
+<string name="nsd_quick_toggle_summary">"অতোপ্পা দিভাইসশীংগী এপশীং দিভাইস অসিদা এপশীং পুথোকপা য়াহল্লু"</string>
+<string name="wifi_quick_toggle_title">"Wi-Fi"</string>
+<string name="wifi_quick_toggle_summary">"Wi-Fi থাও"</string>
+<string name="wifi_settings">"Wi-Fi"</string>
+<string name="wifi_settings_category">"Wi-Fi সেটিংশীং"</string>
+<string name="wifi_settings_title">"Wi-Fi"</string>
+<string name="wifi_settings_summary">"সেট অপ তৌ &amp; ৱায়র য়াওদবা এক্সেস পোইন্টশীং মেনেজ তৌ"</string>
+<string name="wifi_setup_wizard_title">"Wi-Fi খল্লু"</string>
+<string name="wifi_starting">"Wi-Fi থাগদৌরি..."</string>
+<string name="wifi_stopping">"Wi-Fi মুথৎকদৌরি..."</string>
+<string name="wifi_error">"অশোয়বা"</string>
+<string name="wifi_in_airplane_mode">"এয়রপ্লেন মোদতা"</string>
+<string name="wifi_fail_to_scan">"নেটৱার্কশীংগী স্কেন তৌবা ঙমদে"</string>
+<string name="wifi_wapi_fail_to_init">"WAPI সার্তিফিকেতশীং পাবা ঙমদ্রে\nক্রেদেন্সিয়েল স্টোরেজ য়াহল্লমদবা য়াই"</string>
+<string name="wifi_wapi_fail_to_auth">"WAPI ওথেন্টিকেসন মায় পাক্ত্রে\nপাসৱার্দ নত্ত্রগা সার্তিফিকেতশীং চেক তৌ"</string>
+<string name="wifi_wapi_cert_lost">"হৌজিক শম্নরিবা AP গী সার্তিফিকেসন ফংবা ঙমদে"</string>
+<string name="wifi_notify_open_networks">"নেটৱার্ক নোটিফিকেসন"</string>
+<string name="wifi_notify_open_networks_summary">"ওপন নেটৱার্ক অমা ফংবা মতমদা ঐহাকপু নোটিফাই তৌরকউ"</string>
+<string name="wifi_poor_network_detection">"কনেক্সন ফত্তবা নান্থোক্নবা তৌ"</string>
+<string name="wifi_poor_network_detection_summary">"অফনা ইন্টরনেট কনেক্সন ফংদ্রবদি Wi-Fi নেটৱার্ক শীজিন্নগনু"</string>
+<string name="wifi_scan_always_available">"স্কেনিং মতম চুপ্পদা ফংই"</string>
+<string name="wifi_scan_always_available_summary">"google গী লোকেসন সার্ভিস অমসুং অতোপ্পা এপশীংনা নেটৱার্কশীং স্কেন তৌসনু, Wi-Fi মুৎপা মতমদা ফাওবা"</string>
+<string name="wifi_install_credentials">"সার্তিফিকেতশীং ইনস্টোল তৌ"</string>
+<string name="wifi_scan_notify_text_location_on">"লোকেসন চপ চানা চুম্বা হেনগৎনবা অমসুং অতোপ্পা মরমগীদমক, গুগল অমসুং অতোপ্পা এপশীং নক্নবা নেটৱার্কশীং স্কেন তৌবা য়াই, Wi-Fi মুৎপা মতমদা ফাওবা. নহাক মসি থোকপা পামদ্রবদি, এদভান্স&gt; স্কেনিং দা চৎলু হায়বা মতম চুপ্পদা ফংই."</string>
+<string name="wifi_scan_notify_text_location_off">"এপশীং নক্নবা নেটৱার্কশীং স্কেন তৌবা য়াই, Wi-Fi মুৎপা মতমদা ফাওবা. নহাক মসি থোকপা পামদ্রবদি, এদভান্স&gt; স্কেনিং দা চৎলু হায়বা মতম চুপ্পদা ফংই."</string>
+<string name="wifi_scan_notify_remember_choice">"হন্না উৎকনু"</string>
+<string name="wifi_setting_sleep_policy_title">"তুম্বা মতমদা Wi-Fi থারগা থম্মু"</string>
+<string name="wifi_setting_sleep_policy_error">"সেটিং অদু হোংবদা সমস্য অমা লৈ"</string>
+<string name="wifi_suspend_optimizations">"Wi-Fi ওপটিমাইজেসন"</string>
+<string name="wifi_suspend_optimizations_summary">"Wi-Fi থারিঙৈদা বেট্টরি শীজিন্নবা খ্বাইদগী য়ামহনগনু"</string>
+<string name="wifi_add_network">"নেটৱার্ক হাপচিল্লু"</string>
+<string name="wifi_access_points">"Wi-Fi নেটৱার্কশীং"</string>
+<string name="wifi_menu_wps_pbc">"WPS ইন্নবা বট্টন"</string>
+<string name="wifi_menu_more_options">"ওপসনশীং হেন্না"</string>
+<string name="wifi_menu_wps_pin">"WPS Pin মেনশিনবা"</string>
+<string name="wifi_menu_p2p">"Wi-Fi দাইরেক্ট"</string>
+<string name="wifi_menu_scan">"স্কেন"</string>
+<string name="wifi_menu_advanced">"খুমাং থাবা"</string>
+<string name="wifi_menu_connect">"নেটৱার্কতা শম্নৌ"</string>
+<string name="wifi_menu_forget">"নেটৱার্ক কাওথোকউ"</string>
+<string name="wifi_menu_modify">"নেটৱার্ক শেমদোকউ"</string>
+<string name="wifi_empty_list_wifi_off">"অফংবা নেটৱার্কশীং য়েংনবা, Wi-Fi থাও."</string>
+<string name="wifi_empty_list_wifi_on">"Wi-Fi নেটৱার্কশীং থিরি..."</string>
+<string name="wifi_empty_list_user_restricted">"নহাক Wi-Fi নেটৱার্ক হোংনবা অয়াবা পীবা লৈতে."</string>
+<string name="wifi_other_network">"অতোপ্পা নেটৱার্ক..."</string>
+<string name="wifi_more">"হেন্না"</string>
+<string name="wifi_setup_wps">"ওটোমেটিক সেটঅপ (WPS)"</string>
+<string name="wifi_required_info_text">"সেটঅপ মপুং ফানবা, নহাক্কি টেব্লেত Wi\u2011Fi দা এক্সেস তৌবা দরকার ওই. সেটঅপ তৌবা মতুংদা, নহাক মোবাইল দাতা অমসুং Wi\u2011Fi গী মরক্তা হোংদোক হোংজিন তৌনবা য়াই."</string>
+<string name="wifi_show_advanced">"এদভান্স ওপসনশীং উৎলু"</string>
+<string name="wifi_wps_setup_title">"Wi-Fi ঙাক-শেনবা সেটঅপ"</string>
+<string name="wifi_wps_setup_msg">"WPS হৌরি..."</string>
+<string name="wifi_wps_onstart_pbc">"Wi-Fi ঙাক-শেনবা সেটঅপ বট্টন অদু নহাক্কি রূতরদা নম্মু. মদু কৌবা য়াই \"WPS\" নত্ত্রগা সিম্বোল অসি য়াওগনি:"</string>
+<string name="wifi_wps_onstart_pin">"PIN মেনশিল্লু <xliff:g id="number">%1$s</xliff:g> নহাক্কি Wi-Fi রূতরদা. সেটঅপ অদু মপুং ফাবদা মিনট অনি ফাওবা চংবা য়াই."</string>
+<string name="wifi_wps_complete">"WPS মায় পাক্লে. নেটৱার্ক অদুদা শম্নরি..."</string>
+<string name="wifi_wps_connected">"Wi-Fi নেটৱার্কতা শম্নরে <xliff:g id="network_name">%s</xliff:g>"</string>
+<string name="wifi_wps_in_progress">"WPS হান্নদগী চত্থরি অমসুং মপুং ফাবদা মিনট অনি ফাওবা চংবা য়াই"</string>
+<string name="wifi_wps_failed_generic">"WPS মায় পাক্ত্রে. মিনট খরা লৈরগা হন্না হোৎনবিয়ু."</string>
+<string name="wifi_wps_failed_wep">"ৱায়রলেস রূতর সেক্যুরিতি সাটিং (WEP) অদু সপোর্ট তৌদে"</string>
+<string name="wifi_wps_failed_tkip">"ৱায়রলেস রূতর সেক্যুরিতি সাটিং (TKIP) অদু সপোর্ট তৌদে"</string>
+<string name="wifi_wps_failed_auth">"ওথেন্টিকেসন মায় পাক্তবা. হন্না হোৎনবিয়ু."</string>
+<string name="wifi_wps_failed_overlap">"অতোপ্পা WPS সেসন থেংনরে. মিনট খরদা হন্না হোৎনবিয়ু."</string>
+<string name="wifi_ssid">"নেটৱার্ক SSID"</string>
+<string name="wifi_ssid_hint">"SSID অদু মেনশিল্লু"</string>
+<string name="wifi_security">"সেক্যুরিতি"</string>
+<string name="wifi_signal">"সিগ্নেল মপাঙ্গল"</string>
+<string name="wifi_status">"স্টেটস"</string>
+<string name="wifi_speed">"লিঙ্ক স্পীদ"</string>
+<string name="wifi_ip_address">"IP এদ্রেশ"</string>
+<string name="wifi_eap_method">"EAP মেথোদ"</string>
+<string name="please_select_phase2">"ফেজ 2 ওথেন্টিকেসন"</string>
+<string name="wifi_eap_ca_cert">"CA সার্তিফিকেত"</string>
+<string name="wifi_eap_user_cert">"য়ুজর সার্তিফিকেত"</string>
+<string name="wifi_eap_identity">"মশক তাকপা"</string>
+<string name="wifi_eap_anonymous">"মশক তাক্তবা"</string>
+<string name="wifi_wapi_psk_type">"পাসৱার্দ মখল"</string>
+<string name="wifi_password">"পাসৱার্দ"</string>
+<string name="wifi_show_password">"পাসৱার্দ উৎলু"</string>
+<string name="wifi_wapi_as_certificate">"AS সার্তিফিকেত"</string>
+<string name="wifi_wapi_user_certificate">"য়ুজর সার্তিফিকেত"</string>
+<string name="wifi_ip_settings">"IP সেটিংশীং"</string>
+<string name="wifi_unchanged">"(হোংদে)"</string>
+<string name="wifi_unspecified">"(তাংদাংবা তাক্তে)"</string>
+<string name="wifi_remembered">"সেব তৌরে"</string>
+<string name="wifi_disabled_generic">"য়াহন্দে"</string>
+<string name="wifi_disabled_network_failure">"ইন্টরনেট কনেক্সন ফত্তবা থেংনদ্রে"</string>
+<string name="wifi_disabled_password_failure">"ওথেন্টিকেসনগী সমস্য"</string>
+<string name="wifi_not_in_range">"রেনজদা লৈতে"</string>
+<string name="wifi_wps_available_first_item">"WPS ফংই"</string>
+<string name="wifi_wps_available_second_item">"\u0020(WPS ফংই)"</string>
+<string name="wifi_secured_first_item">"লোয়ননা সেক্যুর তৌরে <xliff:g id="wifi_security_short">%1$s</xliff:g>"</string>
+<string name="wifi_secured_second_item">", লোয়ননা সেক্যুর তৌরে <xliff:g id="wifi_security_short">%1$s</xliff:g>"</string>
+<string name="wifi_security_none">"হাংদোকউ"</string>
+<string name="wifi_security_wapi_psk_hexadecimal">"WAPI PSK হেক্সাদেসিমেল"</string>
+<string name="wifi_scan_always_turnon_message">"লৈফম চপ চানা তাকপা হেনগৎনবা অমসুং অতোপ্পা মরমগীদমক, <xliff:g id="app_name">%1$s</xliff:g> নেটৱার্ক স্কেন তৌবা থাবা পাম্মি, Wi-Fi থাদবা মতমদা ফাওবা. \n\nমসি স্কেন তৌবা পাম্বা এপশীং লোইনমক্তা য়াহনগদ্রা?"</string>
+<string name="wifi_scan_always_confirm_allow">"য়াহল্লু"</string>
+<string name="wifi_scan_always_confirm_deny">"য়াগনু"</string>
+<string name="wifi_connect">"শম্নৌ"</string>
+<string name="wifi_failed_connect_message">"নেটৱার্কতা শম্নবা মায় পাক্ত্রে"</string>
+<string name="wifi_forget">"কাওথোকউ"</string>
+<string name="wifi_failed_forget_message">"নেটৱার্ক কাওথোকপা মায় পাক্ত্রে"</string>
+<string name="wifi_save">"সেব তৌ"</string>
+<string name="wifi_failed_save_message">"নেটৱার্ক সেব তৌবা মায় পাক্ত্রে"</string>
+<string name="wifi_cancel">"ককথৎলু"</string>
+<string name="wifi_skip_anyway">"অমরা অমরা তোক্লগা চোংঙু"</string>
+<string name="wifi_dont_skip">"তোক্লগা চোংগনু"</string>
+<string name="wifi_skipped_message" product="tablet">"ৱার্নিং: নহাক অহেনবা কেরিয়র দাতা চার্জশীং তিংবা য়াই.\n\nটেব্লেত সেটঅপ তৌবা নেটৱার্ক এক্তিবিতি য়াম্না দরকার ওইবা য়াই."</string>
+<string name="wifi_skipped_message" product="default">"ৱার্নিং: নহাক অহেনবা কেরিয়র দাতা চার্জশীং তিংবা য়াই.\n\nফোন সেটঅপ তৌবা নেটৱার্ক এক্তিবিতি য়াম্না দরকার ওইবা য়াই."</string>
+<string name="wifi_and_mobile_skipped_message" product="tablet">"ৱার্নিং: নহাক্কি ইন্টরনেত শম্নবা অমা লৈত্রিবা ফাওবা, টেব্লেত অদুনা নহাক্কি সোফ্টৱায়র অদু খ্বাইদগী নৌবনি হায়বা চুম্মি তাকপা ঙম্লোই."</string>
+<string name="wifi_and_mobile_skipped_message" product="default">"ৱার্নিং: নহাক্কি ইন্টরনেত শম্নবা অমা লৈত্রিবা ফাওবা, ফোন অদুনা নহাক্কি সোফ্টৱায়র অদু খ্বাইদগী নৌবনি হায়বা চুম্মি তাকপা ঙম্লোই."</string>
+<string name="wifi_connect_failed_message" product="tablet">"টেব্লেত অদু Wi-Fi নেটৱার্ক অসিদা শম্নবা ঙম্লমদে."</string>
+<string name="wifi_connect_failed_message" product="default">"ফোন অদু অদু Wi-Fi নেটৱার্ক অসিদা শম্নবা ঙম্লমদে."</string>
+<string name="wifi_advanced_titlebar">"এদভান্স ওইবা Wi-Fi"</string>
+<string name="wifi_setting_frequency_band_title">"Wi-Fi ফ্রিক্বেন্সি বেন্দ"</string>
+<string name="wifi_setting_frequency_band_summary">"ওপরেসনগী ফ্রিক্বেন্সি রেনজ তাংদাংবা তাকউ"</string>
+<string name="wifi_setting_frequency_band_error">"ফ্রিক্বেন্সি বেন্দ অদু সেট তৌবদা সমস্য অমা লৈ."</string>
+<string name="wifi_advanced_mac_address_title">"MAC এদ্রেশ"</string>
+<string name="wifi_advanced_ip_address_title">"IP এদ্রেশ"</string>
+<string name="wifi_advanced_settings_label">"IP সেটিংশীং"</string>
+<string name="wifi_ip_settings_menu_save">"সেব তৌ"</string>
+<string name="wifi_ip_settings_menu_cancel">"ককথৎলু"</string>
+<string name="wifi_ip_settings_invalid_ip_address">"চৎনবা IP এদ্রেশ অমা টাইপ তৌ."</string>
+<string name="wifi_ip_settings_invalid_gateway">"চৎনবা গেতৱে এদ্রেশ অমা টাইপ তৌ."</string>
+<string name="wifi_ip_settings_invalid_dns">"চৎনবা DNS এদ্রেশ অমা টাইপ তৌ."</string>
+<string name="wifi_ip_settings_invalid_network_prefix_length">"নেটৱার্ক প্রিফিক্সকি অশাংবা 0 অমসুং 32 গী মরক্তা লৈবা অমা টাইপ তৌ."</string>
+<string name="wifi_dns1">"DNS 1"</string>
+<string name="wifi_dns2">"DNS 2"</string>
+<string name="wifi_gateway">"গেতৱে"</string>
+<string name="wifi_network_prefix_length">"নেটৱার্ক প্রিফিক্সকি অশাংবা"</string>
+<string name="wifi_p2p_settings_title">"Wi-Fi দাইরেক্ট"</string>
+<string name="wifi_p2p_device_info">"দিভাইস পাও"</string>
+<string name="wifi_p2p_persist_network">"শম্নবা অসি নিংশিংঙু"</string>
+<string name="wifi_p2p_menu_search">"দিভাইসশীংগী থিয়ু"</string>
+<string name="wifi_p2p_menu_searching">"থিরি..."</string>
+<string name="wifi_p2p_menu_rename">"দিভাইস হন্না মমিং থোল্লু"</string>
+<string name="wifi_p2p_peer_devices">"পিয়র দিভাইসশীং"</string>
+<string name="wifi_p2p_remembered_groups">"নিংশিংবা গ্রুপশীং"</string>
+<string name="wifi_p2p_failed_connect_message">"শম্নবা ঙমখিদে."</string>
+<string name="wifi_p2p_failed_rename_message">"দিভাইস হন্না মমিং থোনবা মায় পাক্তে."</string>
+<string name="wifi_p2p_disconnect_title">"শম্নবা ককথৎকদ্রা?"</string>
+<string name="wifi_p2p_disconnect_message">"নহাক শম্নবা তোক্লবদি, নহাক্কি শম্নবা লোয়ননা <xliff:g id="peer_name">%1$s</xliff:g> লোইগনি."</string>
+<string name="wifi_p2p_disconnect_multiple_message">"নহাক শম্নবা তোক্লবদি, নহাক্কি শম্নবা লোয়ননা <xliff:g id="peer_name">%1$s</xliff:g> অমসুং<xliff:g id="peer_count">%2$s</xliff:g> অতোপ্পা দিভাইসশীং লৌইগনি."</string>
+<string name="wifi_p2p_cancel_connect_title">"বার্তন ককথৎকদ্রা?"</string>
+<string name="wifi_p2p_cancel_connect_message">"শম্ননবা বার্তন তৌবা নহাক ককথৎপা পাম্ব্রা লোয়ননা <xliff:g id="peer_name">%1$s</xliff:g>?"</string>
+<string name="wifi_p2p_delete_group_message">"গ্রুপ অসি কাওথোক্কদ্রা?"</string>
+<string name="wifi_tether_checkbox_text">"পুবা য়াবা Wi-Fi হোতস্পোত"</string>
+<string name="wifi_tether_starting">"হোতস্পোত থাগদৌরি..."</string>
+<string name="wifi_tether_stopping">"হোতস্পোত মুথৎকদৌরি..."</string>
+<string name="wifi_tether_enabled_subtext">"পুবা য়াবা হোতস্পোত <xliff:g id="network_ssid">%1$s</xliff:g> এক্টিব"</string>
+<string name="wifi_tether_failed_subtext">"পুবা য়াবা Wi-Fi হোতস্পোত অশোয়বা"</string>
+<string name="wifi_tether_configure_ap_text">"Wi-Fi হোতস্পোত সেট অপ তৌ"</string>
+<string name="wifi_tether_configure_subtext">"<xliff:g id="network_ssid">%1$s</xliff:g> <xliff:g id="network_security">%2$s</xliff:g> পুবা য়াবা Wi-Fi হোতস্পোত"</string>
+<string name="wifi_tether_configure_ssid_default">"MocorDroid হোটস্পোট"</string>
+<string name="home_settings">"য়ুম"</string>
+<string name="display_settings_title">"উৎপা"</string>
+<string name="sound_settings">"খোনজেল"</string>
+<string name="ringtone_title">"ফোন রিংতোন"</string>
+<string name="all_volume_title">"ভোল্যুমশীং"</string>
+<string name="musicfx_title">"ম্যুজিক ইফেক্টশীং"</string>
+<string name="ring_volume_title">"রিঙ্গর ভোল্যুম"</string>
+<string name="vibrate_in_silent_title">"তুমিন্না লৈবা মতমদা ভাইব্রেত তৌ"</string>
+<string name="notification_sound_title">"দিফাওল্ট নোটিফিকেসন মখোল"</string>
+<string name="notification_pulse_title">"পল্স নোটিফিকেশন মঙাল"</string>
+<string name="incoming_call_volume_title">"রিংতোন"</string>
+<string name="notification_volume_title">"নোটিফিকেশন"</string>
+<string name="checkbox_notification_same_as_incoming_call">"নোটিফিকেসনশীংগী চংলকপা কোল ভোল্যুম শীজিন্নৌ"</string>
+<string name="notification_sound_dialog_title">"দিফাওল্ট নোটিফিকেসন মখোল"</string>
+<string name="media_volume_title">"মেদিয়া"</string>
+<string name="media_volume_summary">"ম্যুজিক অমসুং ভিদিওশীংগী ভোল্যুম সেট তৌ"</string>
+<string name="alarm_volume_title">"অলার্ম"</string>
+<string name="dock_settings_summary">"এটেচ তৌবা দোক অদুগী ওদিও সেটিংশীং"</string>
+<string name="dtmf_tone_enable_title">"দাইল পেদ শোকপগী তোনশীং"</string>
+<string name="sound_effects_enable_title">"শোকপগী সাওন্দশীং"</string>
+<string name="lock_sounds_enable_title">"স্ক্রীন শো লোনবগী সাওন্দ"</string>
+<string name="haptic_feedback_enable_title">"শোকপদা নিকপা-হাইবা তৌ"</string>
+<string name="audio_record_proc_title">"লাংবা ককথৎপা"</string>
+<string name="volume_media_description">"ম্যুজিক, ভিদিও, গেমস, &amp; অতোপ্পা মেদিয়া"</string>
+<string name="volume_ring_description">"রিংতোন &amp; নোটিফিকেশনশীং"</string>
+<string name="volume_notification_description">"নোটিফিকেসনশীং"</string>
+<string name="volume_alarm_description">"অলার্মশীং"</string>
+<string name="volume_ring_mute">"রিংতোন মখোল থোকহনগনু &amp; নোটিফিকেসনশীং"</string>
+<string name="volume_media_mute">"ম্যুজিক মখোল থোকহনগনু &amp; অতোপ্পা মেদিয়া"</string>
+<string name="volume_notification_mute">"নোটিফিকেসনশীং মখোল থোকহনগনু"</string>
+<string name="volume_alarm_mute">"অলার্মশীং মখোল থোকহনগনু"</string>
+<string name="vibrate_when_ringing_title">"রিং তৌরিঙৈ মনুংদা হাইয়ু"</string>
+<string name="dock_settings">"দোক"</string>
+<string name="dock_settings_title">"দোক সেটিংশীং"</string>
+<string name="dock_audio_settings_title">"ওদিও"</string>
+<string name="dock_audio_summary_desk">"এটেচ তৌবা দেস্কতোপ দোক অদুগী সেটিংশীং"</string>
+<string name="dock_audio_summary_car">"এটেচ তৌবা কার দোক অদুগী সেটিংশীং"</string>
+<string name="dock_audio_summary_none" product="tablet">"টেব্লেত দোক তৌদে"</string>
+<string name="dock_audio_summary_none" product="default">"ফোন দোক তৌদে"</string>
+<string name="dock_audio_summary_unknown">"এটেচ তৌবা দোক অদুগী সেটিংশীং"</string>
+<string name="dock_not_found_title">"দোক ফংদে"</string>
+<string name="dock_not_found_text" product="tablet">"দোক ওদিও সেট অপ তৌদ্রিঙৈ মমাংদা নহাক টেব্লেত অদু দোক তৌবা দরকার ওই."</string>
+<string name="dock_not_found_text" product="default">"দোক ওদিও সেট অপ তৌদ্রিঙৈ মমাংদা নহাক ফোন অদু দোক তৌবা দরকার ওই."</string>
+<string name="dock_sounds_enable_title">"দোক থিংজিনবা সাওন্দ"</string>
+<string name="dock_sounds_enable_summary_on" product="tablet">"দোকতা টেব্লেত থিংজিনবা নত্ত্রগা লৌথোকপা মতমদা সাওন্দ প্লে তৌ"</string>
+<string name="dock_sounds_enable_summary_on" product="default">"দোকতা ফোন থিংজিনবা নত্ত্রগা লৌথোকপা মতমদা সাওন্দ প্লে তৌ"</string>
+<string name="dock_sounds_enable_summary_off" product="tablet">"দোকতা টেব্লেত থিংজিনবা নত্ত্রগা লৌথোকপা মতমদা সাওন্দ প্লে তৌগনু"</string>
+<string name="dock_sounds_enable_summary_off" product="default">"দোকতা ফোন থিংজিনবা নত্ত্রগা লৌথোকপা মতমদা সাওন্দ প্লে তৌগনু"</string>
+<string name="account_settings">"একাওন্টশীং"</string>
+<string name="search_settings">"থিবা"</string>
+<string name="search_settings_summary">"থিবগী সেটিংশীং অমসুং হিস্টরি মেনেজ তৌ"</string>
+<string name="display_settings">"উৎপা"</string>
+<string name="accelerometer_title">"স্ক্রীন মশা মথন্তা উংঙু"</string>
+<string name="accelerometer_summary_on" product="tablet">"টেব্লেত উংলিঙৈদা মশা মথন্তা ওরিয়েন্টেসন ওল্লু"</string>
+<string name="accelerometer_summary_on" product="default">"ফোন উংলিঙৈদা মশা মথন্তা ওরিয়েন্টেসন ওল্লু"</string>
+<string name="accelerometer_summary_off" product="tablet">"টেব্লেত উংলিঙৈদা মশা মথন্তা ওরিয়েন্টেসন ওল্লু"</string>
+<string name="accelerometer_summary_off" product="default">"ফোন উংলিঙৈদা মশা মথন্তা ওরিয়েন্টেসন ওল্লু"</string>
+<string name="brightness">"লংবগী ফিভম"</string>
+<string name="brightness_summary">"স্ক্রীন অদুগী ঙানখৎপা চাননবা শেম্মু"</string>
+<string name="screen_timeout">"তুম্বা"</string>
+<string name="touch_light_timeout">"মঙাল শোকউ"</string>
+<string name="touch_light_timeout_title">"মঙালগী মতম শোকউ"</string>
+<string name="touch_light_timeout_summary">"মতুংদা <xliff:g id="timeout_description">%1$s</xliff:g>  এক্টিব ওইদবা সেকেন্দশীং"</string>
+<string name="close_screen_bright_automode">"মশা মথন্তা স্ক্রীনগী লংখৎপা চানহনবা মুথৎপিয়ু"</string>
+<string name="screen_timeout_summary">"মতুংদা <xliff:g id="timeout_description">%1$s</xliff:g> এক্টিব ওইদবগী"</string>
+<string name="wallpaper_settings_title">"ৱালপেপর"</string>
+<string name="wallpaper_settings_fragment_title">"ৱালপেপর খল্লু দগী"</string>
+<string name="screensaver_settings_title">"দেদ্রীম"</string>
+<string name="screensaver_settings_summary_either_long">"দোক তৌবা নত্ত্রগা তুম্বা অমসুং চার্জ তৌরিঙৈ মতমদা"</string>
+<string name="screensaver_settings_summary_either_short">"অনিগী মরক্তা অমা"</string>
+<string name="screensaver_settings_summary_sleep">"চার্জ তৌরিঙৈদা"</string>
+<string name="screensaver_settings_summary_dock">"দোক তৌবা মতমদা"</string>
+<string name="screensaver_settings_summary_off">"ওফ"</string>
+<string name="screensaver_settings_disabled_prompt">"ফোন অদু দোক তৌবা অমসুং/নত্ত্রগা তুম্বা মতমদা করি থোকই কন্ত্রোল তৌনবা, দেদ্রীম থাও."</string>
+<string name="screensaver_settings_when_to_dream">"করম্বা মতমদা দেদ্রীম তৌগনি"</string>
+<string name="screensaver_settings_dream_start">"হৌজিক স্টার্ট তৌ"</string>
+<string name="screensaver_settings_button">"সেটিংশীং"</string>
+<string name="automatic_brightness">"মশা মথন্তা লংখৎপা"</string>
+<string name="title_font_size">"ফোন্টকি চাওবা পিকপা"</string>
+<string name="dialog_title_font_size">"ফোন্টকি চাওবা পিকপা"</string>
+<string name="sim_lock_settings">"SIM কার্দ লোক সেটিংশীং"</string>
+<string name="sim_lock_settings_category">"SIM কার্দ লোক সেট অপ তৌ"</string>
+<string name="sim_lock_settings_title">"SIM কার্দ শো লোনবা"</string>
+<string name="sim_pin_toggle">"SIM কার্দ শো লোল্লু"</string>
+<string name="sim_lock_on" product="tablet">"টেব্লেত শীজিন্ননবা PIN দরকার ওই"</string>
+<string name="sim_lock_on" product="default">"ফোন শীজিন্ননবা PIN দরকার ওই"</string>
+<string name="sim_lock_off" product="tablet">"টেব্লেত শীজিন্ননবা PIN দরকার ওই"</string>
+<string name="sim_lock_off" product="default">"ফোন শীজিন্ননবা PIN দরকার ওই"</string>
+<string name="sim_pin_change">"SIM গী PIN হোংঙু"</string>
+<string name="sim_enter_pin">"SIM PIN"</string>
+<string name="sim_enable_sim_lock">"SIM কার্দ শো লোল্লু"</string>
+<string name="sim_disable_sim_lock">"SIM কার্দ শো হাংঙু"</string>
+<string name="sim_enter_old">"অরিবা SIM PIN"</string>
+<string name="sim_enter_new">"অনৌবা SIM PIN"</string>
+<string name="sim_reenter_new">"অনৌবা PIN হন্না-টাইপ তৌ"</string>
+<string name="sim_change_pin">"SIM PIN"</string>
+<string name="sim_bad_pin">"অশোয়বা PIN"</string>
+<string name="sim_pins_dont_match">"PIN শীং মপা চানদে"</string>
+<string name="sim_change_failed">"PIN হোংবা য়াদে.\nওইবা য়াই চুমদবা PIN."</string>
+<string name="sim_change_succeeded">"SIM PIN হোংবা মায় পাক্লে"</string>
+<string name="sim_lock_failed">"SIM কার্দ লোক ফিভম হোংবা য়াদে. \nওইবা য়াই চুমদবা PIN."</string>
+<string name="sim_enter_ok">"ওকে"</string>
+<string name="sim_enter_cancel">"ককথৎলু"</string>
+<string name="wrong_pin_code_pukked">"চুমদবা SIM PIN কোদ নহাক্কি দিভাইস শো হাংনবা নহাক নহাক্কি কেরিয়রদা পাও ফাওনগদবনি."</string>
+<plurals name="wrong_pin_code">
+<item quantity="one">"চুমদবা SIM PIN কোদ, নহাক্কি লৈ <xliff:g id="number">%d</xliff:g> লেমহৌবা হোৎনগদবা নহাক নহাক্কি কেরিয়রদা পাও ফাওনগদবগী মমাংদা."</item>
+<item quantity="other">"চুমদবা SIM PIN কোদ, নহাক্কি লৈ <xliff:g id="number">%d</xliff:g> লেমহৌবা হোৎনগদবশীং."</item>
+</plurals>
+<string name="pin_failed">"SIM PIN ওপরেসন মায় পাক্ত্রে!"</string>
+<string name="device_info_settings" product="tablet">"টেব্লেতকি ফিভম"</string>
+<string name="device_info_settings" product="default">"ফোনগী ফিভম"</string>
+<string name="system_update_settings_list_item_title">"সিস্টেম অপদেতশীং"</string>
+<string name="firmware_version">"MocorDroid ভর্সন"</string>
+<string name="model_number">"মোদেল নম্বর"</string>
+<string name="fcc_equipment_id">"খুৎলাই ID"</string>
+<string name="baseband_version">"বেজবেন্দ ভর্সন"</string>
+<string name="kernel_version">"কর্নেল ভর্সন"</string>
+<string name="build_number">"মশীং শাগৎলু"</string>
+<string name="selinux_status">"SELinux স্টেটস"</string>
+<string name="device_info_not_available">"ফংদে"</string>
+<string name="device_status_activity_title">"স্টেটস"</string>
+<string name="device_status">"স্টেটস"</string>
+<string name="device_status_summary" product="tablet">"বেট্টরি, নেটৱার্ক কি স্টেটস, অমসুং অতোপ্পা পাও"</string>
+<string name="device_status_summary" product="default">"ফোন নম্বর, সিগ্নেল, অসিনচিংবা."</string>
+<string name="storage_settings">"স্টোরেজ"</string>
+<string name="storage_settings_title">"স্টোরেজ সেটিংশীং"</string>
+<string name="storage_settings_summary" product="nosdcard">"USB স্টোরেজ থাংথৌ, অফংবা স্টোরেজ য়েংঙু"</string>
+<string name="storage_settings_summary" product="default">"SD কার্দ থাংথৌ, অফংবা স্টোরেজ য়েংঙু"</string>
+<string name="status_number" product="tablet">"MDN"</string>
+<string name="status_number" product="default">"ঐগী ফোন নম্বর"</string>
+<string name="status_prl_version">"PRL ভর্সন"</string>
+<string name="status_network_type">"মোবাইল নেটৱার্ক মখল"</string>
+<string name="status_latest_area_info">"ওপরেতর ইনফো"</string>
+<string name="status_data_state">"সেল্লুলর নেটৱার্ক কি ফিভম"</string>
+<string name="status_service_state">"সার্ভিসকি ফিভম"</string>
+<string name="status_signal_strength">"সিগ্নেল মপাঙ্গল"</string>
+<string name="status_roaming">"রোমিং"</string>
+<string name="status_operator">"নেটৱার্ক"</string>
+<string name="status_wifi_mac_address">"Wi-Fi MAC এদ্রেশ"</string>
+<string name="status_bt_address">"ব্লুটুথ এদ্রেশ"</string>
+<string name="status_serial_number">"সেরিযেল নম্বর"</string>
+<string name="status_unavailable">"ফংদে"</string>
+<string name="status_up_time">"অপ টাইম"</string>
+<string name="status_awake_time">"হৌগৎপা মতম"</string>
+<string name="internal_memory">"মনুংগী স্টোরেজ"</string>
+<string name="sd_memory" product="nosdcard">"USB স্টোরেজ"</string>
+<string name="sd_memory" product="default">"SD কার্দ"</string>
+<string name="memory_available">"ফংই"</string>
+<string name="memory_available_read_only">"ফংই (পাবা-খক্তং)"</string>
+<string name="memory_size">"অপুনবা স্পেস"</string>
+<string name="memory_calculating_size">"হোৎলি..."</string>
+<string name="memory_apps_usage">"এপশীং (এপ দাতা &amp; মেদিয়া কন্টেন্ট)"</string>
+<string name="memory_media_usage">"মেদিয়া"</string>
+<string name="memory_downloads_usage">"দাওনলোদশীং"</string>
+<string name="memory_dcim_usage">"পিকচরশীং"</string>
+<string name="memory_music_usage">"ওদিও (ম্যুজিক, রিংতোনশীং, পোদকাস্টশীং, অসিনচিংবা)"</string>
+<string name="memory_media_misc_usage">"মিসেলিনিয়স"</string>
+<string name="memory_others_usage">"শীজিন্নরে (অতোপ্পা মখলশীংগী ফাইলশীং)"</string>
+<string name="memory_media_cache_usage">"কাশ দাতা"</string>
+<string name="sd_eject" product="nosdcard">"শরুক য়ামিন্নবা স্টোরেজ থাংথৌ"</string>
+<string name="sd_eject" product="default">"SD কার্দ থাংথৌ"</string>
+<string name="sd_eject_summary" product="nosdcard">"মনুংগী USB স্টোরেজ অদু থাংথৌ"</string>
+<string name="sd_eject_summary" product="default">"SD কার্দ অদু থাংথৌ নহাক মদু তেক্ত-কায়দনা লৌথোকপা য়ানবা"</string>
+<string name="sd_insert_summary" product="nosdcard">"USB স্টোরেজ থাঙ্গৎনবা থিংজিল্লু"</string>
+<string name="sd_insert_summary" product="default">"SD কার্দ অমা থাঙ্গৎনবা থিংজিল্লু"</string>
+<string name="sd_mount" product="nosdcard">"USB স্টোরেজ থাঙ্গৎলু"</string>
+<string name="sd_mount" product="default">"SD কার্দ থাঙ্গৎলু"</string>
+<string name="sd_format" product="nosdcard">"USB স্টোরেজ মুথৎলু"</string>
+<string name="sd_format" product="default">"SD কার্দ মুথৎলু"</string>
+<string name="sd_format_summary" product="nosdcard">"ম্যুজিক অমসুং ফোটোশীংগুম্বা, মনুংগী USB স্টোরেজদা লৈবা দাতা লোইনমক মুথৎলু"</string>
+<string name="sd_format_summary" product="default">"ম্যুজিক অমসুং ফোটোশীংগুম্বা, SD কার্দতা লৈবা দাতা লোইনমক মুথৎলু"</string>
+<string name="memory_clear_cache_title">"কাশ দাতা ক্লিয়র তৌগদ্রা?"</string>
+<string name="memory_clear_cache_message">"মসিনা এপশীং লোইনমক্কি কাশ দাতা ক্লিয়র তৌগনি."</string>
+<string name="mtp_ptp_mode_summary">"MTP নত্ত্রগা PTP ফঙ্কসন এক্টিব ওই"</string>
+<string name="dlg_confirm_unmount_title" product="nosdcard">"USB স্টোরেজ থাংথগদ্রা?"</string>
+<string name="dlg_confirm_unmount_title" product="default">"SD কার্দ থাংথগদ্রা?"</string>
+<string name="dlg_confirm_unmount_text" product="nosdcard">"নহাক USB স্টোরেজ অদু থাংথরবদি, নহাক্না শীজিন্নরিবা এপশীং খরা লেপখিগনি অমসুং USB স্টোরেজ অদু হন্না থাঙ্গৎতরিবা ফাওবা ফংদবা য়াই."</string>
+<string name="dlg_confirm_unmount_text" product="default">"নহাক SD কার্দ থাংথরবদি, নহাক্না শীজিন্নরিবা এপশীং খরা লেপখিগনি অমসুং SD কার্দ অদু হন্না থাঙ্গৎতরিবা ফাওবা ফংদবা য়াই."</string>
+<string name="dlg_error_unmount_text" product="nosdcard">"USB স্টোরেজ থাংথবা ঙমদে. কোন্না হন্না হোৎনৌ."</string>
+<string name="dlg_error_unmount_text" product="default">"SD কার্দ থাংথবা ঙমদে. কোন্না হন্না হোৎনৌ."</string>
+<string name="unmount_inform_text" product="nosdcard">"USB স্টোরেজ থাংথরগনি."</string>
+<string name="unmount_inform_text" product="default">"SD কার্দ থাংথরগনি."</string>
+<string name="sd_ejecting_title">"থাংথরি"</string>
+<string name="sd_ejecting_summary">"থাংথবা চত্থরি"</string>
+<string name="storage_low_title">"স্টোরেজ স্পেস লোইগদোই তৌরি"</string>
+<string name="storage_low_summary">"সিস্টেম ফঙ্কসনশীং খরা, সিঙ্কিং গুম্বা, চুম্না থবক তৌদবা য়াই. এপশীং নত্ত্রগা মেদিয়া কন্টেন্ট গুম্বা, আইটেমশীং মুথৎতুনা নত্ত্রগা পিন তৌবা তোক্তুনা স্পেস হাংহন্নবা হোৎনৌ."</string>
+<string name="storage_menu_usb">"USB কম্প্যুতর শম্নবা"</string>
+<string name="storage_title_usb">"USB কম্প্যুতর শম্নবা"</string>
+<string name="usb_connection_category">"গুম্না শম্নৌ"</string>
+<string name="usb_mtp_title">"মেদিয়া দিভাইস (MTP)"</string>
+<string name="usb_mtp_summary">"নহাকপু Windows দা মেদিয়া ফাইলশীং ত্রান্সফর তৌবা য়াহল্লি, নত্ত্রগা Mac তা MocorDroid ফাই ত্রান্সফর শীজিন্নদুনা (য়েংঙু www.android.com/filetransfer)"</string>
+<string name="usb_ptp_title">"কেমরা (PTP)"</string>
+<string name="usb_ptp_summary">"নহাকপু কেমরা সোফ্টৱায়র শীজিন্নরগা ফোটোশীং ত্রান্সফর তৌবা য়াহল্লি, অমসুং MTP সপোর্ট তৌদবা কম্প্যুতরশীংদা অপাম্বা ফাইলশীং ত্রান্সফর তৌবা য়াহল্লি"</string>
+<string name="usb_label_installer_cd">"ফাইল-ত্রান্সফর খুৎলাইশীং ইনস্টোল তৌ"</string>
+<string name="storage_other_users">"অতোপ্পা য়ুজরশীং"</string>
+<string name="battery_status_title">"বেট্টরি স্টেটস"</string>
+<string name="battery_level_title">"বেট্টরিগী থাক"</string>
+<string name="apn_settings">"APNs"</string>
+<string name="apn_edit">"এক্সেস পোইন্ট এদিত তৌ"</string>
+<string name="apn_not_set">"সেট তৌদে"</string>
+<string name="apn_name">"মমিং"</string>
+<string name="apn_http_proxy">"প্রোক্সি"</string>
+<string name="apn_http_port">"পোর্ট"</string>
+<string name="apn_user">"য়ুজরনেম"</string>
+<string name="apn_password">"পাসৱার্দ"</string>
+<string name="apn_server">"সার্ভর"</string>
+<string name="apn_mms_proxy">"MMS প্রোক্সি"</string>
+<string name="apn_mms_port">"MMS পোর্ট"</string>
+<string name="apn_auth_type">"ওথেন্টিকেসন মখল"</string>
+<string name="apn_auth_type_none">"অমত্তা লৈতে"</string>
+<string name="apn_auth_type_pap_chap">"PAP নত্ত্রগা CHAP"</string>
+<string name="apn_type">"APN মখল"</string>
+<string name="apn_protocol">"APN প্রোতোকোল"</string>
+<string name="apn_roaming_protocol">"APN রোমিং প্রোতোকোল"</string>
+<string name="carrier_enabled">"APN য়াহনবা/ য়াহন্দবা"</string>
+<string name="carrier_enabled_summaryOn">"APN য়াহল্লে"</string>
+<string name="carrier_enabled_summaryOff">"APN য়াহন্দে"</string>
+<string name="bearer">"বিয়রর"</string>
+<string name="mvno_type">"MVNO মখল"</string>
+<string name="mvno_match_data">"MVNO ভেল্যু"</string>
+<string name="menu_delete">"APN মুথৎলু"</string>
+<string name="menu_new">"অনৌবা APN"</string>
+<string name="menu_save">"সেব তৌ"</string>
+<string name="menu_cancel">"লংথোকউ"</string>
+<string name="error_name_empty">"মমিংগী ফিল্দ অদু হাংহনবা য়াদে."</string>
+<string name="error_apn_empty">"APN অদু হাংহনবা য়াদে."</string>
+<string name="error_mcc_not3">"MCC ফিল্দ দিজিত 3 গী ওইগদবনি."</string>
+<string name="error_mnc_not23">"MNC ফিল্দ দিজিত 2 নত্ত্রগা 3 গী ওইগদবনি."</string>
+<string name="restore_default_apn">"দিফাওল্ট APN সেটিংশীং হন্না পুরক্নবা তৌরি."</string>
+<string name="menu_restore">"দিফাওল্টতা হন্না সেট তৌ"</string>
+<string name="restore_default_apn_completed">"দিফাওল্ট APN সেটিংশীং হন্না সেট তৌবা মপুং ফারে."</string>
+<string name="master_clear_title">"ফেক্তরি দাতা হন্না সেট তৌবা"</string>
+<string name="master_clear_summary" product="tablet">"টেব্লেততা লৈবা দাতা লোইনমক মুথৎলু"</string>
+<string name="master_clear_summary" product="default">"ফোনদা লৈবা দাতা লোইনমক মুথৎলু"</string>
+<string name="master_clear_desc" product="tablet">"মসিনা নহাক্কি টেব্লেত কিদগী দাতা লোইনমক মুথৎলগনি <b>মনুংগী স্টোরেজ</b>, য়াওনা:\n\n<li>নহাক্কি Google একাওন্ট</li>\n<li>সিস্টেম অমসুং এপ দাতা অমসুং সেটিংশীং</li>\n<li>দাওনলোদ তৌরবা এপশীং</li>"</string>
+<string name="master_clear_desc" product="default">""মসিনা নহাক্কি ফোন গীদগী দাতা লোইনমক মুথৎলগনি <b>মনুংগী স্টোরেজ</b>, য়াওনা:\n\n<li>নহাক্কি Google একাওন্ট</li>\n<li>সিস্টেম অমসুং এপ দাতা অমসুং সেটিংশীং</li>\n<li>দাওনলোদ তৌরবা এপশীং"</li>"</string>
+<string name="master_clear_accounts" product="default">"\n\nনহাক মখাগী একাওন্টশীং অসিদা হৌজিক সাইন ইন তৌই:\n"</string>
+<string name="master_clear_desc_also_erases_external">"<li>ম্যুজিক</li>\n<li>ফোটোশীং</li>\n<li>অতোপ্পা য়ুজর দাতা</li>"</string>
+<string name="master_clear_desc_erase_external_storage" product="nosdcard">"\n\nম্যুজিক, পিকচরশীং, অমসুং অতোপ্পা য়ুজর দাতা ক্লিয়র তৌনবা, অদু <b>USB স্টোরেজ</b> মুথৎপা দরকার ওই."</string>
+<string name="master_clear_desc_erase_external_storage" product="default">"\n\nম্যুজিক, পিকচরশীং, অমসুং অতোপ্পা য়ুজর দাতা ক্লিয়র তৌনবা, অদু <b>SD কার্দ</b> মুথৎপা দরকার ওই."</string>
+<string name="erase_external_storage" product="nosdcard">"USB স্টোরেজ মুথৎলু"</string>
+<string name="erase_external_storage" product="default">"SD কার্দ মুথৎলু"</string>
+<string name="erase_external_storage_description" product="nosdcard">"মনুংগী USB স্টোরেজদা য়াওবা দাতা লোইনমক মুথৎলু,  ম্যুজিক নত্ত্রগা ফোটোশীং গুম্বা"</string>
+<string name="erase_external_storage_description" product="default">"SD কার্দ তা য়াওবা দাতা লোইনমক মুথৎলু,  ম্যুজিক নত্ত্রগা ফোটোশীং গুম্বা"</string>
+<string name="master_clear_button_text" product="tablet">"টেব্লেত হন্না সেট তৌ"</string>
+<string name="master_clear_button_text" product="default">"ফোন হন্না সেট তৌ"</string>
+<string name="master_clear_final_desc">"নহাক্কি নশাগী পাও অমসুং দাওনলোদ তৌবা এপশীং মুথৎকদ্রা? নহাক এক্সন অসি হনবা য়ারোই!"</string>
+<string name="master_clear_final_button_text">"লোইনমক মুথৎলু"</string>
+<string name="master_clear_gesture_prompt">"নহাক্কি অনলোক পেটর্ন য়েকউ"</string>
+<string name="master_clear_gesture_explanation">"ফেক্তরি দাতা অমা হন্না সেট তৌবা কনফার্ম তৌনবা নহাক নহাক্কি শো হাংনবা পেটর্ন য়েকপা দরকার ওই."</string>
+<string name="master_clear_failed">"হন্না সেট তৌবা পাংথোক্তে মরমদি সিস্টেম ক্লিয়র সার্ভিস অদু ফংদে."</string>
+<string name="master_clear_confirm_title">"হন্না সেট তৌগদ্রা?"</string>
+<string name="media_format_title" product="nosdcard">"USB স্টোরেজ মুথৎলু"</string>
+<string name="media_format_title" product="default">"SD কার্দ মুথৎলু"</string>
+<string name="media_format_summary" product="nosdcard">"USB স্টোরেজদা দাতা লোইনমক মুথৎলু"</string>
+<string name="media_format_summary" product="default">"SD কার্দতা দাতা লোইনমক মুথৎলু"</string>
+<string name="media_format_desc" product="nosdcard">"USB স্টোরেজ লোইনমক মুথৎকদ্রা? নহাক মাংগনি<b>all</b> স্টোর তৌবা দাতা!"</string>
+<string name="media_format_desc" product="default">"SD কার্দ অদু মুথৎকদ্রা? নহাক মাংগনি <b>all</b> দাতা অদুদা লৈবা কার্দ!"</string>
+<string name="media_format_button_text" product="nosdcard">"USB স্টোরেজ মুথৎলু"</string>
+<string name="media_format_button_text" product="default">"SD কার্দ মুথৎলু"</string>
+<string name="media_format_final_desc" product="nosdcard">"USB স্টোরেজ অদু মুথৎলু, মফম অদুদা হাপতুনা থম্বা ফাইলশীং লোইনমক মুথৎকদ্রা? নহাক এক্সন অসি হনবা য়ারোই!"</string>
+<string name="media_format_final_desc" product="default">"SD কার্দ অদু মুথৎলু, মফম অদুদা হাপতুনা থম্বা ফাইলশীং লোইনমক মুথৎকদ্রা? নহাক এক্সন অসি হনবা য়ারোই!"</string>
+<string name="media_format_final_button_text">"লোইনমক মুথৎলু"</string>
+<string name="media_format_gesture_prompt">"নহাক্কি অনলোক পেটর্ন য়েকউ"</string>
+<string name="media_format_gesture_explanation" product="nosdcard">"নহাক USB স্টোরেজ অদু মুথৎপা পাম্মি হায়বদু কনফার্ম তৌনবা নহাক নহাক্কি শো হাংনবা পেটর্ন য়েকপা দরকার ওই."</string>
+<string name="media_format_gesture_explanation" product="default">"নহাক SD কার্দ অদু মুথৎপা পাম্মি হায়বদু কনফার্ম তৌনবা নহাক নহাক্কি শো হাংনবা পেটর্ন য়েকপা দরকার ওই."</string>
+<string name="call_settings_title">"কোল সেটিংশীং"</string>
+<string name="call_settings_summary">"ভোইসমেল, কোল ফোরৱার্দ তৌবা, কোল ঙাইবা, কোলর ID সেট অপ তৌ "</string>
+<string name="tether_settings_title_usb">"USB তেদরিং"</string>
+<string name="tether_settings_title_wifi">"পুবা য়াবা হোতস্পোত"</string>
+<string name="tether_settings_title_bluetooth">"ব্লুটুথ তেদরিং"</string>
+<string name="tether_settings_title_usb_bluetooth">"তেদরিং"</string>
+<string name="tether_settings_title_all">"তেদরিং &amp; পুবা য়াবা হোতস্পোত"</string>
+<string name="usb_tethering_button_text">"USB তেদরিং"</string>
+<string name="usb_tethering_available_subtext">"USB শম্নরে, তেদর তৌনবা চেক তৌ"</string>
+<string name="usb_tethering_active_subtext">"তেদর তৌরে"</string>
+<string name="usb_tethering_storage_active_subtext">"USB স্টোরেজ শীজিন্নরিঙৈ মতমদা তেদর তৌবা য়াদে"</string>
+<string name="usb_tethering_unavailable_subtext">"USB শম্নদে"</string>
+<string name="usb_tethering_errored_subtext">"USB তেদর তৌবদা অশোয়বা"</string>
+<string name="bluetooth_tether_checkbox_text">"ব্লুটুথ তেদরিং"</string>
+<string name="bluetooth_tethering_available_subtext" product="tablet">"টেব্লেত অসিগী ইন্টরনেট কনেক্সন শরুক য়ামিন্নরি"</string>
+<string name="bluetooth_tethering_available_subtext" product="default">"ফোন অসিগী ইন্টরনেট কনেক্সন শরুক য়ামিন্নরি"</string>
+<string name="bluetooth_tethering_device_connected_subtext" product="tablet">"টেব্লেত অসিগী ইন্টরনেট কনেক্সন দিভাইস 1 দা শরুক য়ামিন্নরি"</string>
+<string name="bluetooth_tethering_device_connected_subtext" product="default">"ফোন অসিগী ইন্টরনেট কনেক্সন দিভাইস 1 দা শরুক য়ামিন্নরি"</string>
+<string name="bluetooth_tethering_devices_connected_subtext" product="tablet">"টেব্লেত অসিগী ইন্টরনেট কনেক্সন শরুক য়ামিন্নরি দা <xliff:g id="connectedDeviceCount">%1$d</xliff:g> দিভাইসশীং"</string>
+<string name="bluetooth_tethering_devices_connected_subtext" product="default">"ফোন অসিগী ইন্টরনেট কনেক্সন শরুক য়ামিন্নরি দা <xliff:g id="connectedDeviceCount">%1$d</xliff:g> দিভাইসশীং"</string>
+<string name="bluetooth_tethering_off_subtext" product="tablet">"টেব্লেত অসিগী ইন্টরনেট কনেক্সন শরুক য়ামিন্নদে"</string>
+<string name="bluetooth_tethering_off_subtext" product="default">"ফোন অসিগী ইন্টরনেট কনেক্সন শরুক য়ামিন্নদে"</string>
+<string name="bluetooth_tethering_errored_subtext">"তেদর তৌদে"</string>
+<string name="bluetooth_tethering_overflow_error">"তেদর তৌবা য়াদে মদুদগী হেন্না <xliff:g id="maxConnection">%1$d</xliff:g> দিভাইসশীং."</string>
+<string name="bluetooth_untether_blank">"<xliff:g id="device_name">%1$s</xliff:g> তেদর তৌবা তোক্কনি."</string>
+<string name="tethering_help_button_text">"মতেং"</string>
+<string name="network_settings_title">"সেল্লুলর নেটৱার্কশীং"</string>
+<string name="manage_mobile_plan_title">"মোবাইল প্লান"</string>
+<string name="sms_application_title">"দিফাওল্ট SMS এপ"</string>
+<string name="sms_change_default_dialog_title">"SMS এপ হোংগদ্রা?"</string>
+<string name="sms_change_default_dialog_text">"শীজিন্নৌ <xliff:g id="new_app">%1$s</xliff:g> গী মহুৎতা <xliff:g id="current_app">%2$s</xliff:g> নহাক্কি SMS এপ গুম্না?"</string>
+<string name="sms_change_default_no_previous_dialog_text">"শীজিন্নৌ <xliff:g id="new_app">%s</xliff:g> নহাক্কি SMS এপ গুম্না?"</string>
+<string name="mobile_unknown_sim_operator">"মশক খঙদবা SIM ওপরেতর"</string>
+<string name="mobile_no_provisioning_url">"%1$s গী মশক খঙবা প্রোবিজনিং ৱেবসাইট লৈতে"</string>
+<string name="mobile_insert_sim_card">"SIM কার্দ থিংজিনবিয়ু অমসুং হন্না স্টার্ট তৌবিয়ু"</string>
+<string name="mobile_connect_to_internet">"ইন্টরনেটতা শম্নবিয়ু"</string>
+<string name="location_title">"ঐগী লৈফম"</string>
+<string name="location_mode_title">"মোদ"</string>
+<string name="location_mode_high_accuracy_title">"চুম্বগী চাং ৱাংবা"</string>
+<string name="location_mode_battery_saving_title">"বেট্টরি সেব তৌরি"</string>
+<string name="location_mode_sensors_only_title">"দিভাইস খক্তং"</string>
+<string name="location_mode_location_off_title">"মফম ওফ"</string>
+<string name="location_category_recent_location_requests">"হন্দক্কি লৈফমগী হায়জবশীং"</string>
+<string name="location_no_recent_apps">"এপশীং অমত্তনা হন্দক্তা মফমগী হায়জখিদে"</string>
+<string name="location_category_location_services">"মফম সার্ভিসশীং"</string>
+<string name="location_high_battery_use">"বেট্টরি শীজিন্নবা ৱাংবা"</string>
+<string name="location_low_battery_use">"বেট্টরি শীজিন্নবা নেম্বা"</string>
+<string name="location_mode_screen_title">"মফমগী মোদ"</string>
+<string name="location_mode_high_accuracy_description">"লৈফম লেপ্নবা GPS, Wi\u2011Fi, অমসুং মোবাইল নেটৱার্কশীং শীজিন্নৌ"</string>
+<string name="location_mode_battery_saving_description">"লৈফম লেপ্নবা Wi\u2011Fi অমসুং মোবাইল নেটৱার্কশীং শীজিন্নৌ"</string>
+<string name="location_mode_sensors_only_description">"নহাক্কি মফম লেপ্নবা GPS শীজিন্নৌ"</string>
+<string name="location_loading_injected_setting">"হন্না ফংনবা তৌরি…"</string>
+<string name="location_network_based">"Wi\u2011Fi &amp; মোবাইল নেটৱার্ক লৈফম"</string>
+<string name="location_neighborhood_level">"নহাক্কি মফম হেন্না থুনা লেপ্নবা এপশীংনা গুগল লোকেসন সার্ভিস শীজিন্নসনু. মশক খঙদবা মফমগী দাতা খোমজিনগনি অমসুং গুগলদা থাগনি."</string>
+<string name="location_neighborhood_level_wifi">"মফম Wi-Fi না লেপ্পি"</string>
+<string name="location_gps">"GPS সেটিলাইটশীং"</string>
+<string name="location_street_level" product="tablet">"নহাক্কি মফমগী চপ চাবা পোইন্ট তাক্নবা এপশীংনা নহাক্কি টেব্লেততা GPS শীজিন্নসনু"</string>
+<string name="location_street_level" product="default">"নহাক্কি মফমগী চপ চাবা পোইন্ট তাক্নবা এপশীংনা নহাক্কি ফোনদা GPS শীজিন্নসনু"</string>
+<string name="assisted_gps">"মতেং পাংবা GPS শীজিন্নৌ"</string>
+<string name="assisted_gps_enabled">"GPS পু মতেং পাংনবা সার্ভর শীজিন্নৌ (নেটৱার্ক শীজিন্নবা হন্থনবা চেক তৌবা তোকউ)"</string>
+<string name="assisted_gps_disabled">"GPS পু মতেং পাংনবা সার্ভর শীজিন্নৌ (GPS কি থবক পাংথোকপা ফগৎনবা চেক তৌবা তোকউ)"</string>
+<string name="use_location_title">"মফম &amp; Google সর্চ"</string>
+<string name="use_location_summary">"থিবগী ফলশীং অমসুং অতোপ্পা সার্ভিসশীং ফগৎনবা Google না নহাক্কি মফম শীজিন্নসনু"</string>
+<string name="location_access_title">"ঐহাক লৈবা মফম চংঙু"</string>
+<string name="location_access_summary">"নহাক্কি অয়াবা হংখিবা এপশীং নহাক লৈবা মফমগী পাও শীজিন্নসনু"</string>
+<string name="location_sources_heading">"লৈবা মফমগী হৌরকফমশীং"</string>
+<string name="location_gps_config">"AGPS য়াহনবা ওপসন"</string>
+<string name="location_gps_config_summary">"তোঙান তোঙানবা নেটৱার্ক ইনভাইরনমেন্টতা এপশীং য়াহনগদ্রা."</string>
+<string name="agps_config_summary">"SUPL অমসুং NTP কনফিগুরেসন"</string>
+<string name="location_gps_config_titlebar">"AGPS য়াহনবা ওপসন"</string>
+<string name="gps_config_titlebar">"GPS কনফিগুরেসন"</string>
+<string name="gps_config_supl_host">"SUPL সার্ভর এদ্রেশ"</string>
+<string name="gps_config_supl_port">"SUPL সার্ভর পোর্ট"</string>
+<string name="gps_config_cert_path">"SUPL সার্তিফিকেত ফাইল লম্বী"</string>
+<string name="gps_config_location_method">"হেন্না পাম্বা মেথোদ"</string>
+<string name="gps_config_start_mode">"GPS ইনজিন স্টার্ট মেথোদ"</string>
+<string name="gps_config_connection_type">"কনেক্সন মখল"</string>
+<string name="gps_enable_option">"AGPS য়াহনবা ওপসন"</string>
+<string name="gps_log_show">"AGPS LOG উৎপা"</string>
+<string name="gps_log_show_summary">"AGPS কি LOG অদু উৎলু"</string>
+<string name="agps_config_taile">"AGPS কনফিগুরেসন"</string>
+<string name="agps_enable_option_tailebar">"AGPS য়াহনবা ওপসন"</string>
+<string name="agps_enable_option_registered">"রেজিস্টর তৌবা নেটৱার্ক"</string>
+<string name="agps_enable_option_all">"নেটৱার্ক লোইনমক"</string>
+<string name="agps_enable_option_none">"AGPS শীজিন্নগনু"</string>
+<string name="agps_enable_default_set_tailebar">"দিফাওল্ট সেটিংশীং হনজিলহল্লু"</string>
+<string name="agps_enable_default_set_text">"দিফাওল্ট সেটিংশীং অদু হনজিন্নবা ক্লিক তৌরি."</string>
+<string name="agps_enable_default_set_button">"দিফাওল্ট সেটিংশীং"</string>
+<string name="agps_config_help_tailebar">"AGPS মতেং"</string>
+<string name="agps_config_help_text">"নহাক্কি ফোন ইন্টরনেসনেল রোমিংদা লৈবা মতমদা, নহাক AGPS য়াহনবা ওপসনদা নহাক নেটৱার্ক লোইনমক খল্লবদি AGPS শীজিন্নবনা ইন্টরনেসনেল রোমিং ফীশীং শেমগনি."</string>
+<string name="settings_other">"অতোপ্পা"</string>
+<string name="about_settings" product="tablet">"টেব্লেতকি মরমদা"</string>
+<string name="about_settings" product="default">"ফোনগী মরমদা"</string>
+<string name="about_settings_summary">"আইনগী ইনফো, স্টেটস, সোফ্টৱায়র ভর্সন য়েংঙু"</string>
+<string name="legal_information">"আইনগী পাও"</string>
+<string name="contributors_title">"শরুক তম্বশীং"</string>
+<string name="regulatory_information">"রিগুলেত তৌবগী পাও"</string>
+<string name="copyright_title">"কোপিরাইট"</string>
+<string name="license_title">"লাইসেন্স"</string>
+<string name="terms_title">"টার্মশীং অমসুং কন্দিশনশীং"</string>
+<string name="settings_license_activity_title">"অহাংবা হৌরকফমগী লাইসেন্সশীং"</string>
+<string name="settings_license_activity_unavailable">"লাইসেন্সশীং অদু লোদ তৌবদা সমস্য অমা লৈ."</string>
+<string name="settings_license_activity_loading">"লোদ তৌরি..."</string>
+<string name="settings_safetylegal_title">"তেক্ত-কায়দবগী পাও"</string>
+<string name="settings_safetylegal_activity_title">"তেক্ত-কায়দবগী পাও"</string>
+<string name="settings_safetylegal_activity_unreachable">"নহাক্কি দাতা কনেক্সন অমা লৈতে. পাও অসি হৌজিক য়েংনবা, ইন্টরনেট শম্নবা কম্প্যুতর অমদগী হেক্তা %s দা চৎলু."</string>
+<string name="settings_safetylegal_activity_loading">"লোদ তৌরি..."</string>
+<string name="lockpassword_choose_your_password_header">"নহাক্কি পাসৱার্দ খল্লু"</string>
+<string name="lockpassword_choose_your_pattern_header">"নহাক্কি পেটর্ন খল্লু"</string>
+<string name="lockpassword_choose_your_pin_header">"নহাক্কি PIN খল্লু"</string>
+<string name="lockpassword_confirm_your_password_header">"পাসৱার্দ কনফার্ম তৌ"</string>
+<string name="lockpassword_confirm_your_pattern_header">"নহাক্কি পেটর্ন কনফার্ম তৌ"</string>
+<string name="lockpassword_confirm_your_pin_header">"নহাক্কি PIN কনফার্ম তৌ"</string>
+<string name="lockpassword_confirm_passwords_dont_match">"পাসৱার্দশীং মপা চানদে"</string>
+<string name="lockpassword_confirm_pins_dont_match">"PIN শীং মপা চানদে"</string>
+<string name="lockpassword_choose_lock_generic_header">"খনবা শো হাংঙু"</string>
+<string name="lockpassword_password_set_toast">"পাসৱার্দ সেট তৌখ্রে"</string>
+<string name="lockpassword_pin_set_toast">"PIN সেট তৌখ্রে"</string>
+<string name="lockpassword_pattern_set_toast">"পেটর্ন সেট তৌখ্রে"</string>
+<string name="lock_settings_title">"স্ক্রীন সেক্যুরিতি"</string>
+<string name="lockpattern_change_lock_pattern_label">"শো হাংবগী পেটর্ন হোংঙু"</string>
+<string name="lockpattern_change_lock_pin_label">"শো হাংবগী PIN হোংঙু"</string>
+<string name="lockpattern_need_to_unlock">"সেব তৌবা পেটর্ন কনফার্ম তৌ"</string>
+<string name="lockpattern_need_to_unlock_wrong">"হন্না হোৎনৌ:"</string>
+<string name="lockpattern_recording_intro_header">"শো হাংনবা পেটর্ন অমা য়েকউ"</string>
+<string name="lockpattern_recording_intro_footer">"মতেংগীদমক Menu নম্মু."</string>
+<string name="lockpattern_recording_inprogress">"তৌরবা মতমদা খুৎশা থাদোকউ"</string>
+<string name="lockpattern_recording_incorrect_too_short">"য়ামদ্রবদা শম্নৌ <xliff:g id="number">%d</xliff:g> দোতশীং. হন্না হোৎনৌ."</string>
+<string name="lockpattern_pattern_entered_header">"পেটর্ন রেকোর্দ তৌরে"</string>
+<string name="lockpattern_need_to_confirm">"কনফার্ম তৌনবা পেটর্ন হন্না য়েকউ"</string>
+<string name="lockpattern_pattern_confirmed_header">"নহাক্কি অনৌবা শো হাংনবা পেটর্ন"</string>
+<string name="lockpattern_confirm_button_text">"কনফার্ম তৌ"</string>
+<string name="lockpattern_restart_button_text">"হন্না য়েকউ"</string>
+<string name="lockpattern_retry_button_text">"হন্না হোৎনবা"</string>
+<string name="lockpattern_continue_button_text">"মখা চত্থৌ"</string>
+<string name="lockpattern_settings_title">"পেটর্ন শো হাংঙু"</string>
+<string name="lockpattern_settings_enable_title">"পেটর্ন দরকার ওই"</string>
+<string name="lockpattern_settings_enable_summary">"স্ক্রীন শো হাংনবা পেটর্ন য়েক্কদবনি"</string>
+<string name="lockpattern_settings_enable_visible_pattern_title">"পেটর্ন উহল্লু"</string>
+<string name="lockpattern_settings_enable_tactile_feedback_title">"শোকপদা নিকপা-হাইবা তৌ"</string>
+<string name="lockpattern_settings_enable_power_button_instantly_locks">"পাৱর বট্টন খুদক্তা শো লোল্লি"</string>
+<string name="lockpattern_settings_choose_lock_pattern">"শো হাংনবা পেটর্ন সেট তৌ"</string>
+<string name="lockpattern_settings_change_lock_pattern">"শো হাংবগী পেটর্ন হোংঙু"</string>
+<string name="lockpattern_settings_help_how_to_record">"শো হাংনবা পেটর্ন অমা করম্না য়েক্কনি"</string>
+<string name="lockpattern_too_many_failed_confirmation_attempts_header">"চুমদবা এটেম্পশীং কা হেন্না য়াম্না!"</string>
+<string name="lockpattern_too_many_failed_confirmation_attempts_footer">"হন্না হোৎনৌ দা <xliff:g id="number">%d</xliff:g> সেকেন্দশীং."</string>
+<string name="activity_not_found">"নহাক্কি ফোনদা এপ্লিকেসন ইনস্টোল তৌদে."</string>
+<string name="manageapplications_settings_title">"এপশীং মেনেজ তৌ"</string>
+<string name="manageapplications_settings_summary">"ইনস্টোল তৌবা এপশীং মেনেজ তৌ অমসুং লৌথোকউ"</string>
+<string name="applications_settings">"এপশীং"</string>
+<string name="applications_settings_summary">"এপশীং মেনেজ তৌ, অথুবা লোনচ সোর্তকতশীং সেট অপ তৌ"</string>
+<string name="applications_settings_header">"এপ সেটিংশীং"</string>
+<string name="install_applications">"মশক খঙদবা হৌরকফমশীং"</string>
+<string name="install_unknown_applications">"মশক খঙদবা হৌরকফমশীংদগী এপশীং ইনস্টোল তৌবা য়াহল্লু"</string>
+<string name="install_all_warning" product="tablet">"নহাক্কি টেব্লেত অমসুং লনাই নশাগী দাতা মশক খঙদবা হৌরকফমশীংদগী ফংবা এপশীংনা এতেক তৌরকপগী খুদোংথিবা হেন্না লৈ, এপশীং অসি শীজিন্নবদগী নহাক্কি টেব্লেততা থোকপা য়াবা অমাং-অতা নত্ত্রগা দাতা মাংবা য়াবা অদু নহাকখক্তং দায়ত্ব পুগনি হায়বা নহাক য়াই."</string>
+<string name="install_all_warning" product="default">"নহাক্কি ফোন অমসুং লনাই নশাগী দাতা মশক খঙদবা হৌরকফমশীংদগী ফংবা এপশীংনা এতেক তৌরকপগী খুদোংথিবা হেন্না লৈ, এপশীং অসি শীজিন্নবদগী নহাক্কি ফোনদা থোকপা য়াবা অমাং-অতা নত্ত্রগা দাতা মাংবা য়াবা অদু নহাকখক্তং দায়ত্ব পুগনি হায়বা নহাক য়াই."</string>
+<string name="verify_applications">"এপশীং ভেরিফাই তৌ"</string>
+<string name="verify_applications_summary">"অমাংবা থোকহনবা য়াবা এপশীং ইনস্টোল তৌদ্রিঙৈ মমাংদা য়াহনগনু নত্ত্রগা ৱার্ন তৌ"</string>
+<string name="advanced_settings">"এদভান্স ওইবা সেটিংশীং"</string>
+<string name="advanced_settings_summary">"অহেনবা সেটিংশীংগী ওপসনশীং য়াহল্লু"</string>
+<string name="application_info_label">"এপকি পাও"</string>
+<string name="storage_label">"স্টোরেজ"</string>
+<string name="auto_launch_label">"দিফাওল্টনা লোনচ তৌ"</string>
+<string name="auto_launch_label_generic">"দিফাওল্টশীং"</string>
+<string name="screen_compatibility_label">"স্ক্রীনগা চানবা"</string>
+<string name="permissions_label">"অয়াবা পীবশীং"</string>
+<string name="cache_header_label">"কাশ"</string>
+<string name="clear_cache_btn_text">"কাশ ক্লিয়র তৌ"</string>
+<string name="cache_size_label">"কাশ"</string>
+<string name="controls_label">"কন্ত্রোলশীং"</string>
+<string name="force_stop">"শাফু লেপ্পা"</string>
+<string name="total_size_label">"অপুনবা"</string>
+<string name="application_size_label">"এপ"</string>
+<string name="external_code_size_label">"USB স্টোরেজ এপ"</string>
+<string name="data_size_label">"দাতা"</string>
+<string name="external_data_size_label" product="nosdcard">"USB স্টোরেজ দাতা"</string>
+<string name="external_data_size_label" product="default">"SD কার্দ"</string>
+<string name="uninstall_text">"ইনস্টোল তৌবা লৌথোকউ"</string>
+<string name="uninstall_all_users_text">"য়ুজরশীং লোইনমক্কি ইনস্টোল তৌবা তোকউ"</string>
+<string name="install_text">"ইনস্টোল তৌ"</string>
+<string name="disable_text">"য়াহনগনু"</string>
+<string name="enable_text">"য়াহল্লু"</string>
+<string name="clear_user_data_text">"দাতা লৈহল্লগনু"</string>
+<string name="app_factory_reset">"অপদেতশীং ইনস্টোল তৌবা তোকউ"</string>
+<string name="auto_launch_enable_text">"এক্সনশীং খরগী দিফাওল্টনা নহাক এপ অসি লোনচ তৌগে হায়না খনখি."</string>
+<string name="always_allow_bind_appwidgets_text">"এপ অসিনা ৱিদজেতশীং শানবা অমসুং মখোয়গী দাতা চংবা য়ানবা নহাক খনখি."</string>
+<string name="auto_launch_disable_text">"দিফাওল্টশীং সেট তৌদে."</string>
+<string name="clear_activities">"দিফাওল্টশীং ক্লিয়র তৌ"</string>
+<string name="screen_compatibility_text">"এপ অসি নহাক্কি স্ক্রীনগীদমক দিজাইন তৌদবা য়াই. মদুনা মফম অসিদা নহাক্কি স্ক্রীন্দা করম্না চুননবা তৌই হায়বা নহাক কন্ত্রোল তৌবা য়াই."</string>
+<string name="ask_compatibility">"লোনচ তৌবা মতমদা হংঙু"</string>
+<string name="enable_compatibility">"স্কেল এপ"</string>
+<string name="unknown">"মশক খঙদবা"</string>
+<string name="sort_order_alpha">"মমিংগী মতুং ইন্না শিল্লু"</string>
+<string name="sort_order_size">"চাওবা-পিকপগী মতুং ইন্না শেম শাও"</string>
+<string name="show_running_services">"রন তৌরিবা সার্ভিসশীং উৎলু"</string>
+<string name="show_background_processes">"কাশ প্রোসেসশীং উৎলু"</string>
+<string name="reset_app_preferences">"এপ হেন্না পাম্বশীং হন্না সেট তৌ"</string>
+<string name="reset_app_preferences_title">"এপ হেন্না পাম্বশীং হন্না সেট তৌগদ্রা?"</string>
+<string name="reset_app_preferences_desc">"মসিনা হেন্না পাম্বশীং লোইনা হন্না সেট তৌগনি গী:\n\n <li>য়াহন্দবা এপশীং</li>\n <li>য়াহন্দবা এপ নোটিফিকেসনশীং</li>\n <li>এক্সনশীংগী দিফাওল্ট এপ্লিকেসনশীং</li>\n <li>এপশীংগী বেকগ্রাওন্দগী দাতাদা অতিংবা পীবশীং</li>\n <li>অয়াবা পীবগী অথিংবশীং</li>\n\n নহাক এপ দাতা অমত্তা মাংলোই."</string>
+<string name="reset_app_preferences_button">"এপশীং হন্না সেট তৌ"</string>
+<string name="manage_space_text">"স্পেস মেনেজ তৌ"</string>
+<string name="filter">"ফিল্টর"</string>
+<string name="filter_dlg_title">"ফিল্টর ওপসনশীং খল্লু"</string>
+<string name="filter_apps_all">"লোইনমক"</string>
+<string name="filter_apps_disabled">"য়াহন্দে"</string>
+<string name="filter_apps_third_party">"দাওনলোদ তৌরে"</string>
+<string name="filter_apps_running">"রন তৌরি"</string>
+<string name="filter_apps_onsdcard" product="nosdcard">"USB স্টোরেজ"</string>
+<string name="filter_apps_onsdcard" product="default">"SD কার্দতা"</string>
+<string name="disabled">"য়াহন্দে"</string>
+<string name="not_installed">"ইনস্টোল তৌদে"</string>
+<string name="no_applications">"এপশীং লৈতে."</string>
+<string name="internal_storage">"মনুংগী স্টোরেজ"</string>
+<string name="sd_card_storage" product="nosdcard">"USB স্টোরেজ"</string>
+<string name="sd_card_storage" product="default">"SD কার্দ স্টোরেজ"</string>
+<string name="recompute_size">"চাওবা পিকপা হন্না হোৎলি..."</string>
+<string name="clear_data_dlg_title">"এপ দাতা মুথৎকদ্রা?"</string>
+<string name="clear_data_dlg_text">"এপ অসিগী দাতা লোইনমক মতম চুপ্পগী মুথৎখ্রগনি. মসিদা ফাইলশীং, সেটিংশীং, একাওন্টশীং, দাতাবেজশীং, অসিনচিংবা লোইনমক য়াওই."</string>
+<string name="dlg_ok">"ওকে"</string>
+<string name="dlg_cancel">"ককথৎলু"</string>
+<string name="app_not_found_dlg_text">"এপ অদু ইনস্টোল তৌবা এপশীংগী লিস্টতা ফংদে."</string>
+<string name="clear_data_failed">"এপ দাতা ক্লিয়র তৌবা য়াদে."</string>
+<string name="app_factory_reset_dlg_title">"অপদেতশীং ইনস্টোল তৌবা তোক্কদ্রা?"</string>
+<string name="app_factory_reset_dlg_text">"MocorDroid সিস্টেম এপ অসিদা য়াওবা অপদেতশীং লোইনমক ইনস্টোল তৌবদগী লৌথোক্লগনি."</string>
+<string name="clear_failed_dlg_title">"দাতা লৈহল্লগনু"</string>
+<string name="clear_failed_dlg_text">"এপকি দাতা ক্লিয়র তৌবা ঙমদে."</string>
+<string name="security_settings_desc" product="tablet">"এপ অসিনা নহাক্কি টেব্লেততা মখাগী অদু এক্সেস তৌবা ঙম্মি:"</string>
+<string name="security_settings_desc" product="default">"এপ অসিনা নহাক্কি ফোনদা মখাগী অদু এক্সেস তৌবা ঙম্মি:"</string>
+<string name="security_settings_desc_multi" product="tablet">"এপ অসিনা নহাক্কি টেব্লেততা মখাগী অদু এক্সেস তৌবা ঙম্মি. থবক পাংথোকপা ফগৎহন্নবা অমসুং মেমোরি শীজিন্নবা হন্থনবা, মসিগী অয়াবা পীবশীং খরা ফংই দা <xliff:g id="base_app_name">%1$s</xliff:g> মরমদি মদুনা চপ মান্নবা প্রোসেস অদু রন তৌই গুম্না <xliff:g id="additional_apps_list">%2$s</xliff:g>:"</string>
+<string name="security_settings_desc_multi" product="default">"এপ অসিনা নহাক্কি ফোনদা মখাগী অদু এক্সেস তৌবা ঙম্মি. থবক পাংথোকপা ফগৎহন্নবা অমসুং মেমোরি শীজিন্নবা হন্থনবা, মসিগী অয়াবা পীবশীং খরা ফংই দা <xliff:g id="base_app_name">%1$s</xliff:g> মরমদি মদুনা চপ মান্নবা প্রোসেস অদু রন তৌই গুম্না <xliff:g id="additional_apps_list">%2$s</xliff:g>:"</string>
+<string name="join_two_items">"<xliff:g id="first_item">%1$s</xliff:g> অমসুং<xliff:g id="second_item">%2$s</xliff:g>"</string>
+<string name="join_many_items_last">"<xliff:g id="all_but_last_item">%1$s</xliff:g> অমসুং<xliff:g id="last_item">%2$s</xliff:g>"</string>
+<string name="join_many_items_first">"<xliff:g id="first_item">%1$s</xliff:g>, <xliff:g id="all_but_first_and_last_item">%2$s</xliff:g>"</string>
+<string name="join_many_items_middle">"<xliff:g id="added_item">%1$s</xliff:g>, <xliff:g id="rest_of_items">%2$s</xliff:g>"</string>
+<string name="security_settings_billing_desc">"এপ অসিনা নহাকপু পৈশা চার্জ তৌবা য়াই:"</string>
+<string name="security_settings_premium_sms_desc">"প্রিমিয়ম SMS থাও"</string>
+<string name="computing_size">"হোৎলি..."</string>
+<string name="invalid_size_value">"পেকেজগী চাওবা পিকপা হোৎপা ঙমদে."</string>
+<string name="empty_list_msg">"নহাক্কি অহুমশুবা-পার্তিগী এপশীং ইনস্টোল তৌবা অমত্তা লৈতে."</string>
+<string name="version_text">"ভর্সন <xliff:g id="version_num">%1$s</xliff:g>"</string>
+<string name="move_app">"লেংঙু"</string>
+<string name="move_app_to_internal" product="tablet">"টেব্লেততা লেংঙু"</string>
+<string name="move_app_to_internal" product="default">"ফোনদা লেংঙু"</string>
+<string name="move_app_to_sdcard" product="nosdcard">"USB স্টোরেজদা লেংঙু"</string>
+<string name="move_app_to_sdcard" product="default">"SD কার্দতা চৎহল্লু"</string>
+<string name="moving">"লেংঙি"</string>
+<string name="insufficient_storage">"স্টোরেজ স্পেস মতিক চাদে."</string>
+<string name="does_not_exist">"এপ লৈতে."</string>
+<string name="app_forward_locked">"এপ অসি কোপি তৌবা-য়াহন্দনবা তৌই."</string>
+<string name="invalid_location">"ইনস্টোল তৌবা মফম অদু চৎনদে."</string>
+<string name="system_package">"সিস্টেম অুদেতশীং মপানগী মেদিয়াদা ইনস্টোল তৌবা য়াদে."</string>
+<string name="force_stop_dlg_title">"শাফুনা লেপহনগদ্রা?"</string>
+<string name="force_stop_dlg_text">"নহাক এপ অমা শাফুনা লেপহল্লবা, মদু কাতু-কারন তৌরকপা য়াই."</string>
+<string name="move_app_failed_dlg_text">"এপ লেংবা ঙমদে. <xliff:g id="reason">%1$s</xliff:g>"</string>
+<string name="app_install_location_title">"হেন্না পাম্বা ইনস্টোল তৌবা মফম"</string>
+<string name="app_install_location_summary">"অনৌবা এপশীংগী হেন্না পাম্বা ইনস্টোল তৌবা মফম অদু হোংঙু"</string>
+<string name="app_disable_dlg_title">"বিল্ট-ইন এপ য়াহনগদ্রা?"</string>
+<string name="app_disable_dlg_text">"নহাক বিল্ট-ইন এপ অমা য়াহন্দ্রবা, অতোপ্পা এপশীং কাতু-কারন তৌরকপা য়াই."</string>
+<string name="app_special_disable_dlg_title">"দাতা মুথৎকদ্রা অমসুং এপ য়াহল্লোইদ্রা?"</string>
+<string name="app_special_disable_dlg_text">"নহাক বিল্ট-ইন এপ অমা য়াহন্দ্রবা, অতোপ্পা এপশীং কাতু-কারন তৌরকপা য়াই. নহাক্কি দাতাসু মুথৎখিগনি."</string>
+<string name="app_disable_notifications_dlg_title">"নোটিফিকেসনশীং মুথৎকদ্রা?"</string>
+<string name="app_disable_notifications_dlg_text">"নহাক এপ অসিগী নোটিফিকেসনশীং মুথৎলবা, নহাক মরু ওইবা এলর্টশীং অমসুং অপদেতশীং থেংনহৌদবা য়াই. "</string>
+<string name="app_ops_settings">"এপ ওপস"</string>
+<string name="app_ops_running">"রন তৌরি"</string>
+<string name="app_ops_never_used">"(কৈদৌঙৈদা শীজিন্নখিদে)"</string>
+<string name="storageuse_settings_title">"স্টোরেজ শীজিন্নবা"</string>
+<string name="storageuse_settings_summary">"এপশীংনা শীজিন্নবা স্টোরেজ য়েংঙু"</string>
+<string name="runningservices_settings_title">"রন তৌরিবা সার্ভিসশীং"</string>
+<string name="runningservices_settings_summary">"হৌজিক রন তৌরিবা সার্ভিসশীং য়েংঙু অমসুং কন্ত্রোল তৌ"</string>
+<string name="service_restarting">"হন্না স্টার্ট তৌরি"</string>
+<string name="cached">"কাশ বেকগ্রাওন্দ প্রোসেস"</string>
+<string name="no_running_services">"করিমত্তা রন তৌদে."</string>
+<string name="service_started_by_app">"এপনা হৌরে."</string>
+<string name="service_background_processes">"<xliff:g id="memory">%1$s</xliff:g> লেম্না"</string>
+<string name="service_foreground_processes">"<xliff:g id="memory">%1$s</xliff:g> শীজিন্নরে"</string>
+<string name="running_process_item_user_label">"য়ুজর: <xliff:g id="user_name">%1$s</xliff:g>"</string>
+<string name="running_process_item_removed_user_label">"য়ুজর লৌথোক্লে"</string>
+<string name="running_processes_item_description_s_s">"<xliff:g id="numprocess">%1$d</xliff:g>প্রোসেস অমসুং<xliff:g id="numservices">%2$d</xliff:g> সার্ভিস"</string>
+<string name="running_processes_item_description_s_p">"<xliff:g id="numprocess">%1$d</xliff:g>প্রোসেস অমসুং<xliff:g id="numservices">%2$d</xliff:g> সার্ভিসশীং"</string>
+<string name="running_processes_item_description_p_s">"<xliff:g id="numprocess">%1$d</xliff:g>প্রোসেসশীং অমসুং<xliff:g id="numservices">%2$d</xliff:g> সার্ভিস"</string>
+<string name="running_processes_item_description_p_p">"<xliff:g id="numprocess">%1$d</xliff:g>প্রোসেসশীং অমসুং<xliff:g id="numservices">%2$d</xliff:g> সার্ভিসশীং"</string>
+<string name="runningservicedetails_settings_title">"এপ রন তৌরি"</string>
+<string name="no_services">"এক্টিব ওইদে"</string>
+<string name="runningservicedetails_services_title">"সার্ভিসশীং"</string>
+<string name="runningservicedetails_processes_title">"প্রোসেসশীং"</string>
+<string name="service_stop">"লেপ্পু"</string>
+<string name="service_manage">"সেটিংশীং"</string>
+<string name="service_stop_description">"সার্ভিস অসি মদুগী এপনা হৌখিবনি. মদু লেপ্পনা এপ অদু য়াহন্দবা থোকহনবা য়াই."</string>
+<string name="heavy_weight_stop_description">"এপ অসি তেক্ত-কায়দনা লেপহনবা ঙমদ্রে. নহাক মদু লেপহল্লবদি, নহাক নহাক্কি হৌজিক্কি থবক খরা মাংবা য়াই."</string>
+<string name="background_process_stop_description">"মদু অমুক হন্না দরকার ওইবা থোক্লবদি হৌজিক ফাওবা রন তৌরিবা অরিবা এপ প্রোসেস অমনি. মহৌশানা মদু লেপহনবগী মরম লৈতে."</string>
+<string name="service_manage_description">"<xliff:g id="client_name">%1$s</xliff:g>:হৌজিক শীজিন্নরি. মদু কন্ত্রোল তৌনবা সেটিংশীং শোকউ."</string>
+<string name="main_running_process_description">"মরু ওইবা প্রোসেস শীজিন্নরি."</string>
+<string name="process_service_in_use_description">"সার্ভিস <xliff:g id="comp_name">%1$s</xliff:g>শীজিন্নরি."</string>
+<string name="process_provider_in_use_description">"প্রোভাইদর <xliff:g id="comp_name">%1$s</xliff:g>শীজিন্নরি."</string>
+<string name="runningservicedetails_stop_dlg_title">"সিস্টেম সার্ভিস লেপকদ্রা?"</string>
+<string name="runningservicedetails_stop_dlg_text" product="tablet">"নহাক সার্ভিস অসি লেপ্লবদি, নহাক্কি টেব্লেতকি ফিচরশীং খরা চুম্না থবক তৌবা লেপখিবা য়াই, নহাক্না মদুগী পাৱর মুথৎলবা অমসুং অদুদগী অমুক হন্না থাবা তৌদ্রিবা ফাওবা."</string>
+<string name="runningservicedetails_stop_dlg_text" product="default">"নহাক সার্ভিস অসি লেপ্লবদি, নহাক্কি ফোনগী ফিচরশীং খরা চুম্না থবক তৌবা লেপখিবা য়াই, নহাক্না মদুগী পাৱর মুথৎলবা অমসুং অদুদগী অমুক হন্না থাবা তৌদ্রিবা ফাওবা."</string>
+<string name="language_settings">"লোন &amp; ইনপুত"</string>
+<string name="language_keyboard_settings_title">"লোন &amp; ইনপুত"</string>
+<string name="language_settings_category">"লোনগী সেটিংশীং"</string>
+<string name="keyboard_settings_category">"কীবোর্দ &amp; ইনপুত মেথোদশীং"</string>
+<string name="phone_language">"লোন"</string>
+<string name="auto_replace">"মশা মথন্তা-মহুৎ শিল্লু"</string>
+<string name="auto_replace_summary">"অচুম্বা লান্ননা টাইপ তৌবা ৱাহৈশীং"</string>
+<string name="auto_caps">"মশা মথন্তা-ময়েক অচৌবা শেমজবা"</string>
+<string name="auto_caps_summary">"ৱাহৈ পরেংশীংগী অহানবা ময়েক অচৌবা ওইহল্লু"</string>
+<string name="auto_punctuate">"মশা মথন্তা-পঙ্কচুৱেসন তৌহল্লু"</string>
+<string name="hardkeyboard_category">"ফিজিকেল কীবোর্দ সেটিংশীং"</string>
+<string name="auto_punctuate_summary">"থিংজিন্নবা স্পেস কী অনিরক নম্মু \u0022.\u0022"</string>
+<string name="show_password">"পাসৱার্দশীং উহল্লু"</string>
+<string name="ime_security_warning">"ইনপুত মেথোদ অসি নহাক্না টাইপ তৌবা টেকস্ট লোইনমক খোমজিনবা ঙম্বা য়াই, পাসৱার্দশীং অমসুং ক্রেদিত কার্দ নম্বরশীং গুম্বা নশাগী দাতা য়াওনা. মদু এপ অদুদগী লাকই <xliff:g id="ime_application_name">%1$s</xliff:g>. ইনপুত মেথোদ অসি শীজিন্নগদ্রা?"</string>
+<string name="spellchecker_security_warning">"বনান চেক তৌনবা অসি নহাক্না টাইপ তৌবা টেকস্ট লোইনমক খোমজিনবা ঙম্বা য়াই, পাসৱার্দশীং অমসুং ক্রেদিত কার্দ নম্বরশীং গুম্বা নশাগী দাতা য়াওনা. মদু এপ অদুদগী লাকই <xliff:g id="spellchecker_application_name">%1$s</xliff:g>. বনান তৌনবা অসি শীজিন্নগদ্রা?"</string>
+<string name="spellchecker_quick_settings">"সেটিংশীং"</string>
+<string name="spellchecker_language">"লোন"</string>
+<string name="failed_to_open_app_settings_toast">"সেটিংশীং হাংদোকপা মায় পাক্তে গী <xliff:g id="spell_application_name">%1$s</xliff:g>"</string>
+<string name="pointer_settings_category">"মাওজ/ত্রেকপেদ"</string>
+<string name="pointer_speed">"পোইন্টর স্পীদ"</string>
+<string name="game_controller_settings_category">"গেম কন্ত্রোলর"</string>
+<string name="vibrate_input_devices">"ভাইব্রেতর শীজিন্নৌ"</string>
+<string name="vibrate_input_devices_summary">"শম্নবা মতমদা ভাইব্রেতর অদু গেম কন্ত্রোলরদা হন্না মায়কৈ তাকউ."</string>
+<string name="keyboard_layout_dialog_title">"কীবোর্দ লেআওত খল্লু"</string>
+<string name="keyboard_layout_dialog_setup_button">"কীবোর্দ লেআওতশীং সেট অপ তৌ"</string>
+<string name="keyboard_layout_dialog_switch_hint">"ওন্নবা, Control-স্পেসবার নম্মু"</string>
+<string name="keyboard_layout_default_label">"দিফাওল্ট"</string>
+<string name="keyboard_layout_picker_title">"কীবোর্দ লেআওতশীং"</string>
+<string name="user_dict_settings_title">"ইশাগী দিক্সনরি"</string>
+<string name="user_dict_settings_add_menu_title">"হাপচিল্লু"</string>
+<string name="user_dict_settings_add_dialog_title">"দিক্সনরিদা হাপচিল্লু"</string>
+<string name="user_dict_settings_add_screen_title">"ফ্রেজ"</string>
+<string name="user_dict_settings_add_dialog_more_options">"ওপসনশীং হেন্না"</string>
+<string name="user_dict_settings_add_dialog_less_options">"হন্থবা ওপসনশীং"</string>
+<string name="user_dict_settings_add_dialog_confirm">"ওকে"</string>
+<string name="user_dict_settings_add_word_option_name">"ৱাহৈ:"</string>
+<string name="user_dict_settings_add_shortcut_option_name">"সোর্তকত:"</string>
+<string name="user_dict_settings_add_locale_option_name">"লোন:"</string>
+<string name="user_dict_settings_add_word_hint">"ৱাহৈ অমা টাইপ তৌ"</string>
+<string name="user_dict_settings_add_shortcut_hint">"ওপস্নেল সোর্তকত"</string>
+<string name="user_dict_settings_edit_dialog_title">"ৱাহৈ এদিত তৌ"</string>
+<string name="user_dict_settings_context_menu_edit_title">"এদিট"</string>
+<string name="user_dict_settings_context_menu_delete_title">"মুথৎলু"</string>
+<string name="user_dict_settings_empty_text">"য়ুজর দিক্সনরি অদুদা নহাক ৱাহৈ অমত্তা লৈতে. এদ (+) বট্টন অদু শোক্তুনা ৱাহৈ অমা হাপচিল্লু."</string>
+<string name="user_dict_settings_all_languages">"লোনশীং লোইনমক্কি"</string>
+<string name="user_dict_settings_more_languages">"লোনশীং হেন্না…"</string>
+<string name="testing">"চাংয়েং তৌরি"</string>
+<string name="testing_phone_info" product="tablet">"টেব্লেতকি পাও"</string>
+<string name="testing_phone_info" product="default">"ফোনগী পাও"</string>
+<string name="testing_battery_info">"বেট্টরিগী পাও"</string>
+<string name="quick_launch_title">"থুনা লোনচ তৌবা"</string>
+<string name="quick_launch_summary">"এপশীং লোনচ তৌনবা কীবোর্দ সোর্তকতশীং সেট তৌ"</string>
+<string name="quick_launch_assign_application">"এপ এসাইন তৌ"</string>
+<string name="quick_launch_no_shortcut">"সোর্তকত লৈতে"</string>
+<string name="quick_launch_shortcut">"থিয়ু + <xliff:g id="shortcut_letter">%1$s</xliff:g>"</string>
+<string name="quick_launch_clear_dialog_title">"ক্লিয়র তৌ"</string>
+<string name="quick_launch_clear_dialog_message">"নহাক্কি সোর্তকত গী <xliff:g id="shortcut_letter">%1$s</xliff:g> (<xliff:g id="application_name">%2$s</xliff:g>) ক্লিয়র তৌরগনি."</string>
+<string name="quick_launch_clear_ok_button">"ওকে"</string>
+<string name="quick_launch_clear_cancel_button">"ককথৎলু"</string>
+<string name="quick_launch_display_mode_applications">"এপশীং"</string>
+<string name="quick_launch_display_mode_shortcuts">"সোর্টকতশীং"</string>
+<string name="input_methods_settings_title">"টেকস্ট ইনপুত"</string>
+<string name="input_method">"ইনপুত মেথোদ"</string>
+<string name="current_input_method">"দিফাওল্ট"</string>
+<string name="input_method_selector">"ইনপুত মেথোদ খন্নবা"</string>
+<string name="input_method_selector_show_automatically_title">"মশা মথন্তা"</string>
+<string name="input_method_selector_always_show_title">"মতমচুপ্পদা উৎলু"</string>
+<string name="input_method_selector_always_hide_title">"মতম চুপ্পদা লোৎলু"</string>
+<string name="configure_input_method">"ইনপুত মেথোদশীং সেট অপ তৌ"</string>
+<string name="input_method_settings">"সেটিংশীং"</string>
+<string name="input_method_settings_button">"সেটিংশীং"</string>
+<string name="active_input_method_subtypes">"এক্টিব ইনপুত মেথোদশীং"</string>
+<string name="use_system_language_to_select_input_method_subtypes">"সিস্টেম লোন শীজিন্নৌ"</string>
+<string name="input_methods_settings_label_format">"<xliff:g id="ime_name">%1$s</xliff:g> সেটিংশীং"</string>
+<string name="input_methods_and_subtype_enabler_title">"এক্টিব ওইবা ইনপুত মেথোদশীং খল্লু"</string>
+<string name="onscreen_keyboard_settings_summary">"ওনস্ক্রীন কীবোর্দ সেটিংশীং"</string>
+<string name="builtin_keyboard_settings_title">"ফিজিকেল কীবোর্দ"</string>
+<string name="builtin_keyboard_settings_summary">"ফিজিকেল কীবোর্দ সেটিংশীং"</string>
+<string name="development_settings_title">"দিব্লপরগী ওপসনশীং"</string>
+<string name="development_settings_summary">"এপ দিব্লপমেন্টগী ওপসনশীং সেট তৌ"</string>
+<string name="development_settings_not_available">"দিব্লপর ওপসনশীং য়ুজর অসিগী ফংদে"</string>
+<string name="enable_adb">"USB দিবগ তৌরি"</string>
+<string name="enable_adb_summary">"USB শম্নবা মতমদা দিবগ মোদ"</string>
+<string name="clear_adb_keys">"USB দিবগ তৌবগী ওথোরাইজেসনশীং ককথৎলু"</string>
+<string name="bugreport_in_power">"পাৱর মেনু বগ রিপোর্টশীং"</string>
+<string name="bugreport_in_power_summary">"বগ রিপোর্ট অমা লৌবগী পাৱর মেনুদা ওপসন য়াওহল্লু"</string>
+<string name="keep_screen_on">"হৌগৎলগা লৈয়ু"</string>
+<string name="keep_screen_on_summary">"চার্জ তৌরিঙৈদা স্ক্রীন কৈদৌঙৈদা তুম্লোই"</string>
+<string name="bt_hci_snoop_log">"ব্লুটুথ HCI স্নূপ লোগ য়াহল্লু"</string>
+<string name="bt_hci_snoop_log_summary">"ব্লুটুথ HCI পেকেতশীং লোইনমক ফাইল অমদা কেপচর তৌ"</string>
+<string name="select_runtime_title">"রন তৌবগী মতম খল্লু"</string>
+<string name="select_runtime_dialog_title">"রন তৌবগী মতম খল্লু"</string>
+<string name="select_runtime_warning_message">"রন তৌবা মতম হোংনবা রীবূত তৌ দগী <xliff:g id="old" example="libdvm.so">%1$s</xliff:g> দা <xliff:g id="new" example="libart.so">%2$s</xliff:g>?"</string>
+<string name="wifi_display_certification">"ৱায়রলেস দিসপ্লে সার্তিফিকেসন"</string>
+<string name="wifi_display_certification_summary">"ৱায়রলেস দিসপ্লে সার্তিফিকেসনগী ওপসনশীং উৎলু"</string>
+<string name="allow_mock_location">"মোক লোকেসনশীং য়াহল্লু"</string>
+<string name="allow_mock_location_summary">"মোক লোকেসনশীং য়াহল্লু"</string>
+<string name="adb_warning_title">"USB দিবগ তৌবা য়াহনগদ্রা?"</string>
+<string name="adb_warning_message">"USB দিবগ তৌবা অসি দিব্লপমেন্টকি মরমশীং খক্তংগীদমক্নি. মদু নহাক্কি কম্প্যুতর অমসুং নহাক্কি দিভাইসকি মরক্তা দাতা কোপি তৌনবা, নোটিফিকেসন য়াওদনা নহাক্কি দিভাইসতা এপশীং ইনস্টোল তৌনবা, অমসুং লোগ দাতা পানবা শীজিন্নৌ."</string>
+<string name="adb_keys_warning_message">"নহাক্না মমাংদা ওথোরাইজ তৌখিবা কম্প্যুতরশীং লোইনমক্তগী USB দিবগিং এক্সেস তৌবা য়াহনবা অদু ককথৎকদ্রা?"</string>
+<string name="dev_settings_warning_title">"দিব্লপমেন্ট সেটিংশীং য়াহনগদ্রা?"</string>
+<string name="dev_settings_warning_message">"সেটিংশীং অসি দিব্লপমেন্টকি শীজিন্ননবা খক্তংগীনি. মখোয়না নহাক্কি দিভাইস অমসুং মদুদা য়াওবা এপ্লিকেসনশীং কায়বা নত্ত্রগা কাতু কারন তৌবা থোকহনবা য়াই."</string>
+<string name="verify_apps_over_usb_title">"USB গী মথক্তা এপশীং ভেরিফাই তৌ"</string>
+<string name="verify_apps_over_usb_summary">"ADB/ADT ফাওনা ইনস্টোল তৌখিবা এপশীং অমাংবা লমচৎ-শাজৎকিদমক চেক তৌ."</string>
+<string name="enforce_read_external_title" product="nosdcard">"USB স্টোরেজ ঙাক-শেল্লু"</string>
+<string name="enforce_read_external_summary" product="nosdcard">"এপশীং USB স্টোরেজ রীদ তৌনবা অয়াবা পীনবা হায়জগদবনি"</string>
+<string name="enforce_read_external_confirm_title" product="nosdcard">"USB স্টোরেজ ঙাকশেনগদ্রা?"</string>
+<string name="enforce_read_external_confirm_message" product="nosdcard">"USB স্টোরেজ ঙাক শেনবা মতমদা, এপশীংনা মপানগী স্টোরেজদগী দাতা রীদ তৌনবা অয়াবা পীনবগীদমক হায়জগদবনি. \n\nএপশীং খরা মখোয়বু শাবশীংনা অপদেত তৌদ্রিবা ফাওবা থবক তৌদবা য়াই."</string>
+<string name="enforce_read_external_title" product="default">"SD কার্দ ঙাক শেল্লু"</string>
+<string name="enforce_read_external_summary" product="default">"এপশীংনা SD কার্দ রীদ তৌনবা অয়াবা পীনবগীদমক হায়জগদবনি"</string>
+<string name="enforce_read_external_confirm_title" product="default">"SD কার্দ ঙাক শেনগদ্রা?"</string>
+<string name="enforce_read_external_confirm_message" product="default">"SD কার্দ ঙাক শেনবা মতমদা, এপশীংনা মপানগী স্টোরেজদগী দাতা রীদ তৌনবা অয়াবা পীনবগীদমক হায়জগদবনি.\n\nএপশীং খরা মখোয়বু শাবশীংনা অপদেত তৌদ্রিবা ফাওবা থবক তৌদবা য়াই."</string>
+<string name="enable_terminal_title">"লম অদুগী টর্মিনেল"</string>
+<string name="enable_terminal_summary">"লোকেল শেল এক্সেস পীবা টর্মিনেল এপ য়াহল্লু"</string>
+<string name="gadget_picker_title">"গেদজেত খল্লু"</string>
+<string name="widget_picker_title">"ৱিদজেত খল্লু"</string>
+<string name="allow_bind_app_widget_activity_allow_bind_title">"ৱিদজেত শাগদ্রা অমসুং চংবা য়াহনগদ্রা?"</string>
+<string name="allow_bind_app_widget_activity_allow_bind">"নহাক ৱিদজেত শারবা মতুংদা, <xliff:g id="widget_host_name">%1$s</xliff:g> মদুনা উৎপা দাতা লোইনমক চংবা ঙম্মি."</string>
+<string name="allow_bind_app_widget_activity_always_allow_bind">"মতম চুপ্পদা য়াহল্লু <xliff:g id="widget_host_name">%1$s</xliff:g> ৱিদজেতশীং শানবা অমসুং মখোয়গী দাতা চংনবা"</string>
+<string name="battery_history_days">"<xliff:g id="days">%1$d</xliff:g>d <xliff:g id="hours">%2$d</xliff:g>h <xliff:g id="minutes">%3$d</xliff:g>m <xliff:g id="seconds">%4$d</xliff:g>s"</string>
+<string name="battery_history_hours">"<xliff:g id="hours">%1$d</xliff:g>h <xliff:g id="minutes">%2$d</xliff:g>m <xliff:g id="seconds">%3$d</xliff:g>s"</string>
+<string name="battery_history_minutes">"<xliff:g id="minutes">%1$d</xliff:g>m <xliff:g id="seconds">%2$d</xliff:g>s"</string>
+<string name="battery_history_seconds">"<xliff:g id="seconds">%1$d</xliff:g>s"</string>
+<string name="battery_history_days_no_seconds">"<xliff:g id="days">%1$d</xliff:g>d <xliff:g id="hours">%2$d</xliff:g>h <xliff:g id="minutes">%3$d</xliff:g>m"</string>
+<string name="battery_history_hours_no_seconds">"<xliff:g id="hours">%1$d</xliff:g>h <xliff:g id="minutes">%2$d</xliff:g>m"</string>
+<string name="battery_history_minutes_no_seconds">"<xliff:g id="minutes">%1$d</xliff:g>m"</string>
+<string name="usage_stats_label">"শীজিন্নবগী স্টেটিস্টিক্স"</string>
+<string name="testing_usage_stats">"শীজিন্নবগী স্টেটিস্টিক্স"</string>
+<string name="display_order_text">"শেম শাবা না:"</string>
+<string name="app_name_label">"এপ"</string>
+<string name="launch_count_label">"মশীং থীয়ু"</string>
+<string name="usage_time_label">"শীজিন্নবা মতম"</string>
+<string name="accessibility_settings">"চংবা য়াবা"</string>
+<string name="accessibility_settings_title">"চংবা য়াবগী সেটিংশীং"</string>
+<string name="accessibility_services_title">"সার্ভিসশীং"</string>
+<string name="accessibility_system_title">"সিস্টেম"</string>
+<string name="accessibility_captioning_title">"কেপসনশীং"</string>
+<string name="accessibility_screen_magnification_title">"চাওথোকপগী ঈঙ্গিৎশীং"</string>
+<string name="accessibility_screen_magnification_summary">"ফিচর অসি থাবা মতমদা, নহাক স্ক্রীন অদু অহুমলক টেপ তৌরগা জুম ইন অমসুং আওট তৌবা য়াগনি.\n\nজুম ইন তৌবা মতমদা, নহাক তৌবা য়াই:\n<ul><li>পেন: স্ক্রীন অদু ফাওনা খুৎশা অনি নত্ত্রগা হেনবনা চিংবা.</li>\n<li>জুমগী থাক চানহল্লু: খুৎশা অনি নত্ত্রগা হেনবা পুন্না চপশিন্নৌ নত্ত্রগা মখোয় লাপ্না ফাক্তোক্নৌ.</li></ul>\n\nনহাক নহাক্কি খুৎশাগী মখাদা লৈবা অদু অহুমলক টেপ তৌরগা অমসুং পায়দুনা থম্লগা মতম খরগী চাওথোকহনবসু য়াই. মসিগী চাওথোক্লবা ফিভম অসিদা, নহাক স্ক্রীনগী তোঙান তোঙানবা শরুকশীং থিজিন্নবা নহাক্কি খুৎশা চিংবা য়াই. নহাক্কি মমাংগী ফিভমদা হল্লক্নবা নহাক্কি খুৎশা থাঙ্গৎলু.\n\nখঙজিনগদবা: চাওথোক্নবগী অহুমলক টেপ তৌবা অদু মফম খুদিংমক্তা থবক পানগনি কীবোর্দ নত্ত্রগা নেভিগেসন বার নত্তনা."</string>
+<string name="accessibility_global_gesture_preference_title">"চংবা য়াবগী সোর্তকত"</string>
+<string name="accessibility_global_gesture_preference_summary_on">"ওন"</string>
+<string name="accessibility_global_gesture_preference_summary_off">"ওফ"</string>
+<string name="accessibility_global_gesture_preference_description">"ফিচর অসি থাবা মতমদা, নহাক চংবা য়াবগী ফিচরশীং থুনা খোঙথাং অনিদা য়াহনবা য়াই:\n\nখোঙথাং 1: পাৱর বট্টন অদু নম্মু অমসুং পায়দুনা থম্মু নহাক মখোল অমা তাদ্রিবা ফাওবা নত্ত্রগা ভাইব্রেসন অমা ফাওদ্রিবা ফাওবা.\n\nখোঙথাং 2: খুৎশা অনি শোক্নৌ অমসুং পায়দুনা থম্মু নহাক ওদিও কনফার্মেসন তাদ্রিবা ফাওবা.\n\nদিভাইস অদুগী য়ুজরশীং মশীং য়াম্না লৈরবা, লোক স্ক্রীন অদুদা সোর্তকত অসি শীজিন্নবনা মতম খরগী চংবা য়াহল্লি দিভাইস অদু শো হাংদ্রিবা ফাওবা."</string>
+<string name="accessibility_toggle_large_text_preference_title">"য়াম্না চাওবা টেকস্ট"</string>
+<string name="accessibility_toggle_screen_magnification_preference_title">"স্ক্রীন চাওথোকপা"</string>
+<string name="accessibility_toggle_screen_magnification_auto_update_preference_title">"স্ক্রীন চাওথোকপা মশা মথন্তা অপদেত তৌ"</string>
+<string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">"এপ ত্রানজিসনশীংদা স্ক্রীন চাওথোকপা অপদেত তৌ"</string>
+<string name="accessibility_power_button_ends_call_prerefence_title">"পাৱর বট্টন না কোল লোইহল্লি"</string>
+<string name="accessibility_toggle_speak_password_preference_title">"পাসৱার্দশীং ৱা ঙাংঙু"</string>
+<string name="accessibility_long_press_timeout_preference_title">"শোকউ &amp; থেংথবা পায়য়ু"</string>
+<string name="accessibility_menu_item_settings">"সেটিংশীং"</string>
+<string name="accessibility_feature_state_on">"ওন"</string>
+<string name="accessibility_feature_state_off">"ওফ"</string>
+<string name="captioning_preview_title">"প্রিভ্যু"</string>
+<string name="captioning_standard_options_title">"স্টেন্দর্দ ওপসনশীং"</string>
+<string name="captioning_locale">"লোন"</string>
+<string name="captioning_text_size">"টেকস্ট চাওবা-পিকপা"</string>
+<string name="captioning_preset">"কেপ্সন স্টাইল"</string>
+<string name="captioning_custom_options_title">"কস্টম ওপসনশীং"</string>
+<string name="captioning_background_color">"বেকগ্রাওন্দ মচু"</string>
+<string name="captioning_background_opacity">"বেকগ্রাওন্দ ফাওনা উদবা"</string>
+<string name="captioning_foreground_color">"টেকস্ট মচু"</string>
+<string name="captioning_foreground_opacity">"টেকস্ট ফাওনা উদবা"</string>
+<string name="captioning_edge_color">"চিদাইগী মচু"</string>
+<string name="captioning_edge_type">"চিদাই মখল"</string>
+<string name="captioning_typeface">"ফোন্ট ইমুং"</string>
+<string name="captioning_preview_text">"কেপসনশীং মসিদুম্না উগনি"</string>
+<string name="locale_default">"দিফাওল্ট"</string>
+<string name="color_none">"অমত্তা লৈতে"</string>
+<string name="color_white">"অঙৌবা"</string>
+<string name="color_gray">"উৎ মচু"</string>
+<string name="color_black">"অমুবা"</string>
+<string name="color_red">"অঙাংবা"</string>
+<string name="color_green">"অশংবা"</string>
+<string name="color_blue">"হিগোক"</string>
+<string name="color_cyan">"হিগোক চংবা"</string>
+<string name="color_yellow">"নাপু মচু"</string>
+<string name="color_magenta">"ঙাংলৈনবা"</string>
+<string name="enable_service_title">"শীজিন্নৌ<xliff:g id="service" example="TalkBack">%1$s</xliff:g>?"</string>
+<string name="capabilities_list_title">"<xliff:g id="service" example="TalkBack">%1$s</xliff:g>দরকার ওই:"</string>
+<string name="capability_title_receiveAccessibilityEvents">"নহাক্কি এক্সনশীং য়েংঙু"</string>
+<string name="capability_desc_receiveAccessibilityEvents">"নহাক এপ অমগা ইন্টরেক্ট করম্বা মতমদা তৌগনি নোটিফিকেসনশীং ফংই."</string>
+<string name="disable_service_title">"লেপ্পু <xliff:g id="service" example="TalkBack">%1$s</xliff:g>?"</string>
+<string name="disable_service_message">"OK শোকপনা লেপকনি <xliff:g id="service" example="TalkBack">%1$s</xliff:g>."</string>
+<string name="accessibility_no_services_installed">"সার্ভিসশীং ইনস্টোল তৌদে"</string>
+<string name="accessibility_service_no_apps_title">"স্ক্রীন রীদর অমা দরকার ওইব্রা?"</string>
+<string name="accessibility_service_no_apps_message">"টোকবেকনা মীৎ তাংবা অমসুং মীৎ ফজনা উদবা য়ুজরশীং মতেং পাংনবা ৱা ওইনা ঙাংবা ফীদবেক পী. নহাক মদু MocorDroid মার্কেত তগী লেম্না ইনস্টোল তৌবা পাম্ব্রা?"</string>
+<string name="accessibility_service_default_description">"শন্দোক্না তাকপা পীদে."</string>
+<string name="settings_button">"সেটিংশীং"</string>
+<string name="print_settings">"প্রিন্ট তৌরি"</string>
+<string name="print_settings_title">"প্রিন্ট সার্ভিসশীং"</string>
+<string name="print_service_security_warning_title">"শীজিন্নৌ<xliff:g id="service" example="My Print Service">%1$s</xliff:g>?"</string>
+<string name="print_service_security_warning_summary">"নহাক্কি দোকুমেন্ট প্রিন্টর অদুদা চৎপগী লম্বীদা অমা নত্ত্রগা অমদগী হেনবা সার্ভরশীং ফাওবা য়াই."</string>
+<string name="print_no_services_installed">"সার্ভিস অমত্তা ইনস্টোল তৌদে."</string>
+<string name="print_no_printers_found">"প্রিন্টর অমত্তা ফংদে"</string>
+<string name="print_menu_item_settings">"সেটিংশীং"</string>
+<string name="print_menu_item_add_printers">"প্রিন্টরশীং হাপচিল্লু"</string>
+<string name="print_feature_state_on">"ওন"</string>
+<string name="print_feature_state_off">"ওফ"</string>
+<string name="print_menu_item_add_service">"সার্ভিস হাপচিল্লু"</string>
+<string name="print_menu_item_add_printer">"প্রিন্টর হাপচিল্লু"</string>
+<string name="print_menu_item_search">"থিবা"</string>
+<string name="print_searching_for_printers">"প্রিন্টরশীংগী থীরি"</string>
+<string name="print_service_disabled">"সার্ভিস য়াহন্দ্রে"</string>
+<string name="print_print_jobs">"থবকশীং প্রিন্ট তৌ"</string>
+<string name="print_print_job">"থবক প্রিন্ট তৌ"</string>
+<string name="print_restart">"হন্না স্টার্ট তৌ"</string>
+<string name="print_cancel">"ককথৎলু"</string>
+<string name="print_printing_state_title_template">"প্রিন্ট তৌরি <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g>"</string>
+<string name="print_cancelling_state_title_template">"ককথৎলি <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g>"</string>
+<string name="print_failed_state_title_template">"প্রিন্টরগী অশোয়বা <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g>"</string>
+<string name="print_blocked_state_title_template">"প্রিন্টর থিংখ্রে <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g>"</string>
+<string name="print_search_box_shown_utterance">"থিবগী বোক্স উৎলি"</string>
+<string name="print_search_box_hidden_utterance">"থিবগী বোক্স লোৎলি"</string>
+<plurals name="print_search_result_count_utterance">
+<item quantity="one">"<xliff:g id="count" example="1">%1$s</xliff:g> প্রিন্টর ফংলে"</item>
+<item quantity="other">"<xliff:g id="count" example="2">%1$s</xliff:g> প্রিন্টরশীং ফংলে"</item>
+</plurals>
+<string name="power_usage_summary_title">"বেট্টরি"</string>
+<string name="power_usage_summary">"করিনা বেট্টরি অদু শীজিন্নরি"</string>
+<string name="power_usage_not_available">"বেট্টরি শীজিন্নবগী দাতা ফংদে."</string>
+<string name="battery_since_unplugged">"অনপ্লগ তৌবদগী বেট্টরি শীজিন্নবা"</string>
+<string name="battery_since_reset">"হন্না সেট তৌবদগী বেট্টরি শীজিন্নবা"</string>
+<string name="battery_stats_on_battery">"<xliff:g id="time">%1$s</xliff:g> বেট্টরি দা"</string>
+<string name="battery_stats_duration">"<xliff:g id="time">%1$s</xliff:g> অনপ্লগ তৌবদগী"</string>
+<string name="battery_stats_charging_label">"চার্জ তৌরি"</string>
+<string name="battery_stats_screen_on_label">"স্ক্রীন থাও"</string>
+<string name="battery_stats_gps_on_label">"GPS থাও"</string>
+<string name="battery_stats_wifi_running_label">"Wi-Fi"</string>
+<string name="battery_stats_wake_lock_label">"হৌগৎলু"</string>
+<string name="battery_stats_phone_signal_label">"সেল্লুলর নেটৱার্ক সিগ্নেল"</string>
+<string name="awake">"দিভাইস হৌগৎপা মতম"</string>
+<string name="wifi_on_time">"Wi-Fi মতম চানা"</string>
+<string name="bluetooth_on_time">"Wi-Fi মতম চানা"</string>
+<string name="usage_name_percent">"<xliff:g id="name">%1$s</xliff:g>" - "<xliff:g id="number" example="30">%2$s</xliff:g><xliff:g id="percent" example="%">%%</xliff:g>"</string>
+<string name="history_details_title">"হিস্টরিগী অকুপ্পা ৱারোলশীং"</string>
+<string name="details_title">"অকুপ্পা ৱারোলশীং শীজিন্নৌ"</string>
+<string name="details_subtitle">"অকুপ্পা ৱারোলশীং শীজিন্নৌ"</string>
+<string name="controls_subtitle">"পাৱর শীজিন্নবা চানহল্লু"</string>
+<string name="packages_subtitle">"পেকেজশীং য়াওরে"</string>
+<string name="power_screen">"স্ক্রীন"</string>
+<string name="power_wifi">"Wi-Fi"</string>
+<string name="power_bluetooth">"ব্লুটুথ"</string>
+<string name="power_cell">"সেল স্টেন্দবাই"</string>
+<string name="power_phone">"ভোইস কোলশীং"</string>
+<string name="power_idle" product="tablet">"টেব্লেত শীজিন্নদনা লৈ"</string>
+<string name="power_idle" product="default">"ফোন শীজিন্নদনা লৈ"</string>
+<string name="usage_type_cpu">"CPU অপুনবা"</string>
+<string name="usage_type_cpu_foreground">"CPU ফোরগ্রাওন্দ"</string>
+<string name="usage_type_wake_lock">"হৌগৎতুনা লৈয়ু"</string>
+<string name="usage_type_wifi_running">"Wi-Fi রন তৌরি"</string>
+<string name="usage_type_phone" product="tablet">"টেব্লেত"</string>
+<string name="usage_type_phone" product="default">"ফোন"</string>
+<string name="usage_type_data_send">"মোবাইল দাতা থাখ্রে"</string>
+<string name="usage_type_data_recv">"মোবাইল দাতা ফংলে"</string>
+<string name="usage_type_data_wifi_send">"Wi\u2011Fi দাতা থাখ্রে"</string>
+<string name="usage_type_data_wifi_recv">"Wi\u2011Fi দাতা ফংলে"</string>
+<string name="usage_type_audio">"ওদিও"</string>
+<string name="usage_type_video">"ভিদিও"</string>
+<string name="usage_type_on_time">"টাইম ওন"</string>
+<string name="usage_type_no_coverage">"সিগ্নেল য়াওদনা মতম"</string>
+<string name="battery_action_stop">"শাফু লেপ্পা"</string>
+<string name="battery_action_app_details">"এপকি পাও"</string>
+<string name="battery_action_app_settings">"এপ সেটিংশীং"</string>
+<string name="battery_action_display">"স্ক্রীন সেটিংশীং"</string>
+<string name="battery_action_wifi">"Wi-Fi সেটিংশীং"</string>
+<string name="battery_action_bluetooth">"ব্লুটুথ সেটিংশীং"</string>
+<string name="battery_desc_voice">"ভোইস কোলশীংনা বেট্টরি শীজিন্নবা"</string>
+<string name="battery_desc_standby" product="tablet">"টেব্লেত শীজিন্নদনা লৈবা মতমদা বেট্টরি শীজিন্নবা"</string>
+<string name="battery_desc_standby" product="default">"ফোন শীজিন্নদনা লৈবা মতমদা বেট্টরি শীজিন্নবা"</string>
+<string name="battery_desc_radio">"সেল রেদিওনা শীজিন্নবা বেট্টরি"</string>
+<string name="battery_sugg_radio">"সেল কভরেজ লৈতবা এরিয়াশীংদা পাৱর সেব তৌনবা এয়রপ্লেন মোদতা ওল্লু"</string>
+<string name="battery_desc_display">"দিসপ্লে অমসুং বেকলাইট অদুনা শীজিন্নবা বেট্টরি"</string>
+<string name="battery_sugg_display">"স্ক্রীন লংখৎপা অমসুং/নত্ত্রগা স্ক্রীন টাইমআওট হন্থৌ"</string>
+<string name="battery_desc_wifi">"Wi-Fi না শীজিন্নবা বেট্টরি"</string>
+<string name="battery_sugg_wifi">"Wi-Fi অদু শীজিন্নদবা নত্ত্রগা ফংদবা মতমদা মুথৎলু"</string>
+<string name="battery_desc_bluetooth">"ব্লুটুথনা বেট্টরি শীজিন্নবা"</string>
+<string name="battery_sugg_bluetooth_basic">"ব্লুটুথ অদু নহাক্না শীজিন্নদবা মতমদা মুথৎলু"</string>
+<string name="battery_sugg_bluetooth_headset">"অতোপ্পা ব্লুটুথ দিভাইস অমা শম্নদুনা য়েংঙু"</string>
+<string name="battery_desc_apps">"এপনা শীজিন্নবা বেট্টরি"</string>
+<string name="battery_sugg_apps_info">"এপ অদু লেপ্পু নত্ত্রগা ইনস্টোল তৌবা তোকউ"</string>
+<string name="battery_sugg_apps_gps">"বেট্টরি-সেবিং মোদ খল্লু"</string>
+<string name="battery_sugg_apps_settings">"এপ অদুনা বেট্টরি শীজিন্নবা হন্থনবা সেটিংশীং পীবা য়াই"</string>
+<string name="battery_desc_users">"য়ুজরনা শীজিন্নবা বেট্টরি"</string>
+<string name="menu_stats_unplugged">"<xliff:g id="unplugged">%1$s</xliff:g> প্লগ তৌবা লৌথোকপদগী"</string>
+<string name="menu_stats_last_unplugged">"ইকোন কোনবা প্লগ তৌবা লৌথোকপা মতমদা <xliff:g id="unplugged">%1$s</xliff:g>"</string>
+<string name="menu_stats_total">"শীজিন্নবা অপুনবশীং"</string>
+<string name="menu_stats_refresh">"রিফ্রেশ তৌ"</string>
+<string name="process_mediaserver_label">"মেদিয়া সার্ভর"</string>
+<string name="process_stats_summary_title">"প্রোসেস স্টেটিস্টিক্স"</string>
+<string name="process_stats_summary">"রন তৌবগী প্রোসেসশীংগী মরমদা গীকি স্টেটিস্টিক্স"</string>
+<string name="app_memory_use">"মেমোরি শীজিন্নবা"</string>
+<string name="process_stats_total_duration">"<xliff:g id="type">%1$s</xliff:g> এপশীং লোইরে<xliff:g id="time">%2$s</xliff:g>"</string>
+<string name="process_stats_type_background">"বেকগ্রাওন্দ"</string>
+<string name="process_stats_type_foreground">"ফোরগ্রাওন্দ"</string>
+<string name="process_stats_type_cached">"কাশ তৌরে"</string>
+<string name="process_stats_memory_status">"দিভাইস মেমোরি অসি হৌজিক <xliff:g id="memstate">%1$s</xliff:g>"</string>
+<string name="process_stats_avg_ram_use">"এভরেজ RAM শীজিন্নৌ"</string>
+<string name="process_stats_max_ram_use">"খ্বাইদগী য়াম্বা RAM শীজিন্নবা"</string>
+<string name="process_stats_run_time">"রন তৌবা মতম"</string>
+<string name="services_subtitle">"সার্ভিসশীং"</string>
+<string name="menu_proc_stats_duration">"চংবা মতম"</string>
+<string name="menu_duration_3h">"পুং 3"</string>
+<string name="menu_duration_6h">"পুং 6"</string>
+<string name="menu_duration_12h">"পুং 12"</string>
+<string name="menu_duration_1d">"নুমিৎ 1"</string>
+<string name="menu_show_system">"সিস্টেম উৎলু"</string>
+<string name="menu_use_uss">"Uss শীজিন্নৌ"</string>
+<string name="menu_proc_stats_type">"স্টেটিস্টিক্স মখল"</string>
+<string name="menu_proc_stats_type_background">"বেকগ্রাওন্দ"</string>
+<string name="menu_proc_stats_type_foreground">"ফোরগ্রাওন্দ"</string>
+<string name="menu_proc_stats_type_cached">"কাশ তৌরে"</string>
+<string name="voice_input_output_settings">"ভোইস ইনপুত &amp; আওতপুত"</string>
+<string name="voice_input_output_settings_title">"ভোইস ইনপুত &amp; আওতপুত সেটিংশীং"</string>
+<string name="voice_search_settings_title">"খোনজেল থিবা"</string>
+<string name="keyboard_settings_title">"MocorDroid কীবোর্দ"</string>
+<string name="voice_category">"ৱা ঙাংবা"</string>
+<string name="recognizer_title">"খোনজেল মশক খঙনবা পোৎ"</string>
+<string name="recognizer_settings_title">"খোনজেল থিবা"</string>
+<string name="recognizer_settings_summary">"সেটিংশীং গী \'<xliff:g id="recognizer_name">%s</xliff:g>\'"</string>
+<string name="tts_settings">"টেকস্ট-তগী-স্পীচতা সেটিংশীং"</string>
+<string name="tts_settings_title">"টেকস্ট-তগী-স্পীচ আওতপুত"</string>
+<string name="use_default_tts_settings_title">"মতম চুপ্পদা ঐগী সেটিংশীং শীজিন্নৌ"</string>
+<string name="use_default_tts_settings_summary">"মখাগী দিফাওল্ট সেটিংশীংনা এপ সেটিংশীং মথক থংগনি"</string>
+<string name="tts_default_settings_section">"দিফাওল্ট সেটিংশীং"</string>
+<string name="tts_default_synth_title">"দিফাওল্ট ইনজিন"</string>
+<string name="tts_default_synth_summary">"ৱা ঙাংনবা টেকস্টকি শীজিন্ননবা স্পীচ সিন্থেসিস ইনজিন সেট তৌই"</string>
+<string name="tts_default_rate_title">"ৱা ঙাংবগী চাং"</string>
+<string name="tts_default_rate_summary">"টেকস্ট অদু ৱা ওইনা ঙাংবগী স্পীদ"</string>
+<string name="tts_default_pitch_title">"পিটচ"</string>
+<string name="tts_default_pitch_summary">"ৱা ওইনা ঙাংবা টেকস্টকি তোনদা শোকই"</string>
+<string name="tts_default_lang_title">"লোন"</string>
+<string name="tts_lang_not_selected">"লোন খন্দে"</string>
+<string name="tts_default_lang_summary">"ৱা ওইনা ঙাংবা টেকস্টকি তাংদাংবা লোনগী ভোইস সেট তৌই"</string>
+<string name="tts_play_example_title">"খুদম অমদা তাও"</string>
+<string name="tts_play_example_summary">"স্পীচ সিন্থেসিসকি অতেনবা খুদম তাকপা অমা প্লে তৌ</string>
+<string name="tts_install_data_title">"ভোইস দাতা ইনস্টোল তৌ"</string>
+<string name="tts_install_data_summary">"স্পীচ সিন্থেসিসকি দরকার ওইবা ভোইস দাতা অদু ইনস্টোল তৌ"</string>
+<string name="tts_data_installed_summary">"স্পীচ সিন্থেসিসকি দরকার ওইবা ভোইসশীং হান্ননা ফজনা ইনস্টোল তৌরে"</string>
+<string name="tts_settings_changed_demo">"নহাক্কি সেটিংশীং হোংখ্রে. মসি মখোয় করম্না মখোল থোকই হায়বগী খুদমম্নি."</string>
+<string name="tts_engine_error">"নহাক্না খনবা ইনজিন অদু রন তৌবা ঙমদে."</string>
+<string name="tts_engine_error_config">"কনফিগর তৌ"</string>
+<string name="tts_engine_error_reselect">"অতোপ্পা ইনজিন অমা খল্লু"</string>
+<string name="tts_engine_security_warning">"স্পীচ সিন্থেসিস ইনজিন অসিনা পাসৱার্দশীং অমসুং ক্রেদিত কার্দ নম্বরশীং গুম্বা নশাগী দাতা য়াওনা, ৱা ওইনা ঙাংবা টেকস্ট লোইনমক খোমজিনবা ঙম্বা য়াই. মসি লাকই দগী <xliff:g id="tts_plugin_engine_name">%s</xliff:g> ইনজিন. মসিগী স্পীচ সিন্থেসিস ইনজিন অসি শীজিন্নবা য়াহনগদ্রা?"</string>
+<string name="tts_engine_network_required">"লোন অসি টেকস্ট-তগী-স্পীচ আওতপুত কিদমক থবক তৌবা নেটৱার্ক কনেক্সন অমা দরকার ওই."</string>
+<string name="tts_default_sample_string">"মসি স্পীচ সিন্থেসিসকি খুদম অমনি"</string>
+<string name="tts_status_title">"দিফাওল্ট লোনগী স্টেটস"</string>
+<string name="tts_status_ok">"<xliff:g id="locale" example="English (United States)">%1$s</xliff:g> মপুং ফানা সপোর্ট তৌই"</string>
+<string name="tts_status_requires_network">"<xliff:g id="locale" example="English (United States)">%1$s</xliff:g> নেটৱার্ক কনেক্সন দরকার ওই"</string>
+<string name="tts_status_not_supported">"<xliff:g id="locale" example="English (United States)">%1$s</xliff:g> সপোর্ট তৌদে"</string>
+<string name="tts_status_checking">"চেক তৌরি..."</string>
+<string name="tts_engines_section">"ইনজিনশীং"</string>
+<string name="tts_engine_name_settings">"<xliff:g id="tts_plugin_engine_name">%s</xliff:g> সেটিংশীং"</string>
+<string name="tts_engine_name_is_enabled_summary">"<xliff:g id="tts_plugin_engine_name">%s</xliff:g> য়াহল্লে"</string>
+<string name="tts_engine_name_is_disabled_summary">"<xliff:g id="tts_plugin_engine_name">%s</xliff:g> য়াহন্দে"</string>
+<string name="tts_engine_settings_section">"ইনজিন সেটিংশীং"</string>
+<string name="tts_engine_settings_title">"সেটিংশীং গী <xliff:g id="tts_plugin_engine_name">%s</xliff:g>"</string>
+<string name="pico_languages_and_voices">"লোনশীং অমসুং ভোইসশীং"</string>
+<string name="pico_installed">"ইনস্টোল তৌরে"</string>
+<string name="pico_not_installed">"ইনস্টোল তৌদে"</string>
+<string name="pico_voice_summary_female">"নুপী"</string>
+<string name="pico_voice_summary_male">"নুপা"</string>
+<string name="tts_notif_engine_install_title">"স্পীচ সিন্থেসিস ইনজিন ইনস্টোল তৌরে"</string>
+<string name="tts_notif_engine_install_message">"শীজিন্নদ্রিঙৈ মমাংদা অনৌবা ইনজিন য়াহল্লু."</string>
+<string name="tts_engine_settings_button">"ইনজিন সেটিংশীং লোনচ তৌ"</string>
+<string name="tts_engine_preference_section_title">"হেন্না পাম্বা ইনজিন"</string>
+<string name="tts_general_section_title">"সধারন"</string>
+<string name="gadget_title">"পাৱর কন্ত্রোল"</string>
+<string name="gadget_toggle_wifi">"Wi-Fi সেটিং অপদেত তৌরি"</string>
+<string name="gadget_toggle_bluetooth">"ব্লুটুথথ সেটিং অপদেত তৌরি"</string>
+<string name="gadget_state_template">"<xliff:g name="feature" example="Wi-Fi">%1$s</xliff:g> <xliff:g name="state" example="off">%2$s</xliff:g>"</string>
+<string name="gadget_state_on">"ওন"</string>
+<string name="gadget_state_off">"ওফ"</string>
+<string name="gadget_state_turning_on">"থারি"</string>
+<string name="gadget_state_turning_off">"মুথৎলি"</string>
+<string name="gadget_wifi">"Wi-Fi"</string>
+<string name="gadget_bluetooth">"ব্লুটুথ"</string>
+<string name="gadget_location">"মফম"</string>
+<string name="gadget_sync">"সিঙ্ক তৌ"</string>
+<string name="gadget_brightness_template">"লংখৎপা <xliff:g name="state" example="half">%1$s</xliff:g>"</string>
+<string name="gadget_brightness_state_auto">"ওটো"</string>
+<string name="gadget_brightness_state_full">"পিক থনবা"</string>
+<string name="gadget_brightness_state_half">"তংখায়"</string>
+<string name="gadget_brightness_state_off">"ওফ"</string>
+<string name="credentials_title">"ক্রেদেন্সিয়েল স্টোরেজ"</string>
+<string name="credentials_install" product="nosdcard">"স্টোরেজদগী ইনস্টোল তৌ"</string>
+<string name="credentials_install" product="default">"SD কার্দতগী ইনস্টোল তৌ"</string>
+<string name="credentials_install_summary" product="nosdcard">"স্টোরেজদগী সার্তিফিকেতশীং ইনস্টোল তৌ"</string>
+<string name="credentials_install_summary" product="default">"SD কার্দতগী সার্তিফিকেতশীং ইনস্টোল তৌ"</string>
+<string name="credentials_reset">"ক্রেদেন্সিয়েলশীং ক্লিয়র তৌ"</string>
+<string name="credentials_reset_summary">"সার্তিফিকেতশীং লোইনমক লৌথোকউ"</string>
+<string name="trusted_credentials">"থাজবা ক্রেদেন্সিয়েলশীং"</string>
+<string name="trusted_credentials_summary">"থাজবা CA সার্তিফিকেতশীং উৎলু"</string>
+<string name="credential_storage_type">"স্টোরেজ মখল"</string>
+<string name="credential_storage_type_hardware">"হার্দৱায়র-বেক তৌবা"</string>
+<string name="credential_storage_type_software">"সোফ্টৱায়র খক্তং"</string>
+<string name="credentials_install_gesture_prompt">"নহাক্কি অনলোক পেটর্ন য়েকউ"</string>
+<string name="credentials_install_gesture_explanation">"ক্রেদেন্সিয়েল ইনস্টোল তৌবা কনফার্ম তৌনবা নহাক নহাক্কি শো হাংবগী পেটর্ন য়েকপা দরকার ওই."</string>
+<string name="credentials_unlock_hint">"ক্রেদেন্সিয়েল স্টোরেজগীদমক পাসৱার্দ অদু টাইপ তৌ."</string>
+<string name="credentials_old_password">"হৌজিক্কি পাসৱার্দ:"</string>
+<string name="credentials_reset_hint">"কন্টেন্টশীং লোইনমক লৌথোক্কদ্রা?"</string>
+<string name="credentials_password_too_short">"পাসৱার্দ অদুগী য়ামদ্রবদা কেরেক্তর 8 লৈগদবনি."</string>
+<string name="credentials_wrong_password">"চুমদবা পাসৱার্দ."</string>
+<string name="credentials_reset_warning">"চুমদবা পাসৱার্দ. ক্রেদেন্সিয়েল স্টোরেজ মুথৎত্রিঙৈ মমাংদা নহাক তানজা অমগা হেন্না লৈ."</string>
+<string name="credentials_reset_warning_plural">"চুমদবা পাসৱার্দ. নহাক্কি লৈ <xliff:g id="number" example="5">%1$d</xliff:g> ক্রেদেন্সিয়েল স্টোরেজ মুথৎত্রিঙৈ মমাংদা তানজা হেন্না."</string>
+<string name="credentials_erased">"ক্রেদেন্সিয়েল স্টোরেজ মুথৎলে."</string>
+<string name="credentials_not_erased">"ক্রেদেন্সিয়েল স্টোরেজ মুথৎপা ঙমদ্রে."</string>
+<string name="credentials_enabled">"ক্রেদেন্সিয়েল স্টোরেজ য়াহল্লে."</string>
+<string name="credentials_configure_lock_screen_hint">"নহাক ক্রেদেন্সিয়েল স্টোরেজ শীজিন্নদ্রিঙৈ মমাংদা নহাক লোক স্ক্রীন PIN নত্ত্রগা পাসৱার্দ অমা সেট তৌবা দরকার ওই."</string>
+<string name="emergency_tone_title">"ইমর্জেন্সি তোন"</string>
+<string name="emergency_tone_summary">"ইমর্জেন্সি কোল অমা থম্বা মতমদা লমচৎ-শাজৎ সেট তৌ"</string>
+<string name="privacy_settings">"হন্না সেট তৌ"</string>
+<string name="privacy_settings_title">"হন্না সেট তৌ"</string>
+<string name="backup_section_title">"বেক অপ &amp; হান্নগী হন্না থম্মু"</string>
+<string name="personal_data_section_title">"নশাগী দাতা"</string>
+<string name="backup_data_title">"ঐগী দাতা বেকঅপ তৌ"</string>
+<string name="backup_data_summary">"বেক অপ এপ দাতা, Wi-Fi পাসৱার্দশীং, অমসুং গুগল সার্ভরশীংদা অতোপ্পা সেটিংশীং"</string>
+<string name="backup_configure_account_title">"বেক অপ একাওন্ট"</string>
+<string name="backup_configure_account_default_summary">"একাওন্ট অমত্তা হৌজিক বেক অপ দাতা স্টোর তৌই"</string>
+<string name="auto_restore_title">"মশা মথন্তা হান্নগীদা হনজিনবা"</string>
+<string name="auto_restore_summary">"এপ অমা হন্না ইনস্টোল তৌবা মতমদা, বেক অপ তৌবা সেটিংশীং অমসুং দাতা হান্নগীদা হনজিল্লু"</string>
+<string name="local_backup_password_title">"দেস্কতোপ বেক অপ পাসৱার্দ"</string>
+<string name="local_backup_password_summary_none">"দেস্কতোপকি মপুং ফাবা বেক অপশীং হৌজিক ঙাকথোক্তে"</string>
+<string name="local_backup_password_summary_change">"দেস্কতোপকি মপুং ফাবা বেক অপশীং পাসৱার্দ অদু হোংনবা নত্ত্রগা লৌথোক্নবা শোকউ"</string>
+<string name="local_backup_password_toast_success">"অনৌবা বেক অপ পাসৱার্দ সেট তৌরে"</string>
+<string name="local_backup_password_toast_confirmation_mismatch">"অনৌবা পাসৱার্দ অমসুং কনফার্মেসন মপা চানদে"</string>
+<string name="local_backup_password_toast_validation_failure">"বেক অপ পাসৱার্দ সেট তৌবা মায় পাক্তবা"</string>
+<string name="backup_erase_dialog_message">"নহাক্কি Wi-Fi পাসৱার্দশীং, বুকমার্কশীং, অতোপ্পা সেটিংশীং, অমসুং এপ দাতা বেক অপ তৌবা লেপ্পু, মসিদগী হেনবদা গুগল সার্ভরশীংদা য়াওবা কোপিশীং লোইনমক মুথৎকদ্রা?"</string>
+<string name="device_admin_settings_title">"দিভাইস এদমিনিস্ট্রেশন সেটিংশীং"</string>
+<string name="active_device_admin_msg">"দিভাইস এদমিনিস্ট্রেতর"</string>
+<string name="remove_device_admin">"এক্তিবেত তৌবা তোকউ"</string>
+<string name="select_device_admin_msg">"দিভাইস এদমিনিস্ট্রেতরশীং"</string>
+<string name="no_device_admins">"দিভাইস এদমিনিস্ট্রেতরশীং ফংদে"</string>
+<string name="add_device_admin_msg">"দিভাইস এদমিনিস্ট্রেতর এক্টিবেত তৌগদ্রা?"</string>
+<string name="add_device_admin">"এক্টিবেত তৌ"</string>
+<string name="device_admin_add_title">"দিভাইস এদমিনিস্ট্রেতর"</string>
+<string name="device_admin_warning">"এদমিনিস্ট্রেতর অসি এক্টিবেত তৌবনা এপ অদু য়াহনগনি <xliff:g id="app_name">%1$s</xliff:g> মখাগী ওপরেসনশীং অদু পাংথোকপা:"</string>
+<string name="device_admin_status">"এদমিনিস্ট্রেতর অসি এক্টিব ওই অমসুং এপ অদু য়াহল্লি <xliff:g id="app_name">%1$s</xliff:g> মখাগী ওপরেসনশীং অদু পাংথোকপা:"</string>
+<string name="untitled_apn">"মমিং থোন্দবা"</string>
+<string name="sound_category_sound_title">"সধারন"</string>
+<string name="sound_category_notification_title">"নোটিফিকেসনশীং"</string>
+<string name="sound_category_call_ringtone_vibrate_title">"কোল রিংতোন &amp; ভাইব্রেত"</string>
+<string name="sound_category_system_title">"সিস্টেম"</string>
+<string name="wifi_setup_title">"Wi-Fi সেটঅপ"</string>
+<string name="wifi_setup_title_editing_network">"Wi-Fi নেটৱার্কতা শম্নৌ <xliff:g id="network_name" example="Happy Mobile">%s</xliff:g>"</string>
+<string name="wifi_setup_title_connecting_network">"Wi-Fi নেটৱার্কতা শম্নরি <xliff:g id="network_name" example="Happy Mobile">%s</xliff:g>..."</string>
+<string name="wifi_setup_title_connected_network">"নেটৱার্কতা শম্নরে <xliff:g id="network_name" example="Happy Mobile">%s</xliff:g>"</string>
+<string name="wifi_setup_title_add_network">"নেটৱার্ক অমা হাপচিল্লু"</string>
+<string name="wifi_setup_not_connected">"শম্নদে"</string>
+<string name="wifi_setup_add_network">"নেটৱার্ক হাপচিল্লু"</string>
+<string name="wifi_setup_refresh_list">"লিস্ট রিফ্রেশ তৌ"</string>
+<string name="wifi_setup_skip">"চোংঙু"</string>
+<string name="wifi_setup_next">"মথং"</string>
+<string name="wifi_setup_back">"মনিং হল্লু"</string>
+<string name="wifi_setup_detail">"নেটৱার্ক কি অকুপ্পা ৱারোলশীং"</string>
+<string name="wifi_setup_connect">"শম্নৌ"</string>
+<string name="wifi_setup_forget">"কাওথোকউ"</string>
+<string name="wifi_setup_save">"সেব তৌ"</string>
+<string name="wifi_setup_cancel">"ককথৎলু"</string>
+<string name="wifi_setup_status_scanning">"নেটৱার্কশীং স্কেন তৌরি..."</string>
+<string name="wifi_setup_status_select_network">"নেটৱার্ক অমদা শম্ননবা মদু শোকউ"</string>
+<string name="wifi_setup_status_existing_network">"হৌজিক লৈবা নেটৱার্কতা শম্নৌ"</string>
+<string name="wifi_setup_status_unsecured_network">"সেক্যুর ওইদবা নেটৱার্কতা শম্নৌ"</string>
+<string name="wifi_setup_status_edit_network">"নেটৱার্ক কনফিগুরেশন টাইপ তৌ"</string>
+<string name="wifi_setup_status_new_network">"অনৌবা নেটৱার্কতা শম্নৌ"</string>
+<string name="wifi_setup_status_connecting">"শম্নরি..."</string>
+<string name="wifi_setup_status_proceed_to_next">"মথংগী খোঙথাংদা চৎলু"</string>
+<string name="wifi_setup_status_eap_not_supported">"EAP সপোর্ট তৌদে."</string>
+<string name="wifi_setup_eap_not_supported">"EAP Wi-Fi কনেক্সন অমা সেট অপ মনুংদা নহাক কনফিগর তৌবা ঙমদে. সেট অপ মতুংদা, নহাক মদু তৌবা য়াই সেটিংশীং&gt; ৱায়রলেস তা &amp; নেটৱার্কশীং."</string>
+<string name="wifi_setup_description_connecting">"শম্নবদা মিনট খরা লৌবা য়াই..."</string>
+<string name="wifi_setup_description_connected">"শোকউ <b>মথং</b> সেটঅপ চত্থনবা.\n\nশোকউ<b>হল্লু</b> তোঙানবা Wi-Fi নেটৱার্ক অমদা শম্ননবা."</string>
+<string name="accessibility_sync_enabled">"সিঙ্ক য়াহল্লে"</string>
+<string name="accessibility_sync_disabled">"সিঙ্ক য়াহন্দে"</string>
+<string name="accessibility_sync_error">"সিঙ্ক অশোয়বা."</string>
+<string name="sync_failed">"সিঙ্ক মায় পাক্তে"</string>
+<string name="sync_active">"সিঙ্ক এক্টিব ওই"</string>
+<string name="account_sync_settings_title">"সিঙ্ক তৌ"</string>
+<string name="sync_is_failing">"সিঙ্ক হৌজিক সমস্যশীং থেংনরি. মসি ইকুই কুইদনা হল্লক্কনি."</string>
+<string name="add_account_label">"একাওন্ট হাপচিল্লু"</string>
+<string name="background_data">"বেকগ্রাওন্দ দাতা"</string>
+<string name="background_data_summary">"এপশীং মতম অমদা হেক্তা সিঙ্ক তৌবা, থাবা, অমসুং দাতা ওকপা ঙম্মি"</string>
+<string name="background_data_dialog_title">"বেকগ্রাওন্দ দাতা য়াহল্লোইদ্রা?"</string>
+<string name="background_data_dialog_message">"বেকগ্রাওন্দ দাতা য়াহন্দবনা বেট্টরিগী মপুন্সি শাংদোকহল্লি অমসুং দাতা শীজিন্নবা হন্থহল্লি. এপশীং খরা বেকগ্রাওন্দ দাতা কনেক্সন অদু অদুম শীজিন্নবা য়াই."</string>
+<string name="sync_automatically">"এপ দাতা মশা মথন্তা সিঙ্ক তৌ"</string>
+<string name="sync_enabled">"সিঙ্ক ওন তৌই"</string>
+<string name="sync_disabled">"সিঙ্ক ওফ তৌই"</string>
+<string name="sync_error">"সিঙ্ক অশোয়বা"</string>
+<string name="last_synced">"ইকোন কোনবা সিঙ্ক তৌবা <xliff:g id="last_sync_time">%1$s</xliff:g>"</string>
+<string name="sync_in_progress">"হৌজিক সিঙ্ক তৌরি..."</string>
+<string name="settings_backup">"সেটিংশীং বেক অপ তৌ"</string>
+<string name="settings_backup_summary">"ঐগী সেটিংশীং বেক অপ তৌ"</string>
+<string name="sync_menu_sync_now">"হৌজিক সিঙ্ক তৌ"</string>
+<string name="sync_menu_sync_cancel">"সিঙ্ক ককথৎলু"</string>
+<string name="sync_calendar">"কেলেন্দর"</string>
+<string name="sync_contacts">"কন্টেক্তশীং"</string>
+<string name="sync_plug">"<font fgcolor="#ffffffff">Google sync তা তরাম্না ওকচরি!!</font> \nনহাক্না লৈনিংবা মফম অমদগী নহাক্কি কন্টেক্টশীং, এপোইন্টমেন্টশীং, অমসুং মসিদগী হেনবা এক্সেস তৌবা য়ানবা দাতা সিঙ্ক তৌবগী গুগলগী এপ্রোচ অমা. "</string>
+<string name="header_application_sync_settings">"এপ সিঙ্ক সেটিংশীং"</string>
+<string name="header_data_and_synchronization">"দাতা &amp; সিনক্রোনাইজেসন"</string>
+<string name="preference_change_password_title">"পাসৱার্দ হোংঙু"</string>
+<string name="header_account_settings">"একাওন্ট সেটিংশীং"</string>
+<string name="remove_account_label">"একাওন্ট লৌথোকউ"</string>
+<string name="header_add_an_account">"একাওন্ট অমা হাপচিল্লু"</string>
+<string name="finish_button_label">"লোইশিল্লু"</string>
+<string name="really_remove_account_title">"একাওন্ট লৌথোক্কদ্রা?"</string>
+<string name="really_remove_account_message" product="tablet">"একাওন্ট অসি লৌথোকপনা মদুগী মেসেজশীং, কন্টেক্টশীং, অমসুং অতোপ্পা দাতা লোইনমক টেব্লেত অদুদগী মুথৎলগনি!"</string>
+<string name="really_remove_account_message" product="default">"একাওন্ট অসি লৌথোকপনা মদুগী মেসেজশীং, কন্টেক্টশীং, অমসুং অতোপ্পা দাতা লোইনমক ফোন অদুদগী মুথৎলগনি!"</string>
+<string name="remove_account_failed" product="tablet">"একাওন্ট অসি এপশীং খরনা দরকার ওই. নহাক মদু টেব্লেত অদুবু ফেক্তরি দিফাওল্টশীংদা হন্না সেট তৌরগা খক্তং লৌথোকপা য়াই (মদুনা নহাক্কি লনাই নশাগী দাতা লোইনমক মুথৎলি) সেটিংশীং &gt; বেকঅপ &amp; রিসেট তা."</string>
+<string name="remove_account_failed" product="default">"একাওন্ট অসি এপশীং খরনা দরকার ওই. নহাক মদু ফোন অদুবু ফেক্তরি দিফাওল্টশীংদা হন্না সেট তৌরগা খক্তং লৌথোকপা য়াই (মদুনা নহাক্কি লনাই নশাগী দাতা লোইনমক মুথৎলি) সেটিংশীং &gt; বেকঅপ &amp; রিসেট তা."</string>
+<string name="provider_label">"সবস্ক্রিপসনশীং ইল্লু"</string>
+<string name="sync_item_title">"<xliff:g id="authority" example="Calendar">%s</xliff:g>"</string>
+<string name="cant_sync_dialog_title">"খুৎনা সিঙ্ক তৌবা ঙমদে"</string>
+<string name="cant_sync_dialog_message">"আইটেম অসি সিঙ্ক তৌবা হৌজিক য়াহন্দে. সেটিং অসি হোংনবা, বেকগ্রাওন্দ দাতা অমসুং ওটোমেটিক সিঙ্ক মতম খরগী থাও."</string>
+<string name="status_wimax_mac_address">"4G MAC এদ্রেশ"</string>
+<string name="enter_password">"স্টোরেজ দিক্রিপ্ট তৌনবা পাসৱার্দ টাইপ তৌ"</string>
+<string name="try_again">"হন্না হোৎনৌ."</string>
+<string name="delete">"মুথৎলু"</string>
+<string name="misc_files">"মিসেলিনিয়স ফাইলশীং"</string>
+<string name="misc_files_selected_count">"খল্লে <xliff:g id="number" example="3">%1$d</xliff:g> গী মনুংদা<xliff:g id="total" example="15">%2$d</xliff:g>"</string>
+<string name="misc_files_selected_count_bytes">"<xliff:g id="number" example="3.25MB">%1$s</xliff:g> গী মনুংদা<xliff:g id="total" example="15.25MB">%2$s</xliff:g>"</string>
+<string name="select_all">"লোইনা খল্লু"</string>
+<string name="hdcp_checking_title">"HDCP চেক তৌরি"</string>
+<string name="hdcp_checking_dialog_title">"HDCP চেক তৌবগী লমচৎ শাজৎ সেট তৌ"</string>
+<string name="debug_debugging_category">"দিবগ তৌবা"</string>
+<string name="debug_app">"দিবগ এপ খল্লু"</string>
+<string name="debug_app_not_set">"দিবগ এপ্লিকেশন সেট তৌদে"</string>
+<string name="debug_app_set">"দিবগিং এপ্লিকেশন: <xliff:g id="app_name">%1$s</xliff:g>"</string>
+<string name="select_application">"এপ্লিকেশন খল্লু"</string>
+<string name="no_application">"করিমত্তা নত্তে"</string>
+<string name="wait_for_debugger">"দিবগর ঙাইয়ু"</string>
+<string name="wait_for_debugger_summary">"একজেক্যুত তৌদ্রিঙৈ মমাংদা এতেচ তৌনবা দিবগ এপ্লিকেসন্না দিবগর ঙাই"</string>
+<string name="debug_input_category">"ইনপুত"</string>
+<string name="debug_drawing_category">"য়েক্লি"</string>
+<string name="debug_hw_drawing_category">"হার্দৱায়র এক্সলরেতেদ রেন্দরিং"</string>
+<string name="debug_monitoring_category">"য়েংশিল্লি"</string>
+<string name="strict_mode">"স্ট্রিক মোদ য়াহল্লে"</string>
+<string name="strict_mode_summary">"মরু ওইবা থ্রেদতা এপশীংনা শাংনা ওপরেসনশীং তৌবা মতমদা স্ক্রীন ফ্লাস তৌ"</string>
+<string name="pointer_location">"পোইন্টর লৈফম"</string>
+<string name="pointer_location_summary">"হৌজিক্কি শোকপগী দাতা উৎপা স্ক্রীন ওভরলে"</string>
+<string name="show_touches">"শোকপশীং উৎলু"</string>
+<string name="show_touches_summary">"শোকপশীংগী মীৎনা উবা ফীদবেক উৎলু"</string>
+<string name="show_screen_updates">"লৈমায় (surface) গী অপদেতশীং উৎলু"</string>
+<string name="show_screen_updates_summary">"মখোয় অপদেত তৌবা মতমদা ৱিন্দোগী লৈমায় (surface) শীং অপুম্বা ফ্লাশ তৌ"</string>
+<string name="show_hw_screen_updates">"GPU য়েংনবা অপদেতশীং উৎলু"</string>
+<string name="show_hw_screen_updates_summary">"GPU অদুগা চিংবা মতমদা ৱিন্দোশীংগী মনুংদা য়েংবশীং ফ্লাশ তৌ"</string>
+<string name="show_hw_layers_updates">"হার্দৱায়র মরোলশীংগী অপদেতশীং উৎলু"</string>
+<string name="show_hw_layers_updates_summary">"মখোয় অপদেত তৌবা মতমদা হার্দৱায়র মরোলশীং অশংবা Flash তৌ"</string>
+<string name="debug_hw_overdraw">"GPU ওভরদ্রো দিবগ তৌ"</string>
+<string name="disable_overlays">"HW ওভরলেশীং য়াহনগনু"</string>
+<string name="disable_overlays_summary">"স্ক্রীন কম্পোজিতিং তৌবগী মতম চুপ্পদা GPU শীজিন্নৌ"</string>
+<string name="enable_opengl_traces_title">"OpenGL খোঙ্গুলশীং য়াহল্লু"</string>
+<string name="debug_layout">"লোআওত ঙমখৈশীং উৎলু"</string>
+<string name="debug_layout_summary">"ক্লিপ ঙমখৈশীং, মার্জিনশীং, অসিনচিংবা উৎলু."</string>
+<string name="force_rtl_layout_all_locales">"RTL লেআওত মায়কৈ নমদুনা শেম্মু"</string>
+<string name="force_rtl_layout_all_locales_summary">"মফম লোইনমক্কি স্ক্রীন লেআওত মায়কৈ RTL দা নমদুনা ওইহল্লু"</string>
+<string name="show_cpu_usage">"CPU শীজিন্নবা উৎলু"</string>
+<string name="show_cpu_usage_summary">"হৌজিক্কি CPU শীজিন্নবা উৎপা স্ক্রীন ওভরলে"</string>
+<string name="force_hw_ui">"GPU রেন্দরিং নমদুনা তৌবা"</string>
+<string name="force_hw_ui_summary">"2d য়েকপগী GPU শীজিন্নবা নমদুনা তৌহল্লু"</string>
+<string name="force_msaa">"4x MSAA নমদুনা তৌ"</string>
+<string name="force_msaa_summary">"OpenGL ES 2.0 এপশীংদা 4x MSAA য়াহল্লু"</string>
+<string name="show_non_rect_clip">"রেক্তেঙ্গল ওইদবা ক্লিপ ওপরেসনশীং দিবগ তৌ"</string>
+<string name="track_frame_time">"GPU রেন্দরিং প্রোফাইল তৌ"</string>
+<string name="window_animation_scale_title">"ৱিন্দো এনিমেশনগী স্কেল"</string>
+<string name="transition_animation_scale_title">"ত্রানজিসন এনিমেশনগী স্কেল"</string>
+<string name="animator_duration_scale_title">"এনিমেতর মতম চংবগী স্কেল"</string>
+<string name="overlay_display_devices_title">"সেকেন্দরি উৎপশীং সিমুলেত তৌ"</string>
+<string name="debug_applications_category">"এপশীং"</string>
+<string name="immediately_destroy_activities">"এক্টিভিতিশীং থমজিনগনু"</string>
+<string name="immediately_destroy_activities_summary">"য়ুজরনা মদু থাদোকপগা য়ারিবমখৈ থুনা এক্টিভিতি খুদিংমক মাং তাকহনখিগনি"</string>
+<string name="app_process_limit_title">"বেকগ্রাওন্দ প্রোসেসকি অকক্নবা"</string>
+<string name="show_all_anrs">"(ANR) শীং লোইনা উৎলু"</string>
+<string name="show_all_anrs_summary">"বেকগ্রাওন্দ এপশীংগী দাইলোগতা পাওখুম পীদবা এপ উৎলু"</string>
+<string name="data_usage_summary_title">"দাতা শীজিন্ননবা"</string>
+<string name="data_usage_cycle">"দাতা শীজিন্নবা সাইকল"</string>
+<string name="data_usage_menu_roaming">"দাতা রোমিং"</string>
+<string name="data_usage_menu_restrict_background">"বেকগ্রাওন্দ দাতা অথিংবা পীয়ু"</string>
+<string name="data_usage_menu_split_4g">"তোঙান্না 4G শীজিন্নবা"</string>
+<string name="data_usage_menu_show_wifi">"Wi\u2011Fi মশীজিন্না উহল্লু"</string>
+<string name="data_usage_menu_show_ethernet">"ইথরনেট শীজিন্নবা উৎলু"</string>
+<string name="data_usage_menu_metered">"মোবাইল হোটস্পোটশীং"</string>
+<string name="data_usage_menu_auto_sync">"মশা মথন্তা সিঙ্ক তৌ দাতা"</string>
+<string name="data_usage_change_cycle">"সাইকল হোংঙু..."</string>
+<string name="data_usage_pick_cycle_day">"দাতা শীজিন্নবগী সাইকল হন্না সেট তৌনবা থাগী নুমিৎ:"</string>
+<string name="data_usage_empty">"মতম অসিগী মনুংদা এপশীং অমত্তা দাতা শীজিন্নদে."</string>
+<string name="data_usage_label_foreground">"ফোরগ্রাওন্দ"</string>
+<string name="data_usage_label_background">"বেকগ্রাওন্দ"</string>
+<string name="data_usage_app_restricted">"অথিংবা লৈ"</string>
+<string name="data_usage_disable_mobile">"মোবাইল দাতা য়াহল্লোইদ্রা?"</string>
+<string name="data_usage_disable_mobile_limit">"মোবাইল দাতাগী ঙমখৈ"</string>
+<string name="data_usage_disable_4g_limit">"4G দাতা ঙমখৈ সেট তৌ"</string>
+<string name="data_usage_disable_3g_limit">"2G-3G দাতা ঙমখৈ সেট তৌ"</string>
+<string name="data_usage_disable_wifi_limit">"Wi-Fi দাতা ঙমখৈ সেট তৌ"</string>
+<string name="data_usage_tab_wifi">"Wi-Fi"</string>
+<string name="data_usage_tab_ethernet">"ইথরনেট"</string>
+<string name="data_usage_tab_mobile">"মোবাইল"</string>
+<string name="data_usage_list_mobile">"মোবাইল"</string>
+<string name="data_usage_list_none">"অমত্তা লৈতে"</string>
+<string name="data_usage_enable_mobile">"দাতা শম্নবা অদু"</string>
+<string name="data_usage_enable_3g">"2G-3G দাতা"</string>
+<string name="data_usage_enable_4g">"4G দাতা"</string>
+<string name="data_usage_app_settings">"এপ সেটিংশীং য়েংঙু"</string>
+<string name="data_usage_app_restrict_background">"বেকগ্রাওন্দ দাতা অথিংবা পীয়ু"</string>
+<string name="data_usage_app_restrict_background_summary">"মোবাইল নেটৱার্কশীংদা বেকগ্রাওন্দ দাতা য়াহনগনু. ফংলবদি মোবাইল-নত্তবা নেটৱার্কশীং শীজিন্নগনি."</string>
+<string name="data_usage_app_restrict_background_summary_disabled">"এপ অসিগী বেকগ্রাওন্দ দাতাদা অথিংবা থম্নবা, অহানবদা মোবাইল দাতা ঙমখৈ অমা শেম্মু."</string>
+<string name="data_usage_app_restrict_dialog_title">"বেকগ্রাওন্দ দাতাদা অথিংবা থমগদ্রা?"</string>
+<string name="data_usage_app_restrict_dialog">"ফিচর অসিনা বেকগ্রাওন্দ দাতাগী মখা পোনবা এপ অমবু মোবাইল নেটৱার্কশীং খক্তং ফংবা মতমদা থবক তৌবা লেপহনবা য়াই.\n\nনহাক এপ অদুগী মনুংদা ফংবা সেটিংশীংদা হেন্না চুনবা দাতা শীজিন্নবগী কন্ত্রোলশীং ফংবা য়াই."</string>
+<string name="data_usage_restrict_denied_dialog">"বেকগ্রাওন্দ দাতাদা অথিংবা থম্বদা নহাক্না মোবাইল দাতাগী ঙমখৈ অমা শেমখ্রবা খক্তংদা ওইবা য়াই."</string>
+<string name="data_usage_auto_sync_on_dialog_title">"ওটো-সিঙ্ক দাতা থাগদ্রা?"</string>
+<string name="data_usage_auto_sync_on_dialog" product="tablet">"নহাক্না নহাক্কি একাওন্টতা ৱেবতা অহোংবশীং শেম্বা অদু নহাক্কি টেব্লেততা মশা মথন্তা কোপি তৌজগনি.\n\nএকাওন্টশীং খরা নহাক্না টেব্লেততা অহোংবশীং শেম্বা অদু ৱেব অদুদা মশা মথন্তা কোপি তৌবসু য়াই. Google একাওন্ট অমা অসুম্না থবক তৌই.\n\nএকাওন্ট অমমমগী মনুংদা করম্বা মখলশীংগী পাও সিনক্রোনাইজ তৌগনি খন্নবা, সেটিংশীং &gt; একাওন্টশীং দা চৎলু."</string>
+<string name="data_usage_auto_sync_on_dialog" product="default">"নহাক্না নহাক্কি একাওন্টতা ৱেবতা অহোংবশীং শেম্বা অদু নহাক্কি ফোন দা মশা মথন্তা কোপি তৌজগনি.\n\nএকাওন্টশীং খরা নহাক্না টেব্লেততা অহোংবশীং শেম্বা অদু ৱেব অদুদা মশা মথন্তা কোপি তৌবসু য়াই. Google একাওন্ট অমা অসুম্না থবক তৌই.\n\nএকাওন্ট অমমমগী মনুংদা করম্বা মখলশীংগী পাও সিনক্রোনাইজ তৌগনি খন্নবা, সেটিংশীং &gt; একাওন্টশীং দা চৎলু."</string>
+<string name="data_usage_auto_sync_off_dialog_title">"ওটো-সিঙ্ক দাতা মুথৎকদ্রা?"</string>
+<string name="data_usage_auto_sync_off_dialog">"মসিনা দাতা অমসুং বেট্টরি শীজিন্নবা কনজর্ব তৌদুনা থমগনি, তৌইগুম্বশুং হন্দক্তংগী ওইবা পাও খোমজিন্নবা নহাক একাওন্ট খুদিংমক খুৎনা সিঙ্ক তৌবা নহাক দরকার ওইগনি. অমসুং নহাক অপদেতশীং থোকপা মতমদা নোটিফিকেসনশীং ফংলোই."</string>
+<string name="data_usage_cycle_editor_title">"শীজিন্নবগী সাইকলগী হন্না সেট তৌবা তারিখ"</string>
+<string name="data_usage_cycle_editor_subtitle">"থা অমমমগী তারিখ:"</string>
+<string name="data_usage_cycle_editor_positive">"সেট তৌ"</string>
+<string name="data_usage_warning_editor_title">"দাতা শীজিন্নবগী ৱার্নিং সেট তৌ"</string>
+<string name="data_usage_limit_editor_title">"দাতা শীজিন্নবগী ঙমখৈ সেট তৌ"</string>
+<string name="data_usage_limit_dialog_title">"দাতা শীজিন্নবগী ঙমখৈ লৈহল্লি"</string>
+<string name="data_usage_limit_dialog_mobile" product="tablet">"নহাক্কি মোবাইল দাতা শম্নবা তাংদাংবা ঙমখৈ অদু য়ৌরবা মতমদা য়াহল্লোই.\n\nদাতা শীজিন্নবা অদু নহাক্কি টেব্লেতনা ওনবনিনা, অমসুং নহাক্কি কেরিয়রনা মশীজিন্না অদুগী তোঙান্না একাওন্ট তৌবা য়াবনিনা, খরা য়ামদবা ঙমখৈ অমা শীজিন্ননবা খল্লু."</string>
+<string name="data_usage_limit_dialog_mobile" product="default">"নহাক্কি মোবাইল দাতা শম্নবা তাংদাংবা ঙমখৈ অদু য়ৌরবা মতমদা য়াহল্লোই.\n\nদাতা শীজিন্নবা অদু নহাক্কি ফোননা ওনবনিনা, অমসুং নহাক্কি কেরিয়রনা মশীজিন্না অদুগী তোঙান্না একাওন্ট তৌবা য়াবনিনা, খরা য়ামদবা ঙমখৈ অমা শীজিন্ননবা খল্লু."</string>
+<string name="data_usage_restrict_background_title">"বেকগ্রাওন্দ দাতাদা অথিংবা থমগদ্রা?"</string>
+<string name="data_usage_restrict_background">"নহাক্না বেকগ্রাওন্দ মোবাইল দাতাদা অথিংবা থম্লবদি, এপশীং অমসুং সার্ভিসশীং খরা নহাক্না Wi\u2011Fi নেটৱার্ক অমদা শম্নদ্রিবা ফাওবা থবক তৌরোই."</string>
+<string name="data_usage_restrict_background_multiuser" product="tablet">"নহাক্না বেকগ্রাওন্দ মোবাইল দাতাদা অথিংবা থম্লবদি, এপশীং অমসুং সার্ভিসশীং খরা নহাক্না Wi\u2011Fi নেটৱার্ক অমদা শম্নদ্রিবা ফাওবা থবক তৌরোই.\n\nসেটিং অসিনা টেব্লেত অসিগী য়ুজরশীং লোইনমক্তা শোকহল্লি."</string>
+<string name="data_usage_restrict_background_multiuser" product="default">"নহাক্না বেকগ্রাওন্দ মোবাইল দাতাদা অথিংবা থম্লবদি, এপশীং অমসুং সার্ভিসশীং খরা নহাক্না Wi\u2011Fi নেটৱার্ক অমদা শম্নদ্রিবা ফাওবা থবক তৌরোই.\n\nসেটিং অসিনা ফোন অসিগী য়ুজরশীং লোইনমক্তা শোকহল্লি."</string>
+<string name="data_usage_sweep_warning">"<font size="21"><xliff:g id="number" example="128">^1</xliff:g></font> <font size="9"><xliff:g id="unit" example="KB">^2</xliff:g></font>\n<font size="12">ৱার্নিং</font>"</string>
+<string name="data_usage_sweep_limit">"<font size="21"><xliff:g id="number" example="128">^1</xliff:g></font> <font size="9"><xliff:g id="unit" example="KB">^2</xliff:g></font>\n<font size="12">লিমিত</font>"</string>
+<string name="data_usage_uninstalled_apps">"এপশীং লৌথোক্লে"</string>
+<string name="data_usage_uninstalled_apps_users">"এপশীং অমসুং য়ুজরশীং লৌথোক্লে"</string>
+<string name="data_usage_received_sent">"<xliff:g id="received" example="128KB">%1$s</xliff:g> ফংলে, <xliff:g id="sent" example="1.3GB">%2$s</xliff:g> থাবা"</string>
+<string name="data_usage_total_during_range">"<xliff:g id="range" example="Jul 1 - Jul 31">%2$s</xliff:g>: মরমদা <xliff:g id="total" example="128KB">%1$s</xliff:g> শীজিন্নরে."</string>
+<string name="data_usage_total_during_range_mobile" product="tablet">"<xliff:g id="range" example="Jul 1 - Jul 31">%2$s</xliff:g>: মরমদা <xliff:g id="total" example="128KB">%1$s</xliff:g> শীজিন্নরে, নহাক্কি টেব্লেতনা ওনবগী মতুং ইন্না. নহাক্কি কেরিযরগী দাতা শীজিন্নবগী একাওন্টিং অদুনা তোঙানবা য়াই."</string>
+<string name="data_usage_total_during_range_mobile" product="default">"<xliff:g id="range" example="Jul 1 - Jul 31">%2$s</xliff:g>: মরমদা <xliff:g id="total" example="128KB">%1$s</xliff:g> শীজিন্নরে, নহাক্কি ফোন না ওনবগী মতুং ইন্না. নহাক্কি কেরিযরগী দাতা শীজিন্নবগী একাওন্টিং অদুনা তোঙানবা য়াই."</string>
+<string name="data_usage_metered_title">"মোবাইল হোটস্পোটশীং"</string>
+<string name="data_usage_metered_body">"মোবাইল হোটস্পোটশীং ওইবা Wi\u2011Fi নেটৱার্কশীং খল্লু. বেকগ্রাওন্দদা লৈবা মতমদা এপশীংবু নেটৱার্কশীং অসি শীজিন্নবদা অথিংবা থম্বা য়াই. অচৌবা দাওনলোদশীং তৌনবা এপশীংনসু নেটৱার্কশীং অসি শীজিন্নদ্রিঙৈ মমাংদা ৱার্ন তৌবা য়াই."</string>
+<string name="data_usage_metered_mobile">"সেল্লুলর নেটৱার্কশীং"</string>
+<string name="data_usage_metered_wifi">"Wi-Fi নেটৱার্কশীং"</string>
+<string name="data_usage_metered_wifi_disabled">"মোবাইল হোটস্পোটশীং খন্নবা, Wi\u2011Fi থাও."</string>
+<string name="cryptkeeper_emergency_call">"ইমর্জেন্সি কোল"</string>
+<string name="cryptkeeper_return_to_call">"কোল হল্লু"</string>
+<string name="vpn_name">"মমিং"</string>
+<string name="vpn_type">"মখল"</string>
+<string name="vpn_server">"সার্ভর এদ্রেশ"</string>
+<string name="vpn_mppe">"PPP এনক্রিপ্সন (MPPE)"</string>
+<string name="vpn_l2tp_secret">"L2TP অরোন অথুপ্পা"</string>
+<string name="vpn_ipsec_identifier">"IPSec মশক খঙবা"</string>
+<string name="vpn_ipsec_secret">"IPSec হান্না শরুক য়ামিন্নবা কী"</string>
+<string name="vpn_ipsec_user_cert">"IPSec য়ুজর সার্তিফিকেত"</string>
+<string name="vpn_ipsec_ca_cert">"IPSec CA সার্তিফিকেত"</string>
+<string name="vpn_ipsec_server_cert">"IPSec সার্ভর সার্তিফিকেত"</string>
+<string name="vpn_show_options">"এদভান্স ওপসনশীং উৎলু"</string>
+<string name="vpn_search_domains">"DNS থিবগী দোমেনশীং"</string>
+<string name="vpn_dns_servers">"DNS সার্ভরশীং (খুদম ওইনা 8.8.8.8)"</string>
+<string name="vpn_routes">"রুতশীং ফোরৱার্দ তৌরি (খুদম ওইনা 10.0.0.0/8)"</string>
+<string name="vpn_username">"য়ুজরনেম"</string>
+<string name="vpn_password">"পাসৱার্দ"</string>
+<string name="vpn_save_login">"একাওন্টকি পাও সেব তৌ"</string>
+<string name="vpn_not_used">"(শীজিন্নদে)"</string>
+<string name="vpn_no_ca_cert">"(সার্ভর ভেরিফাই তৌগনু)"</string>
+<string name="vpn_no_server_cert">"(সার্ভরদগী ফংলে)"</string>
+<string name="vpn_cancel">"ককথৎলু"</string>
+<string name="vpn_save">"সেব তৌ"</string>
+<string name="vpn_connect">"শম্নৌ"</string>
+<string name="vpn_edit">"VPN প্রোফাইল এদিত তৌ"</string>
+<string name="vpn_connect_to">"শম্নৌ দা <xliff:g id="profile" example="School">%s</xliff:g>"</string>
+<string name="vpn_create">"VPN প্রোফাইল হাপচিল্লু"</string>
+<string name="vpn_menu_edit">"প্রোফাইল এদিত তৌ"</string>
+<string name="vpn_menu_delete">"প্রোফাইল মুথৎলু"</string>
+<string name="vpn_menu_lockdown">"মতম চুপ্পদা-ওন VPN"</string>
+<string name="vpn_lockdown_summary">"নেটৱার্ক অমদা মতম চুপ্পদা শম্নদুনা লৈনবা VPN প্রোফাইল অমা খল্লু. VPN অসিদা শম্নবা মতমদা খক্তং নেটৱার্ক ত্রাফিক য়াহনগনি."</string>
+<string name="vpn_lockdown_none">"অমত্তা লৈতে"</string>
+<string name="vpn_lockdown_config_error">"মতম চুপ্পদা-ওন VPN সার্ভর অমসুং DNS অনিমক্কি IP এদ্রেশ অমা দরকার ওই."</string>
+<string name="vpn_no_network">"নেটৱার্ক কনেক্সন লৈতে. কোন্না হন্না হোৎনবিয়ু."</string>
+<string name="vpn_missing_cert">"সার্তিফিকেত অমা মাংলি. প্রোফাইল অদু এদিত তৌবিয়ু."</string>
+<string name="trusted_credentials_system_tab">"সিস্টেম"</string>
+<string name="trusted_credentials_user_tab">"য়ুজর"</string>
+<string name="trusted_credentials_disable_label">"য়াহনগনু"</string>
+<string name="trusted_credentials_enable_label">"য়াহল্লু"</string>
+<string name="trusted_credentials_remove_label">"লৌথোকউ"</string>
+<string name="trusted_credentials_enable_confirmation">"সিস্টেমগী CA সার্তিফিকেত অদু য়াহনগদ্রা?"</string>
+<string name="trusted_credentials_disable_confirmation">"সিস্টেমগী CA সার্তিফিকেত অদু য়াহল্লোইদ্রা?"</string>
+<string name="trusted_credentials_remove_confirmation">"য়ুজর CA সার্তিফিকেত অদু মতম চুপ্পগী লৌথোক্কদ্রা?"</string>
+<string name="spellcheckers_settings_title">"বনান চেক তৌনবা"</string>
+<string name="current_backup_pw_prompt">"নহাক্কি হৌজিক্কি মপুং ফাবা বেক অপ পাসৱার্দ মফম অসিদা টাইপ তৌ"</string>
+<string name="new_backup_pw_prompt">"মপুং ফাবা বেক অপশীং তৌনবা অনৌবা পাসৱার্দ অমা মফম অসিদা টাইপ তৌ"</string>
+<string name="confirm_new_backup_pw_prompt">"নহাক্কি অনৌবা মপুং ফাবা পাসৱার্দ অদু মফম অসিদা হন্না টাইপ তৌ"</string>
+<string name="backup_pw_set_button_text">"বেক অপ পাসৱার্দ সেট তৌ"</string>
+<string name="backup_pw_cancel_button_text">"ককথৎলু"</string>
+<string name="percentage">"<xliff:g id="number" example="30">%d</xliff:g>%%"</string>
+<string name="additional_system_update_settings_list_item_title">"অহেনবা সিস্টেম অপদেতশীং"</string>
+<string name="selinux_status_disabled">"য়াহন্দে"</string>
+<string name="selinux_status_permissive">"অয়াবা পীবা"</string>
+<string name="selinux_status_enforcing">"এনফোর্স তৌরি"</string>
+<string name="ssl_ca_cert_warning">"নেটৱার্ক য়েংশিন্দুনা লৈবা য়াই"</string>
+<string name="done_button">"তৌখ্রে"</string>
+<string name="ssl_ca_cert_dialog_title">"নেটৱার্ক মোনিতর তৌরি"</string>
+<string name="ssl_ca_cert_info_message">"দিভাইস অসি মেনেজ তৌই না:\n<xliff:g id="managing_domain">%s</xliff:g>\n\nনহাক্কি এদমিনিস্ট্রেতর নহাক্কি নেটৱার্ক এক্টিভিতি মোনিতর তৌবা ঙম্মি, ইমেলশীং, এপশীং, অমসুং সেক্যুর ওইবা ৱেবসাইটশীং য়াওনা. \n\nঅহেনবা পাওগীদমক, নহাক্কি এদমিনিস্ট্রেতর পাও ফাওনৌ."</string>
+<string name="ssl_ca_cert_warning_message">"অহুমশুবা পার্তি অমা নহাক্কি নেটৱার্ক এক্টিভিতি মোনিতর তৌবা ঙম্মি, ইমেলশীং, এপশীং, অমসুং সেক্যুর ওইবা ৱেবসাইটশীং য়াওনা.\n\nনহাক্কি দিভাইসতা ইনস্টোল তৌবা থাজবা ক্রেদেন্সিয়েল অমনা মসি ওইবা য়াহল্লি."</string>
+<string name="ssl_ca_cert_settings_button">"থাজবা ক্রেদেন্সিয়েলশীং চেক তৌ"</string>
+<string name="user_settings_title">"য়ুজরশীং"</string>
+<string name="user_list_title">"য়ুজরশীং &amp; প্রোফাইলশীং"</string>
+<string name="user_add_user_menu">"য়ুজর নত্ত্রগা প্রোফাইল হাপচিল্লু"</string>
+<string name="user_summary_restricted_profile">"অথিংবা লৈবা প্রোফাইল"</string>
+<string name="user_need_lock_message">"নহাক অথিংবা লৈবা প্রোফাইল অমা শেম্বা ঙমদ্রিঙৈ মমাংদা, নহাক নহাক্কি এপশীং অমসুং নশাগী দাতা ঙাক শেন্নবা স্ক্রীন লোক অমা সেট অপ তৌবা দরকার ওইগনি."</string>
+<string name="user_set_lock_button">"লোক সেট তৌ"</string>
+<string name="user_summary_not_set_up">"সেট অপ তৌদে"</string>
+<string name="user_summary_restricted_not_set_up">"সেট অপ তৌদে - অথিংবা লৈবা প্রোফাইল"</string>
+<string name="user_owner">"মপু"</string>
+<string name="user_you">"নহাক (<xliff:g id="name" example="Name">%s</xliff:g>)"</string>
+<string name="user_nickname">"মিংগৌ"</string>
+<string name="user_add_user_type_title">"হাপচিল্লু"</string>
+<string name="user_add_user_item_summary">"য়ুজরশীংগী মখোয় মশাগী এপশীং অমসুং কন্টেন্ট লৈজৈ"</string>
+<string name="user_add_profile_item_summary">"নহাক নহাক্কি একাওন্টতগী এপশীং অমসুং কন্টেন্ট তা চংবদা অথিংবা থম্বা য়াই"</string>
+<string name="user_add_user_item_title">"য়ুজর"</string>
+<string name="user_add_profile_item_title">"অথিংবা লৈবা প্রোফাইল"</string>
+<string name="user_add_user_title">"অনৌবা য়ুজর হাপচিল্লু"</string>
+<string name="user_add_user_message_long">"নহাক দিভাইস অসি অহেনবা য়ুজরশীং হাপচিল্লগা অতোপ্পা মীশীংগা শরুক য়ামিন্নবা য়াই. য়ুজর অমমমগী মখোয় মশাগী স্পেস লৈজৈ, মদু মখোয়না মখোয় মশাগী এপশীং, ৱালপেপর, অমসুং অসুম্না মথং মথংগা লোয়ননা কস্টমাইজ তৌবা য়াই. য়ুজরশীংনা টেব্লেত সেটিংশীং চাননবা শেম্বসু য়াই মী খুদিংমক শোকহনবা Wi\u2011Fi গুম্বা.\n\nনহাক্না অনৌবা যুজর অমা শেম্লবা মতুংদা, মী অদু সেটঅপ প্রোসেস অমা তৌবা তাই.\n\nযুজর অমনা হেক্তা অতোপ্পা য়ুজরশীং লোইনমক্কি মায়কৈদগী অপদেত তৌরবা এপ পার্মিসনশীং লৌবা য়াই."</string>
+<string name="user_add_user_message_short">"নহাক্না অনৌবা যুজর অমা শেম্লবা মতুংদা, মী অদু সেটঅপ প্রোসেস অমা তৌবা তাই.\n\nযুজর অমনা হেক্তা অতোপ্পা য়ুজরশীং লোইনমক্কি মায়কৈদগী অপদেত তৌরবা এপ পার্মিসনশীং লৌবা য়াই."</string>
+<string name="user_setup_dialog_title">"হৌজিক য়ুজর সেট অপ তৌগদ্রা?"</string>
+<string name="user_setup_dialog_message">"মী অদু টেব্লেত অদু লৌনবা অমসুং মখোয়গী স্পেস সেট অপ তৌনবা ফংই হায়বা শোয়হনগনু"</string>
+<string name="user_setup_profile_dialog_message">"হৌজিক প্রোফাইল সেট অপ তৌগদ্রা?"</string>
+<string name="user_setup_button_setup_now">"হৌজিক সেট অপ তৌ"</string>
+<string name="user_setup_button_setup_later">"হৌজিক নত্তে"</string>
+<string name="user_cannot_manage_message" product="tablet">"টেব্লেত অদুগী মপুখক্তংনা য়ুজরশীং মেনেজ তৌবা ঙম্মি."</string>
+<string name="user_cannot_manage_message" product="default">"ফোন অদুগী মপুখক্তংনা য়ুজরশীং মেনেজ তৌবা ঙম্মি."</string>
+<string name="user_cannot_add_accounts_message">"অথিংবা লৈবা প্রোফাইলশীংনা একাওন্টশীং হাপচিনবা য়াদে"</string>
+<string name="user_remove_user_menu">"মুথৎলু <xliff:g id="user_name">%1$s</xliff:g> দিভাইস অসিদগী"</string>
+<string name="user_new_user_name">"অনৌবা য়ুজর"</string>
+<string name="user_new_profile_name">"অনৌবা প্রোফাইল"</string>
+<string name="user_confirm_remove_self_title">"নশা নথন্তা মুথৎকদ্রা?"</string>
+<string name="user_confirm_remove_title">"য়ুজর লৌথোক্কদ্রা?"</string>
+<string name="user_profile_confirm_remove_title">"প্রোফাইল লৌথোক্কদ্রা?"</string>
+<string name="user_confirm_remove_self_message" product="tablet">"নহাক টেব্লেত অসিদা নহাক্কি স্পেস অমসুং দাতা মাংগনি. নহাক এক্সন অসি তৌখিবা হন্দোকপা য়ারোই."</string>
+<string name="user_confirm_remove_self_message" product="default">"নহাক ফোন অসিদা নহাক্কি স্পেস অমসুং দাতা মাংগনি. নহাক এক্সন অসি তৌখিবা হন্দোকপা য়ারোই."</string>
+<string name="user_confirm_remove_message" product="tablet">"য়ুজর অসিগী স্পেস অমসুং দাতা টেব্লেত অসিদগী মাংখিগনি. নহাক এক্সন অসি তৌবদগী হন্দোকপা য়ারোই."</string>
+<string name="user_confirm_remove_message" product="default">"য়ুজর অসিগী স্পেস অমসুং দাতা ফোন অসিদগী মাংখিগনি. নহাক এক্সন অসি তৌবদগী হন্দোকপা য়ারোই."</string>
+<string name="user_profile_confirm_remove_message" product="tablet">"প্রোফাইল অসিগী স্পেস অমসুং দাতা টেব্লেত অসিদগী মাংখিগনি. নহাক এক্সন অসি তৌবদগী হন্দোকপা য়ারোই."</string>
+<string name="user_profile_confirm_remove_message" product="default">"প্রোফাইল অসিগী স্পেস অমসুং দাতা ফোন অসিদগী মাংখিগনি. নহাক এক্সন অসি তৌবদগী হন্দোকপা য়ারোই."</string>
+<string name="user_adding_new_user">"অনৌবা য়ুজর হাপচিল্লি..."</string>
+<string name="user_delete_user_description">"য়ুজর মুথৎলু"</string>
+<string name="user_delete_button">"মুথৎলু"</string>
+<string name="application_restrictions">"এপশীং অমসুং কন্টেন্ট য়াহল্লু"</string>
+<string name="apps_with_restrictions_header">"অথিংবশীংগা লোয়নবা এপ্লিকেসনশীং"</string>
+<string name="apps_with_restrictions_settings_button">"এপ্লিকেসনগী সেটিংশীং চাওথোকউ"</string>
+<string name="home_app_uninstall_button">"এপ্লিকেসন অসি ইনস্টোল তৌবদগী লৌথোকউ"</string>
+<string name="only_one_home_message">"হোম সেটিংশীং অদু নহাক্না অতোপ্পা হোম এপ্লিকেসন অমা ইনস্টোল তৌদ্রিবা ফাওবা লোৎকনি."</string>
+<string name="global_change_warning" product="tablet">"সেটিং অসিনা টেব্লেত অসিদা য়ুজরশীং লোইনমক শোকহল্লি."</string>
+<string name="global_change_warning" product="default">"সেটিং অসিনা ফোন অসিদা য়ুজরশীং লোইনমক শোকহল্লি."</string>
+<string name="global_locale_change_title">"লোন হোংঙু"</string>
+<string name="global_font_change_title">"ফোন্ট চাওবা পিকপা হোংঙু"</string>
+<string name="nfc_payment_settings_title">"টেপ তৌ &amp; পীয়ু"</string>
+<string name="nfc_payment_no_apps">"টেপ অমখক্তংনা পীয়ু"</string>
+<string name="nfc_payment_learn_more">"হেন্না তম্মু"</string>
+<string name="nfc_payment_menu_item_add_service">"এপশীং ফংঙু"</string>
+<string name="nfc_payment_set_default_label">"নহাক্কি প্রিফরেন্স ওইনা সেট তৌগদ্রা?"</string>
+<string name="nfc_payment_set_default">"মতম চুপ্পদা শীজিন্নৌ <xliff:g id="app">%1$s</xliff:g> নহাক্না টেপ তৌবা &amp; পীগদ্রা?"</string>
+<string name="nfc_payment_set_default_instead_of">"মতম চুপ্পদা শীজিন্নৌ <xliff:g id="app">%1$s</xliff:g> গী মহুত্তা <xliff:g id="app">%2$s</xliff:g> নহাক্না টেপ তৌবা &amp; পীগদ্রা?"</string>
+<string name="restriction_settings_title">"অথিংবশীং"</string>
+<string name="restriction_menu_reset">"অথিংবশীং লৌথোকউ"</string>
+<string name="restriction_menu_change_pin">"PIN হোংঙু"</string>
+<string name="app_notifications_switch_label">"নোটিফিকেশনশীং উৎলু"</string>
+<string name="help_label">"মতেং"</string>
+<string name="user_account_title">"কন্টেন্টকি একাওন্ট"</string>
+<string name="user_picture_title">"ফোটো ID"</string>
+<string name="cell_broadcast_settings">"সেল ব্রোদকাস্টশীং"</string>
+<string name="user_restrictions_title">"এপ্লিকেসন অমসুং কন্টেন্ট অথিংবা থম্বশীং"</string>
+<string name="user_rename">"হন্না মমিং থোল্লু"</string>
+<string name="app_restrictions_custom_label">"এপকি অথিংবশীং সেট তৌ"</string>
+<string name="user_restrictions_controlled_by">"না কন্ত্রোল তৌবা <xliff:g id="app">%1$s</xliff:g>"</string>
+<string name="app_not_supported_in_limited">"এপ অসি অথিংবা লৈবা প্রোফাইলশীংদা সপোর্ট তৌদে"</string>
+<string name="app_sees_restricted_accounts">"এপ অসি নহাক্কি একাওন্টশীং চংবা ঙম্মি"</string>
+<string name="restriction_wifi_config_title">"Wi-Fi অমসুং মোবাইল"</string>
+<string name="restriction_wifi_config_summary">"Wi-Fi অমসুং মোবাইল সেটিংশীং শেমদোকপা য়াহল্লু"</string>
+<string name="restriction_bluetooth_config_title">"ব্লুটুথ"</string>
+<string name="restriction_bluetooth_config_summary">"ব্লুটুথ জুরা শেম্বা অমসুং সেটিংশীং শেমদোকপা য়াহল্লু"</string>
+<string name="restriction_nfc_enable_summary" product="tablet">"টেব্লেত অদুনা অতোপ্পা দিভাইস অমা শোকপা মতমদা দাতা এক্সচেনজ য়াহল্লু"</string>
+<string name="restriction_nfc_enable_summary" product="default">"ফোন অদুনা অতোপ্পা দিভাইস অমা শোকপা মতমদা দাতা এক্সচেনজ য়াহল্লু"</string>
+<string name="restriction_location_enable_title">"মফম"</string>
+<string name="restriction_location_enable_summary">"এপশীংনা নহাক্কি লৈফমগী পাও শীজিন্নশনু"</string>
+<string name="wizard_back">"মনিং হল্লু"</string>
+<string name="wizard_next">"মথং"</string>
+<string name="wizard_finish">"লোইশিল্লু"</string>
+<string name="user_image_take_photo">"ফোটো লৌ"</string>
+<string name="user_image_choose_photo">"গেল্লরিদগী ফোটো খল্লু"</string>
+<string name="recovery_update_title">"সিস্টেম সোফ্টৱায়র অপদেত"</string>
+<string name="recovery_update_message">"সিস্টেম সোফ্টৱায়রনা হৌজিক লৈরিবা সেক্যুরিতিগী খুদোংথিবা নংবা য়াবা, লনাইগী পাও মীয়ামদা লোন্না খঙহনবা য়াবা, দাতা মাংবা অমসুং লন-থুম মাংবা অমসুং অতোপ্পা তেক্ত-কায়দবগী সমস্যশীং লৈবা  অপদেত তৌই. অপদেত তৌবা অদু য়াই হায়নবা \'ওকে\' ক্লিক তৌবিয়ু, নত্ত্রবদি অপদেত মখা চত্থৌ, \'ককথৎলু\' ক্লিক তৌ."</string>
+<string name="recovery_sdacrd_status">"SD কার্দ লৈতে"</string>
+<string name="recovery_updatefile_status">"update.zip ফাইল অদু ফংখিদে"</string>
+<string name="recovery_update_level">"35% দগী হন্থবা কেপাসিতিনা অপগ্রেদ ওপরেসন হৌবা ঙম্লোই, হন্না চার্জ তৌবিয়ু"</string>
+<string name="recovery_no_package">"sd কার্দতা অপদেত পেকেজ ফাইল লৈতে"</string>
+<string name="network_preference_settings">"নেটৱার্ক মেনেজমেন্ট"</string>
+<string name="network_type_choosen">"হান্না শম্ননবা নেটৱার্ক অমা খল্লু"</string>
+<string name="default_cmcc_accesspoints_list">"দিফাওল্ট থাজবা এক্সেস পোইন্টশীং"</string>
+<string name="user_defined_accesspoints_list">"কস্টম ত্রস্ট এক্সেস পোইন্টশীং"</string>
+<string name="other_accesspoints_list">"মশক খঙদবা এক্সেস পোইন্টশীং"</string>
+<string name="wifi_mac">"Mac এদ্রেশ"</string>
+<string name="wifi_netmask">"নেটমাস্ক"</string>
+<string name="wifi_auto_connect_titile">"মথন্তা শম্নবা"</string>
+<string name="wifi_auto_connect_summary">"Wi-Fi হাংদোকপা মতমদা মশা মথন্তা এপ শম্নৌ"</string>
+<string name="wifi_trusted_ap">"থাজবা AP"</string>
+<string name="wifi_trusted_ap_category">"থাজবা AP অমসুং হান্না তৌগদবা"</string>
+<string name="wifi_trusted_ap_summary">"থাজবা AP অমসুং হান্না তৌগদবা অদু য়েংঙু"</string>
+<string name="wifi_move_ap_up">"মথক"</string>
+<string name="wifi_move_ap_down">"মখা"</string>
+<string name="wifi_save_update">"সেব তৌ"</string>
+<string name="wifi_disconnect">"শম্নবা ককথৎলু"</string>
+<string name="mobile_to_wlan_policy_title">"Wi-Fi কনেক্সন পোলিসি সেটিংশীং"</string>
+<string name="mobile_to_wlan_policy_category">"নেটৱার্ক দাইলোগ খল্লু"</string>
+<string name="mobile_to_wlan_policy_error">"সেল্লুলর সেট তৌবদা সমস্য অমা লৈরে"</string>
+<string name="mobile_to_wlan_popup_prefix">"Wi-Fi সিগ্নেল পুথোকপা"</string>
+<string name="mobile_to_wlan_popup_suffix">"Wi-Fi নেটৱার্ক অদু শীজিন্নগদ্রা, নেটৱার্ক অদু শীজিন্নবনা দাতা বিজনেস শরুক খরা মরক থৎপা থোকপা য়াই"</string>
+<string name="mobile_choice">"মোবাইল নেট খনবা"</string>
+<string name="mobile_to_wlan_popup_title">"থাজবা Wi-Fi AP অমা ফংঙু"</string>
+<string name="download_complete_filename">"দাওনলোদ তৌবা মপুং ফারে, ফাইল লম্বী অদু সেব তৌ:"</string>
+<string name="gps_to_wifi_yes">"হোই"</string>
+<string name="gps_to_wifi_no">"নত্তে"</string>
+<string name="gprs_access">"GPRS এক্সেস"</string>
+<string name="wlan_access">"Wi-Fi এক্সেস"</string>
+<string name="select_net_access_type">"নেটৱার্ক খনবগী তাকপশীং, নহাক্কি নেটৱার্ক এক্সেস খনবিয়ু"</string>
+<string name="select_trusted_ap_access">"থাজবা এক্সেস পোইন্টশীং"</string>
+<string name="select_trusted_ap_connect">"শম্নৌ"</string>
+<string name="download_wifi_unaviliable">"Wi-Fi নেটৱার্ক শম্নবা লৌথোকখ্রে, ইন্টরনেটতা মোবাইল নেটৱার্ক শীজিন্ননবা"</string>
+<string name="download_select_gprs_yes">"হোই"</string>
+<string name="download_select_gprs_no">"নত্তে"</string>
+<string name="wlan_not_available">"Wi-Fi ফংদে, মোবাইল নেটৱার্ক শীজিন্নগদ্রা"</string>
+<string name="mobile_net_yes">"হোই"</string>
+<string name="mobile_net_no">"নত্তে"</string>
+<string name="key_index">"কী ইন্দেক্স"</string>
+<string name="wifi_unable_connect_network">"নেটৱার্কতা শম্নবা ঙমদ্রে"</string>
+<string name="wifi_network_mask">"নেটমাস্ক"</string>
+<string name="wifi_ip_settings_invalid_network_mask">"চৎনবা নেটমাস্ক এদ্রেশ অমা টাইপ তৌ."</string>
+<string name="trusted_ap_list_null">"থাজবা এপ নত্তে!"</string>
+<string name="wep_password_tip_text">"5, 13, 16 ASCII কেরেক্তরশীং ইনপুত তৌবিয়ু নত্ত্রগা 10, 26, 32 HEX কেরেক্তরশীং WEP ওথ গী."</string>
+<string name="mobile_data_connect_disable">"নত্তে"</string>
+<string name="mobile_data_connect_enable">"হোই"</string>
+<string name="network_disconnect_title">"নোটিশ"</string>
+<string name="network_disconnect_message">"Wi-Fi নেটৱার্ক শম্নবা লৌথোক্লে.\nমোবাইল দাতা ফাওনা শম্নগদ্রা? \nনহাক্কি দাতা প্লান লৈত্রবদি, মদু অহেনবা চার্জশীং তিংবা য়াই."</string>
+<string name="swtichmachine">"টাইমর স্বিচ মেছিন"</string>
+<string name="power_on">"পাৱর ওন"</string>
+<string name="power_off">"পাৱর থাদে"</string>
+<string name="every_day">"নুমিৎ খুদিংগী"</string>
+<string name="never">"কৈদৌঙৈদা ওইদবা"</string>
+<string name="done">"তৌখ্রে"</string>
+<string name="revert">"হল্লকপা"</string>
+<string name="time">"মতম"</string>
+<string name="alarm_repeat">"হন্না তৌ"</string>
+<string name="set_alarm">"অলার্ম সেট তৌ"</string>
+<string name="set_alarm_on">"অলার্ম ওন সেট তৌ"</string>
+<string name="set_alarm_off">"অলার্ম ওফ সেট তৌ"</string>
+<string name="day">"নুমিৎ 1"</string>
+<string name="days">"<xliff:g id="days">%s</xliff:g> নুমিৎশীং"</string>
+<string name="hour">"পুং 1"</string>
+<string name="hours">"<xliff:g id="hours">%s</xliff:g> পুংশীং"</string>
+<string name="minute">"মিনট 1"</string>
+<string name="minutes">"<xliff:g id="minutes">%s</xliff:g> মিনটশীং"</string>
+<string name="alarm_klaxon_service_desc">"অলার্মশীংগী সাওন্দ প্লেবেক সার্ভিস DeskClock তা সেট তৌরে."</string>
+<string name="alarm_alread_exist">"টাইমর স্বিচ মেছিন <xliff:g id="time">%s</xliff:g> হান্নদগী লৈ, অতোপ্পা মতম অমা সেট তৌবিয়ু"</string>
+<string name="hardware_version">"হার্দৱায়র ভর্সন"</string>
+<string name="choose_sub">"SIM খল্লু"</string>
+<string name="mobile_network_settings_other">"অতোপ্পা"</string>
+<string name="applications_manager">"এপ্লিকেশন মেনেজর"</string>
+<string name="tasks_manager">"টাস্ক শীংগী মেনেজর"</string>
+<string name="go_to_app">"এপতা চৎলু"</string>
+<string name="audio_profiles">"ওদিও প্রোফাইলশীং"</string>
+<string name="font_setting_title">"ফোন্ট"</string>
+<string name="font_setting_tab_sys">"ফোন্ট শেম শারে"</string>
+<string name="font_setting_tab_usr">"য়ুজর ফোন্ট"</string>
+<string name="font_setting_menu_add">"ফোন্ট হাপচিল্লু"</string>
+<string name="font_setting_menu_reset">"দিফাওল্ট ফোন্ট হন্না সেট তৌ"</string>
+<string name="font_setting_default_font">"দিফাওল্ট ফোন্ট"</string>
+<string name="font_setting_menu_delete">"ফোন্ট মুথৎলু"</string>
+<string name="font_setting_no_fonts">"ফোন্টশীং লৈতে"</string>
+<string name="font_setting_dialog_delete">"মুথৎলু"</string>
+<string name="font_setting_dialog_deleting">"মুথৎলি"</string>
+<string name="font_setting_dialog_delete_confirmation">"মুথৎকদ্রা?"</string>
+<string name="font_setting_dialog_delete_confirmation_and_reset">"ফোন্ট অসি হৌজিক শীজিন্নরি, দিফাওল্ট ফোন্ট অদু মুথৎলবা মতুং, মুথৎপা চত্থবা মতুংদা শীজিন্নগদ্রা?"</string>
+<string name="font_setting_dialog_import">"অনৌবা ফোন্ট পুশিল্লকউ"</string>
+<string name="font_setting_dialog_importing">"অনৌবা ফোন্ট পুশিল্লক্লি"</string>
+<string name="font_setting_dialog_set_font">"অনৌবা ফোন্ট সেট তৌ"</string>
+<string name="font_setting_dialog_set_font_confirmation">"ফোন্ট অসি শীজিন্নগদ্রা?"</string>
+<string name="font_setting_dialog_set_default">"দিফাওল্ট ফোন্ট সেট তৌ"</string>
+<string name="font_setting_dialog_set_default_confirmation">"দিফাওল্ট ফোন্ট শীজিন্নগদ্রা?"</string>
+<string name="font_setting_not_selected">"নহাক্না অহানবদা মুথৎপা পাম্বা ফোন্টশীং অদু খনবিয়ু"</string>
+<string name="font_setting_not_enable">"লানখ্রে, ফোন্ট অসি য়াহন্দে, অতোপ্পশীং পুশিনবিরকউ"</string>
+<string name="font_setting_is_current">"মসি হান্নদগী হৌজিক্কি ফোন্ট ওইরে"</string>
+<string name="font_setting_is_contant">"ফোন্ট অসি হান্নদগী লৈ"</string>
+<string name="font_setting_name_too_long">"ফোন্ট অসিগী মমিং কা হেন্না শাংমল্লি,  কেরেক্তর 75 তগী হেনবা য়ারোই, মমিং হন্না থোনবিয়ু"</string>
+<string name="uplink_rate">"থিওরেটিকেল অপলিঙ্ক রেত: <xliff:g id="maxuprate">%s</xliff:g>, হৌজিক লৈরিবা অপলিঙ্ক রেত: <xliff:g id="uprate">%s</xliff:g>ps"</string>
+<string name="downlink_rate">"থিওরেটিকেল দাওনলিঙ্ক রেত: <xliff:g id="maxdownrate">%s</xliff:g>, হৌজিক লৈরিবা দাওনলিঙ্ক রেত: <xliff:g id="downrate">%s</xliff:g>ps"</string>
+<string name="total_rate">"দাতা থাও: <xliff:g id="maxSend">%s</xliff:g>, দাতা ফংঙু: <xliff:g id="maxReceive">%s</xliff:g>"</string>
+<string name="usb_settings">"USB সেটিংশীং"</string>
+<string name="usb_charge_only">"চার্জ তৌবা খক্তং"</string>
+<string name="usb_charge_only_summary">"USB শম্নবা মতমদা চার্জ তৌবা খক্তংগী মোদ শীজিন্নৌ"</string>
+<string name="usb_charge_only_storage_active_subtext">USB স্টোরেজ শীজিন্নবা মতমদা চার্জ তৌবা খক্তং য়াদে"</string>
+<string name="usb_charge_only_notification">"চার্জ ওইনখক্তং শম্নৈ"</string>
+<string name="usb_storage">"USB স্টোরেজ"</string>
+<string name="usb_storage_summary">"USB মাস স্টোরেজ য়াহল্লু"</string>
+<string name="ums_settings">"UMS সেটিংশীং"</string>
+<string name="ums_mounted_setting">"হৌজিক ums PC দা থাঙ্গৎলু, ঙাইবিয়ু..."</string>
+<string name="ums_unmounted_setting">"হৌজিক ums PC দগী থাংথৌ, ঙাইবিয়ু..."</string>
+<string name="usb_virtual_drive">"USB ভর্চুয়েল দ্রাইব"</string>
+<string name="usb_virtual_drive_summary">"USB ভর্চুয়েল দ্রাইব য়াহল্লু"</string>
+<string name="remember_choice">"ঐহাক্না খনবা নিংশিংঙু"</string>
+<string name="remember_choice_summary">"ঐনা খনবা নিংশিংঙু অমসুং মথংদা থোকপদা নিংশিংবা ফঙ্কসন অদু মশা মথন্তা স্টার্ট তৌ"</string>
+<string name="internal_format">"মোবাইলগী মনুংগী স্টোরেজ মুথৎলু"</string>
+<string name="internal_format_summary">"ম্যুজিক অমসুং ফোটোশীং গুম্বা, মোবাইলগী অদুগী মনুংগী স্টোরেজগী দাতা লোইনমক মুথৎলু"</string>
+<string name="media_format_title_internal">"মনুংগী স্টোরেজ মুথৎলু"</string>
+<string name="media_format_desc_internal">"মনুংগী স্টোরেজ লোইনমক মুথৎকদ্রা? নহাক মাংগনি <b>লোইনমক</b> স্টোর তৌবা দাতা!"</string>
+<string name="media_format_button_text_internal">"মনুংগী স্টোরেজ মুথৎলু"</string>
+<string name="media_format_final_desc_internal">"মনুংগী স্টোরেজ অদু মুথৎলু, মফম অদুদা স্টোর তৌবা ফাইলশীং লোইনমক মুথৎকদ্রা? নহাক এক্সন অসি হন্না হন্দোকপা য়াদে!"</string>
+<string name="delete_file_warning">"খল্লবা ফাইলশীং অদু নত্ত্রগা দাইরেক্তরিশীং মুথৎপা মখা চত্থগদ্রা?"</string>
+<string name="sdcard_not_available">"SD কার্দ ফংদে"</string>
+<string name="network_settings_tab">"নেটৱার্ক"</string>
+<string name="more_settings_tab">"হেন্না"</string>
+<string name="device_settings_tab">"ঐহাক্কি দিভাইসশীং"</string>
+<string name="personal_settings_tab">"ইশাগী ওইবা"</string>
+<string name="individual_title">"ইন্দিবিদুয়েসন"</string>
+<string name="language_time_title">"লোন &amp; মতম"</string>
+<string name="about_title">"মরমদা"</string>
+<string name="text_blue">"ব্লুটুথ"</string>
+<string name="text_gps">"LBS"</string>
+<string name="text_sync">"সিঙ্ক তৌ"</string>
+<string name="text_bright">"লংবগী ফিভম"</string>
+<string name="simslotcfg_title">"WCDMA কার্দ সেটিংশীং"</string>
+<string name="simslotcfg_sub_summary">"WCDMA কার্দ খল্লু, রীবুত দরকার ওই!"</string>
+<string name="wifi_eap_sim_slots">"SIM স্লোত"</string>
+<string name="wifi_eap_sim_slot1">"SIM স্লোত 1"</string>
+<string name="wifi_eap_sim_slot2">"SIM স্লোত 2"</string>
+<string name="toast_datatime_error">"তারিখ মতমগী মরমদা নহাক্কি সেটিংশীং মরম চাবা রেনজ অমদা লৈতে."</string>
+<string name="install_credentials">"সার্তিফিকেতশীং ইনস্টোল তৌ"</string>
+<string name="cancel_select_all">"লোইনমক ককথৎলু"</string>
+<string name="title_delete_other_file">"মখল মখাগী য়াওরিবা ফাইলশীং মুথৎলু"</string>
+<string name="msg_deleteing_other_file">"মখল মখাগী য়াওরিবা ফাইলশীং হৌজিক মুথৎলি."</string>
+<string name="timerpower_afternoon">"pm"</string>
+<string name="timerpower_morning">"am"</string>
+<string name="widget_toast_airplane_is_on_wlan">"ফোন অদু এয়রপ্লেন মোদতা লৈরিঙৈদা নহাক Wifi শীজিন্নবা য়াদে."</string>
+<string name="widget_toast_airplane_is_on_bt">"ফোন অদু এয়রপ্লেন মোদতা লৈবা মতমদা ব্লুটুথ শীজিন্নবা য়াদে."</string>
+<string name="memory_video_usage">"ভিদিও"</string>
+<string name="master_clear_level">"30% দগী হন্থবা কেপাসিতি, ফোন হন্না সেট তোবগী ওপরেসন চত্থগদ্রা?"</string>
+<string name="factory_dialog_title">"খুদক্তা"</string>
+<string name="confirm">"ওকে"</string>
+<string name="softap_bt_cannot_coexist">"ব্লুটুথ য়াহনবা নত্ত্রগা থাবা মতমদা, সোফটেপ অদু থবক তৌবা ঙমদে, নহাক সোফটেপ অদু শীজিন্নবা পাম্লবদি, ব্লুটুথ অদু য়াহন্দে হায়বা শোয়হনবিগনু."</string>
+<string name="bt_softap_cannot_coexist">"সোফ্টেপ য়াহনবা মতমদা নত্ত্রগা থাবা মতমদা, ব্লুটুথ থবক তৌবা ঙম্লোই, নহাক ব্লুটুথ অদু শীজিন্নবা পাম্লবদি, সোফ্টেপ অদু য়াহন্দ্রে হায়বা শোয়হনবিগনু."</string>
+<string name="hotspot">"Wi-Fi হোতস্পোত"</string>
+<string name="hotspot_settings">"Wi-Fi হোতস্পোত সেট অপ তৌ"</string>
+<string name="hotspot_connected_stations">"য়ুজরশীং শম্নরে"</string>
+<string name="hotspot_no_connected_station">"0 শম্নবা য়ুজর"</string>
+<string name="hotspot_blocked_stations">"ব্লোক তৌবা য়ুজরশীং"</string>
+<string name="hotspot_no_blocked_station">"0 ব্লোক তৌবা য়ুজর"</string>
+<string name="block">"থিংঙু"</string>
+<string name="unblock">"ব্লোক তৌবা লৌথোকউ"</string>
+<string name="delete_applications">"এপ্লিকেসনশীং মুথৎলু"</string>
+<string name="uninstall">"ইনস্টোল তৌবা লৌথোকউ"</string>
+<string name="beatch_no_select_uninstall">"বেতচ ইনস্টোল তৌবা লৌথোকউ"</string>
+<string name="cancle_select_all">"লোইনমক খনবা ককথৎলু"</string>
+<string name="beatch_uninstall">"বেতচ ইনস্টোল তৌবা লৌথোকউ (<xliff:g id="UNINSTALL_DESCRIPTION">%1$s</xliff:g>)"</string>
+<string name="confirm_beatch_uninstall_message">"নহাক ইনস্টোল তৌবা লৌথোকপা কনফার্ম তৌব্রা <xliff:g id="UNINSTALL_DESCRIPTION">%1$s</xliff:g> এপ্লিকেসনশীং？"</string>
+<string name="confirm_beatch_one_uninstall_message">"নহাক ইনস্টোল তৌবা লৌথোকপা কনফার্ম তৌব্রা <xliff:g id="UNINSTALL_DESCRIPTION">%1$s</xliff:g> এপ্লিকেসন？"</string>
+<string name="uninstalling_message">"ইনস্টোল তৌবা লৌথোকউ，ঙাইবিয়ু..."</string>
+<string name="uninstall_done">""<xliff:g id="UNINSTALL_DONE">%1$s</xliff:g> এপ্লিকেসনশীং ইনস্টোল তৌবা লৌথোকপা তৌখ্রে"</string>
+<string name="uninstall_one_app_done">""<xliff:g id="UNINSTALL_DONE">%1$s</xliff:g> এপ্লিকেসনশীং ইনস্টোল তৌবা লৌথোকপা তৌখ্রে"</string>
+<string name="confirm_one_uninstall_message">"নহাক ইনস্টোল তৌবা লৌথোকপা কনফার্ম তৌব্রা <xliff:g id="UNINSTALL_DESCRIPTION">%1$s</xliff:g> এপ্লিকেসন？"</string>
+<string name="sort_order_time">"মতমগী মতুং ইন্না শিল্লু"</string>
+<string-array name="sort_type">
+<item>"চাওবা পিকপা"</item>
+<item>"মমিং"</item>
+<item>"মতম"</item>
+</string-array>
+<string name="DM_config">"CMCC হেনগৎহনবা য়োনবা-মতুংগী সার্ভিস"</string>
+<string name="DM_config_summary">"পাৱর থাবা মতমদা মশা মথন্তা স্টার্ট তৌবা শেম্মু"</string>
+<string name="softap_need_mobile_data_enabled">"পুবা য়াবা Wi-Fi হোতস্পোত মোবাইল দাতা কনেক্ট দরকার ওই, মমলশীং হেন্না তিংবা য়াই."</string>
+<string name="show_crash_report_summary">"স্ক্রীনদা ক্রাশ রিপোর্ট উহল্লু"</string>
+<string name="show_crash_report">"ক্রাশ রিপোর্ট উহল্লু"</string>
+<string name="sd_eject_usb">"শরুক য়ামিন্নবা স্টোরেজ থাংথৌ"</string>
+<string name="sd_eject_summary_usb">"মনুংগী USB স্টোরেজ অদু থাংথৌ"</string>
+<string name="sd_insert_summary_usb">"USB স্টোরেজ থাঙ্গৎনবা থিংজিল্লু"</string>
+<string name="sd_mount_usb">"USB স্টোরেজ থাঙ্গৎলু"</string>
+<string name="sd_format_usb">"USB স্টোরেজ মুথৎলু"</string>
+<string name="sd_format_summary_usb">"ম্যুজিক অমসুং ফোটোশীংগুম্বা, মনুংগী USB স্টোরেজদা লৈবা দাতা লোইনমক মুথৎলু"</string>
+<string name="dlg_confirm_unmount_title_usb">"USB স্টোরেজ থাংথগদ্রা?"</string>
+<string name="dlg_confirm_unmount_text_usb">"নহাক USB স্টোরেজ অদু থাংথরবদি, নহাক্না শীজিন্নরিবা এপশীং খরা লেপখিগনি অমসুং USB স্টোরেজ অদু হন্না থাঙ্গৎতরিবা ফাওবা ফংদবা য়াই."</string>
+<string name="dlg_error_unmount_text_usb">"USB স্টোরেজ থাংথবা ঙমদে. কোন্না হন্না হোৎনৌ."</string>
+<string name="unmount_inform_text_usb">"USB স্টোরেজ থাংথরগনি."</string>
+<string name="move_app_to_internal_sdcard" product="default">"মনুংগী SD কার্দতা মফম হোংঙু"</string>
+<string name="battery_percentage">"চার্জগী পর্সেন্টেজ"</string>
+<string name="stroage_not_mounted">"স্টোরেজ অদু থাঙ্গৎতে"</string>
+<string name="do_not_prompt_text">"প্রোমপ্ট তৌগনু"</string>
+<string name="connect_to_cmcc_ap_message">"শম্নবা চাইনা মোবাইল Wi-Fi অদু, মখা তানা শীজিন্নবনা Wi-Fi ত্রাফিক ফীশীং পীবা য়াই"</string>
+<string name="show_dialog_connect_to_cmcc_title">"শম্নবা প্রোমপ্ট"</string>
+<string name="show_dialog_connect_to_cmcc_summary">"দিসপ্লে CMCC প্রোমপ্ট অদুদা শম্নরে"</string>
+<string name="reset_wifi_policy_show_dialog_title">"রিকোভরি খুদক্তা"</string>
+<string name="reset_wifi_policy_show_dialog_toast_message">"হান্নগিদা হনজিনখ্রে"</string>
+<string name="airplane_mode_wifi_notification">"নোটিফিকেশন"</string>
+<string name="airplane_mode_wifi_notification_message">"Wi-Fi অসি এয়রপ্লেন মোদতা খুৎনা হাংদোকপা য়াই"</string>
+<string name="not_ask_again">"কৈদৌঙৈদা হিন্ট তৌগনু"</string>
+<string name="ask_next_time">"মথংদা থোকপা মতমদা হংঙু"</string>
+<string name="network_id_illegal_character">"চৎনবা নেটৱার্ক আইদি অমা টাইপ তৌবিয়ু"</string>
+<string name="max_input_character">"খ্বাইদগী য়াম্বদু কেরেক্তর 512 নি"</string>
+<string name="tilte_input_more">"লানখ্রে, কেরেক্তর 512 খক্তং ইনপুত তৌবা য়াই"</string>
+<string name="weak_wifi_signal_title">"শম্নবা AP সিগ্নেল অশি শোল্লি"</string>
+<string name="weak_wifi_signal_message">"শম্নবা ap সিগ্নেল অদু শোল্লি, নহাক অতোপ্পা থাজবা এপ শম্নবা পাম্ব্রা? মসিনা দাতা বিজনেস শরুক খরা মরক থৎপা য়াই.\nঅফংবা এক্সেস পোইন্টশীং:"</string>
+<string name="wifi_set_time_alarm_warning">"মথন্তা শম্নবা অমসুং শম্নবা ককথৎপা মতম অনিদু চপ মান্নরোইদবনি"</string>
+<string name="wifi_auto_roam">"মশা মথন্তা রোম"</string>
+<string name="header_category_common">"ময়ামগী ওইবা"</string>
+<string name="sim_settings_title">"SIM কার্দশীং"</string>
+<string name="current_input_method_pikel">"হৌজিক্কি কীবোর্দ"</string>
+<string name="save">"সেব তৌ"</string>
+<string name="name_too_long">"মমিং কা হেন্না শাংমনখ্রে, মদু 50 দগী হন্থগদবনি."</string>
+<string name="sim_editor_title">"SIM স্লোত %1$d"</string>
+<string name="voice_broadcast_settings">"খোনজেলগী সেটিংশীং"</string>
+<string name="voice_broadcast_settings_tile">"খোনজেলগী ব্রোদকাস্ট"</string>
+<string name="uninstall_app_settings">"এপ্লিকেসনশীং মুথৎলু"</string>
+<string name="voice_menu">"খোনজেলগী মেনু"</string>
+<string name="voice_date">"খোনজেলগী তাং"</string>
+<string name="voice_call">"ভোইস কোল"</string>
+<string name="voice_contacts">"খোনজেলগী কন্টেক্তশীং"</string>
+<string name="voice_incall">"খোনজেল ইনকোল"</string>
+<string name="voice_message">"খোনজেলগী মেসেজ"</string>
+<string name="default_feature_bar_options">"ওপসনশীং"</string>
+<string name="default_feature_bar_back">"মনিং হল্লু"</string>
+<string name="default_feature_bar_center">"খল্লু"</string>
+<string name="sim_status_title">"SIM স্টেটস"</string>
+<string name="imei_information_title">"IMEI পাও"</string>
+<string name="slot_number">"(স্লোত <xliff:g id="slot_num">%1$d</xliff:g>)"</string>
+<string name="lock_settings_title_pikel">"দিভাইস সেক্যুরিতি"</string>
+<string name="owner_info_settings_title_pikel">"স্ক্রীন মেসেজ লোক তৌ"</string>
+<string name="phone_memory_title">"মনুংগী স্টোরেজ"</string>
+<string name="phone_memory_category_title">"মনুংগী স্টোরেজ"</string>
+<string name="sdcard_memory_title">"পুবা য়াবা স্টোরেজ"</string>
+<string name="manage_app_settings_category">"লিস্ট খায়দোক্নবা পানশিল্লু"</string>
+<string name="sim_slot_empty">"SIM ইহাং হাংই"</string>
+<string name="data_switch_started">"দাতা SIM ওল্লি, মসি মিনট অমা ফাওবা চংবা য়াই..."</string>
+<string name="data_usage_menu_cellular_networks">"সেল্লুলর নেটৱার্কশীং"</string>
+<string name="data_usage_disclaimer">"কেরিয়র দাতা একাওন্ট তৌবা নহাক্কি দিভাইসতগী খেন্নরম্বা য়াই."</string>
+<string name="data_usage_app">"এপ শীজিন্নবা"</string>
+<string name="sim_editor_name">"SIM মমিং"</string>
+<string name="sim_name_hint">"SIM মমিং মেনশিল্লু"</string>
+<string name="color_title">"মচু"</string>
+<string name="sim_editor_carrier">"কেরিয়র"</string>
+<string name="sim_editor_number">"নম্বর"</string>
+<string name="mouse_control_applications">"মাওজ কন্ত্রোল"</string>
+<string name="mouse_control_exit">"নহাক দাতা লোইনমক সেব তৌগনি হায়বা শোয়দ্রব্রা?"</string>
+<string name="mouse_control_title">"মাওজ কন্ত্রোল য়াহন্নবা এপশীং অদু খনবিয়ু."</string>
+<string name="current_label_phone">"ফোন"</string>
+<string name="not_any_file">"ফাইল অমত্তা লৈতে"</string>
+<string name="settings_more_sprd">"হেন্না"</string>
+<string name="enable_data_connection">"দাতা শম্নবা য়াহল্লু"</string>
+<string name="disable_data_connection">"দাতা শম্নবা য়াহনগনু"</string>
+</resources>

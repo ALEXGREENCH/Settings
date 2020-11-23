@@ -1,0 +1,2266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="yes">"हय"</string>
+<string name="no">"ना"</string>
+<string name="create">"तयार करात"</string>
+<string name="allow">"मान्य"</string>
+<string name="deny">"न्हयकार"</string>
+<string name="device_info_default">"अनवळखी"</string>
+<plurals name="show_dev_countdown">
+<item quantity="one">"तुमी आसा <xliff:g id="step_count">%1$d</xliff:g>  पावला डेवलोपर जावपा पासून पयस आसात."</item>
+<item quantity="other">"तुमी आसा <xliff:g id="step_count">%1$d</xliff:g> पावला डेवलोपर जावपा पासून पयस आसात."</item>
+</plurals>
+<string name="show_dev_on">"तुमी आतां डेवलोपर जाल्यात!"</string>
+<string name="show_dev_already">"गरज ना, तुमी ह्या आदीच डेवलोपर आसात."</string>
+<string name="header_category_wireless_networks">"वायरलेस &amp; नेटवर्कां"</string>
+<string name="header_category_device">"यंत्र"</string>
+<string name="header_category_personal">"वैयक्तीक"</string>
+<string name="header_category_system">"यंत्रणा"</string>
+<string name="turn_on_radio">"रेडीयो चालू करात"</string>
+<string name="turn_off_radio">"रेडीयो बंद"</string>
+<string name="sms_over_ims_on">"IMS वयर एसएमएस चालू करात"</string>
+<string name="sms_over_ims_off">"IMS वयर एसएमएस बंद करात"</string>
+<string name="ims_reg_required_on">"IMS नोंदणी चालू करपाची आवश्यकताय आसा"</string>
+<string name="ims_reg_required_off">"IMS नोंदणी बंद करपाची आवश्यकताय आसा"</string>
+<string name="lte_ram_dump_on">"lte रॅम डंप चालू करात"</string>
+<string name="lte_ram_dump_off">"lte रॅम डंप बंद करात"</string>
+<string name="radioInfo_menu_viewADN">"SIM नामो पुस्तक दाखयात"</string>
+<string name="radioInfo_menu_viewFDN">"फीक्स्ड डायलींग क्रमांक दाखयात"</string>
+<string name="radioInfo_menu_viewSDN">"सेवा डायलींग क्रमांक दाखयात"</string>
+<string name="radioInfo_menu_getPDP">"PDP वळेरी मेळयात"</string>
+<string name="radioInfo_service_in">"सेवेत"</string>
+<string name="radioInfo_service_out">"लेवेच्या भायर"</string>
+<string name="radioInfo_service_emergency">"फक्त आपत्कालीन कॉल्स"</string>
+<string name="radioInfo_service_off">"रेडीयो बंद"</string>
+<string name="radioInfo_roaming_in">"रोमींग"</string>
+<string name="radioInfo_roaming_not">"रॉमींग ना"</string>
+<string name="radioInfo_phone_idle">"बेकार"</string>
+<string name="radioInfo_phone_ringing">"रींगीग"</string>
+<string name="radioInfo_phone_offhook">"कॉल चालू आसा"</string>
+<string name="radioInfo_data_disconnected">"जोडणी तोडली"</string>
+<string name="radioInfo_data_connecting">"जोडटा"</string>
+<string name="radioInfo_data_connected">"जोडले"</string>
+<string name="radioInfo_data_suspended">"निलंबीत"</string>
+<string name="radioInfo_unknown">"अनवळखी"</string>
+<string name="radioInfo_display_bytes">"बायट्स"</string>
+<string name="sdcard_unmount" product="nosdcard">"USB साठो अनमांवट करात"</string>
+<string name="sdcard_unmount" product="default">"SD कार्ड अनमांवट करात"</string>
+<string name="sdcard_format" product="nosdcard">"USB सांठो पुसून वडय"</string>
+<string name="sdcard_format" product="default">"SD कार्ड पुसून वडय"</string>
+<string name="small_font">"ल्हान"</string>
+<string name="medium_font">"मध्यम"</string>
+<string name="large_font">"व्हड"</string>
+<string name="font_size_save">"बरे"</string>
+<string name="sdcard_setting" product="nosdcard">"USB स्टोरेज"</string>
+<string name="sdcard_setting" product="default">"SD कार्ड"</string>
+<string name="battery_info_status_label">"बॅटरीची स्थिती:"</string>
+<string name="battery_info_power_label">"पॉवर प्लग:"</string>
+<string name="battery_info_scale_label">"बॅटरीचे प्रमाण:"</string>
+<string name="battery_info_level_label">"बॅटरीचो पांवडो:"</string>
+<string name="battery_info_health_label">"बॅटरीची भलायकी:"</string>
+<string name="battery_info_technology_label">"बॅटरीचे तंत्रगिन्यान:"</string>
+<string name="battery_info_voltage_label">"बॅटरीची वॉल्टेज:"</string>
+<string name="battery_info_temperature_label">"बॅटरीचे तापमान:"</string>
+<string name="battery_info_temperature_units">"\u00B0 C"</string>
+<string name="battery_info_uptime">"पूट केल्ल्या उपरांत वेळ:"</string>
+<string name="battery_info_awake_battery">"बॅटरी वेलो जागो रावपाचो वेळ:"</string>
+<string name="battery_info_awake_plugged">"चार्च जाता आसतना जागो रावपाचो वेळ:"</string>
+<string name="battery_info_screen_on">"स्र्कीन चाली वेळ:"</string>
+<string name="battery_info_status_unknown">"अनवळखी"</string>
+<string name="battery_info_status_charging">"चार्जींग"</string>
+<string name="battery_info_status_charging_ac">"(एसी)"</string>
+<string name="battery_info_status_charging_wireless">"(तार नाशिल्ले)"</string>
+<string name="battery_info_status_discharging">"डिसचार्जिंग"</string>
+<string name="battery_info_status_not_charging">"चार्ज जायना"</string>
+<string name="battery_info_status_full">"पूर्ण"</string>
+<string name="battery_info_power_unplugged">"अनप्लगड"</string>
+<string name="battery_info_power_ac">"AC"</string>
+<string name="battery_info_power_wireless">"वायरलेस"</string>
+<string name="battery_info_power_ac_usb">"AC+USB"</string>
+<string name="battery_info_power_unknown">"अनवळखी"</string>
+<string name="battery_info_health_unknown">"अनवळखी"</string>
+<string name="battery_info_health_good">"बरी"</string>
+<string name="battery_info_health_overheat">"हिसपा भायर गरम"</string>
+<string name="battery_info_health_dead">"मृत"</string>
+<string name="battery_info_health_over_voltage">"वॉल्टेज चड"</string>
+<string name="battery_info_health_unspecified_failure">"अनवळखी चूक"</string>
+<string name="battery_info_health_cold">"थंड"</string>
+<string name="bluetooth">"Bluetooth"</string>
+<string name="bluetooth_is_discoverable">"लागीच्या सगल्या ब्लुटुथ यंत्रांक दिश्टी पडता (<xliff:g id="discoverable_time_period">%1$s</xliff:g>)"</string>
+<string name="bluetooth_is_discoverable_always">"लागीच्या सगल्या ब्लुटुथ यंत्रांक दिश्टी पडता"</string>
+<string name="bluetooth_not_visible_to_other_devices">"लागीच्या हेर ब्लुटुथ यंत्रांक दिश्टी पडना"</string>
+<string name="bluetooth_only_visible_to_paired_devices">"फकत पॅरड यंत्रांक दिश्टी पडता"</string>
+<string name="bluetooth_visibility_timeout">"दृश्यमानता वेळ मर्यादा सोपली"</string>
+<string name="bluetooth_lock_voice_dialing">"आवाज डायलींग लॉक करात"</string>
+<string name="bluetooth_lock_voice_dialing_summary">"स्क्रीन लॉक आसतना ब्लुटुथ डायलराचो उपेग लॉक करात "</string>
+<string name="bluetooth_devices">"ब्लुटुथ यंत्रां"</string>
+<string name="bluetooth_device_name">"यंत्राचे नांव"</string>
+<string name="bluetooth_device_details">"यंत्राचे सेटिंग्स"</string>
+<string name="bluetooth_profile_details">"प्रोफायल सेटिंग्स"</string>
+<string name="bluetooth_name_not_set">"नांव सेट करुंक ना, खात्याचे नांव वापरात"</string>
+<string name="bluetooth_scan_for_devices">"यंत्रा खातीर स्कॅन करात"</string>
+<string name="bluetooth_rename_device" product="tablet">"टॅबलेटीचें नांव परिवर्तन"</string>
+<string name="bluetooth_rename_device" product="default">"फोनाचें नांव परिवर्तन"</string>
+<string name="bluetooth_rename_button">"परतून नांव दियात"</string>
+<string name="bluetooth_disconnect_title">"जोडणी तोडात?"</string>
+<string name="bluetooth_disconnect_all_profiles">"हे तुमची जोडणी तोडटले:&lt;br&gt;&lt;b&gt;<xliff:g id="device_name">%1$s</xliff:g>&lt;/b&gt;"</string>
+<string name="bluetooth_disable_profile_title">"प्रोफायल अक्षम करात?"</string>
+<string name="bluetooth_disable_profile_message">"हे अक्षम करतले:&lt;br&gt;&lt;b&gt;<xliff:g id="profile_name">%1$s</xliff:g>&lt;/b&gt;&lt;br&gt;&lt;br&gt;हाचेकडल्यान:&lt;br&gt;&lt;b&gt;<xliff:g id="device_name">%2$s</xliff:g>&lt;/b&gt;"</string>
+<string name="bluetooth_connected">"जोडले"</string>
+<string name="bluetooth_connected_no_headset">"जोडलां (फोन ना)"</string>
+<string name="bluetooth_connected_no_a2dp">"जोडलां (मिडीया ना)"</string>
+<string name="bluetooth_connected_no_map">"जोडलां (संदेश प्रवेश ना)"</string>
+<string name="bluetooth_connected_no_headset_no_a2dp">"जोडलां (फोन वा मिडीया ना)"</string>
+<string name="bluetooth_disconnected">"जोडणी तोडली"</string>
+<string name="bluetooth_disconnecting">"जोडणी तोडता..."</string>
+<string name="bluetooth_connecting">"जोडटा..."</string>
+<string name="bluetooth_pairing">"पॅरींग..."</string>
+<string name="bluetooth_device">"नांव दिंवक नाशिल्ले ब्लुटुथ यंत्र"</string>
+<string name="progress_scanning">"सोदता"</string>
+<string name="bluetooth_no_devices_found">"लागसाराक ब्लुटुथ यंत्र दिश्टी पडुंक ना."</string>
+<string name="bluetooth_notif_ticker">"ब्लुटुथ पॅरींग विनंती"</string>
+<string name="bluetooth_notif_title">"पॅरींग विनंती"</string>
+<string name="bluetooth_notif_message">"वांगडा पॅयर करुंक स्पर्श करात <xliff:g id="device_name">%1$s</xliff:g>."</string>
+<string name="bluetooth_show_received_files">"स्विकारील्ल्यो फायली दाखयात"</string>
+<string name="bluetooth_ftp_switch_on">"FTP सर्वर चालू कर"</string>
+<string name="bluetooth_ftp_switch_off">"FTP सर्वर बंद कर"</string>
+<string name="bluetooth_ftp_acceptance_dialog_text">"%1$s हाका तुमच्या फायल स्थलांतर सर्वरांत प्रवेश करूंक जाय. %2$s हाका प्रवेश दिवं?"</string>
+<string name="bluetooth_ftp_acceptance_dialog_title">"फायल स्थलांतर प्रवेश विनंती"</string>
+<string name="device_picker">"ब्लुटुथ यंत्र निवडक"</string>
+<string name="bluetooth_permission_request">"ब्लुटुथ मान्यताय विनंती"</string>
+<string name="bluetooth_ask_enablement">"ॲपाक ब्लुटुथाचेर चलपाक जाय."</string>
+<string name="bluetooth_ask_discovery" product="tablet">"खातीर ॲप तुमचो टॅबलेट हेर ब्लुटुथ यंत्रांक दाखोवंक सोदता <xliff:g id="timeout">%1$d</xliff:g> सेकंद."</string>
+<string name="bluetooth_ask_discovery" product="default">"खातीर ॲप तुमचो फोन हेर ब्लुटुथ यंत्रांक दाखोवंक सोदता <xliff:g id="timeout">%1$d</xliff:g> सेकंद."</string>
+<string name="bluetooth_ask_lasting_discovery" product="tablet">"खातीर ॲप तुमचो टॅबलेट हेर ब्लुटुथ यंत्रांक दाखोवंक सोदता. हे तुमी उपरांत ब्लुटुथ सेटिंग्सात बदलूंक शकतात."</string>
+<string name="bluetooth_ask_lasting_discovery" product="default">"खातीर ॲप तुमचो फोन हेर ब्लुटुथ यंत्रांक दाखोवंक सोदता. हे तुमी उपरांत ब्लुटुथ सेटिंग्सात बदलूंक शकतात."</string>
+<string name="bluetooth_ask_enablement_and_discovery" product="tablet">"खातीर ॲप तुमचो ब्लुटुथ चालू करुंक आनी टॅबलेट हेर यंत्रांक दाखोवंक सोदता <xliff:g id="timeout">%1$d</xliff:g> सेकंद."</string>
+<string name="bluetooth_ask_enablement_and_discovery" product="default">"खातीर ॲप तुमचो ब्लुटुथ चालू करुंक आनी फोन हेर यंत्रांक दाखोवंक सोदता <xliff:g id="timeout">%1$d</xliff:g> सेकंद."</string>
+<string name="bluetooth_ask_enablement_and_lasting_discovery" product="tablet">"खातीर ॲप तुमचो ब्लुटुथ चालू करुंक आनी टॅबलेट हेर यंत्रांक दाखोवंक सोदता. हे तुमी उपरांत ब्लुटुथ सेटिंग्सात बदलुक शकतात."</string>
+<string name="bluetooth_ask_enablement_and_lasting_discovery" product="default">"खातीर ॲप तुमचो ब्लुटुथ चालू करुंक आनी फोन हेर यंत्रांक दाखोवंक सोदता. हे तुमी उपरांत ब्लुटुथ सेटिंग्सात बदलूंक शकतात."</string>
+<string name="bluetooth_turning_on">"ब्लुटुथ चालू करता..."</string>
+<string name="bluetooth_turning_off">"ब्लुटुथ बंद करता..."</string>
+<string name="bluetooth_auto_connect">"ऑटो - जोडणी"</string>
+<string name="bluetooth_connection_permission_request">"ब्लुटुथ जोडणी विनंती"</string>
+<string name="bluetooth_connection_notif_message">"जोडपाक स्पर्श करात \u0022<xliff:g id="device_name">%1$s</xliff:g>\u0022."</string>
+<string name="bluetooth_connection_dialog_text">"तुमकां जोडपाचे आसा \u0022<xliff:g id="device_name">%1$s</xliff:g>\u0022?"</string>
+<string name="bluetooth_phonebook_request">"फोन बुक प्रवेश विनंती"</string>
+<string name="bluetooth_pb_acceptance_dialog_text">"%1$s तुमचे संपर्क आनी कॉल इतिहासांत प्रवेश करुंक सोदता. प्रवेश दिवं %2$s?"</string>
+<string name="bluetooth_remember_choice">"परतून विचार नाकात"</string>
+<string name="bluetooth_pb_remember_choice">"परतून विचार नाकात"</string>
+<string name="bluetooth_map_request">"संदेश प्रवेश विनंती"</string>
+<string name="bluetooth_map_acceptance_dialog_text">"%1$s तुमच्या संदेशात प्रवेश करुंक सोदता. प्रवेश दिंव %2$s?"</string>
+<string name="date_and_time">"तारीख  &amp; वेळ सेटिंग्स"</string>
+<string name="choose_timezone">"वेळ क्षेत्र वेंचात"</string>
+<string name="normal_date_format">"क्षेत्रीय (<xliff:g id="date" example="12-31-2009">%s</xliff:g>)"</string>
+<string name="display_preview_label">"प्रीव्ह्यु:"</string>
+<string name="display_font_size_label">"फोन्टाचो आकार:"</string>
+<string name="intent_sender_sendbroadcast_text">"धाडात <xliff:g id="broadcast">broadcast</xliff:g>"</string>
+<string name="intent_sender_startactivity_text">"सुरु <xliff:g id="activity">activity</xliff:g>"</string>
+<string name="intent_sender_account_label">"खातें:"</string>
+<string name="proxy_settings_title">"प्रोक्सी"</string>
+<string name="proxy_clear_text">"साफ"</string>
+<string name="proxy_port_label">"प्रोक्सी पोर्ट"</string>
+<string name="proxy_exclusionlist_label">"खातीर प्रोक्सी बायपास करात"</string>
+<string name="proxy_defaultView_text">"मुलभूत परतून मेळयात"</string>
+<string name="proxy_action_text">"जाले"</string>
+<string name="proxy_hostname_label">"प्रोक्सी होस्टनांव"</string>
+<string name="proxy_error">"लक्ष दियात"</string>
+<string name="proxy_error_dismiss">"बरे"</string>
+<string name="proxy_error_invalid_host">"तुमी टायप केल्ले होस्ट नांव वैध ना."</string>
+<string name="proxy_error_invalid_exclusion_list">"वगळावपाची तुमी टायप केल्ली वळेरी योग्यपणान फोर्मेट करुंक ना. कोमान वेगळी केल्ली वगळपाची डोमेन वळेरी टायप करात."</string>
+<string name="proxy_error_empty_port">"तुमी पोर्ड फील्ड पूर्ण करपाची आवश्यकता आसा."</string>
+<string name="proxy_error_empty_host_set_port">"होस्ट फील्ड रीते आसल्यार पोर्ड फील्ड रीते आसूंक जाय."</string>
+<string name="proxy_error_invalid_port">"तुमी टायप केल्लो पोर्ट वैध ना."</string>
+<string name="proxy_warning_limited_support">"HTTP प्रोक्सी ब्रावजर वापरता मात हेर ॲपांनी वापरलो नासूंये."</string>
+<string name="proxy_url">"PAC URL: "</string>
+<string name="radio_info_signal_location_label">"थळ:"</string>
+<string name="radio_info_neighboring_location_label">"शेजारचो CID:"</string>
+<string name="radio_info_cellinfo_label">"सेलम्हायती:"</string>
+<string name="radio_info_data_attempts_label">"डेटा यत्न:"</string>
+<string name="radio_info_gprs_service_label">"GPRS सेवा:"</string>
+<string name="radio_info_roaming_label">"रोमींग:"</string>
+<string name="radio_info_imei_label">"IMEI:"</string>
+<string name="radio_info_call_redirect_label">"कॉल रीडायरेक्ट:"</string>
+<string name="radio_info_ppp_resets_label">"बुट केल्या उपरांत PPP रीसेटाचो आंकडो:"</string>
+<string name="radio_info_gsm_disconnects_label">"GSM जोडणी तोडता:"</string>
+<string name="radio_info_current_network_label">"सद्याचे नेटवर्क:"</string>
+<string name="radio_info_data_successes_label">"डेटा यशस्वी:"</string>
+<string name="radio_info_ppp_received_label">"PPP स्विकारले:"</string>
+<string name="radio_info_gsm_service_label">"GSM सेवा:"</string>
+<string name="radio_info_signal_strength_label">"सिग्नल शक्त:"</string>
+<string name="radio_info_call_status_label">"कॉलाची स्थिती:"</string>
+<string name="radio_info_ppp_sent_label">"PPP धाडले:"</string>
+<string name="radio_info_radio_resets_label">"रेडीयो रीसेट:"</string>
+<string name="radio_info_message_waiting_label">"संदेश वाट पळयता:"</string>
+<string name="radio_info_phone_number_label">"फोन क्रमांक:"</string>
+<string name="radio_info_band_mode_label">"रीओ बँड वेंचात"</string>
+<string name="radio_info_network_type_label">"नेटवर्काचो प्रकार:"</string>
+<string name="radio_info_set_perferred_label">"पसंतीचो नेटवर्क प्रकार सेट करात:"</string>
+<string name="radio_info_ping_ipaddr">" Ping  Ip नामो:"</string>
+<string name="radio_info_ping_hostname">"पींग होस्टनांव(www.google.com):"</string>
+<string name="radio_info_http_client_test">"HTTP अशील चाचणी:"</string>
+<string name="ping_test_label">"पींग टेस्ट रन करात"</string>
+<string name="radio_info_smsc_label">"SMSC:"</string>
+<string name="radio_info_smsc_update_label">"अद्ययावत"</string>
+<string name="radio_info_smsc_refresh_label">"रीफ्रेश"</string>
+<string name="radio_info_toggle_dns_check_label">"टोगल DNS तपासणी"</string>
+<string name="oem_radio_info_label">"OEM-निश्चीत केल्ली म्हायती/सेटिंग्स"</string>
+<string name="band_mode_title">"GSM/UMTS बॅंड सेट करात"</string>
+<string name="band_mode_loading">"बँड वळेरी लोड करता..."</string>
+<string name="band_mode_set">"सेट"</string>
+<string name="band_mode_failed">"अयशस्वी"</string>
+<string name="band_mode_succeeded">"यशस्वी"</string>
+<string name="sdcard_changes_instructions">"USB केबल परतून जोडल्यार बदल जातात."</string>
+<string name="sdcard_settings_screen_mass_storage_text">"USB मास सांठो सक्षम करात"</string>
+<string name="sdcard_settings_total_bytes_label">"वट्ट बायट्स:"</string>
+<string name="sdcard_settings_not_present_status" product="nosdcard">"USB सांठो अनमावंट करुंक ना."</string>
+<string name="sdcard_settings_not_present_status" product="default">"SD कार्ड ना."</string>
+<string name="sdcard_settings_available_bytes_label">"उपलब्ध बायट्स:"</string>
+<string name="sdcard_settings_mass_storage_status" product="nosdcard">"USB सांठो मास सांठो यंत्र म्हण वापरतात."</string>
+<string name="sdcard_settings_mass_storage_status" product="default">"SD कार्ड मास सांठो यंत्र म्हण वापरतात."</string>
+<string name="sdcard_settings_unmounted_status" product="nosdcard">"USB सांठो काडूंक आता सुरक्षीत आसा."</string>
+<string name="sdcard_settings_unmounted_status" product="default">"SD सांठो काडूंक आता सुरक्षीत आसा."</string>
+<string name="sdcard_settings_bad_removal_status" product="nosdcard">"USB सांठो वापरांत आसतना काडिल्लो!"</string>
+<string name="sdcard_settings_bad_removal_status" product="default">"SD सांठो वापरांत आसतना काडिल्लो!"</string>
+<string name="sdcard_settings_used_bytes_label">"वापरिल्ले बायट्स:"</string>
+<string name="sdcard_settings_scanning_status" product="nosdcard">"मिडीया खातीर USB साठो स्कॅन करता..."</string>
+<string name="sdcard_settings_scanning_status" product="default">"मिडीया खातीर SD कार्ड स्कॅन करता..."</string>
+<string name="sdcard_settings_read_only_status" product="nosdcard">"घातिल्लो युएसबी सांठवण फक्त वाचूंक मेळटा."</string>
+<string name="sdcard_settings_read_only_status" product="default">"घातिल्ले एसडी कार्ड फकत वाचूंक मेळटा."</string>
+<string name="skip_label">"वगळायात"</string>
+<string name="next_label">"फुडले"</string>
+<string name="language_picker_title">"भाशा"</string>
+<string name="activity_picker_label">"कृती वेंचात"</string>
+<string name="device_info_label">"यंत्राची म्हायती"</string>
+<string name="battery_info_label">"बॅटरीची म्हायती"</string>
+<string name="display_label">"स्क्रीन"</string>
+<string name="phone_info_label" product="tablet">"टॅबलेटीची म्हायती"</string>
+<string name="phone_info_label" product="default">"फोनाची म्हायती"</string>
+<string name="sd_card_settings_label" product="nosdcard">"USB स्टोरेज"</string>
+<string name="sd_card_settings_label" product="default">"SD कार्ड"</string>
+<string name="proxy_settings_label">"प्रोक्सी सेटिंग"</string>
+<string name="cancel">"रद्द"</string>
+<string name="settings_label">"सेटिंग्स"</string>
+<string name="settings_label_launcher">"सेटिंग्स"</string>
+<string name="settings_shortcut">"सेटिंग शॉटकर्ट"</string>
+<string name="airplane_mode">"एअरप्लेन स्थिती"</string>
+<string name="radio_controls_title">"आनीक..."</string>
+<string name="wireless_networks_settings_title">"अदीक"</string>
+<string name="radio_controls_summary">"वेवस्थापन Wi\u2011Fi, ब्लुटुथ, एअरप्लेन मोज, मोबायल नॅटवर्कां,  &amp; VPNs"</string>
+<string name="roaming">"डेटा रोमींग"</string>
+<string name="roaming_enable">"रोमींग आसतना डेटा सेवे कडेन जुळप"</string>
+<string name="roaming_disable">"रोमींग आसतना डेटा सेवे कडेन जुळप"</string>
+<string name="roaming_reenable_message">"तुमी डेटा रोमींग बंद दवरिल्ल्यान तुमची डेटा संपर्क बंद जाला "</string>
+<string name="roaming_turn_it_on_button">"चालू करात"</string>
+<string name="roaming_warning">"तुमी डेटा रोमींग चालू करतात तेन्ना तुमकां थाराविक रोमींग शुल्क लागू येता"</string>
+<string name="roaming_warning_multiuser" product="tablet">"तुमी डेटा रोमींग चालू करतात तेन्ना तुमकां थाराविक रोमींग शुल्क लागू येता!\n\nही सेटिंग ह्या टॅबलेटावेल्या सगळ्या वापरप्यांक लागू जाता"</string>
+<string name="roaming_warning_multiuser" product="default">"तुमी डेटा रोमींग चालू करतात तेन्ना तुमकां थाराविक रोमींग शुल्क लागू येता!\n\nही सेटिंग ह्या फोनांवेल्या सगळ्या वापरप्यांक लागू जाता"</string>
+<string name="roaming_reenable_title">"डेटा रोमींगेक अनुमती दिवची?"</string>
+<string name="networks">"ऑपरेटर वेंचप"</string>
+<string name="sum_carrier_select">"नेटवर्क ऑपरेटर वेंचून काडप"</string>
+<string name="date_and_time_settings_title">"तारीख &amp; वेळ"</string>
+<string name="date_and_time_settings_title_setup_wizard">"तारीख आनी वेळ सेट करप"</string>
+<string name="date_and_time_settings_summary">"तारीख, वेळ, वेळेचो प्रदेश, &amp;  प्रकार सेट करप"</string>
+<string name="date_time_auto">"आपसूक डेट &amp; वेळ"</string>
+<string name="date_time_auto_summaryOn">"नेटवर्कान उपलब्ध केल्लो वेळ वापरात"</string>
+<string name="date_time_auto_summaryOff">"नेटवर्कान उपलब्ध केल्लो वेळ वापरात"</string>
+<string name="zone_auto">"आपसूक वेळ प्रदेश"</string>
+<string name="zone_auto_summaryOn">"नेटवर्क दिता तो वेळ प्रदेश वापरात"</string>
+<string name="zone_auto_summaryOff">"नेटवर्क दिता तो वेळ प्रदेश वापरात"</string>
+<string name="date_time_24hour">"24-वराचे स्वरुप थारायात"</string>
+<string name="date_time_set_time">"वेळ सेट करात"</string>
+<string name="date_time_set_timezone">"वेळ प्रदेश वेचात"</string>
+<string name="date_time_set_date">"तारीख सेट करची"</string>
+<string name="date_time_date_format">"तारीख स्वरुप वेंचून काडा"</string>
+<string name="zone_list_menu_sort_alphabetically">"अक्षराप्रमाण वर्गीकरण"</string>
+<string name="zone_list_menu_sort_by_timezone">"वेळ प्रदेशा प्रमाण वर्गीकरण करात"</string>
+<string name="zone_list_menu_sort_by_pinyin">"चायनीज PinYinतल्यान सोर्ट"</string>
+<string name="date_picker_title">"तारीख"</string>
+<string name="time_picker_title">"वेळ"</string>
+<string name="biometric_weak_improve_matching_title">"मुख मॅचिंग सुदारणा"</string>
+<string name="biometric_weak_liveliness_title">"लायव्हनेस तपासप"</string>
+<string name="biometric_weak_liveliness_summary">"कुलुप उगडटना दोळ्यांची उगडधाप करपाची गरज"</string>
+<string name="lock_after_timeout">"आपसूक कुलुप"</string>
+<string name="lock_after_timeout_summary">"<xliff:g id="timeout_string">%1$s</xliff:g> मागीर न्हिदता"</string>
+<string name="show_owner_info_on_lockscreen_label">"कुलुप स्क्रीनाचेर धनयाची म्हायती दाखवप"</string>
+<string name="owner_info_settings_title">"धनयाची म्हायती"</string>
+<string name="security_enable_widgets_title">"विजेट सक्षम"</string>
+<string name="security_enable_widgets_disabled_summary">"प्रशासकान असक्षम करप"</string>
+<string name="owner_info_settings_edit_text_hint">"कुलुप स्क्रीनाचेर दाखोवपा खातीर शब्द टंकलेखन करप"</string>
+<string name="show_user_info_on_lockscreen_label">"लॉक स्क्रीनाचेर उपेगकर्ता म्हायती दाखवप"</string>
+<string name="user_info_settings_title">"उपेगकर्ता म्हायती"</string>
+<string name="show_profile_info_on_lockscreen_label">"लॉक स्क्रीनाचेर प्रॉफायल म्हायती दाखवप"</string>
+<string name="profile_info_settings_title">"प्रॉफायल म्हायती"</string>
+<string name="location_settings_title">"थळ"</string>
+<string name="security_settings_title">"सुरक्षा"</string>
+<string name="security_settings_summary">"म्हजें थळ सेट करप, स्क्रीनाचे कुलुप काडप, SIM कार्डाक कुलुप,  ओळखीचे सांठवण कुलुप"</string>
+<string name="cdma_security_settings_summary">"म्हजें थळ सेट करप, स्क्रीनाचे कुलुप काडप,  ओळखीचे सांठवण कुलुप" </string>
+<string name="security_passwords_title">"पासवर्ड"</string>
+<string name="crypt_keeper_settings_title">"एनक्रिप्ट"</string>
+<string name="crypt_keeper_encrypt_title" product="tablet">"टॅबलेट एनक्रिप्ट"</string>
+<string name="crypt_keeper_encrypt_title" product="default">"फोन एनक्रिप्ट"</string>
+<string name="crypt_keeper_encrypt_summary" product="tablet">" तुमचो टॅबलेट दर फावट तुमी पावर ऑन करता तेन्ना ताका डिक्रीप्ट करूंक सांख्यिकी PIN वा पासवर्ड जाय"</string>
+<string name="crypt_keeper_encrypt_summary" product="default">" तुमचो फोन दर फावट तुमी पावर ऑन करता तेन्ना ताका डिक्रीप्ट करूंक सांख्यिकी PIN वा पासवर्ड जाय"</string>
+<string name="crypt_keeper_encrypted_summary">"एनक्रिप्ट"</string>
+<string name="crypt_keeper_desc" product="tablet">" तुमची खाती, सेटिंग्स, डावनलोड केल्ली ॲपां आनी तांचें डाटा, मीडिया, आनी हेर फायली तुमी एनक्रीप्ट करूंक शकता. एकदां तुमी तुमचो टॅबलेट एनक्रीप्ट केलो, दर फावट तुमी तो पावर ऑन करता तेन्ना ताका डिक्रीप्ट करूंक सांख्यिकी PIN वा पासवर्ड टंक करूंक जाय. तुमी फॅक्टरी डाटा रिसेट, जो तुमचो सगळो डाटा खोडटा, हे सोडून तुमचो टॅबलेट डिक्रीप्ट करूंक शकना.\n\nएनक्रीप्शनाक एक वा चड वरां लागता. तुमी चार्ज केल्ली बॅटरी वापरून सुरू करूंक जाय आनी एनक्रीप्शन पुराय जाय मेरेन तुमचो टॅबलेट प्लग इन केल्लो आसूंक जाय. तुमी जरी एनक्रीप्शन प्रक्रियेंत आडमेळी हाडली जाल्यार तुमी तुमचो कांय वा पूर्ण डाटा गमयतले."</string>
+<string name="crypt_keeper_desc" product="default">" तुमची खाती, सेटिंग्स, डावनलोड केल्ली ॲपां आनी तांचें डाटा, मीडिया, आनी हेर फायली तुमी एनक्रीप्ट करूंक शकता. एकदां तुमी तुमचो फोन एनक्रीप्ट केलो, दर फावट तुमी तो पावर ऑन करता तेन्ना ताका डिक्रीप्ट करूंक सांख्यिकी PIN वा पासवर्ड टंक करूंक जाय. तुमी फॅक्टरी डाटा रिसेट, जो तुमचो सगळो डाटा खोडटा, हे सोडून तुमचो फोन डिक्रीप्ट करूंक शकना.\n\nएनक्रीप्शनाक एक वा चड वरां लागता. तुमी चार्ज केल्ली बॅटरी वापरून सुरू करूंक जाय आनी एनक्रीप्शन पुराय जाय मेरेन तुमचो फोन प्लग इन केल्लो आसूंक जाय. तुमी जरी एनक्रीप्शन प्रक्रियेंत आडमेळी हाडली जाल्यार तुमी तुमचो कांय वा पूर्ण डाटा गमयतले."</string>
+<string name="crypt_keeper_button_text" product="tablet">"टॅबलेट एनक्रिप्ट"</string>
+<string name="crypt_keeper_button_text" product="default">"फोन एनक्रिप्ट"</string>
+<string name="crypt_keeper_low_charge_text">"तुमची बॅटरी चार्ज करात आनी परत यत्न करात."</string>
+<string name="crypt_keeper_unplugged_text">"तुमचो चार्जर प्लग करात आनी परत यत्न करात."</string>
+<string name="crypt_keeper_dialog_need_password_title">"स्क्रीनीक कुलुप PIN वा पासवर्ड ना"</string>
+<string name="crypt_keeper_dialog_need_password_message">"तुमी एनक्रीप्शन सुरू करचें आदीं तुमी कुलूप घातिल्ली स्क्रीन PIN वा पासवर्ड घालून सेट करूंक जाय."</string>
+<string name="crypt_keeper_confirm_title">"एनक्रिप्ट?"</string>
+<string name="crypt_keeper_final_desc" product="tablet">"एनक्रिप्शन प्रक्रिया ही परत घेवपाक मेळना आनी तुमी तातूंत मदींच हस्तक्षेप केल्यार, तुमचो डेटा ना जातलो. एनक्रिपशन पुराय जावंक एक वर वा चड वेळ लागू येता, हया प्रक्रिये वेळार टॅबलेट कितलेशेच फावट रिस्टार्ट जातलो." </string>
+<string name="crypt_keeper_final_desc" product="default">"एनक्रिप्शन प्रक्रिया ही परत घेवपाक मेळना आनी तुमी तातूंत मदींच हस्तक्षेप केल्यार, तुमचो डेटा ना जातलो. एनक्रिपशन पुराय जावंक एक वर वा चड वेळ लागू येता, हया प्रक्रिये वेळार फोन कितलेशेच फावट रिस्टार्ट जातलो." </string>
+<string name="crypt_keeper_setup_title">"एनक्रिप्टिंग"</string>
+<string name="crypt_keeper_setup_description" product="tablet">""तुमचो टॅबलेट एनक्रिप्ट जाय मेरेन वाट पळयात.<xliff:g id="percent" example="50">^1</xliff:g>% पुराय." "</string>
+<string name="crypt_keeper_setup_description" product="default">""तुमचो फोन एनक्रिप्ट जाय मेरेन वाट पळयात.<xliff:g id="percent" example="50">^1</xliff:g>% पुराय." "</string>
+<string name="crypt_keeper_cooldown">"परत <xliff:g id="delay" example="15">^1</xliff:g> सेकंदांनी यत्न करचो."</string>
+<string name="crypt_keeper_enter_password">"तुमचो पासवर्ड टायप करचो"</string>
+<string name="crypt_keeper_failed_title">"एनक्रिप्शन अयशस्वी"</string>
+<string name="crypt_keeper_failed_summary" product="tablet">" एनक्रिप्शनांत हस्तक्षेप जालो आनी ते आता पुराय जावंक शकना. परिणाम म्हूण, तुमच्या टॅबलेटावेलो डेटा आता पळोवंक मेळना. \n\n तुमकां परत टॅबलेट वापरुंक सुरु करुंक,  तुमकां फॅक्टरी सेटिंग रिसेट करचे पडटले. तमी जेन्ना तुमचो टॅबलेट रिसेट केल्या उपरांत सेट करता तेन्ना, तुमच्या Google खात्यांत सांबाळून दवरिल्लो तुमचो डेटा रिस्टोर करपाची तुमकां संद मेळटा."</string>
+<string name="crypt_keeper_failed_summary" product="default">" एनक्रिप्शनांत हस्तक्षेप जालो आनी ते आता पुराय जावंक शकना. परिणाम म्हूण, तुमच्या फोनांवेलो डेटा आता पळोवंक मेळना. \n\n तुमकां परत फोन वापरुंक सुरु करुंक,  तुमकां फॅक्टरी सेटिंग रिसेट करचे पडटले. तमी जेन्ना तुमचो फोन रिसेट केल्या उपरांत सेट करता तेन्ना, तुमच्या  Google खात्यांत सांबाळून दवरिल्लो तुमचो डेटा रिस्टोर करपाची तुमकां संद मेळटा."</string>
+<string name="crypt_keeper_switch_input_method">"इन्पुट प्रक्रिया स्वीच करप"</string>
+<string name="lock_settings_picker_title">"स्क्रिन कुलुप वेंचप"</string>
+<string name="backup_lock_settings_picker_title">"बॅकअप कुलुप वेंचप"</string>
+<string name="unlock_set_unlock_launch_picker_title">"स्क्रीन कुलूप"</string>
+<string name="unlock_set_unlock_launch_picker_change_title">"कुलुप स्क्रिन बदलप"</string>
+<string name="unlock_set_unlock_launch_picker_change_summary">"पॅटर्न, PIN,  वा पासवर्ड सुरक्षा बंद वा बदलप"</string>
+<string name="unlock_set_unlock_launch_picker_enable_summary">"स्क्रीन कुलुप करपा खातीर पद्दत वेंचात"</string>
+<string name="unlock_backup_info_summary">"जेन्ना मुख कुलप उगडपी तुमकां पळोवंक शकना तेना, तुमी कशें कुलुप काडपाक सोदतले?"</string>
+<string name="unlock_set_unlock_off_title">"एकूय न्हय"</string>
+<string name="unlock_set_unlock_none_title">"स्वीप"</string>
+<string name="unlock_set_unlock_none_summary">"सुरक्षा ना"</string>
+<string name="unlock_set_unlock_biometric_weak_title">"मुख कुलुप काडप"</string>
+<string name="unlock_set_unlock_biometric_weak_summary">"कमी सुरक्षा,प्रायोगीक"</string>
+<string name="unlock_set_unlock_pattern_title">"पॅटर्न"</string>
+<string name="unlock_set_unlock_pattern_summary">"मध्यम सुरक्षा"</string>
+<string name="unlock_set_unlock_pin_summary">"मध्यम ते उच्च सुरक्षा"</string>
+<string name="unlock_set_unlock_password_title">"पासवर्ड"</string>
+<string name="unlock_set_unlock_password_summary">"उच्च सुरक्षा"</string>
+<string name="unlock_set_unlock_disabled_summary">"प्रशासकान असक्षम केले, एनक्रिप्शन धोरण, वा क्रॅडॅन्शियल सांठवण"</string>
+<string name="unlock_set_unlock_mode_off">"एकूय न्हय"</string>
+<string name="unlock_set_unlock_mode_none">"स्वीप"</string>
+<string name="unlock_set_unlock_mode_biometric_weak">"मुख कुलुप काडप"</string>
+<string name="unlock_set_unlock_mode_pattern">"पॅटर्न"</string>
+<string name="unlock_set_unlock_mode_password">"पासवर्ड"</string>
+<string name="unlock_disable_lock_title">"स्क्रिन कुलुप बंद करप"</string>
+<string name="unlock_disable_lock_pattern_summary">"कुलुप काडपाचो पॅटर्न काडप"</string>
+<string name="unlock_disable_lock_pin_summary">"कुलुप काडपाचो PIN काडप"</string>
+<string name="unlock_disable_lock_password_summary">"कुलुप काडपाचो पासवर्ड काडप"</string>
+<string name="unlock_change_lock_pattern_title">"कुलुप काडपाचो पॅटर्न बदलप"</string>
+<string name="unlock_change_lock_pin_title">"कुलुप काडपाचो PIN बदलप"</string>
+<string name="unlock_change_lock_password_title">"कुलुप काडपाचो पासवर्ड बदलप"</string>
+<string name="lockpassword_password_too_short">"पासवर्ड कमीत कमी %d वर्ण आसचो"</string>
+<string name="lockpassword_pin_too_short">"PIN कमीत कमी %d आंकड्यांचो आसचो"</string>
+<string name="lockpassword_press_continue">"जाले उपरांत चालू दवरपाचेर स्पर्श करचो"</string>
+<string name="lockpassword_continue_label">"चालू"</string>
+<string name="lockpassword_password_too_long">"पासवर्ड <xliff:g id="number" example="17">%d</xliff:g> परस कमी वर्णांचो आसचो."</string>
+<string name="lockpassword_pin_too_long">"PIN  <xliff:g id="number" example="17">%d</xliff:g> परस कमी आंकड्यांचो आसचो."</string>
+<string name="lockpassword_pin_contains_non_digits">"PIN फक्त 0-9 आंकड्यांचोच आसचो."</string>
+<string name="lockpassword_pin_recently_used">"यंत्र प्रशासक सद्याचो PIN वापरपाक अनुमती दिना."</string>
+<string name="lockpassword_illegal_character">"पासवर्डात बेकायदेशीर वर्ण आसपाव."</string>
+<string name="lockpassword_password_requires_alpha">"पासवर्डात कमीत कमी एका अक्षराचो आसपाव गरजेचो."</string>
+<string name="lockpassword_password_requires_digit">"पासवर्डात कमीत कमी एका आंकड्याचो आसपाव गरजेचो."</string>
+<string name="lockpassword_password_requires_symbol">"पासवर्डात कमीत कमी एका चिन्नाचो आसपाव गरजेचो."</string>
+<plurals name="lockpassword_password_requires_letters">
+<item quantity="one">"पासवर्डात कमीत कमी एक अक्षराचो आसपाव आसचो."</item>
+<item quantity="other">"पासवर्डात कमीत कमी %d अक्षरांचो आसपाव गरजेचो."</item>
+</plurals>
+<plurals name="lockpassword_password_requires_lowercase">
+<item quantity="one">"पासवर्डात कमीत कमी एक ल्हान अक्षराचो आसपाव गरजेचो."</item>
+<item quantity="other">"पासवर्डात कमीत कमी %d ल्हान अक्षरांचो आसपाव गरजेचो."</item>
+</plurals>
+<plurals name="lockpassword_password_requires_uppercase">
+<item quantity="one">"पासवर्डात कमीत कमी एक मोट्या अक्षराचो आसपाव गरजेचो."</item>
+<item quantity="other">"पासवर्डात कमीत कमी %d मोट्या अक्षरांचो आसपाव गरजेचो."</item>
+</plurals>
+<plurals name="lockpassword_password_requires_numeric">
+<item quantity="one">"पासवर्डात कमीत कमी 1 अंकाच्या आंकड्याचो आसपाव गरजेचो."</item>
+<item quantity="other">"पासवर्डात कमीत कमी एक %d अंकाच्या आंकड्यांचो आसपाव गरजेचो."</item>
+</plurals>
+<plurals name="lockpassword_password_requires_symbols">
+<item quantity="one">"पासवर्डात कमीत कमी 1 खासा चिन्न आसप गरजेचे."</item>
+<item quantity="other">"पासवर्डात कमीत कमी %d खासा चिन्न आसप गरजेचे."</item>
+</plurals>
+<plurals name="lockpassword_password_requires_nonletter">
+<item quantity="one">"पासवर्डात कमीत कमी 1 अक्षर नाशिल्ले वर्ण आसचो."</item>
+<item quantity="other">"पासवर्डात कमीत कमी %d अक्षर नाशिल्ले वर्ण आसचे."</item>
+</plurals>
+<string name="lockpassword_password_recently_used">" यंत्र प्रशासक सद्याचो पासवर्ड वापरुंक अनुमती दिना"</string>
+<string name="lockpassword_ok_label">"बरे"</string>
+<string name="lockpassword_cancel_label">"रद्द"</string>
+<string name="lockpattern_tutorial_cancel_label">"रद्द"</string>
+<string name="lockpattern_tutorial_continue_label">"फुडले"</string>
+<string name="lock_setup">"सेट अप पुराय जालो."</string>
+<string name="device_admin_title">"यंत्र प्रशासन"</string>
+<string name="manage_device_admin">"यंत्र प्रशासक"</string>
+<string name="manage_device_admin_summary">"यंत्र प्रशासक पळोवप वा असक्षम करप"</string>
+<string name="manage_notification_access">"सुचोवणी शिरकाव"</string>
+<string name="manage_notification_access_summary_zero">"ॲप सुचोवण्यो वाचूंक शकना"</string>
+<plurals name="manage_notification_access_summary_nonzero">
+<item quantity="one">"%d ॲप सुचोवण्यो वाचूंक शकता"</item>
+<item quantity="other">"%d ॲपां सुचोवण्यो वाचूंक शकतात"</item>
+</plurals>
+<string name="no_notification_listeners">"सुचोवण्या लिस्टनर इन्स्टॉल केल्ले ना."</string>
+<string name="notification_listener_security_warning_title">"सक्षम<xliff:g id="service" example="NotificationReader">%1$s</xliff:g>?"</string>
+<string name="notification_listener_security_warning_summary">" <xliff:g id="notification_listener_name">%1$s</xliff:g> यंत्रणा वा इन्स्टॉल केल्ल्या ॲपान पोस्ट केल्ल्यो सगळ्यो सुचोवण्यो वाचपाक सक्षम, तातूंत संपर्क ना आनी तुमी धाडिल्ल्या टॅक्स संदेशाचोय आसपाव आसूंक शकता. ताका सुचोवणी डिसमीस करुंक आनी तातूंतल्या एक्शन बटनांक स्पर्श करपाची क्षमताय आसतली. "</string>
+<string name="bluetooth_quick_toggle_title">"Bluetooth"</string>
+<string name="bluetooth_quick_toggle_summary">"ब्लुटुथ चालू करप"</string>
+<string name="bluetooth_settings">"Bluetooth"</string>
+<string name="bluetooth_settings_title">"Bluetooth"</string>
+<string name="bluetooth_settings_summary">"जोडणींचे वेवस्थापन, यंत्राच्या नांव &amp; शोध योग्यताय सेट कर"</string>
+<string name="bluetooth_pairing_request">"ब्लुटुथ पॅरींग विनंती"</string>
+<string name="bluetooth_enter_pin_msg">"हाचे कडेन जोडूंक:<xliff:g id="bold">&lt;br&gt;&lt;b&gt;</xliff:g><xliff:g id="device_name">%1$s</xliff:g><xliff:g id="end_bold">&lt;/b&gt;&lt;br&gt;&lt;br&gt;</xliff:g>यंत्राचो आवश्यक PIN टंक करचो:"</string>
+<string name="bluetooth_enter_passkey_msg">"हाचे कडेन जोडूंक:<xliff:g id="bold">&lt;br&gt;&lt;b&gt;</xliff:g><xliff:g id="device_name">%1$s</xliff:g><xliff:g id="end_bold">&lt;/b&gt;&lt;br&gt;&lt;br&gt;</xliff:g>यंत्राचो आवश्यक पासकी टंक करचो:"</string>
+<string name="bluetooth_enable_alphanumeric_pin">"PINत अक्षर वा चिन्नांचो आसपाव"</string>
+<string name="bluetooth_pin_values_hint">"सामान्य स्थितीत 0000 वा 1234"</string>
+<string name="bluetooth_enter_pin_other_device">"तुमकां हो PIN हेर यंत्राचेर टायप करची गरज पडूं शकता."</string>
+<string name="bluetooth_enter_passkey_other_device">"तुमकां ही पासकी हेर यंत्राचेर टायप करची गरज पडूं शकता."</string>
+<string name="bluetooth_confirm_passkey_msg">"जोडणी करपा खातीर:&lt;br&gt;&lt;b&gt;<xliff:g id="device_name">%1$s</xliff:g>&lt;/b&gt;&lt;br&gt;&lt;br&gt;ही पासकी दाखयतले हाची खात्री करात:&lt;br&gt;&lt;b&gt;<xliff:g id="passkey">%2$s</xliff:g>&lt;/b&gt;"</string>
+<string name="bluetooth_incoming_pairing_msg">"कडच्यान:&lt;br&gt;&lt;b&gt;<xliff:g id="device_name">%1$s</xliff:g>&lt;/b&gt;&lt;br&gt;&lt;br&gt;ह्या यंत्राकडेन जोडणी करचीं?"</string>
+<string name="bluetooth_display_passkey_pin_msg">"हाचे कडेन जोडूंक:<xliff:g id="bold1">&lt;br&gt;&lt;b&gt;</xliff:g><xliff:g id="device_name">%1$s</xliff:g><xliff:g id="end_bold1">&lt;/b&gt;&lt;br&gt;&lt;br&gt;</xliff:g>ताचेर टंक करचें:<xliff:g id="bold2">&lt;br&gt;&lt;b&gt;</xliff:g><xliff:g id="passkey">%2$s</xliff:g><xliff:g id="end_bold2">&lt;/b&gt;</xliff:g>, उपरांत फाटी वच वा समावेश हे दामचें."</string>
+<string name="bluetooth_pairing_accept">"जोडणी"</string>
+<string name="bluetooth_pairing_decline">"रद्द"</string>
+<string name="bluetooth_pairing_error_message">"वांगडान जुळप शक्य ना <xliff:g id="device_name">%1$s</xliff:g>."</string>
+<string name="bluetooth_pairing_pin_error_message">"वांगडान जुळप शक्य ना <xliff:g id="device_name">%1$s</xliff:g> चुकीचो PIN वा पासकीक लागून."</string>
+<string name="bluetooth_pairing_device_down_error_message">"वांगडा संवाद शक्य ना <xliff:g id="device_name">%1$s</xliff:g>."</string>
+<string name="bluetooth_pairing_rejected_error_message">"जोडणेच निवड न करपी <xliff:g id="device_name">%1$s</xliff:g>."</string>
+<string name="bluetooth_connecting_error_message">"वांगडान संपर्क जावंक शकना <xliff:g id="device_name">%1$s</xliff:g>."</string>
+<string name="bluetooth_preference_scan_title">"यंत्रा खातीर स्कॅन करात"</string>
+<string name="bluetooth_search_for_devices">"यंत्रा खातीर सोद"</string>
+<string name="bluetooth_searching_for_devices">"सोदप चालू आसा..."</string>
+<string name="bluetooth_preference_device_settings">"यंत्राचे सेटिंग्स"</string>
+<string name="bluetooth_preference_paired_devices">"जोडिल्ले यंत्र"</string>
+<string name="bluetooth_preference_found_devices">"उपलब्ध यंत्र"</string>
+<string name="bluetooth_device_context_connect">"जोडात"</string>
+<string name="bluetooth_device_context_disconnect">"तोडात"</string>
+<string name="bluetooth_device_context_pair_connect">"जोडणी &amp; संपर्क"</string>
+<string name="bluetooth_device_context_unpair">"जोडणी रद्द करप"</string>
+<string name="bluetooth_device_context_disconnect_unpair">"संपर्क &amp; जोडणी रद्द कर"</string>
+<string name="bluetooth_device_context_connect_advanced">"पर्याय…"</string>
+<string name="bluetooth_menu_advanced">"प्रगत"</string>
+<string name="bluetooth_advanced_titlebar">"आधुनीक ब्लुटूछ"</string>
+<string name="bluetooth_empty_list_bluetooth_off">"जेन्ना ब्लुटुथ चालू आसता, तेन्ना तुमचे यंत्र हेर लागी आशिल्ल्या ब्लुटुथ यंत्रां कडेन संवाद सादूंक शकता"</string>
+<string name="bluetooth_connect_specific_profiles_title">"कडेन संपर्क…" </string>
+<string name="bluetooth_profile_a2dp">"मिडिया ध्वनी"</string>
+<string name="bluetooth_profile_headset">"फोन ध्वनी"</string>
+<string name="bluetooth_profile_opp">"फायल हस्तांतरण"</string>
+<string name="bluetooth_profile_hid">"इन्पुट यंत्र"</string>
+<string name="bluetooth_profile_pan">"इंटरनेट संपर्क"</string>
+<string name="bluetooth_profile_pan_nap">"इंटरनेट संपर्क दिवप घेवप"</string>
+<string name="bluetooth_profile_map">"संदेश शिरकाव"</string>
+<string name="bluetooth_disconnect_a2dp_profile">"<xliff:g id="device_name">%1$s</xliff:g> मिडिया ध्वनी कडच्यान संपर्क तुटतलो."</string>
+<string name="bluetooth_disconnect_headset_profile">"<xliff:g id="device_name">%1$s</xliff:g> हॅड्सफ्री ध्वनी कडच्यान संपर्क तुटतलो."</string>
+<string name="bluetooth_disconnect_hid_profile">"<xliff:g id="device_name">%1$s</xliff:g> इन्पुट यंत्रा कडच्यान संपर्क तुटतलो.."</string>
+<string name="bluetooth_disconnect_pan_user_profile">"इंटरनेट शिरकाव <xliff:g id="device_name">%1$s</xliff:g> वरवीं संपर्क तुटतलो."</string>
+<string name="bluetooth_disconnect_pan_nap_profile" product="tablet">"<xliff:g id="device_name">%1$s</xliff:g> ह्या टॅबलेटाचो इंटरनेट संपर्क शेअर करप रद्द करतले."</string>
+<string name="bluetooth_disconnect_pan_nap_profile" product="default">"<xliff:g id="device_name">%1$s</xliff:g> ह्या फोनाचो इंटरनेट संपर्क शेअर करप रद्द करतले."</string>
+<string name="bluetooth_device_advanced_title">"जोडिल्ले ब्लुटुथ यंत्र"</string>
+<string name="bluetooth_device_advanced_online_mode_title">"जोडात"</string>
+<string name="bluetooth_device_advanced_online_mode_summary">"ब्लुटुथ यंत्रा कडेन संपर्क"</string>
+<string name="bluetooth_device_advanced_profile_header_title">"रेखाचित्र"</string>
+<string name="bluetooth_device_advanced_rename_device">"परतून नांव दियात"</string>
+<string name="bluetooth_device_advanced_enable_opp_title">"भितर येवपी फायल बदलीची अनुमती"</string>
+<string name="bluetooth_a2dp_profile_summary_connected">"मिडिया ध्वनी कडेन संपर्क जालो"</string>
+<string name="bluetooth_headset_profile_summary_connected">"फोन ध्वनी कडेन संपर्क जालो"</string>
+<string name="bluetooth_opp_profile_summary_connected">"फायल बदली सर्व्हरा कडेन संपर्क जालो"</string>
+<string name="bluetooth_map_profile_summary_connected">"मानचित्रा कडेन संपर्क जालो"</string>
+<string name="bluetooth_opp_profile_summary_not_connected">"फायल बदली सर्व्हरा कडेन संपर्क जावंक ना"</string>
+<string name="bluetooth_hid_profile_summary_connected">"इन्पुट यंत्रा कडेन संपर्क जालो"</string>
+<string name="bluetooth_pan_user_profile_summary_connected">"इंटरनेट शिरकावा खातीर संपर्क जालो"</string>
+<string name="bluetooth_pan_nap_profile_summary_connected">"यंत्राकडेन थळावी इंटरनेट जोडणी दिवप घेवप"</string>
+<string name="bluetooth_a2dp_profile_summary_use_for">"मिडिया ध्वनी खातीर वापर"</string>
+<string name="bluetooth_headset_profile_summary_use_for">"फोन ध्वनी खातीर वापर"</string>
+<string name="bluetooth_opp_profile_summary_use_for">"फाईल बदली करुंक वापर"</string>
+<string name="bluetooth_hid_profile_summary_use_for">"इन्पुटा खातीर वापर"</string>
+<string name="bluetooth_pan_profile_summary_use_for">"इंटरनेट शिरकावा खातीर वापर"</string>
+<string name="bluetooth_map_profile_summary_use_for">"मॅपा खातीर वापर"</string>
+<string name="bluetooth_dock_settings">"डॉक सेटिंग"</string>
+<string name="bluetooth_dock_settings_title">"ध्वनी खातीर डॉक वापर"</string>
+<string name="bluetooth_dock_settings_headset">"स्पिकर फोना प्रमाण"</string>
+<string name="bluetooth_dock_settings_a2dp">"संगीत आनी मिडिया खातीर"</string>
+<string name="bluetooth_dock_settings_remember">"सेटिंग याद दवरात"</string>
+<string name="wifi_display_settings_title">"कास्ट स्क्रीन"</string>
+<string name="wifi_display_enable_menu_item">"बीनतारीच्या प्रदर्शनाक मान्यताय"</string>
+<string name="wifi_display_no_devices_found">"लागी आशिल्ले एकूय यंत्र मेळूंक ना."</string>
+<string name="wifi_display_status_connecting">"जोडटा"</string>
+<string name="wifi_display_status_connected">"जोडले"</string>
+<string name="wifi_display_status_in_use">"वापरात आसा"</string>
+<string name="wifi_display_status_not_available">"अनुपलब्द"</string>
+<string name="wifi_display_details">"सेटिंग्स डीस्प्ले करात"</string>
+<string name="wifi_display_options_title">"बीनतारीच्या प्रदर्शन पर्याय"</string>
+<string name="wifi_display_options_forget">"विसरात"</string>
+<string name="wifi_display_options_done">"जाले"</string>
+<string name="wifi_display_options_name">"नांव"</string>
+<string name="nfc_quick_toggle_summary" product="tablet">"टॅबलेट हेर यंत्रा कडेन तेंकता तेन्ना डेटा अदला बदल करपाक अनुमती" </string>
+<string name="nfc_quick_toggle_summary" product="default">"फोन हेर यंत्रा कडेन तेंकता तेन्ना डेटा अदला बदल करपाक अनुमती" </string>
+<string name="android_beam_on_summary">"NFC वरवी ॲप सामुग्री प्रक्षेपणाक तयार"</string>
+<string name="android_beam_off_summary">"बंद"</string>
+<string name="android_beam_disabled_summary">"NFC बंद दवरिल्ल्यान अनुपलब्द"</string>
+<string name="android_beam_explained">" जेन्ना हे वैशिश्ट चालू केल्ले आसता तेन्ना,  यंत्रां एकामेकांच्या लागी धरून तुमी हेर NFC-सक्षम यंत्रा कडेन ॲप सामुग्री बीम करुंक शकतात. देखीक, तुमी ब्रावजर पानां, YouTube व्हिडिओ, लोकांचे संपर्क, आनी हेर बीम करुंक शकतात. \n\n फक्त यंत्रा लागी हाडात (सामान्य पद्धतीन एका फाटोफाट एक) आनी ते उपरांत तुमचे स्क्रीनीक स्पर्श करांत. कितें बीम करप ताचो निर्णय ॲप घेता."</string>
+<string name="nsd_quick_toggle_title">"नेटवर्क सेवा सोदप"</string>
+<string name="nsd_quick_toggle_summary">"हेर यंत्रांवेल्या ॲपांक ह्या यंत्रावेल्या ॲपांचो सोद घेवंक अनुमती दिवप"</string>
+<string name="wifi_quick_toggle_title">"Wi-Fi"</string>
+<string name="wifi_quick_toggle_summary">"Wi-Fi चालू करप"</string>
+<string name="wifi_settings">"Wi-Fi"</string>
+<string name="wifi_settings_category">"Wi-Fi सेटिंग्स"</string>
+<string name="wifi_settings_title">"Wi-Fi"</string>
+<string name="wifi_settings_summary">"सेट अप &amp; बिनतारी शिरकाव बिंदूंचे वेवस्थापन करप"</string>
+<string name="wifi_setup_wizard_title">"Wi-Fi वेंचप"</string>
+<string name="wifi_starting">"Wi-Fi चालू करप…"</string>
+<string name="wifi_stopping">"Wi-Fi बंद करप…"</string>
+<string name="wifi_error">"चूक"</string>
+<string name="wifi_in_airplane_mode">"विमान मोडा भितर"</string>
+<string name="wifi_fail_to_scan">"नेटवर्कां खातीर स्कॅन करुंक शकना"</string>
+<string name="wifi_wapi_fail_to_init">"WAPI प्रमाणपत्र वाचूंक अपेश\nक्रॅडॅन्शियल सांठवणय सक्षम उरची ना"</string>
+<string name="wifi_wapi_fail_to_auth">"WAPI प्रमाणीकरण अपेशी\nउपकार करनू पासवर्ड आनी प्रमाणपत्र तपासचे"</string>
+<string name="wifi_wapi_cert_lost">"सद्याक जोडिल्ल्या Apक सर्टिफिकेशन मेळना"</string>
+<string name="wifi_notify_open_networks">"नेटवर्क अधिसुचोवणी"</string>
+<string name="wifi_notify_open_networks_summary">"उकतो नॅटवर्क उपलब्ध आसता तेन्ना म्हाका सुचना दी"</string>
+<string name="wifi_poor_network_detection">"अशक्त जोडणी टाळप"</string>
+<string name="wifi_poor_network_detection_summary">"Wi-Fi  नेटवर्क बरो आसल्यारुच तो वापरचो अशक्त जोडणी टाळची"</string>
+<string name="wifi_scan_always_available">"दरेक फावट स्कॅनिंग उपलब्ध"</string>
+<string name="wifi_scan_always_available_summary">"वायफाय बंद आसता तेन्ना गुगलाची स्थळ सेव्हा आनी हेर ॲप नेटवर्का खातीर स्कॅन करु"</string>
+<string name="wifi_install_credentials">"प्रमाणपत्रां घालप"</string>
+<string name="wifi_scan_notify_text_location_on">"लोकेशन नेमकेपणांत सुदारणा आनी हेर निर्णय, Wi-Fi ऑफ आसता तेन्नापसून,  Google आनी हेर ॲप लागसरच्या नेटवर्कांक स्कॅन करुंक शकतात. हे जावंक जायना अशें तुमकां दिसता जाल्यार,   एडवान्सां कडेन वचात &gt; सदांच स्कॅनिंग उपलब्ध."</string>
+<string name="wifi_scan_notify_text_location_off">"Wi-Fi ऑफ आसता तेन्ना पसून, ॲप लागसरच्या नेटवर्काक स्कॅन करुंक शकतात.हे जावंक जायना अशें तुमकां दिसता जाल्यार, एडवान्सां कडेन वचात &gt; सदांच स्कॅनिंग उपलब्ध."</string>
+<string name="wifi_scan_notify_remember_choice">"हे परतून दाखय नाका"</string>
+<string name="wifi_setting_sleep_policy_title">"Wi-Fi न्हिदता तेन्ना चालू दवरप"</string>
+<string name="wifi_setting_sleep_policy_error">"सेटिंग बदलपाक समस्या येताली"</string>
+<string name="wifi_suspend_optimizations">"Wi-Fi ऑप्टिमायझेशन"</string>
+<string name="wifi_suspend_optimizations_summary">"Wi-Fi चालू आसतना बॅटरीचो वापर कमीत कमी करप"</string>
+<string name="wifi_add_network">"नेटवर्कात भर"</string>
+<string name="wifi_access_points">"Wi-Fi नेटवर्क"</string>
+<string name="wifi_menu_wps_pbc">"WPS दाबपाटो बटन"</string>
+<string name="wifi_menu_more_options">"अदीक विकल्प"</string>
+<string name="wifi_menu_wps_pin">"WPS PIN प्रवेश"</string>
+<string name="wifi_menu_p2p">"सरळ Wi-Fi"</string>
+<string name="wifi_menu_scan">"स्कॅन"</string>
+<string name="wifi_menu_advanced">"प्रगत"</string>
+<string name="wifi_menu_connect">"नेटवर्काक जोडात"</string>
+<string name="wifi_menu_forget">"नेटवर्क विसरप"</string>
+<string name="wifi_menu_modify">"नेटवर्क बदल"</string>
+<string name="wifi_empty_list_wifi_off">"उपलब्ध नेटवर्क पळोवपा खातीर, Wi-Fi चालू करात"</string>
+<string name="wifi_empty_list_wifi_on">"Wi-Fi नेटवर्का खातीर सोद घेवप…"</string>
+<string name="wifi_empty_list_user_restricted">"Wi-Fi नेटवर्क बदलपाक तुमकां मान्यताय ना"</string>
+<string name="wifi_other_network">"हेर नेटवर्क..."</string>
+<string name="wifi_more">"अदीक"</string>
+<string name="wifi_setup_wps">"आपसूक सेटअप (WPS)"</string>
+<string name="wifi_required_info_text">"सेटअप पूर्ण करूंक, तुमच्या टॅबलेटान Wi\u2011Fi प्रवेश मेळोवंक जाय. सेटअपा उपरांत, तुमी मोबायल डाटा आनी Wi\u2011Fi हाचे मदीं स्वीच करूंक शकता."</string>
+<string name="wifi_show_advanced">"एडवान्स पर्याय दाखयात"</string>
+<string name="wifi_wps_setup_title">"Wi-Fi सुरक्षीत सेटअप"</string>
+<string name="wifi_wps_setup_msg">"WPS सुरु करप..."</string>
+<string name="wifi_wps_onstart_pbc">"तुमच्या रावटरावेलो Wi-Fi सुरक्षीत बटन दामचो. ताका म्हण्टात\"WPS\" वा तातूंत हे चिन्ह आसता:"</string>
+<string name="wifi_wps_onstart_pin">"PIN एन्टर करा <xliff:g id="number">%1$s</xliff:g> तुमच्या Wi-Fi रावटराचेर. सेट अप पुराय जावंक 2 मिणटा मेरेन वेळ लागूंक शकतात."</string>
+<string name="wifi_wps_complete">"WPS येसस्वी. नेटवर्काक संपर्क जाता..."</string>
+<string name="wifi_wps_connected">"Wi-Fi नेटवर्काक संपर्क जालो <xliff:g id="network_name">%s</xliff:g>"</string>
+<string name="wifi_wps_in_progress">"WPS प्रक्रिया पयलीसावन चालू आसा आनी पुराय जावंक दोन मिणटांचो वेळ लागूंक शकता"</string>
+<string name="wifi_wps_failed_generic">"WPS अपेशी. उपकार करून आनीक कांय मिणटांनी यत्न करात."</string>
+<string name="wifi_wps_failed_wep">"बिनतारी रावटर सुरक्षा सेटिंगाक (WEP) तेंको ना"</string>
+<string name="wifi_wps_failed_tkip">"बिनतारी रावटर सुरक्षा सेटिंगाक (TKIP) तेंको ना"</string>
+<string name="wifi_wps_failed_auth">"प्रामाणीकरण अयशस्वी. परत यत्न करात."</string>
+<string name="wifi_wps_failed_overlap">"आनीक एक WPS सत्र सांपडले. उपकार करून परत कांय मिणटांनी यत्न करचो."</string>
+<string name="wifi_ssid">"नेटवर्क SSID"</string>
+<string name="wifi_ssid_hint">"SSID प्रवेश करात"</string>
+<string name="wifi_security">"सुरक्षा"</string>
+<string name="wifi_signal">"सिग्नल क्षमता"</string>
+<string name="wifi_status">"दर्जो"</string>
+<string name="wifi_speed">"लिंक वेग"</string>
+<string name="wifi_ip_address">"IP नामो"</string>
+<string name="wifi_eap_method">"EAP पद्दत"</string>
+<string name="please_select_phase2">"अवस्था 2 प्रमाणीकरण"</string>
+<string name="wifi_eap_ca_cert">"CA प्रमाणपत्र"</string>
+<string name="wifi_eap_user_cert">"उपेगकर्ता प्रमाणपत्र"</string>
+<string name="wifi_eap_identity">"वळख"</string>
+<string name="wifi_eap_anonymous">"अज्ञांताची वळख"</string>
+<string name="wifi_wapi_psk_type">"पासवर्ड प्रकार"</string>
+<string name="wifi_password">"पासवर्ड"</string>
+<string name="wifi_show_password">"पासवर्ड दाखय"</string>
+<string name="wifi_wapi_as_certificate">"AS प्रमाणपत्र"</string>
+<string name="wifi_wapi_user_certificate">"उपेगकर्ता प्रमाणपत्र"</string>
+<string name="wifi_ip_settings">"IP सेटिंग"</string>
+<string name="wifi_unchanged">"(बदलूंक नाशिल्ले)"</string>
+<string name="wifi_unspecified">"(थारावीक नाशिल्ले)"</string>
+<string name="wifi_remembered">"सुरक्षीत"</string>
+<string name="wifi_disabled_generic">"असक्षम"</string>
+<string name="wifi_disabled_network_failure">"गरीब इंटरनेट जोडणी टाळात"</string>
+<string name="wifi_disabled_password_failure">"प्रमाणीकरणाक समस्या"</string>
+<string name="wifi_not_in_range">"रेंजीत ना"</string>
+<string name="wifi_wps_available_first_item">"WPS उपलब्ध"</string>
+<string name="wifi_wps_available_second_item">"\u0020(WPS उपलब्ध)"</string>
+<string name="wifi_secured_first_item">"वांगडान सुरक्षीत <xliff:g id="wifi_security_short">%1$s</xliff:g>"</string>
+<string name="wifi_secured_second_item">", वांगडान सुरक्षीत <xliff:g id="wifi_security_short">%1$s</xliff:g>"</string>
+<string name="wifi_security_none">"उक्ते करात"</string>
+<string name="wifi_security_wapi_psk_hexadecimal">"WAPI PSK हॅक्साडॅसिमल"</string>
+<string name="wifi_scan_always_turnon_message">"थळाचे नेमकेपणा सुदारपाक आनी हेर हेतूंक लागून, <xliff:g id="app_name">%1$s</xliff:g> नेटवर्क स्कॅनिंग चालू करुंक सोदता,  Wi-Fi आसा तरीकुय.\n\nस्कॅनिंग करुंक सोदतात त्या सगळ्या ॲपांक अनुमती दिवप?"</string>
+<string name="wifi_scan_always_confirm_allow">"मान्य"</string>
+<string name="wifi_scan_always_confirm_deny">"न्हयकार"</string>
+<string name="wifi_connect">"जोडात"</string>
+<string name="wifi_failed_connect_message">"नेटवर्काक संपर्क करपाक अपेस"</string>
+<string name="wifi_forget">"विसरात"</string>
+<string name="wifi_failed_forget_message">"नेटवर्क विसरुंक अपेस"</string>
+<string name="wifi_save">"सेव करात"</string>
+<string name="wifi_failed_save_message">"नेटवर्क सेव्ह करुंक अपेस"</string>
+<string name="wifi_cancel">"रद्द"</string>
+<string name="wifi_skip_anyway">"तरीकूय स्किप करचे"</string>
+<string name="wifi_dont_skip">"स्किप करनाकात"</string>
+<string name="wifi_skipped_message" product="tablet">"शिटकावणी: तुमचेर अदीक डाटा शुल्क लागू जावंक शकता.\n\nटॅबलेट सेटअपाक म्हत्वाचें नॅटवर्क कार्य लागूंक शकता."</string>
+<string name="wifi_skipped_message" product="default">"शिटकावणी: तुमचेर अदीक डाटा शुल्क लागू जावंक शकता.\n\nफोन सेटअपाक म्हत्वाचें नॅटवर्क कार्य लागूंक शकता."</string>
+<string name="wifi_and_mobile_skipped_message" product="tablet">"शिटकावणी: तुमचे कडेन इंटरनॅट जोडणी आसमेरेन, तुमचे सॉफ्टवॅर अद्यावत आसा हे टॅबलेट सत्यापन करूंक शकना."</string>
+<string name="wifi_and_mobile_skipped_message" product="default">"शिटकावणी: तुमचे कडेन इंटरनॅट जोडणी आसमेरेन, तुमचे सॉफ्टवॅर अद्यावत आसा हे फोन सत्यापन करूंक शकना."</string>
+<string name="wifi_connect_failed_message" product="tablet">"Wi-Fi नेटवर्काक संपर्क करुंक टॅबलेटाक अपेस आयलो."</string>
+<string name="wifi_connect_failed_message" product="default">"Wi-Fi नेटवर्काक संपर्क करुंक फोनाक अपेस आयलो."</string>
+<string name="wifi_advanced_titlebar">"ॲडवान्स Wi-Fi"</string>
+<string name="wifi_setting_frequency_band_title">"Wi-Fi फ्रिक्वेन्सी बँड"</string>
+<string name="wifi_setting_frequency_band_summary">"ऑपरेशनाच्या फ्रिक्वेन्सीची रेंज थारावप"</string>
+<string name="wifi_setting_frequency_band_error">"फ्रिक्वेन्सी बँड सेटिंग करपाक समस्या आयली."</string>
+<string name="wifi_advanced_mac_address_title">"MAC पत्तो"</string>
+<string name="wifi_advanced_ip_address_title">"IP नामो"</string>
+<string name="wifi_advanced_settings_label">"IP सेटिंग"</string>
+<string name="wifi_ip_settings_menu_save">"सेव करात"</string>
+<string name="wifi_ip_settings_menu_cancel">"रद्द"</string>
+<string name="wifi_ip_settings_invalid_ip_address">"योग्य IP पत्तो टायप करा."</string>
+<string name="wifi_ip_settings_invalid_gateway">"योग्य गेटवे पत्तो टायप करा."</string>
+<string name="wifi_ip_settings_invalid_dns">"योग्य DNS पत्तो टायप करा."</string>
+<string name="wifi_ip_settings_invalid_network_prefix_length">"0  आनी 32 मजगती पयली थारायल्ली नेटवर्क लांबी टायप करात."</string>
+<string name="wifi_dns1">"DNS 1"</string>
+<string name="wifi_dns2">"DNS 2"</string>
+<string name="wifi_gateway">"गेटवे"</string>
+<string name="wifi_network_prefix_length">"पयली थारायल्ली नेटवर्क लांबी"</string>
+<string name="wifi_p2p_settings_title">"सरळ Wi-Fi"</string>
+<string name="wifi_p2p_device_info">"यंत्राची म्हायती"</string>
+<string name="wifi_p2p_persist_network">"हे संपर्क लक्षांत दवरात"</string>
+<string name="wifi_p2p_menu_search">"यंत्रा खातीर सोद"</string>
+<string name="wifi_p2p_menu_searching">"सोदप चालू आसा..."</string>
+<string name="wifi_p2p_menu_rename">"यंत्राक परत नांव दिवचे"</string>
+<string name="wifi_p2p_peer_devices">"समकर्मी यंत्रा"</string>
+<string name="wifi_p2p_remembered_groups">"गट याद दवरप"</string>
+<string name="wifi_p2p_failed_connect_message">"संपर्क जालो ना."</string>
+<string name="wifi_p2p_failed_rename_message">"यंत्राक परत नांव दिवंक अपेस."</string>
+<string name="wifi_p2p_disconnect_title">"जोडणी तोडात?"</string>
+<string name="wifi_p2p_disconnect_message">"तुमी संपर्क तोडल्यार, वांगडचो तुमचो संपर्क <xliff:g id="peer_name">%1$s</xliff:g> सोपतलो.</string>
+<string name="wifi_p2p_disconnect_multiple_message">"तुमी संपर्क तोडल्यार, वांगडचो तुमचो संपर्क <xliff:g id="peer_name">%1$s</xliff:g> आनी <xliff:g id="peer_count">%2$s</xliff:g> हेर यंत्राकडच्यान सोपतलो."</string>
+<string name="wifi_p2p_cancel_connect_title">"निमंत्रण रद्द करचे?"</string>
+<string name="wifi_p2p_cancel_connect_message">"वांगडा संपर्क करपाचे निमंत्रण तुमकां रद्द करचे आसा<xliff:g id="peer_name">%1$s</xliff:g>?"</string>
+<string name="wifi_p2p_delete_group_message">"हो गट विसरचो?"</string>
+<string name="wifi_tether_checkbox_text">"पोर्टेबल Wi-Fi हॉटस्पॉट"</string>
+<string name="wifi_tether_starting">"हॉटस्पोट चालू करप..."</string>
+<string name="wifi_tether_stopping">"हॉटस्पोट बंद करप..."</string>
+<string name="wifi_tether_enabled_subtext">"पोर्टेबल हॉटस्पॉट<xliff:g id="network_ssid">%1$s</xliff:g> कार्यरत"</string>
+<string name="wifi_tether_failed_subtext">"पोर्टेबल Wi-Fi हॉटस्पॉट अडचण"</string>
+<string name="wifi_tether_configure_ap_text">"Wi-Fi हॉटस्पॉट सेट करचो"</string>
+<string name="wifi_tether_configure_subtext"><xliff:g id="network_ssid">%1$s</xliff:g> <xliff:g id="network_security">%2$s</xliff:g> पोर्टेबल Wi-Fi हॉटस्पॉट"</string>
+<string name="wifi_tether_configure_ssid_default">"MocorDroid हॉटस्पॉट"</string>
+<string name="home_settings">"होम"</string>
+<string name="display_settings_title">"प्रदर्शन"</string>
+<string name="sound_settings">"आवाज"</string>
+<string name="ringtone_title">"फोन रींगटोन"</string>
+<string name="all_volume_title">"आवाज"</string>
+<string name="musicfx_title">"संगीत इफॅक्ट्स"</string>
+<string name="ring_volume_title">"रींगराचो आवाज"</string>
+<string name="vibrate_in_silent_title">"शांत आसता तेन्ना थरथरप"</string>
+<string name="notification_sound_title">"डिफॉल्ट अधिसुचोवणी आवाज"</string>
+<string name="notification_pulse_title">"पल्स सुचोवणी उजवाड"</string>
+<string name="incoming_call_volume_title">"रींगटोन"</string>
+<string name="notification_volume_title">"नोटीफीकेशन"</string>
+<string name="checkbox_notification_same_as_incoming_call">"भितर येवपी कॉल आवाजाक अधिसुचोवणे खातीर वापरप"</string>
+<string name="notification_sound_dialog_title">"डिफॉल्ट अधिसुचोवणी आवाज"</string>
+<string name="media_volume_title">"मिडीया"</string>
+<string name="media_volume_summary">"संगीत आनी व्हिडीयो खातीर आवाज सेट करात"</string>
+<string name="alarm_volume_title">"अलार्म"</string>
+<string name="dock_settings_summary">"लायिल्ल्या डॉका खातीर ध्वनी सेटिंग करप"</string>
+<string name="dtmf_tone_enable_title">"डायल पॅट स्पर्श टॉन्स"</string>
+<string name="sound_effects_enable_title">"स्पर्श आवाज"</string>
+<string name="lock_sounds_enable_title">"स्क्रीन लॉक आवाज"</string>
+<string name="haptic_feedback_enable_title">"स्पर्श केल्यार व्हायब्रेट"</string>
+<string name="audio_record_proc_title">"बोवाळ रद्द करप"</string>
+<string name="volume_media_description">"संगीत, व्हिडीयो, खेळ &amp; हेर मिडिया"</string>
+<string name="volume_ring_description">"रींगटोन &amp; नोटीफीकेशन"</string>
+<string name="volume_notification_description">"नोटीफीकेशनां"</string>
+<string name="volume_alarm_description">"अलार्म"</string>
+<string name="volume_ring_mute">"रिंगटोन म्युट &amp; अधिसुचोवण्यो"</string>
+<string name="volume_media_mute">"म्युट संगीत &amp; हेर मिडिया"</string>
+<string name="volume_notification_mute">"अधिसुचोवण्यो म्युट"</string>
+<string name="volume_alarm_mute">"गजर म्युट"</string>
+<string name="vibrate_when_ringing_title">"रींग जाता तेन्ना व्हायब्रेट करात"</string>
+<string name="dock_settings">"डॉक"</string>
+<string name="dock_settings_title">"डॉक सेटिंग"</string>
+<string name="dock_audio_settings_title">"ऑडीयो"</string>
+<string name="dock_audio_summary_desk">"जोडिल्ल्या डेस्कटॉप डॉका खातीर सेटिंग्स"</string>
+<string name="dock_audio_summary_car">"जोडिल्ल्या कार डॉका खातीर सेटिंग्स"</string>
+<string name="dock_audio_summary_none" product="tablet">"टॅबलेट डॉक केल्ले ना"</string>
+<string name="dock_audio_summary_none" product="default">"फोन डॉक केल्लो ना"</string>
+<string name="dock_audio_summary_unknown">"जोडिल्ल्या डॉका खातीर सेटिंग्स"</string>
+<string name="dock_not_found_title">"डॉक मेळूंक ना"</string>
+<string name="dock_not_found_text" product="tablet">"डॉक ध्वनी सेट करचे पयली तुमकां टॅबलेट डॉक करचो पडटलो."</string>
+<string name="dock_not_found_text" product="default">"डॉक ध्वनी सेट करचे पयली तुमकां फोन डॉक करचो पडटलो."</string>
+<string name="dock_sounds_enable_title">"भितर घाल्लो आवाज डॉक करात"</string>
+<string name="dock_sounds_enable_summary_on" product="tablet">"डॉकांतल्यान टॅबलेट काडटा वा घालता तेन्ना आवाज चालू करचो"</string>
+<string name="dock_sounds_enable_summary_on" product="default">"डॉकांतल्यान फोन काडटा वा घालता तेन्ना आवाज चालू करचो"</string>
+<string name="dock_sounds_enable_summary_off" product="tablet">"डॉकांतल्यान टॅबलेट काडटा वा घालता तेन्ना आवाज चालू करूंक नाका"</string>
+<string name="dock_sounds_enable_summary_off" product="default">"डॉकांतल्यान फोन काडटा वा घालता तेन्ना आवाज चालू करूंक नाका"</string>
+<string name="account_settings">"खाती"</string>
+<string name="search_settings">"सोदात"</string>
+<string name="search_settings_summary">"सोद सेटिंग आनी इतिहासाचे वेवस्थापन"</string>
+<string name="display_settings">"प्रदर्शन"</string>
+<string name="accelerometer_title">"ऑटो-रोटेट स्क्रीन"</string>
+<string name="accelerometer_summary_on" product="tablet">"टॅबलेट घुंवता तेन्ना आपसूक आवड चालू करची"</string>
+<string name="accelerometer_summary_on" product="default">"फोन घुंवता तेन्ना आपसूक आवड चालू करची"</string>
+<string name="accelerometer_summary_off" product="tablet">"टॅबलेट घुंवता तेन्ना आपसूक आवड चालू करची"</string>
+<string name="accelerometer_summary_off" product="default">"फोन घुंवता तेन्ना आपसूक आवड चालू करची"</string>
+<string name="brightness">"ब्रायटनेस"</string>
+<string name="brightness_summary">"स्क्रिनाचो उजवाड सारको करचो"</string>
+<string name="screen_timeout">"न्हिदप"</string>
+<string name="touch_light_timeout">"स्पर्श प्रकाश"</string>
+<string name="touch_light_timeout_title">"स्पर्श प्रकाश वेळ"</string>
+<string name="touch_light_timeout_summary">"उपरांत <xliff:g id="timeout_description">%1$s</xliff:g> कांय सेकंदा खातीर अकार्यक्षम"</string>
+<string name="close_screen_bright_automode">"आपूक सारको करपी उजवाड बंद करात"</string>
+<string name="screen_timeout_summary">"उपरांत <xliff:g id="timeout_description">%1$s</xliff:g> ची अकार्यक्षमता"</string>
+<string name="wallpaper_settings_title">"वॉलपेपर"</string>
+<string name="wallpaper_settings_fragment_title">"हातूंतल्यान वॉलपेपर वेंचात"</string>
+<string name="screensaver_settings_title">"डेड्रीम"</string>
+<string name="screensaver_settings_summary_either_long">"जेन्ना डॉक वा न्हिदिल्लो वा चार्जिंग करतना"</string>
+<string name="screensaver_settings_summary_either_short">"दोगातले एक"</string>
+<string name="screensaver_settings_summary_sleep">"चार्जिंग करतना"</string>
+<string name="screensaver_settings_summary_dock">"डॉक केल्ले आसतना"</string>
+<string name="screensaver_settings_summary_off">"बंद"</string>
+<string name="screensaver_settings_disabled_prompt">"फोन डॉक आनी/वा न्हिदिल्लो आसता तेन्ना किदें जाता ताचेर नियंत्रण दवरुंक, डेड्रिम चालू करात."</string>
+<string name="screensaver_settings_when_to_dream">"केन्ना डेड्रिम करप"</string>
+<string name="screensaver_settings_dream_start">"आता सुरु करात"</string>
+<string name="screensaver_settings_button">"सेटिंग्स"</string>
+<string name="automatic_brightness">"आपसूक उजवाड"</string>
+<string name="title_font_size">"फॉन्टाचो आकार"</string>
+<string name="dialog_title_font_size">"फॉन्टाचो आकार"</string>
+<string name="sim_lock_settings">"SIM कार्ड कुलुप सेटिंग करात"</string>
+<string name="sim_lock_settings_category">"SIM कार्ड कुलुप सेट करात"</string>
+<string name="sim_lock_settings_title">"SIM कार्डाक कुलुप"</string>
+<string name="sim_pin_toggle">"कुलुप SIM कार्ड"</string>
+<string name="sim_lock_on" product="tablet">"फोन वापरुंक PIN गरजेचो"</string>
+<string name="sim_lock_on" product="default">"फोन वापरुंक PIN गरजेचो"</string>
+<string name="sim_lock_off" product="tablet">"फोन वापरुंक PIN गरजेचो"</string>
+<string name="sim_lock_off" product="default">"फोन वापरुंक PIN गरजेचो"</string>
+<string name="sim_pin_change">"SIM PIN बदल करचो"</string>
+<string name="sim_enter_pin">"SIM PIN"</string>
+<string name="sim_enable_sim_lock">"कुलुप SIM कार्ड"</string>
+<string name="sim_disable_sim_lock">"SIM कार्डाचे कुलुप काडप"</string>
+<string name="sim_enter_old">"पोरणो SIM PIN"</string>
+<string name="sim_enter_new">"नवो SIM PIN"</string>
+<string name="sim_reenter_new">"नवो PIN परत टंक कर"</string>
+<string name="sim_change_pin">"SIM PIN"</string>
+<string name="sim_bad_pin">"चुकीचो PIN"</string>
+<string name="sim_pins_dont_match">"PIN जुळनात"</string>
+<string name="sim_change_failed">"PIN बदलूंक मेळना.\nशक्यतो चुकीचो PIN."</string>
+<string name="sim_change_succeeded">"SIM PIN यशस्वीपणान बदल्लो"</string>
+<string name="sim_lock_failed">"SIM कार्ड कुलुप स्थिती बदलप शक्य ना.\nशक्यतो चुकीचो PIN."</string>
+<string name="sim_enter_ok">"बरे"</string>
+<string name="sim_enter_cancel">"रद्द"</string>
+<string name="wrong_pin_code_pukked">"चुकीचो SIM PIN कोड तुमचे यंत्र अनलॉक करुंक तुमी आता तुमच्या वाहका कडेन संपर्क करुंक जाय."</string>
+<plurals name="wrong_pin_code">
+<item quantity="one">"चुकीचो SIM PIN कोड, तुमचे कडेन <xliff:g id="number">%d</xliff:g> यत्न बाकी आसात पयली तुमचे यंत्र अनलॉक करुंक तुमी तुमच्या वाहका काडेन संपर्क करात."</item>
+<item quantity="other">"चुकीचो SIM PIN कोड, तुमचे कडेन <xliff:g id="number">%d</xliff:g> यत्न बाकी आसात."</item>
+</plurals>
+<string name="pin_failed">"SIM PIN कार्य अपेशी"</string>
+<string name="device_info_settings" product="tablet">"टॅबलेटाची स्थिती"</string>
+<string name="device_info_settings" product="default">"फोनाची स्थिती"</string>
+<string name="system_update_settings_list_item_title">"यंत्रणा अपडेट्स"</string>
+<string name="firmware_version">"MocorDroid आवृत्ती"</string>
+<string name="model_number">"मॉडेल संख्या"</string>
+<string name="fcc_equipment_id">"उपकरण ID"</string>
+<string name="baseband_version">"बेसबँड आवृत्ती"</string>
+<string name="kernel_version">"केर्नेल आवृत्ती"</string>
+<string name="build_number">"बिल्ड संख्या"</string>
+<string name="selinux_status">"SELinux स्थिती"</string>
+<string name="device_info_not_available">"उपलब्ध ना"</string>
+<string name="device_status_activity_title">"दर्जो"</string>
+<string name="device_status">"दर्जो"</string>
+<string name="device_status_summary" product="tablet">"बॅटरीची स्थिती, नेटवर्क, आनी हेर म्हायती"</string>
+<string name="device_status_summary" product="default">"फोन नंबर, सिग्नल, आनी हेर."</string>
+<string name="storage_settings">"सांठो"</string>
+<string name="storage_settings_title">"सांठवण सेटिंग्स"</string>
+<string name="storage_settings_summary" product="nosdcard">"अनमावंट USB सांठवण, उपलब्ध सांठवण पळयात"</string>
+<string name="storage_settings_summary" product="default">"अनमावंट SD कार्ड सांठवण, उपलब्ध सांठवण पळयात"</string>
+<string name="status_number" product="tablet">"MDN"</string>
+<string name="status_number" product="default">"म्हजो फोन नंबर"</string>
+<string name="status_prl_version">"PRL आवृत्ती"</string>
+<string name="status_network_type">"मोबायल नॅटवर्क प्रकार"</string>
+<string name="status_latest_area_info">"ऑपरेटराची म्हायती"</string>
+<string name="status_data_state">"सेल्युलर नेटवर्क स्थिती"</string>
+<string name="status_service_state">"सेवेची स्थिती"</string>
+<string name="status_signal_strength">"सिग्नल क्षमता"</string>
+<string name="status_roaming">"रोमींग"</string>
+<string name="status_operator">"नेटवर्क"</string>
+<string name="status_wifi_mac_address">"Wi-Fi MAC पत्तो"</string>
+<string name="status_bt_address">"ब्लुटुथ पत्तो"</string>
+<string name="status_serial_number">"सिरियल नंबर"</string>
+<string name="status_unavailable">"अनुपलब्द"</string>
+<string name="status_up_time">"वेळ वाडयात"</string>
+<string name="status_awake_time">"जागो करचो वेळ"</string>
+<string name="internal_memory">"अंतर्गत स्टोरेज"</string>
+<string name="sd_memory" product="nosdcard">"USB स्टोरेज"</string>
+<string name="sd_memory" product="default">"SD कार्ड"</string>
+<string name="memory_available">"उपलब्ध आसा"</string>
+<string name="memory_available_read_only">"उपलब्ध (फक्त-वाचूंक)"</string>
+<string name="memory_size">"वट्ट सुवात"</string>
+<string name="memory_calculating_size">"मेजता..."</string>
+<string name="memory_apps_usage">"ॲप (ॲप डेटा &amp; मिडिया सामुग्री)"</string>
+<string name="memory_media_usage">"मिडीया"</string>
+<string name="memory_downloads_usage">"डावनलोड्य"</string>
+<string name="memory_dcim_usage">"चित्रां"</string>
+<string name="memory_music_usage">"ध्वनी (संगीत, रिंगटोन्स, पोडकास्ट्स, आनी हेर.)"</string>
+<string name="memory_media_misc_usage">"मिस्क."</string>
+<string name="memory_others_usage">"वापरिल्ले (हेर प्रकारच्यो फायली)"</string>
+<string name="memory_media_cache_usage">"कॅच्ट डेटा"</string>
+<string name="sd_eject" product="nosdcard">"अनमावंट शॅअर्ड सांठवण"</string>
+<string name="sd_eject" product="default">"SD कार्ड अनमांवट करात"</string>
+<string name="sd_eject_summary" product="nosdcard">"अंतर्गत USB सांठवण अनमावंट करप"</string>
+<string name="sd_eject_summary" product="default">"एसडी कार्ड अनमावंड करात, ताका लागून तमुका ते सुरक्षीत काडूंक मेळटले"</string>
+<string name="sd_insert_summary" product="nosdcard">"मांवटिगे खातीर USB  सांठवण भितर घालात"</string>
+<string name="sd_insert_summary" product="default">"एसडी कार्ड USB  सांठवण भितर घालात"</string>
+<string name="sd_mount" product="nosdcard">"USB सांठवण मावंट करप"</string>
+<string name="sd_mount" product="default">"मावंट SD कार्ड"</string>
+<string name="sd_format" product="nosdcard">"USB सांठो पुसून वडय"</string>
+<string name="sd_format" product="default">"SD कार्ड पुसून वडय"</string>
+<string name="sd_format_summary" product="nosdcard">"अंतर्गत USB सांठवणीचेर आशिल्लो सगळो डाटा खोड, देखीक संगीत आनी फोटो"</string>
+<string name="sd_format_summary" product="default">"SD कार्डाचेर आशिल्लो सगळो डाटा खोड, देखीक संगीत आनी फोटो"</string>
+<string name="memory_clear_cache_title">"कॅच्ट डेटा क्लिअर करचो?"</string>
+<string name="memory_clear_cache_message">"हाका लागून सगळ्या ॲपां खातीर कॅच्ट डेटा क्लिअर जाता."</string>
+<string name="mtp_ptp_mode_summary">"MTP वा PTP कार्यरत जातले"</string>
+<string name="dlg_confirm_unmount_title" product="nosdcard">"USB सांठवण अनमावंट करप?"</string>
+<string name="dlg_confirm_unmount_title" product="default">"अनमावंट SD कार्ड?"</string>
+<string name="dlg_confirm_unmount_text" product="nosdcard">"तुमी जर USB कार्ड अनमावंट केले जाल्यार, तुमी वापरतात ते कांय ॲप बंद जावंक शकतात आनी तुमी USB कार्ड मांवट करमेरेन अनुपलब्द आसूंक शकता."</string>
+<string name="dlg_confirm_unmount_text" product="default">"तुमी जर SD कार्ड अनमावंट केले जाल्यार, तुमी वापरतात ते कांय ॲप बंद जावंक शकतात आनी तुमी SD कार्ड मांवट करमेरेन अनुपलब्द आसूंक शकता."</string>
+<string name="dlg_error_unmount_text" product="nosdcard">"USB कार्ड अनमांवट करपाक जालेना. मागीर परत यत्न करात."</string>
+<string name="dlg_error_unmount_text" product="default">"SD कार्ड अनमांवट करपाक जालेना. मागीर परत यत्न करात."</string>
+<string name="unmount_inform_text" product="nosdcard">"USB सांठवण अनमांवट जातले."</string>
+<string name="unmount_inform_text" product="default">"SD कार्ड अनमांवट जातले."</string>
+<string name="sd_ejecting_title">"अनमावंटिंग"</string>
+<string name="sd_ejecting_summary">"अनमांवट प्रक्रिया सुरु आसा"</string>
+<string name="storage_low_title">"सांठवण सुवात कमी पडटा"</string>
+<string name="storage_low_summary">"यंत्रेणेचे कांय कार्या, जशी समक्रमीत, सारके काम करुंक शकची ना. डिलिट करुन वा आयटम अनपिनिंग करुन सुवात रिती करची, ॲप वा मिडिया कन्टेन्टासारकी."</string>
+<string name="storage_menu_usb">"USB संगणक जोडणी"</string>
+<string name="storage_title_usb">"USB संगणक जोडणी"</string>
+<string name="usb_connection_category">"म्हूण जोडात"</string>
+<string name="usb_mtp_title">"मिडिया यंत्र (MTP)"</string>
+<string name="usb_mtp_summary">"तुमकां Windows तल्यान वा Mac चेर MocorDroid फायल स्थलांतर वापरून मीडिया फायली स्थलांतरीत करूंक दिता Mac (www.android.com/filetransfer पळयात)"</string>
+<string name="usb_ptp_title">"कॅमरा (PTP)"</string>
+<string name="usb_ptp_summary">"कॅमेरा सॉफ्टवेअर वापरून तुमकां फोटो दिवंक मजत करता, आनी MTPक तेंको दियना तसल्या संगणकांवेले कसलेय फायल्स दिवंक दिता"</string>
+<string name="usb_label_installer_cd">"फायल-ट्रान्सफर साधन इन्स्टाल करचे"</string>
+<string name="storage_other_users">"हेर उपेगकर्ता"</string>
+<string name="battery_status_title">"बॅटरीची स्थिती"</string>
+<string name="battery_level_title">"बॅटरीचो पांवडो"</string>
+<string name="apn_settings">"APN"</string>
+<string name="apn_edit">"शिरकाव बिंदू संपादीत करप"</string>
+<string name="apn_not_set">"सेट करुंक ना"</string>
+<string name="apn_name">"नांव"</string>
+<string name="apn_http_proxy">"प्रोक्सी"</string>
+<string name="apn_http_port">"पोर्ट"</string>
+<string name="apn_user">"उपेगकर्ता नांव"</string>
+<string name="apn_password">"पासवर्ड"</string>
+<string name="apn_server">"सर्वर"</string>
+<string name="apn_mms_proxy">"एमएमएस प्रॉक्सी"</string>
+<string name="apn_mms_port">"एमएमएस पोर्ट"</string>
+<string name="apn_auth_type">"प्रामाणिकरणाची पद्धत"</string>
+<string name="apn_auth_type_none">"एकूय न्हय"</string>
+<string name="apn_auth_type_pap_chap">"PAP वा CHAP"</string>
+<string name="apn_type">"APN पद्धत"</string>
+<string name="apn_protocol">"APN प्रॉटोकॉल"</string>
+<string name="apn_roaming_protocol">"APN रोमिंग प्रॉटोकॉल"</string>
+<string name="carrier_enabled">"APN सक्षम/अक्षम"</string>
+<string name="carrier_enabled_summaryOn">"APN सक्षम"</string>
+<string name="carrier_enabled_summaryOff">"APN अक्षम"</string>
+<string name="bearer">"धारक"</string>
+<string name="mvno_type">"MVNO पद्दत"</string>
+<string name="mvno_match_data">"MVNO मोल"</string>
+<string name="menu_delete">"वगळावप APN"</string>
+<string name="menu_new">"नवो APN"</string>
+<string name="menu_save">"सेव करात"</string>
+<string name="menu_cancel">"काडून वडयात"</string>
+<string name="error_name_empty">"नांवाची सुवात रिती दवरुंक मेळना."</string>
+<string name="error_apn_empty">"APN रितो दवरुंक मेळना."</string>
+<string name="error_mcc_not3">"MCC सुवात 3 आंकड्यांची आसूकच जाय."</string>
+<string name="error_mnc_not23">"MCC सुवात 2 वा 3 आंकड्यांची आसूकच जाय."</string>
+<string name="restore_default_apn">"डिफॉल्ट APN सेटिंग्स रिसेट करचे."</string>
+<string name="menu_restore">"मूलभूतांत रीसेट करात"</string>
+<string name="restore_default_apn_completed">"डिफॉल्ट APN सेटिंग्स रिसेट प्रक्रिया पुराय जाली."</string>
+<string name="master_clear_title">"फॅक्टरी डेटा रिसेट"</string>
+<string name="master_clear_summary" product="tablet">"टॅबलेटावेलो पुराय डेटा पुसचो"</string>
+<string name="master_clear_summary" product="default">"फोनांवेलो पुराय डेटा पुसचो"</string>
+<string name="master_clear_desc" product="tablet">"हाका लागून तुमच्या टॅबलेटाचो पुराय डेटा पुसतलो<b>अंतर्गत सांठवण</b>, सयत:\n\n<li>तुमचे Google खातें</li>\n<li>यंत्रणा आनी ॲप डेटा आनी सेटिंग्स</li>\n<li>डोवनलोड केल्ली ॲपां</li>"</string>
+<string name="master_clear_desc" product="default">"हाका लागून तुमच्या फोनांवेलो पुराय डेटा पुसतलो<b>अंतर्गत सांठवण</b>, सयत:\n\n<li>तुमचे Google खातेt</li>\n<li>यंत्रणा आनी ॲप डेटा आनी सेटिंग्स</li>\n<li>डोवनलोड केल्ली ॲपां</li>"</string>
+<string name="master_clear_accounts" product="default">"\n\nसद्याक तुमी फुडल्या खात्यांनी सायन जाल्यात:\n"</string>
+<string name="master_clear_desc_also_erases_external">"<li>संगीत</li>\n<li>फोटो</li>\n<li>हेर उपेगकर्ता डेटा</li>"</string>
+<string name="master_clear_desc_erase_external_storage" product="nosdcard">"\n\nसंगीत, चित्रा आनी हेर डेटा, क्लियर करुंक <b>USB सांठवण</b> पुसपाची गरज आसा."</string>
+<string name="master_clear_desc_erase_external_storage" product="default">"\n\nसंगीत, चित्रा आनी हेर डेटा, क्लियर करुंक <b>SD कार्ड</b> पुसपाची गरज आसा."</string>
+<string name="erase_external_storage" product="nosdcard">"USB सांठो पुसून वडय"</string>
+<string name="erase_external_storage" product="default">"SD कार्ड पुसून वडय"</string>
+<string name="erase_external_storage_description" product="nosdcard">"अंतर्गत USB सांठवणी वेलो पुराय डेटा पुसतलो, संगती वा फोटो सारकिलो"</string>
+<string name="erase_external_storage_description" product="default">"अंतर्गत SD कार्डा वेलो पुराय डेटा पुसतलो, संगती वा फोटो सारकिलो"</string>
+<string name="master_clear_button_text" product="tablet">"टॅबलेट रिसेट"</string>
+<string name="master_clear_button_text" product="default">"फोन रिसेट"</string>
+<string name="master_clear_final_desc">"डावनलोड केल्ली ॲप आनी तुमचो वैयक्तीक डेटा पुसचो? ही प्रक्रिया तुमकां फाटी घेवंक मेळना!"</string>
+<string name="master_clear_final_button_text">"सगळे पुसचे"</string>
+<string name="master_clear_gesture_prompt">"तुमची कुलूप काडपाची आकृती चित्रय"</string>
+<string name="master_clear_gesture_explanation">"फॅक्टरी डेटा रिसेट करुंक तुमकां कुलूप काडपाचे पॅटर्न चित्रोवची गरज."</string>
+<string name="master_clear_failed">"यंत्रणा पुसपाची सेवा उपलब्ध नाशिल्ल्यान रिसेट शक्य जाले ना."</string>
+<string name="master_clear_confirm_title">"रिसेट?"</string>
+<string name="media_format_title" product="nosdcard">"USB सांठो पुसून वडय"</string>
+<string name="media_format_title" product="default">"SD कार्ड पुसून वडय"</string>
+<string name="media_format_summary" product="nosdcard">"USB सांठवणीचेर आशिल्लो सगळो डाटा खोड"</string>
+<string name="media_format_summary" product="default">"SD कार्डाचेर आशिल्लो सगळो डाटा खोड"</string>
+<string name="media_format_desc" product="nosdcard">"पुराय USB सांठवण पुसची? तुमकां मेळचे ना<b>सगल्या</b> सांठयल्लो डेटा!"</string>
+<string name="media_format_desc" product="default">"SD कार्ड पुसचे? तुमकां मेळचे ना<b>सगल्या</b> कार्डावेलो डेटा!"</string>
+<string name="media_format_button_text" product="nosdcard">"USB सांठो पुसून वडय"</string>
+<string name="media_format_button_text" product="default">"SD कार्ड पुसून वडय"</string>
+<string name="media_format_final_desc" product="nosdcard">"USB सांठवण पुसची, थंय सांठयल्ले सगळे फायली वगळावं? तुमकां ही प्रक्रिया परत फाटी घेवंक मेळना!"</string>
+<string name="media_format_final_desc" product="default">"SD कार्ड पुसचे, थंय सांठयल्ले सगळे फायली वगळावं? तुमकां ही प्रक्रिया परत फाटी घेवंक मेळना!"</string>
+<string name="media_format_final_button_text">"सगळे पुसचे"</string>
+<string name="media_format_gesture_prompt">"तुमची कुलूप काडपाची आकृती चित्रय"</string>
+<string name="media_format_gesture_explanation" product="nosdcard">"तुमकां USB सांठवण पुसपाची आसा हाची खात्री करुंक तुमकां कुलुप काडपाचे पॅटर्न चित्रावचे पडटले."</string>
+<string name="media_format_gesture_explanation" product="default">"तुमकां SD सांठवण पुसपाची आसा हाची खात्री करुंक तुमकां कुलुप काडपाचे पॅटर्न चित्रावचे पडटले."</string>
+<string name="call_settings_title">"कॉल सेटिंग्स"</string>
+<string name="call_settings_summary">"कॉलर ID, कॉले प्रतिक्षा, कॉल फॉरवर्डिंग, व्हॉयसमेल सेट करप"</string>
+<string name="tether_settings_title_usb">"USB टेथरिंग"</string>
+<string name="tether_settings_title_wifi">"पोर्टेबल हॉटस्पॉट"</string>
+<string name="tether_settings_title_bluetooth">"ब्लुटुथ टिथरिंग"</string>
+<string name="tether_settings_title_usb_bluetooth">"थेथरींग"</string>
+<string name="tether_settings_title_all">"टेथरिंग &amp; पोर्टेबल हॉटस्पॉट"</string>
+<string name="usb_tethering_button_text">"USB टेथरिंग"</string>
+<string name="usb_tethering_available_subtext">"USB कनॅक्टेड, टेथर करपाक तपासणी"</string>
+<string name="usb_tethering_active_subtext">"टेथर्ड"</string>
+<string name="usb_tethering_storage_active_subtext">"USB सांठवण वापरात आसतना टेथर करपाक मेळना"</string>
+<string name="usb_tethering_unavailable_subtext">"USB जोडिल्लो ना"</string>
+<string name="usb_tethering_errored_subtext">"USB टेथरिंग समस्या"</string>
+<string name="bluetooth_tether_checkbox_text">"ब्लुटुथ टिथरिंग"</string>
+<string name="bluetooth_tethering_available_subtext" product="tablet">"हया टॅबलेटाची इंटरनेट जोडणी शेअर करता"</string>
+<string name="bluetooth_tethering_available_subtext" product="default">"हया फोनाची इंटरनेट जोडणी शेअर करता"</string>
+<string name="bluetooth_tethering_device_connected_subtext" product="tablet">"हया टॅबलेटाची इंटरनेट जोडणी 1 यंत्राक शेअर करता"</string>
+<string name="bluetooth_tethering_device_connected_subtext" product="default">"हया फोनाची इंटरनेट जोडणी 1 यंत्राक शेअर करता"</string>
+<string name="bluetooth_tethering_devices_connected_subtext" product="tablet">"हया टॅबलेटाची इंटरनेट जोडणी <xliff:g id="connectedDeviceCount">%1$d</xliff:g> यंत्राक शेअर करता"</string>
+<string name="bluetooth_tethering_devices_connected_subtext" product="default">"हया फोनाची इंटरनेट जोडणी <xliff:g id="connectedDeviceCount">%1$d</xliff:g> यंत्राक शेअर करता"</string>
+<string name="bluetooth_tethering_off_subtext" product="tablet">"हया टॅबलेटाची इंटरनेट जोडणी शेअर करना"</string>
+<string name="bluetooth_tethering_off_subtext" product="default">"हया फोनाची इंटरनेट जोडणी शेअर करना"</string>
+<string name="bluetooth_tethering_errored_subtext">"टेथर करना"</string>
+<string name="bluetooth_tethering_overflow_error">"परत चड टेथर जायना<xliff:g id="maxConnection">%1$d</xliff:g> यंत्रा."</string>
+<string name="bluetooth_untether_blank">"<xliff:g id="device_name">%1$s</xliff:g> अनटेथर जातले."</string>
+<string name="tethering_help_button_text">"मजत"</string>
+<string name="network_settings_title">"सेल्युलर नेटवर्क"</string>
+<string name="manage_mobile_plan_title">"मोबायल प्लान"</string>
+<string name="sms_application_title">"डिफॉल्ट एसएमएस ॲप "</string>
+<string name="sms_change_default_dialog_title">"चेंज एसएमएस ॲप "</string>
+<string name="sms_change_default_dialog_text">"उपेग<xliff:g id="new_app">%1$s</xliff:g> च्या सुवातीर <xliff:g id="current_app">%2$s</xliff:g> तुमच्या एसएमएस ॲपाप्रमाण?"</string>
+<string name="sms_change_default_no_previous_dialog_text">"उपेग<xliff:g id="new_app">%s</xliff:g>  तुमच्या एसएमएस ॲपाप्रमाण?"</string>
+<string name="mobile_unknown_sim_operator">"अनवळखी SIM ऑफरेटर"</string>
+<string name="mobile_no_provisioning_url">"%1$s ची वळखीचे पर्यायी संकेतथळ ना"</string>
+<string name="mobile_insert_sim_card">"उपकार करून SIM कार्ड घालात आनी परत चालू करात"</string>
+<string name="mobile_connect_to_internet">"उपकार करुन इंटरनेटाक जोडात"</string>
+<string name="location_title">"म्हजी सुवात"</string>
+<string name="location_mode_title">"माध्यम"</string>
+<string name="location_mode_high_accuracy_title">"उच्च नेमकेपणा"</string>
+<string name="location_mode_battery_saving_title">"बॅटरी वाचवप"</string>
+<string name="location_mode_sensors_only_title">"फक्त यंत्र"</string>
+<string name="location_mode_location_off_title">"थळ बंद"</string>
+<string name="location_category_recent_location_requests">"सद्याची सुवात विनवणी"</string>
+<string name="location_no_recent_apps">"खंयच्याच ॲपान सद्याक सुवाती खातीर विनवणी केल्ली ना"</string>
+<string name="location_category_location_services">"सुवात सेवा"</string>
+<string name="location_high_battery_use">"बॅटरीचो चड उपेग"</string>
+<string name="location_low_battery_use">"बॅटरीचो कमी उपेग"</string>
+<string name="location_mode_screen_title">"सुवात माध्यम"</string>
+<string name="location_mode_high_accuracy_description">"सुवात थारावंक GPS, Wi\u2011Fi, आनी मोबायल नॅटवर्का वापरचे"</string>
+<string name="location_mode_battery_saving_description">"सुवात थारावंक Wi\u2011Fi आनी मोबायल नॅटवर्कां वापरचे"</string>
+<string name="location_mode_sensors_only_description">"तुमची सुवात थारावपाक GPS उपेग करात"</string>
+<string name="location_loading_injected_setting">"परत मेळयता…"</string>
+<string name="location_network_based">"Wi\u2011Fi  &amp; मोबायल नॅटवर्क सुवात"</string>
+<string name="location_neighborhood_level">"तुमची सुवात वेगान थारावंक Google सुवात सेवा वापरुंक ॲपाक उपेग करुंक दिवचो. अनवळखी सुवात डेटा एकठांय जातलो आनी  Google वतलो."</string>
+<string name="location_neighborhood_level_wifi">"सुवात Wi-Fi वरवी थारावप"</string>
+<string name="location_gps">"GPS उपग्रह"</string>
+<string name="location_street_level" product="tablet">"ॲपाक तुमच्या टॅबलेटावेलो GPS उपेग करुन तुमची सुवात पीनपॉयन्ट करुंक दिवप"</string>
+<string name="location_street_level" product="default">"ॲपाक तुमच्या फोनांवेलो GPS उपेग करुन तुमची सुवात पीनपॉयन्ट करुंक दिवप"</string>
+<string name="assisted_gps">"सहाय्य केल्लो GPS उपेग"</string>
+<string name="assisted_gps_enabled">"GPS सहाय्यक करुंक सर्व्हराचो उपेग (नेटवर्क उपेग कमी करपाक निर्बंध काडप)"</string>
+<string name="assisted_gps_disabled">"GPS सहाय्यक करुंक सर्व्हराचो उपेग (नेटवर्क सुदारपाक कमी करपाक निर्बंध काडप)"</string>
+<string name="use_location_title">"सुवात &amp; Google सोद"</string>
+<string name="use_location_summary">"सोद निकाल आनी हेर सेवा सुदारपा खातीर  Googleक तुमची सुवात उपेग करुंक दिवची"</string>
+<string name="location_access_title">"म्हज्यु सुवातीक शिरकाव"</string>
+<string name="location_access_summary">"तुमची अनुमती मागिल्ल्या ॲपांक तुमची सुवात म्हायती उपेग करुंक दिवप"</string>
+<string name="location_sources_heading">"सुवातीचे स्त्रोत"</string>
+<string name="location_gps_config">"AGPS सक्षम पर्याय"</string>
+<string name="location_gps_config_summary">"वेगवेगळ्या नेटवर्क पर्यावरणात agps सक्षम करूं."</string>
+<string name="agps_config_summary">"SUPL आनी NTP कॉन्फीगरेशन"</string>
+<string name="location_gps_config_titlebar">"AGPS सक्षम पर्याय"</string>
+<string name="gps_config_titlebar">"GPS कॉन्फीगरेशन"</string>
+<string name="gps_config_supl_host">"SUPL सर्वर पत्तो"</string>
+<string name="gps_config_supl_port">"SUPL सर्वर पोर्ट"</string>
+<string name="gps_config_cert_path">"SUPL सर्टि फायल मार्ग"</string>
+<string name="gps_config_location_method">"पसंतीची पद्दत"</string>
+<string name="gps_config_start_mode">"GPS इंजीन सुरु मोड"</string>
+<string name="gps_config_connection_type">"जोडणी पद्दत"</string>
+<string name="gps_enable_option">"AGPS सक्षम पर्याय"</string>
+<string name="gps_log_show">"AGPS LOG दाखय"</string>
+<string name="gps_log_show_summary">"AGPS खातीर LOG दाखय"</string>
+<string name="agps_config_taile">"AGPS कॉन्फीगरेशन"</string>
+<string name="agps_enable_option_tailebar">"AGPS सक्षम पर्याय"</string>
+<string name="agps_enable_option_registered">"नोंदणीकृत नेटवर्क"</string>
+<string name="agps_enable_option_all">"सगळे नेटवर्क"</string>
+<string name="agps_enable_option_none">"AGPS वापरचे न्ही"</string>
+<string name="agps_enable_default_set_tailebar">"मुलभूत सेटिंग्स रीसेट करात"</string>
+<string name="agps_enable_default_set_text">"डिफॉल्ट सेटिंग्स रिस्टोर क्लिक करप."</string>
+<string name="agps_enable_default_set_button">"डिफॉल्ट सेटिंग्स"</string>
+<string name="agps_config_help_tailebar">"AGPS मजत"</string>
+<string name="agps_config_help_text">"AGPS सक्षम पर्यायात जर तुमी सगळे नेटवर्क वेंचतात जाल्यार AGPS उपेग केल्यार आंतरराष्ट्रीय रोमींग शुल्क लागतले,  तुमचो फोन आंतराराष्ट्रीय रोमींगेत आसता तेन्ना."</string>
+<string name="settings_other">"हेर"</string>
+<string name="about_settings" product="tablet">"टॅबलेटा विशीं"</string>
+<string name="about_settings" product="default">"फोना विशीं"</string>
+<string name="about_settings_summary">"कायदेशीर म्हायती, स्थिती, सॉफ्टवेअर आवृत्ती"</string>
+<string name="legal_information">"कायदेशीर म्हायती"</string>
+<string name="contributors_title">"योगदान करपी"</string>
+<string name="regulatory_information">"नियामक म्हायती"</string>
+<string name="copyright_title">"कॉपीरायट"</string>
+<string name="license_title">"परवानो"</string>
+<string name="terms_title">"नेम आनी अटी"</string>
+<string name="settings_license_activity_title">"स्रोत परवाने उक्ते करात"</string>
+<string name="settings_license_activity_unavailable">"परवाने लोड करपाक समस्या येता."</string>
+<string name="settings_license_activity_loading">"लोडींग..."</string>
+<string name="settings_safetylegal_title">"सुरक्षा म्हायती"</string>
+<string name="settings_safetylegal_activity_title">"सुरक्षा म्हायती"</string>
+<string name="settings_safetylegal_activity_unreachable">"तुमकां डेटा जोडणी ना. आता म्हायती पळोवपाक, वचात %s  इंटरनेटाक जोडिल्ल्या खंयच्याय संगणाक कडच्यान."</string>
+<string name="settings_safetylegal_activity_loading">"लोडींग..."</string>
+<string name="lockpassword_choose_your_password_header">"तुमचो पासवर्ड थारायात"</string>
+<string name="lockpassword_choose_your_pattern_header">"तुमचो पॅटर्न थारायात"</string>
+<string name="lockpassword_choose_your_pin_header">"तुमचो PIN थारायात"</string>
+<string name="lockpassword_confirm_your_password_header">"पासवर्डाची खात्री करात"</string>
+<string name="lockpassword_confirm_your_pattern_header">"पॅटर्नाची खात्री करात"</string>
+<string name="lockpassword_confirm_your_pin_header">"PIN खात्री करात"</string>
+<string name="lockpassword_confirm_passwords_dont_match">"पासवर्ड जुळना"</string>
+<string name="lockpassword_confirm_pins_dont_match">"PIN जुळनात"</string>
+<string name="lockpassword_choose_lock_generic_header">"वेंचिल्ले कुलुप काडात"</string>
+<string name="lockpassword_password_set_toast">"पासवर्ड सेट जालो"</string>
+<string name="lockpassword_pin_set_toast">"PIN सेट जालो"</string>
+<string name="lockpassword_pattern_set_toast">"पॅटर्न सेट जालो"</string>
+<string name="lock_settings_title">"स्रिन सुरक्षा"</string>
+<string name="lockpattern_change_lock_pattern_label">"कुलुप काडपाचो पॅटर्न बदलप"</string>
+<string name="lockpattern_change_lock_pin_label">"कुलुप काडपाचो PIN बदलप"</string>
+<string name="lockpattern_need_to_unlock">"सुरक्षीत पॅटर्नाची खात्री करप"</string>
+<string name="lockpattern_need_to_unlock_wrong">"परत यत्न करात:"</string>
+<string name="lockpattern_recording_intro_header">"कुलुप उगडपाचे पॅटर्न चित्रयांत"</string>
+<string name="lockpattern_recording_intro_footer">"मजती खातीर Menu दाबात."</string>
+<string name="lockpattern_recording_inprogress">"जाल्या उपरांत बोट काडात"</string>
+<string name="lockpattern_recording_incorrect_too_short">"<xliff:g id="number">%d</xliff:g> डॉट्स कमीत कमी जोडात. परत यत्न करात ."</string>
+<string name="lockpattern_pattern_entered_header">"पॅटर्न नोंद"</string>
+<string name="lockpattern_need_to_confirm">"खात्री करपाक पॅटर्न परत चित्रयात"</string>
+<string name="lockpattern_pattern_confirmed_header">"कुलुप उगडपाचो तुमचो नवो पॅटर्न"</string>
+<string name="lockpattern_confirm_button_text">"पुश्टी दियात"</string>
+<string name="lockpattern_restart_button_text">"परत चित्रवप"</string>
+<string name="lockpattern_retry_button_text">"परत यत्न करात"</string>
+<string name="lockpattern_continue_button_text">"चालू"</string>
+<string name="lockpattern_settings_title">"कुलुप उगडपाचो पॅटर्न"</string>
+<string name="lockpattern_settings_enable_title">"जाय आशिल्लो पॅटर्न"</string>
+<string name="lockpattern_settings_enable_summary">"स्क्रिनीचे कुलुप काडपाक पॅटर्न चित्रोवप गरजेचे"</string>
+<string name="lockpattern_settings_enable_visible_pattern_title">"पॅटर्न नदरेत हाडप"</string>
+<string name="lockpattern_settings_enable_tactile_feedback_title">"स्पर्श केल्यार व्हायब्रेट"</string>
+<string name="lockpattern_settings_enable_power_button_instantly_locks">"पावर बटनाक धपक्यान कुलुप"</string>
+<string name="lockpattern_settings_choose_lock_pattern">"कुलुप उगडपाचो पॅटर्न सेट करप "</string>
+<string name="lockpattern_settings_change_lock_pattern">"कुलुप काडपाचो पॅटर्न बदलप"</string>
+<string name="lockpattern_settings_help_how_to_record">"कुलुप उगडपाचो पॅटर्न कसो चित्रावप"</string>
+<string name="lockpattern_too_many_failed_confirmation_attempts_header">"कितलेशेच चड चुकीचे यत्न !"</string>
+<string name="lockpattern_too_many_failed_confirmation_attempts_footer">"परतून यत्न करात <xliff:g id="number">%d</xliff:g> सेकंद."</string>
+<string name="activity_not_found">"तुमच्या फोनाचेर ॲप्लिकेशन घाल्ले ना."</string>
+<string name="manageapplications_settings_title">"ॲपांचे वेवस्थापन करात"</string>
+<string name="manageapplications_settings_summary">"घाल्ल्या ॲपांचे वेवस्थापन आनी काडप"</string>
+<string name="applications_settings">"ॲपां"</string>
+<string name="applications_settings_summary">"ॲपांचे वेवस्थापन, बेगीन सुरू करूंक शॉटकट सेट अप करप"</string>
+<string name="applications_settings_header">"ॲप सेटिंग"</string>
+<string name="install_applications">"अनवळखी स्त्रोत"</string>
+<string name="install_unknown_applications">"अनवळखी स्रोतावेल्यान ॲपां इन्साटॉल करुंक अनुमती दिता"</string>
+<string name="install_all_warning" product="tablet">"तुमचो टॅबलेट आनी व्यक्तीगत डाटा अनवळखी स्रोतांतल्यान ॲपा वरवीं हल्लो जावंक आनीक दुबळें आसा, ही ॲपां वापरून तुमच्या टॅबलेटाक कसलीय हानी जाली वा डाटाक लुकसाण जाल्यार ताका पुरायपणान तुमी जापसालदार आसतले हें तुमी मान्य करता."</string>
+<string name="install_all_warning" product="default">"तुमचो फोन आनी व्यक्तीगत डाटा अनवळखी स्रोतांतल्यान ॲपा वरवीं हल्लो जावंक आनीक दुबळें आसा, ही ॲपां वापरून तुमच्या फोनाक कसलीय हानी जाली वा डाटाक लुकसाण जाल्यार ताका पुरायपणान तुमी जापसालदार आसतले हें तुमी मान्य करता."</string>
+<string name="verify_applications">"ॲप्स वेरिफाय"</string>
+<string name="verify_applications_summary">"लुकसाण करपी ॲपांच्या इन्स्टॉलेशना पयली अमान्य वा शिटकावणी दिवप"</string>
+<string name="advanced_settings">"आधुनीक सेटिंग"</string>
+<string name="advanced_settings_summary">"आनीक सेटिंग पर्याय उक्ते करप"</string>
+<string name="application_info_label">"ॲपाची म्हायती"</string>
+<string name="storage_label">"सांठो"</string>
+<string name="auto_launch_label">"डिफॉल्ट अनावरण करप"</string>
+<string name="auto_launch_label_generic">"डिफॉल्ट्स"</string>
+<string name="screen_compatibility_label">"स्क्रिन कॉम्पॅटिबीलिटी"</string>
+<string name="permissions_label">"अनुमती"</string>
+<string name="cache_header_label">"कॅशे"</string>
+<string name="clear_cache_btn_text">"कॅच साफ करात"</string>
+<string name="cache_size_label">"कॅशे"</string>
+<string name="controls_label">"नियंत्रण"</string>
+<string name="force_stop">"जबरदस्तीन थांबोवप"</string>
+<string name="total_size_label">"वट्ट"</string>
+<string name="application_size_label">"ॲप"</string>
+<string name="external_code_size_label">"USB सांठवण ॲप"</string>
+<string name="data_size_label">"डेटा"</string>
+<string name="external_data_size_label" product="nosdcard">"USB सांठवण डेटा"</string>
+<string name="external_data_size_label" product="default">"SD कार्ड"</string>
+<string name="uninstall_text">"अनइन्स्टॉल"</string>
+<string name="uninstall_all_users_text">"सगळ्या उपेगकर्तांखातीर अनइन्स्टॉल"</string>
+<string name="install_text">"इन्स्टॉल"</string>
+<string name="disable_text">"अक्षम"</string>
+<string name="enable_text">"सक्षम"</string>
+<string name="clear_user_data_text">"डेटा साफ करात"</string>
+<string name="app_factory_reset">"अपडेट्स अनइन्स्टॉल"</string>
+<string name="auto_launch_enable_text">"कांय कारवाये खातीर तुमी हे ॲप डिफॉल्ट म्हूण वेंचला."</string>
+<string name="always_allow_bind_appwidgets_text">"विजेट्स तयार करुं आनी तांचो डेटा पळोवंक मी हे ॲप डिफॉल्ट म्हूण वेंचला."</string>
+<string name="auto_launch_disable_text">"डिफॉल्ट सेट ना."</string>
+<string name="clear_activities">"डिफॉल्ट स्पश्ट"</string>
+<string name="screen_compatibility_text">"हे ॲप तुमच्या स्क्रिनी खातीर डिजायन केल्ले नासू शकता. तुमच्या स्क्रिनाचेर ते कशे जुळोवन घेवप ताचेर तुमी नियंत्रण दवरू येता."</string>
+<string name="ask_compatibility">"सुरू केल्या उपरांत विचारांत"</string>
+<string name="enable_compatibility">"ॲप मेजप"</string>
+<string name="unknown">"अनवळखी"</string>
+<string name="sort_order_alpha">"नांवा प्रमाण वेगळे करात"</string>
+<string name="sort_order_size">"आकारा प्रमाण वेगळे करप"</string>
+<string name="show_running_services">"चालू आशिल्ले सेवा दाखयात"</string>
+<string name="show_background_processes">"कॅशेड प्रक्रिया दाखयात"</string>
+<string name="reset_app_preferences">"ॲप पसंती रिसेट करप"</string>
+<string name="reset_app_preferences_title">"ॲप पसंती रिसेट करची?"</string>
+<string name="reset_app_preferences_desc">"हाका लागून सगळी पसंती रिसेट जातली हांची:\n\n <li>ॲप अक्षम</li>\n <li>अक्षम ॲप नोटिफिकेशन</li>\n <li>कार्या खातीर डिफॉल्ट ॲप्लिकेशन</li>\n <li>ॲपां खातीर बॅकग्रावंड डेटा निर्बंध</li>\n <li>कसलेय अनुमती निर्बंध</li>\n\n तुमचो कसलोच ॲप डेटा ना जावचो ना."</string>
+<string name="reset_app_preferences_button">"ॲपां रिसेट"</string>
+<string name="manage_space_text">"सुवात वेवस्थापन"</string>
+<string name="filter">"फिल्टर"</string>
+<string name="filter_dlg_title">"फिल्टर पर्याय वेंचात"</string>
+<string name="filter_apps_all">"सगले"</string>
+<string name="filter_apps_disabled">"असक्षम"</string>
+<string name="filter_apps_third_party">"डावनलोडेड"</string>
+<string name="filter_apps_running">"चालू"</string>
+<string name="filter_apps_onsdcard" product="nosdcard">"USB स्टोरेज"</string>
+<string name="filter_apps_onsdcard" product="default">"SD कार्डा चेर"</string>
+<string name="disabled">"असक्षम"</string>
+<string name="not_installed">"इन्स्टॉल करूंक ना"</string>
+<string name="no_applications">"ॲपां ना."</string>
+<string name="internal_storage">"अंतर्गत स्टोरेज"</string>
+<string name="sd_card_storage" product="nosdcard">"USB स्टोरेज"</string>
+<string name="sd_card_storage" product="default">"SD कार्ड सांठवण"</string>
+<string name="recompute_size">"रिकॉम्प्युटिंग आकार..."</string>
+<string name="clear_data_dlg_title">"ॲप डेटा वगळावप?"</string>
+<string name="clear_data_dlg_text">"हो पुराय डेटा कायमचो वगळायतलो. हातूंत फायल्स, सेटिंग्स, खाती, डेटाबेस, हेरांचो आस्पाव आसा."</string>
+<string name="dlg_ok">"बरे"</string>
+<string name="dlg_cancel">"रद्द"</string>
+<string name="app_not_found_dlg_text">"ॲप इन्स्टॉल केल्ल्या ॲपांचे वळेरींत सांपडूंक ना."</string>
+<string name="clear_data_failed">"ॲप डेटा क्लियर करुंक ना."</string>
+<string name="app_factory_reset_dlg_title">"अपडेट काडप?"</string>
+<string name="app_factory_reset_dlg_text">"ह्या MocorDroid यंत्रणा ॲपाचेर केल्ली सगळी अद्यावतां अनइन्स्टॉल करतले."</string>
+<string name="clear_failed_dlg_title">"डेटा साफ करात"</string>
+<string name="clear_failed_dlg_text">"ॲपा खातीर डेटा क्लियर करुंक ना."</string>
+<string name="security_settings_desc" product="tablet">"हे ॲप तुमच्या टॅबलेटावेले फुडले गजाली पळोवंक शकता:"</string>
+<string name="security_settings_desc" product="default">"हे ॲप तुमच्या फोनांवेले फुडले गजाली पळोवंक शकता:"</string>
+<string name="security_settings_desc_multi" product="tablet">"हे ॲप तुमच्या टॅबलेटावेले फुडले गजाली पळोवंक शकता. कामगिरी सुदारपा खातीर आनी मेमरी उपेग कमी करप, हातूंतले कांय अनुमती उपलब्ध आसात खातीर <xliff:g id="base_app_name">%1$s</xliff:g> कारण ते त्याच प्रक्रियेत चालू उरता <xliff:g id="additional_apps_list">%2$s</xliff:g>:"</string>
+<string name="security_settings_desc_multi" product="default">"हे ॲप तुमच्या फोनांवेले फुडले गजाली पळोवंक शकता. कामगिरी सुदारपा खातीर आनी मेमरी उपेग कमी करप, हातूंतले कांय अनुमती उपलब्ध आसात खातीर <xliff:g id="base_app_name">%1$s</xliff:g> कारण ते त्याच प्रक्रियेत चालू उरता <xliff:g id="additional_apps_list">%2$s</xliff:g>:"</string>
+<string name="join_two_items">"<xliff:g id="first_item">%1$s</xliff:g> आनी <xliff:g id="second_item">%2$s</xliff:g>"</string>
+<string name="join_many_items_last">"<xliff:g id="all_but_last_item">%1$s</xliff:g> आनी <xliff:g id="last_item">%2$s</xliff:g>"</string>
+<string name="join_many_items_first">"<xliff:g id="first_item">%1$s</xliff:g>, <xliff:g id="all_but_first_and_last_item">%2$s</xliff:g>"</string>
+<string name="join_many_items_middle">"<xliff:g id="added_item">%1$s</xliff:g>, <xliff:g id="rest_of_items">%2$s</xliff:g>"</string>
+<string name="security_settings_billing_desc">"ह्या ॲपांक लागून तुमकां पयशांचे शुल्क लागूंक शकता:"</string>
+<string name="security_settings_premium_sms_desc">"प्रिमियम एसएमएस धाडात"</string>
+<string name="computing_size">"मेजप..."</string>
+<string name="invalid_size_value">"पॅकेड आकार मेजुंक शकले ना."</string>
+<string name="empty_list_msg">"तुमच्या कडे कसलोच तिस-या पक्षाचो ॲप इन्स्टॉल केल्लो ना."</string>
+<string name="version_text">"आवृत्ती <xliff:g id="version_num">%1$s</xliff:g>"</string>
+<string name="move_app">"हालयात"</string>
+<string name="move_app_to_internal" product="tablet">"टॅबली कडेन धाडप"</string>
+<string name="move_app_to_internal" product="default">"फोना कडेन धाडप"</string>
+<string name="move_app_to_sdcard" product="nosdcard">"USB सांठवणीकडेन धाडप"</string>
+<string name="move_app_to_sdcard" product="default">"SD कार्डाचेर हालयात"</string>
+<string name="moving">"धाडटा"</string>
+<string name="insufficient_storage">"जाय तितली सुवात ना."</string>
+<string name="does_not_exist">"ॲप अस्तित्वांत ना."</string>
+<string name="app_forward_locked">"ॲप कॉपी-सुरक्षित."</string>
+<string name="invalid_location">"इनस्टॉल सुवात वैध ना."</string>
+<string name="system_package">"यंत्रणा अपडटे भायले मिडियाचेर इन्स्टॉल करुंक मेळना."</string>
+<string name="force_stop_dlg_title">"जबरदस्ती बंद?"</string>
+<string name="force_stop_dlg_text">"ॲप जबरदस्ती बंद केल्यार, ते गैरवागूंक शकता."</string>
+<string name="move_app_failed_dlg_text">"ॲप हालोवंक मेळना. <xliff:g id="reason">%1$s</xliff:g>"</string>
+<string name="app_install_location_title">"पसंतीची सुवात इन्स्टॉल करप"</string>
+<string name="app_install_location_summary">"नव्या ॲपा खातीर पसंतीची सुवात इन्स्टॉलेशन बदलप"</string>
+<string name="app_disable_dlg_title">"बील्ट-इन-ॲप अक्षम?"</string>
+<string name="app_disable_dlg_text">"तुमी बील्ट-इन-ॲप अक्षम केल्यार, हेर ॲप गैरवागूंक शकतात."</string>
+<string name="app_special_disable_dlg_title">"डेटा वगळावप आनी ॲप अक्षम करप?"</string>
+<string name="app_special_disable_dlg_text">"तुमी बील्ट-इन-ॲप अक्षम केल्यार, हेर ॲप गैरवागूंक शकतात. तुमचो डेटाय वगळावपाची शक्यताय."</string>
+<string name="app_disable_notifications_dlg_title">"सुचोवण्यो बंद करचे?"</string>
+<string name="app_disable_notifications_dlg_text">"ह्या ॲपा खातीर तुमी सुचोवण्यो बंद केल्यार, तुमकां म्हत्वाचे सुचना आनी अपडेट चुकूंक शकतात. "</string>
+<string name="app_ops_settings">"ॲप ऑप्स"</string>
+<string name="app_ops_running">"चालू"</string>
+<string name="app_ops_never_used">"(केन्नाट उपेग करुंक ना)"</string>
+<string name="storageuse_settings_title">"सांठवण उपेग"</string>
+<string name="storageuse_settings_summary">"ॲप्सान वापरिल्ले सांठवण पळय"</string>
+<string name="runningservices_settings_title">"सुरु आशिल्ले सेवा"</string>
+<string name="runningservices_settings_summary">"सद्याक सुरु आशिल्ले सेवा पळोवप आनी नियंत्रण"</string>
+<string name="service_restarting">"परत सुरु करप"</string>
+<string name="cached">"कॅच्ट बॅकग्रावंड प्रक्रिया"</string>
+<string name="no_running_services">"कांयच चलना."</string>
+<string name="service_started_by_app">"ॲपान सुरु केले."</string>
+<string name="service_background_processes">"<xliff:g id="memory">%1$s</xliff:g> फुकट"</string>
+<string name="service_foreground_processes">"<xliff:g id="memory">%1$s</xliff:g> उपेग"</string>
+<string name="running_process_item_user_label">"उपेग: <xliff:g id="user_name">%1$s</xliff:g>"</string>
+<string name="running_process_item_removed_user_label">"उपेगकर्ता काडलो"</string>
+<string name="running_processes_item_description_s_s">"<xliff:g id="numprocess">%1$d</xliff:g>प्रक्रिया आनी <xliff:g id="numservices">%2$d</xliff:g> सेवा"</string>
+<string name="running_processes_item_description_s_p">"<xliff:g id="numprocess">%1$d</xliff:g> प्रक्रिया आनी<xliff:g id="numservices">%2$d</xliff:g> सेवा"</string>
+<string name="running_processes_item_description_p_s">"<xliff:g id="numprocess">%1$d</xliff:g> प्रक्रिया आनी <xliff:g id="numservices">%2$d</xliff:g> सेवा"</string>
+<string name="running_processes_item_description_p_p">"<xliff:g id="numprocess">%1$d</xliff:g>प्रक्रिया आनी <xliff:g id="numservices">%2$d</xliff:g> सेवा"</string>
+<string name="runningservicedetails_settings_title">"चालू ॲप"</string>
+<string name="no_services">"कार्यरत ना"</string>
+<string name="runningservicedetails_services_title">"सेवा"</string>
+<string name="runningservicedetails_processes_title">"प्रक्रिया"</string>
+<string name="service_stop">"थांबात"</string>
+<string name="service_manage">"सेटिंग्स"</string>
+<string name="service_stop_description">"ही सेवा ताच्या ॲपान सुरु केल्ली.  ती थांबयली जाल्यार ॲप अपेसी जावंक शकता."</string>
+<string name="heavy_weight_stop_description">"हे ॲप सुरक्षीत बंद करुंक मेळना. तुमी ते थांबयले जाल्यार तुमचे सद्याचे काय काम ना जाव येता."</string>
+<string name="background_process_stop_description">"ही एक पोरणी ॲप प्रक्रिया गरजे आशिल्ल्या कारणान अजूनय चालू आसा. ती थांबोवकच जाय अशें कांय कारण ना."</string>
+<string name="service_manage_description">"<xliff:g id="client_name">%1$s</xliff:g>:सद्याक चालू आसा. सेटिंगाक स्पर्श करात."</string>
+<string name="main_running_process_description">"मुखेल प्रक्रिया उपेगात आसा."</string>
+<string name="process_service_in_use_description">"सेवा <xliff:g id="comp_name">%1$s</xliff:g> उपेगात आसा."</string>
+<string name="process_provider_in_use_description">"प्रोव्हायडर <xliff:g id="comp_name">%1$s</xliff:g> उपेगात आसा."</string>
+<string name="runningservicedetails_stop_dlg_title">"यंत्रणा सेवा थांबोवप?"</string>
+<string name="runningservicedetails_stop_dlg_text" product="tablet">"तुमी ही सेवा थांबयल्यार, तुमी तुमच्या टॅबलेटाक बंद करुन आनी परत चालू करमेरेन तांतूतली काय वैशिश्टां काम करप बंद जावंक शकतात."</string>
+<string name="runningservicedetails_stop_dlg_text" product="default">"तुमी ही सेवा थांबयल्यार, तुमी तुमच्या फोनाक बंद करुन आनी परत चालू करमेरेन तातूंतली काय वैशिश्टां काम करप बंद जावंक शकतात."               </string>
+<string name="language_settings">"भाशा &amp; इन्पूट"</string>
+<string name="language_keyboard_settings_title">"भाशा &amp; इन्पूट"</string>
+<string name="language_settings_category">"भाशा सेटिंग"</string>
+<string name="keyboard_settings_category">"किबोर्ड &amp; इन्पूट पद्दत"</string>
+<string name="phone_language">"भाशा"</string>
+<string name="auto_replace">"आपसूक-अदलाबदल"</string>
+<string name="auto_replace_summary">"चुकीचे टायप केल्ले शब्द सारके करप"</string>
+<string name="auto_caps">"आपसूक-कॅपिटलायझेशन"</string>
+<string name="auto_caps_summary">"वाक्यातले पयले अक्षर कॅपीटलायझ करचे"</string>
+<string name="auto_punctuate">"आपसूक-पंक्च्युएट"</string>
+<string name="hardkeyboard_category">"भौतिक किबोर्ड सेटिंग"</string>
+<string name="auto_punctuate_summary">"इन्सर्ट करुंक स्पेस की दोन फावट दाबप\u0022.\u0022"</string>
+<string name="show_password">"पासवर्ड दिसूंक दिवचो"</string>
+<string name="ime_security_warning">"ही इन्पूट पद्दत तुमी टायप केल्ले सगळे टॅक्स्ट एकठांय करपाची ताक दवरूंक शकता, तातूंन पासवर्ड आनी क्रेडिट कार्ड नंबरा सारको वैयक्तीक डेटाचो आस्पाव आसा.  ते ॲपांतल्या येता <xliff:g id="ime_application_name">%1$s</xliff:g>. ही इन्पूट पद्दत वापरप?"</string>
+<string name="spellchecker_security_warning">"हो स्पेल चेकर तुमी टायप केल्या पुराय टॅक्स्टाक जमा करुंक शकता, तातूंत पासवर्ड आनी क्रेडिट कार्ड नंबरा सारको वैयक्तीक डेटाचो आस्पाव आसा. ते ॲपांतल्या येता <xliff:g id="spellchecker_application_name">%1$s</xliff:g>. हो स्पेल चेकर उपेग करचो?"</string>
+<string name="spellchecker_quick_settings">"सेटिंग्स"</string>
+<string name="spellchecker_language">"भाशा"</string>
+<string name="failed_to_open_app_settings_toast">"खातीर सेटिंग उक्ती करूंक अपेस <xliff:g id="spell_application_name">%1$s</xliff:g>"</string>
+<string name="pointer_settings_category">"मावस/ट्रॅकपॅड"</string>
+<string name="pointer_speed">"पॉयन्टराचो वेग"</string>
+<string name="game_controller_settings_category">"खेळ नियंत्रक"</string>
+<string name="vibrate_input_devices">"वायब्रेटराचो उपेग"</string>
+<string name="vibrate_input_devices_summary">"जेन्ना जोडिल्लो आसता तेन्ना वायब्रेटराक खेळ नियंत्रकाकडेन पुनर्निदेशित करचो."</string>
+<string name="keyboard_layout_dialog_title">"किबोर्ड लेआवट वेंचप"</string>
+<string name="keyboard_layout_dialog_setup_button">"किबोर्ड लेआवट्स सेट अप करचे"</string>
+<string name="keyboard_layout_dialog_switch_hint">"कन्ट्रोल-स्पेसबार, स्वीच वा दाबप"</string>
+<string name="keyboard_layout_default_label">"मुलभूत"</string>
+<string name="keyboard_layout_picker_title">"किबोर्ड लेआवट"</string>
+<string name="user_dict_settings_title">"वैयक्तीक डिक्शनरी"</string>
+<string name="user_dict_settings_add_menu_title">"अदीक"</string>
+<string name="user_dict_settings_add_dialog_title">"डिक्शनरीत घालात"</string>
+<string name="user_dict_settings_add_screen_title">"कडवे"</string>
+<string name="user_dict_settings_add_dialog_more_options">"अदीक विकल्प"</string>
+<string name="user_dict_settings_add_dialog_less_options">"कमी पर्याय"</string>
+<string name="user_dict_settings_add_dialog_confirm">"बरे"</string>
+<string name="user_dict_settings_add_word_option_name">"शब्द:"</string>
+<string name="user_dict_settings_add_shortcut_option_name">"शॉटकर्ट:"</string>
+<string name="user_dict_settings_add_locale_option_name">"भाशा:"</string>
+<string name="user_dict_settings_add_word_hint">"शब्द टायप करात"</string>
+<string name="user_dict_settings_add_shortcut_hint">"पर्यायी शॉटकट"</string>
+<string name="user_dict_settings_edit_dialog_title">"शब्द संपादन"</string>
+<string name="user_dict_settings_context_menu_edit_title">"संपादन"</string>
+<string name="user_dict_settings_context_menu_delete_title">"वगळायात"</string>
+<string name="user_dict_settings_empty_text">"उपेगकर्ता डिक्शनरीत तुमचे कडे शब्द ना. शब्दाचो आसपाव करुंक ॲड(+) बटणाक स्पर्श करचो."</string>
+<string name="user_dict_settings_all_languages">"सगळ्या भाशां खातीर"</string>
+<string name="user_dict_settings_more_languages">"चड भाशा…"</string>
+<string name="testing">"तपासणी"</string>
+<string name="testing_phone_info" product="tablet">"टॅबलेट म्हायती"</string>
+<string name="testing_phone_info" product="default">"फोन म्हायती"</string>
+<string name="testing_battery_info">"बॅटरी म्हायती"</string>
+<string name="quick_launch_title">"वेगान अनावरण"</string>
+<string name="quick_launch_summary">"ॲप अनावरण करुं किबोर्ड शॉटकर्ट्स सेट करात"</string>
+<string name="quick_launch_assign_application">"ॲपाची नेमणूक"</string>
+<string name="quick_launch_no_shortcut">"शॉटकर्ट ना"</string>
+<string name="quick_launch_shortcut">"सोद + <xliff:g id="shortcut_letter">%1$s</xliff:g>"</string>
+<string name="quick_launch_clear_dialog_title">"साफ"</string>
+<string name="quick_launch_clear_dialog_message">"खातीर तुमचे शॉटकर्ट <xliff:g id="shortcut_letter">%1$s</xliff:g> (<xliff:g id="application_name">%2$s</xliff:g>) साफ जातले."</string>
+<string name="quick_launch_clear_ok_button">"बरे"</string>
+<string name="quick_launch_clear_cancel_button">"रद्द"</string>
+<string name="quick_launch_display_mode_applications">"ॲपां"</string>
+<string name="quick_launch_display_mode_shortcuts">"शोर्टकट्स"</string>
+<string name="input_methods_settings_title">"टॅक्स्ट इन्पूट"</string>
+<string name="input_method">"इन्पुट पद्धत"</string>
+<string name="current_input_method">"मुलभूत"</string>
+<string name="input_method_selector">"इन्पूट पद्दत वेंचपी"</string>
+<string name="input_method_selector_show_automatically_title">"स्वयंचलीत"</string>
+<string name="input_method_selector_always_show_title">"सदांच दाखय"</string>
+<string name="input_method_selector_always_hide_title">"सदांच लिपोवचो"</string>
+<string name="configure_input_method">"इन्पुट पद्दत सेट अप करात"</string>
+<string name="input_method_settings">"सेटिंग्स"</string>
+<string name="input_method_settings_button">"सेटिंग्स"</string>
+<string name="active_input_method_subtypes">"इन्पूट पद्दत सक्रिय"</string>
+<string name="use_system_language_to_select_input_method_subtypes">"यंत्रणेच्या भाशेचो उपेग"</string>
+<string name="input_methods_settings_label_format">"<xliff:g id="ime_name">%1$s</xliff:g> सेटिंग्स"</string>
+<string name="input_methods_and_subtype_enabler_title">"सक्रिय इन्पूट पद्दत वेंचात"</string>
+<string name="onscreen_keyboard_settings_summary">"ओनस्क्रिन किबोर्ड सेटिंग्स"</string>
+<string name="builtin_keyboard_settings_title">"भौतीक कीबोर्ड"</string>
+<string name="builtin_keyboard_settings_summary">"भौतिक किबोर्ड सेटिंग"</string>
+<string name="development_settings_title">"डेव्हेलोपर पर्याय"</string>
+<string name="development_settings_summary">"ॲपाची उदरगत करुंक पर्याय सेट करात"</string>
+<string name="development_settings_not_available">"ह्या उपेगकर्ता खातीर डेव्हलोपर पर्याय उपलब्ध ना"</string>
+<string name="enable_adb">"USB डिबगींग"</string>
+<string name="enable_adb_summary">"USB जोडिल्लो आसता तेन्ना डिबग मोड"</string>
+<string name="clear_adb_keys">"USB डिबगींग प्रमाणीकरण रद्द करचे"</string>
+<string name="bugreport_in_power">"पावर मेनू बग अहवाल"</string>
+<string name="bugreport_in_power_summary">"बग अहवाल घेवंक पावर मेनूत पर्याय आसपावीत करची"</string>
+<string name="keep_screen_on">"जागे रावप"</string>
+<string name="keep_screen_on_summary">"चार्जिंग चालू आसतना स्क्रिन केन्नाच न्हिदची ना"</string>
+<string name="bt_hci_snoop_log">"ब्लुटुथ HCI स्नूप लॉग सक्षम"</string>
+<string name="bt_hci_snoop_log_summary">"फायलीतले सगळे HCI पॅकेट्स कॅप्चर करप"</string>
+<string name="select_runtime_title">"रनटायम वेंचचो"</string>
+<string name="select_runtime_dialog_title">"रनटायम वेंचचो"</string>
+<string name="select_runtime_warning_message">"<xliff:g id="old" example="libdvm.so">%1$s</xliff:g> हातूंतल्यान <xliff:g id="new" example="libart.so">%2$s</xliff:g> करूंक रनटायम बदलूंक रिबूट कर?"</string>
+<string name="wifi_display_certification">"वायरलेस प्रदर्शन सर्टिफिकेशन"</string>
+<string name="wifi_display_certification_summary">"वायरलेस प्रदर्शन सर्टिफिकेशना खातीर पर्याय दाखवचे"</string>
+<string name="allow_mock_location">"मॉक सुवातींक अनुमती"</string>
+<string name="allow_mock_location_summary">"मॉक सुवातींक अनुमती"</string>
+<string name="adb_warning_title">"USB डीबगींगाक अनुमती दिवं?"</string>
+<string name="adb_warning_message">"फक्त उदरगत हेतू खातीर USB डिबगींग. हाचो उपेग, तुमचो संगणक आनी तुमच्या यंत्रावेलो डेटा कॉपी करुंक, लोग डेटा वाचप, आनी सुचोवणे शिवाय तुमच्या यंत्राचेर ॲप इन्स्टॉल करप."</string>
+<string name="adb_keys_warning_message">"तुमी पयली अधिकृत केल्ल्या सगळ्या संगणकावेल्या USB डिबगींगाची अनुमती काडप?"</string>
+<string name="dev_settings_warning_title">"उदरगत सेटिंग्साक अनुमती?"</string>
+<string name="dev_settings_warning_message">"ह्या सेटिंग्साचो हाचो हेतू फक्त उदरगतीखातीर. हाकालागून तुमच्या यंत्रा आनी ताच्यावेल्या ॲप्लिकेशनांत खंड पडप वा गैरवर्तन करपाची शक्यताय."</string>
+<string name="verify_apps_over_usb_title">"USB वेल्या ॲपांची तपासणी करप"</string>
+<string name="verify_apps_over_usb_summary">"ADB/ADT वेल्यान इन्स्टॉल केल्ल्या ॲपांची गैरवर्तनाखातीर तपासणी करप."</string>
+<string name="enforce_read_external_title" product="nosdcard">"USB सांठवण सुरक्षीत"</string>
+<string name="enforce_read_external_summary" product="nosdcard">"USB सांठवण वाचूंक ॲपान मान्यताय घेवप गरजेचे"</string>
+<string name="enforce_read_external_confirm_title" product="nosdcard">"USB सांठवण सुरक्षीत करप?"</string>
+<string name="enforce_read_external_confirm_message" product="nosdcard">"USB सांठवण सुरक्षीत आसता तेन्ना, भायल्या सांठवणीवेलो डेटा वाचूंक ॲपान मान्यताय घेवंप गरजेचे.\n\nकांय ॲप तांच्या डेव्हलोपरांनी अपडेट करमेरेन चलूंक शकनात."</string>
+<string name="enforce_read_external_title" product="default">"SD कार्ड सुरक्षीत"</string>
+<string name="enforce_read_external_summary" product="default">"SD कार्ड वाचूंक ॲपान मान्यताय घेवप गरजेचे"</string>
+<string name="enforce_read_external_confirm_title" product="default">"SD कार्ड सुरक्षीत करचे?"</string>
+<string name="enforce_read_external_confirm_message" product="default">"जेन्ना SD कार्ड सुरक्षीत आसता, तेन्ना भायले साठयल्ल्या डेटाक वाचूंक ॲपान विनवणी करची पडटा.\n\nकांय ॲप तांच्या डेव्हलपरान अपडेट करमेरेन काम करचे नां."</string>
+<string name="enable_terminal_title">"थळावो टर्मिनल"</string>
+<string name="enable_terminal_summary">"थळावे शेल दिवन अनुमती दिवपी टर्मिल ॲपाक सक्षम"</string>
+<string name="gadget_picker_title">"गॅजेट वेंचात"</string>
+<string name="widget_picker_title">"विजेट वेंचात"</string>
+<string name="allow_bind_app_widget_activity_allow_bind_title">"विजेट तयार करा आनी पळोवक अनुमती?"</string>
+<string name="allow_bind_app_widget_activity_allow_bind">"तुमी विजेट तयार केल्या उपरांत, <xliff:g id="widget_host_name">%1$s</xliff:g> ते प्रदर्शन करपी सगळो डेटा पळोवक शकता."</string>
+<string name="allow_bind_app_widget_activity_always_allow_bind">"सदांच अनुमती <xliff:g id="widget_host_name">%1$s</xliff:g> विजेट तयार करूं आनी तांचो डेटा पळोवक अनुमती"</string>
+<string name="battery_history_days">"<xliff:g id="days">%1$d</xliff:g>d <xliff:g id="hours">%2$d</xliff:g>h <xliff:g id="minutes">%3$d</xliff:g>m <xliff:g id="seconds">%4$d</xliff:g>s"</string>
+<string name="battery_history_hours">"<xliff:g id="hours">%1$d</xliff:g>h <xliff:g id="minutes">%2$d</xliff:g>m <xliff:g id="seconds">%3$d</xliff:g>s"</string>
+<string name="battery_history_minutes">"<xliff:g id="minutes">%1$d</xliff:g>m <xliff:g id="seconds">%2$d</xliff:g>s"</string>
+<string name="battery_history_seconds">"<xliff:g id="seconds">%1$d</xliff:g>s"</string>
+<string name="battery_history_days_no_seconds">"<xliff:g id="days">%1$d</xliff:g>d <xliff:g id="hours">%2$d</xliff:g>h <xliff:g id="minutes">%3$d</xliff:g>m"</string>
+<string name="battery_history_hours_no_seconds">"<xliff:g id="hours">%1$d</xliff:g>h <xliff:g id="minutes">%2$d</xliff:g>m"</string>
+<string name="battery_history_minutes_no_seconds">"<xliff:g id="minutes">%1$d</xliff:g>m"</string>
+<string name="usage_stats_label">"उपेगाची आंकडेवारी"</string>
+<string name="testing_usage_stats">"उपेगाची आंकडेवारी"</string>
+<string name="display_order_text">"कडच्यान वेंचप:"</string>
+<string name="app_name_label">"ॲप"</string>
+<string name="launch_count_label">"मेजणी"</string>
+<string name="usage_time_label">"उपेग वेळ"</string>
+<string name="accessibility_settings">"सुलभताय"</string>
+<string name="accessibility_settings_title">"शिरकावांची सेटिंग्स"</string>
+<string name="accessibility_services_title">"सेवा"</string>
+<string name="accessibility_system_title">"यंत्रणा"</string>
+<string name="accessibility_captioning_title">"कॅप्शन्स"</string>
+<string name="accessibility_screen_magnification_title">"मॅग्नीफिकेशन गेस्चर"</string>
+<string name="accessibility_screen_magnification_summary">"जेन्ना हो शॉटकर्ट चालू आसता तेन्ना, स्क्रिनाचेर तिनदा-टॅप करून तुमी झुम इन आनी आवट करुंक शकतात.\n\nझुम इन करता तेन्ना, तुमी करुंक शकतात:\n<ul><li>पॅन: स्क्रिनीचेर दोन वा चड बोटा वोडूंक शकतात.</li>\n<li>झम लेव्हल ॲडजस्ट: दोन वा चड फोटा लागी करून लागी हाडप वा पयस व्हरप. </li></ul>\n\nजे तुमच्या बोटा सकयल आसां ते तिनदा-टॅप आनी धरून तुमी तात्पुरते मॅग्नीफाय करुंक शकतात. ह्या मॅग्नीफायड स्थितीत, तुमी तमचे बोट स्क्रिनाच्या वेगवेगळ्या भागांचेर वोडूंक शकतात. तुमच्या पयलीच्या स्थितींत परत येवंक तुमचे बोट उखलात.\n\nनोट:  मॅग्नीफिकेशनाखातीर किबोर्ड आनी नेव्हीगेशन बार सोडून सगळ्याक तिनदा-टॅप पद्दत काम करता."</string>
+<string name="accessibility_global_gesture_preference_title">"शिरकांवाक शॉटकर्ट"</string>
+<string name="accessibility_global_gesture_preference_summary_on">"चालू"</string>
+<string name="accessibility_global_gesture_preference_summary_off">"बंद"</string>
+<string name="accessibility_global_gesture_preference_description">"हे वैशिश्ट चालू आसता तेन्ना, तुमी दोन पांवड्यांत शिरकांव वैशिश्ट्याक वेगान सक्रिय करुंक शकतात :\n\nपांवडो 1: तुमकां आवाज वा थरथरपाचो अणभव जायमेरेन पावर बटन दाबून आनी धरून रावप.\n\nStep 2: खात्री जायमेरेन दोन बोटा तेंकोवन आनी धरून रावप.\n\nयंत्राक चड उपेगकर्ता आसल्यार, यंत्राचे कुलुप उक्ते आसमेरेन ह्या शॉटकर्टाचो उपेग कुलुप जाल्ल्या स्क्रिनाचेर तात्पूरतो शिरकांव करूंक दिता."</string>
+<string name="accessibility_toggle_large_text_preference_title">"व्हड टॅक्स्ट"</string>
+<string name="accessibility_toggle_screen_magnification_preference_title">"स्क्रिन मॅग्नीफिकेशन"</string>
+<string name="accessibility_toggle_screen_magnification_auto_update_preference_title">"ओटोअपडेट स्क्रिन मॅग्नीफिकेशन"</string>
+<string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">"ॲप ट्रान्जीशनाचेर स्क्रिन मॅग्नीफिकेशन अपडेट करप"</string>
+<string name="accessibility_power_button_ends_call_prerefence_title">"पावर बटनाचेर कॉल बंद जाता"</string>
+<string name="accessibility_toggle_speak_password_preference_title">"पासवर्ड उलोवचो"</string>
+<string name="accessibility_long_press_timeout_preference_title">"तेंकोवन &amp; उशीर स्थगीत दवरप"</string>
+<string name="accessibility_menu_item_settings">"सेटिंग्स"</string>
+<string name="accessibility_feature_state_on">"चालू"</string>
+<string name="accessibility_feature_state_off">"बंद"</string>
+<string name="captioning_preview_title">"फ्रीव्हुव"</string>
+<string name="captioning_standard_options_title">"दर्जेदार पर्याय"</string>
+<string name="captioning_locale">"भाशा"</string>
+<string name="captioning_text_size">"टॅक्स्टाचो आकार"</string>
+<string name="captioning_preset">"कॅप्शन पद्दत"</string>
+<string name="captioning_custom_options_title">"कस्टम पर्याय"</string>
+<string name="captioning_background_color">"बॅकग्रावंड कलर"</string>
+<string name="captioning_background_opacity">"बॅकग्रावंड ऑपॅसिटी"</string>
+<string name="captioning_foreground_color">"टॅक्स्ट रंग"</string>
+<string name="captioning_foreground_opacity">"टॅक्स्ट ऑपॅसिटी"</string>
+<string name="captioning_edge_color">"रंग धार"</string>
+<string name="captioning_edge_type">"धार पद्दत"</string>
+<string name="captioning_typeface">"फॉन्ट फामिल"</string>
+<string name="captioning_preview_text">"कॅप्शन अशें दिसतले"</string>
+<string name="locale_default">"मुलभूत"</string>
+<string name="color_none">"एकूय न्हय"</string>
+<string name="color_white">"धवो"</string>
+<string name="color_gray">"तपकीरी"</string>
+<string name="color_black">"काळो"</string>
+<string name="color_red">"तांबडो"</string>
+<string name="color_green">"पाचवे"</string>
+<string name="color_blue">"नीळो"</string>
+<string name="color_cyan">"सियान"</string>
+<string name="color_yellow">"हळदुवो"</string>
+<string name="color_magenta">"मॅगनेटा"</string>
+<string name="enable_service_title">"उपेग <xliff:g id="service" example="TalkBack">%1$s</xliff:g>?"</string>
+<string name="capabilities_list_title">"<xliff:g id="service" example="TalkBack">%1$s</xliff:g> खातीर गरज:"</string>
+<string name="capability_title_receiveAccessibilityEvents">"तुमच्या कारवायेचे निरिक्षण"</string>
+<string name="capability_desc_receiveAccessibilityEvents">"तुमी ॲपा वांगडा संवाद सादतात तेन्ना सुचोवणी मेळटली."</string>
+<string name="disable_service_title">"थांबवप <xliff:g id="service" example="TalkBack">%1$s</xliff:g>?"</string>
+<string name="disable_service_message">"OK स्पर्श केल्यार थांबतले <xliff:g id="service" example="TalkBack">%1$s</xliff:g>."</string>
+<string name="accessibility_no_services_installed">"सेवा इन्स्टॉल केल्ला ना"</string>
+<string name="accessibility_service_no_apps_title">"स्क्रीन रिडर जाय?"</string>
+<string name="accessibility_service_no_apps_message">"अंधत्व आनी उण्या प्रमाणांत दिसप्यांक मजत करूंक टॉकबॅक तोंडी प्रतिसाद दिता. तुमकां तो MocorDroid बाजारांतल्यान फुकट इन्स्टॉल करूंक जाय?"</string>
+<string name="accessibility_service_default_description">"वर्णन उपलब्ध ना."</string>
+<string name="settings_button">"सेटिंग्स"</string>
+<string name="print_settings">"छापप"</string>
+<string name="print_settings_title">"छापपाची सेवा"</string>
+<string name="print_service_security_warning_title">"उपेग <xliff:g id="service" example="My Print Service">%1$s</xliff:g>?"</string>
+<string name="print_service_security_warning_summary">"तुमचो दस्तावेज प्रिंटराकडेन वतना एक वा चड सर्व्हरातल्यान वचूंक शकता."</string>
+<string name="print_no_services_installed">"खंयचीय सेवा इन्स्टॉल करूंक ना."</string>
+<string name="print_no_printers_found">"प्रिंटर सांपडूंक ना"</string>
+<string name="print_menu_item_settings">"सेटिंग्स"</string>
+<string name="print_menu_item_add_printers">"प्रिंटर्स जोडात"</string>
+<string name="print_feature_state_on">"चालू"</string>
+<string name="print_feature_state_off">"बंद"</string>
+<string name="print_menu_item_add_service">"सेवा अदीक करात"</string>
+<string name="print_menu_item_add_printer">"प्रिंटर घालात"</string>
+<string name="print_menu_item_search">"सोदात"</string>
+<string name="print_searching_for_printers">"प्रिंटर सोदता"</string>
+<string name="print_service_disabled">"सेवा अक्षम"</string>
+<string name="print_print_jobs">"प्रिंट कामां"</string>
+<string name="print_print_job">"प्रिंट काम"</string>
+<string name="print_restart">"परतून सुरु करचे"</string>
+<string name="print_cancel">"रद्द"</string>
+<string name="print_printing_state_title_template">"प्रिंट करात <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g>"</string>
+<string name="print_cancelling_state_title_template">"रद्द करता <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g>"</string>
+<string name="print_failed_state_title_template">"प्रिंटर चूक <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g>"</string>
+<string name="print_blocked_state_title_template">"प्रिंटर ब्लॉक केला <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g>"</string>
+<string name="print_search_box_shown_utterance">"सोद बॉक्स दाखयला"</string>
+<string name="print_search_box_hidden_utterance">"सोद बॉक्स लिपयले"</string>
+<plurals name="print_search_result_count_utterance">
+<item quantity="one">"<xliff:g id="count" example="1">%1$s</xliff:g> प्रिंटर सांपडलो"</item>
+<item quantity="other">"<xliff:g id="count" example="2">%1$s</xliff:g> प्रिंटर सांपडलो"</item>
+</plurals>
+<string name="power_usage_summary_title">"बॅटरी"</string>
+<string name="power_usage_summary">"किदे बॅटरी वापरता"</string>
+<string name="power_usage_not_available">"बॅटरी वापरपी डेटा उपलब्ध ना."</string>
+<string name="battery_since_unplugged">"अनप्लग केला तेन्ना सावन बॅटरी उपेग"</string>
+<string name="battery_since_reset">"रिसेट केला तेन्ना सावन बॅटरी उपेग"</string>
+<string name="battery_stats_on_battery"><xliff:g id="time">%1$s</xliff:g> चालू बॅटरी"</string>
+<string name="battery_stats_duration">"<xliff:g id="time">%1$s</xliff:g> अनप्लग केला तेन्नासावन"</string>
+<string name="battery_stats_charging_label">"चार्जींग"</string>
+<string name="battery_stats_screen_on_label">"स्क्रिन चालू"</string>
+<string name="battery_stats_gps_on_label">"GPS चालू"</string>
+<string name="battery_stats_wifi_running_label">"Wi-Fi"</string>
+<string name="battery_stats_wake_lock_label">"जागे"</string>
+<string name="battery_stats_phone_signal_label">"सेल्युलर नेटवर्क सिग्नल"</string>
+<string name="awake">"यंत्र जागे करपाचो वेळ"</string>
+<string name="wifi_on_time">"वेळाचेर Wi-Fi चालू"</string>
+<string name="bluetooth_on_time">"वेळाचेर Wi-Fi चालू"</string>
+<string name="usage_name_percent">"<xliff:g id="name">%1$s</xliff:g>" - "<xliff:g id="number" example="30">%2$s</xliff:g><xliff:g id="percent" example="%">%%</xliff:g>"</string>
+<string name="history_details_title">"इतिहास तपशील"</string>
+<string name="details_title">"तपशिलाचो उपेग"</string>
+<string name="details_subtitle">"तपशिलाचो उपेग"</string>
+<string name="controls_subtitle">"विजेचो उपेग सारको करचो"</string>
+<string name="packages_subtitle">"पॅकेजीचो आसपाव करचो"</string>
+<string name="power_screen">"स्क्रीन"</string>
+<string name="power_wifi">"Wi-Fi"</string>
+<string name="power_bluetooth">"Bluetooth"</string>
+<string name="power_cell">"सेल स्टॅँडबाय"</string>
+<string name="power_phone">"वॉयस कॉल्स"</string>
+<string name="power_idle" product="tablet">"टॅबलेट आयडल"</string>
+<string name="power_idle" product="default">"फोन आयडल"</string>
+<string name="usage_type_cpu">"CPU वट्ट"</string>
+<string name="usage_type_cpu_foreground">"CPU फोरग्रावंड"</string>
+<string name="usage_type_wake_lock">"जागे दवर"</string>
+<string name="usage_type_wifi_running">"Wi-Fi चालू"</string>
+<string name="usage_type_phone" product="tablet">"टॅबलेट"</string>
+<string name="usage_type_phone" product="default">"फोन"</string>
+<string name="usage_type_data_send">"धाडिल्लो मोबायल डाटा"</string>
+<string name="usage_type_data_recv">"मेळयल्लो मोबायल डाटा"</string>
+<string name="usage_type_data_wifi_send">"धाडिल्लो Wi\u2011Fi डाटा"</string>
+<string name="usage_type_data_wifi_recv">"मेळयल्लो Wi\u2011Fi डाटा"</string>
+<string name="usage_type_audio">"ऑडीयो"</string>
+<string name="usage_type_video">"व्हिडीयो"</string>
+<string name="usage_type_on_time">"वेळ चालू"</string>
+<string name="usage_type_no_coverage">"सिग्नलां शिवाय वेळ"</string>
+<string name="battery_action_stop">"जबरदस्तीन थांबोवप"</string>
+<string name="battery_action_app_details">"ॲपाची म्हायती"</string>
+<string name="battery_action_app_settings">"ॲप सेटिंग"</string>
+<string name="battery_action_display">"स्क्रिन सेटिंग्स"</string>
+<string name="battery_action_wifi">"Wi-Fi सेटिंग्स"</string>
+<string name="battery_action_bluetooth">"ब्लुटुथ सेटिंग्स"</string>
+<string name="battery_desc_voice">"व्हॉयस कॉलांनी केल्लो बेटरीचो उपेग"</string>
+<string name="battery_desc_standby" product="tablet">"टॅबलेट विनांवापर आसतना बॅटरीचो उपेग"</string>
+<string name="battery_desc_standby" product="default">"फोन विनावापर आसतना बॅटरीचो उपेग"</string>
+<string name="battery_desc_radio">"सेल रेडियोन केल्लो बेटरीचो उपेग"</string>
+<string name="battery_sugg_radio">"सेल कव्हरेज नासता त्या वाठारांनी पावर बचत करुंक एअरोप्लेन मोड स्वीच करप"</string>
+<string name="battery_desc_display">"प्रदर्शन आनी बॅकलायटीन केल्लो बेटरीचो उपेग"</string>
+<string name="battery_sugg_display">"स्क्रिन उजवाड/ वा स्क्रिन टायमआवाट कमी करप"</string>
+<string name="battery_desc_wifi">"Wi-Fiन केल्लो बेटरीचो उपेग"</string>
+<string name="battery_sugg_wifi">"उपेग करना वा उपलब्ध नासतना तेन्ना Wi-Fi बंद करप"</string>
+<string name="battery_desc_bluetooth">"ब्लुटुथान केल्लो बेटरीचो उपेग"</string>
+<string name="battery_sugg_bluetooth_basic">"तुमी उपेग करना तेन्ना ब्लुटुथ बंद करप"</string>
+<string name="battery_sugg_bluetooth_headset">"हेर ब्लुटुथ यंत्राक जोडपाचो यत्न"</string>
+<string name="battery_desc_apps">"ॲपान केल्लो बेटरीचो उपेग"</string>
+<string name="battery_sugg_apps_info">"ॲप थांबयात वा अनइन्स्टॉल करात"</string>
+<string name="battery_sugg_apps_gps">"बॅटरी-बचत मोड वेंचात"</string>
+<string name="battery_sugg_apps_settings">"ॲप बेटरीचो उपेग कमी करपाचो पर्याय दिवंक शकता"</string>
+<string name="battery_desc_users">"उपेगकर्तान केल्लो बेटरीचो उपेग"</string>
+<string name="menu_stats_unplugged">"<xliff:g id="unplugged">%1$s</xliff:g> पसून अनप्लग्ड"</string>
+<string name="menu_stats_last_unplugged">"जाल्यार निमणो अनप्लग्ड केल्लो खातीर <xliff:g id="unplugged">%1$s</xliff:g>"</string>
+<string name="menu_stats_total">"उपेगाची बेरीज"</string>
+<string name="menu_stats_refresh">"रीफ्रेश"</string>
+<string name="process_mediaserver_label">"मिडियासर्व्हर"</string>
+<string name="process_stats_summary_title">"प्रक्रिया स्टॅट्स"</string>
+<string name="process_stats_summary">"चालू आशिल्ल्या प्रक्रियेविशी गीकी स्टॅट्स"</string>
+<string name="app_memory_use">"मेमरी उपेग"</string>
+<string name="process_stats_total_duration">"<xliff:g id="type">%1$s</xliff:g> ॲप वयर<xliff:g id="time">%2$s</xliff:g>"</string>
+<string name="process_stats_type_background">"फाटल्या भागांत"</string>
+<string name="process_stats_type_foreground">"फोरग्रांवड"</string>
+<string name="process_stats_type_cached">"कॅच्ट"</string>
+<string name="process_stats_memory_status">"सद्याक यंत्र मेमरी <xliff:g id="memstate">%1$s</xliff:g>"</string>
+<string name="process_stats_avg_ram_use">"सरासरी रॅम उपेग"</string>
+<string name="process_stats_max_ram_use">"चडानचड रॅम उपेग"</string>
+<string name="process_stats_run_time">"चालू वेळ"</string>
+<string name="services_subtitle">"सेवा"</string>
+<string name="menu_proc_stats_duration">"वेळ"</string>
+<string name="menu_duration_3h">"3 वरां"</string>
+<string name="menu_duration_6h">"6 वरां"</string>
+<string name="menu_duration_12h">"12 वरां"</string>
+<string name="menu_duration_1d">"1 दीस"</string>
+<string name="menu_show_system">"यंत्रणा दाखय"</string>
+<string name="menu_use_uss">"Uss उपेग"</string>
+<string name="menu_proc_stats_type">"स्टॅट्सांचो प्रकार"</string>
+<string name="menu_proc_stats_type_background">"फाटल्या भागांत"</string>
+<string name="menu_proc_stats_type_foreground">"फोरग्रांवड"</string>
+<string name="menu_proc_stats_type_cached">"कॅच्ट"</string>
+<string name="voice_input_output_settings">"आवाज इन्पूट &amp; आवटपूट"</string>
+<string name="voice_input_output_settings_title">"आवाज इन्पूट &amp; आवटपूट सेटिंग्स"</string>
+<string name="voice_search_settings_title">"आवाजाचो सोद"</string>
+<string name="keyboard_settings_title">"MocorDroid किबोर्ड"</string>
+<string name="voice_category">"भाशण"</string>
+<string name="recognizer_title">"आवाज वळखुपी"</string>
+<string name="recognizer_settings_title">"आवाजाचो सोद"</string>
+<string name="recognizer_settings_summary">"\'<xliff:g id="recognizer_name">%s</xliff:g>\' हाका सेटिंग्स"</string>
+<string name="tts_settings">"टॅक्स्ट-ते-भाशण सेटिंग्स"</string>
+<string name="tts_settings_title">"टॅक्स्ट-ते-भाशण आवटपूट"</string>
+<string name="use_default_tts_settings_title">"सदांच म्हजी सेटिंग्स उपेग करची"</string>
+<string name="use_default_tts_settings_summary">"ओवररायड ॲप सॅटिंग्साच्या सकयली डिफॉल्ट सेटिंग्स"</string>
+<string name="tts_default_settings_section">"डिफॉल्ट सेटिंग्स"</string>
+<string name="tts_default_synth_title">"डिफॉल्ट इंजिन"</string>
+<string name="tts_default_synth_summary">"उलयल्ल्या टॅक्स्ट उपेगाखातीर भाशण सिंथेसीस इंजिन सेट करता"</string>
+<string name="tts_default_rate_title">"भाशण रेट"</string>
+<string name="tts_default_rate_summary">"उलयल्ल्या टॅक्स्टाचो वेग"</string>
+<string name="tts_default_pitch_title">"आवाजाचो पांवडो"</string>
+<string name="tts_default_pitch_summary">"उलयल्ल्या टॅक्स्टाच्या ध्वनीचेर परिणाम"</string>
+<string name="tts_default_lang_title">"भाशा"</string>
+<string name="tts_lang_not_selected">"भाशा वेचिल्ली ना"</string>
+<string name="tts_default_lang_summary">"उलयल्ल्या टॅक्स्टाखातीर भाशा निश्चित आवाज सेट करप"</string>
+<string name="tts_play_example_title">"देखीक आयकात"</string>
+<string name="tts_play_example_summary">"भाशण सिंथेसीसाचो प्रात्यक्षित चालू करप"</string>
+<string name="tts_install_data_title">"आवाज डेटा इन्स्टॉल करात"</string>
+<string name="tts_install_data_summary">"भाशण सिंथेसीसा खातीर आवाज डेटा इन्स्टॉल करप"</string>
+<string name="tts_data_installed_summary">"भाशण सिंथेसीसा खातीर गरज आशिल्ले आवाज पयली योग्यतरेन इन्स्टॉल केल्यात"</string>
+<string name="tts_settings_changed_demo">"तुमची सेटिंग्स बदल्ल्या. ताचो कसो आवाज येता ताचे हे एक देखीक."</string>
+<string name="tts_engine_error">"तुमी वेंचिल्ले हे इंजिन चलूंक शकना."</string>
+<string name="tts_engine_error_config">"कॉन्फिगर"</string>
+<string name="tts_engine_error_reselect">"दुसरे इंजिन वेंचात"</string>
+<string name="tts_engine_security_warning">"हे भाशण सिंथेसिस इंजिन उलयल्ले सगळे टॅक्स्ट वेंचपाक सक्षण, हातून पासवर्ड आनी क्रेडिट कार्ड नंबरासारक्या वैयक्तीक डेटाचोय आसपाव.  हे हातूंतल्यान येता <xliff:g id="tts_plugin_engine_name">%s</xliff:g> इंजिन. ह्या भासण सिंथेसिस इंजिनाचो उपेग करचो?"</string>
+<string name="tts_engine_network_required">"टॅक्स्ट-ते- भासण आवटपूटा खातीर हे भाशेक नेटवर्क जोडणीची गरज."</string>
+<string name="tts_default_sample_string">"भाशण सिंथेसिसाचे हे एक देखीक"</string>
+<string name="tts_status_title">"डिफॉल्ट भाशा स्थिती"</string>
+<string name="tts_status_ok">"<xliff:g id="locale" example="English (United States)">%1$s</xliff:g>  पुराय तरेन तेंको दिता"</string>
+<string name="tts_status_requires_network">"<xliff:g id="locale" example="English (United States)">%1$s</xliff:g> नेटवर्क जोडणीची गरज"</string>
+<string name="tts_status_not_supported">"<xliff:g id="locale" example="English (United States)">%1$s</xliff:g> तेंको दिना"</string>
+<string name="tts_status_checking">"तपासता..."</string>
+<string name="tts_engines_section">"इंजिनां"</string>
+<string name="tts_engine_name_settings">"<xliff:g id="tts_plugin_engine_name">%s</xliff:g> सेटिंग्स"</string>
+<string name="tts_engine_name_is_enabled_summary">"<xliff:g id="tts_plugin_engine_name">%s</xliff:g> हे सक्षम"</string>
+<string name="tts_engine_name_is_disabled_summary">"<xliff:g id="tts_plugin_engine_name">%s</xliff:g> हे अक्षम"</string>
+<string name="tts_engine_settings_section">"इंजिन सेटिंग्स"</string>
+<string name="tts_engine_settings_title">"खातीर सेटिंग्स <xliff:g id="tts_engine_name">%s</xliff:g>"</string>
+<string name="pico_languages_and_voices">"भाशा आनी आवाज"</string>
+<string name="pico_installed">"इन्स्टॉल"</string>
+<string name="pico_not_installed">"इन्स्टॉल करूंक ना"</string>
+<string name="pico_voice_summary_female">"स्त्री"</string>
+<string name="pico_voice_summary_male">"पुरुष"</string>
+<string name="tts_notif_engine_install_title">"भाशण सिंथेसीस इंजिन इन्स्टॉल"</string>
+<string name="tts_notif_engine_install_message">"उपेगा पयली नवे इंजिन सक्षम करप."</string>
+<string name="tts_engine_settings_button">"इंजिन सेटिंग्स अनावरण"</string>
+<string name="tts_engine_preference_section_title">"पसंत इंजिन"</string>
+<string name="tts_general_section_title">"सामान्य"</string>
+<string name="gadget_title">"पावर नियंत्रण"</string>
+<string name="gadget_toggle_wifi">"Wi-Fi सेटिंग्स अपडेट करप"</string>
+<string name="gadget_toggle_bluetooth">"ब्लुटुथ सेटिंग्स अपडेट करप"</string>
+<string name="gadget_state_template">"<xliff:g name="feature" example="Wi-Fi">%1$s</xliff:g> <xliff:g name="state" example="off">%2$s</xliff:g>"</string>
+<string name="gadget_state_on">"चालू"</string>
+<string name="gadget_state_off">"बंद"</string>
+<string name="gadget_state_turning_on">"चालू करप"</string>
+<string name="gadget_state_turning_off">"बंद करप"</string>
+<string name="gadget_wifi">"Wi-Fi"</string>
+<string name="gadget_bluetooth">"Bluetooth"</string>
+<string name="gadget_location">"थळ"</string>
+<string name="gadget_sync">"समक्रमीत"</string>
+<string name="gadget_brightness_template">"उजवाड <xliff:g name="state" example="half">%1$s</xliff:g>"</string>
+<string name="gadget_brightness_state_auto">"ऑटो"</string>
+<string name="gadget_brightness_state_full">"पूर्ण"</string>
+<string name="gadget_brightness_state_half">"अर्दे"</string>
+<string name="gadget_brightness_state_off">"बंद"</string>
+<string name="credentials_title">"क्रॅडॅन्शीयल सांठवण"</string>
+<string name="credentials_install" product="nosdcard">"सांठवणीतल्यान इन्स्टॉल करप"</string>
+<string name="credentials_install" product="default">"SD कार्डांतल्यान इन्स्टॉल करप"</string>
+<string name="credentials_install_summary" product="nosdcard">"सांठवणींतल्यान प्रमाणपत्रां इन्स्टॉल करप"</string>
+<string name="credentials_install_summary" product="default">"SD कार्डातल्यान प्रमाणपत्रां इन्स्टॉल करप"</string>
+<string name="credentials_reset">"क्रॅडॅन्शीयल साफ करप"</string>
+<string name="credentials_reset_summary">"सगळी प्रमाणपत्रा काडप"</string>
+<string name="trusted_credentials">"विस्वासू क्रॅडॅन्शीयल"</string>
+<string name="trusted_credentials_summary">"विस्वासू CA प्रमाणपत्र प्रदर्शन"</string>
+<string name="credential_storage_type">"सांठवण प्रकार"</string>
+<string name="credential_storage_type_hardware">"हार्डवेअर-बॅक्ड"</string>
+<string name="credential_storage_type_software">"फक्त सॉफ्टवेअर"</string>
+<string name="credentials_install_gesture_prompt">"तुमची कुलूप काडपाची आकृती चित्रय"</string>
+<string name="credentials_install_gesture_explanation">"क्रॅडॅन्शीयल इन्स्टॉलेशनाची खात्री करुंक तुमकां तुमचे कुलुप काडपाचो पॅटर्न चित्रावचो पडटलो."</string>
+<string name="credentials_unlock_hint">"क्रॅडॅन्शीयल सांठवणी खातीर पासवर्ड टायप करचो."</string>
+<string name="credentials_old_password">"सद्याचो पासवर्ड:"</string>
+<string name="credentials_reset_hint">"सगळो कन्टेन्ट काडचो?"</string>
+<string name="credentials_password_too_short">"पासवर्डाक कमीत कमी 8 वर्ण आसप गरजेचे."</string>
+<string name="credentials_wrong_password">"चुकीचो पासवर्ड."</string>
+<string name="credentials_reset_warning">"चुकीचो पासवर्ड. क्रॅडॅन्शियल सांठवण पुसचे पयली तुमकां आनीक एक संद मेळटा."</string>
+<string name="credentials_reset_warning_plural">"चुकीचो पासवर्ड. तुमकां <xliff:g id="number" example="5">%1$d</xliff:g> क्रॅडॅन्शियल सांठवण पुसचे पयली आनीक संद."</string>
+<string name="credentials_erased">"क्रॅडॅन्शियल सांठवण पुसली."</string>
+<string name="credentials_not_erased">"क्रॅडॅन्शियल सांठवण पुसप शक्य ना."</string>
+<string name="credentials_enabled">"क्रॅडॅन्शियल सांठवण सक्षम"</string>
+<string name="credentials_configure_lock_screen_hint">"क्रॅडॅन्शियल सांठवण उपेग करचे पयली तुमकां कुलुप स्क्रीन PIN वा पासवर्ड सेट करचो पडटलो."</string>
+<string name="emergency_tone_title">"आपत्कालीन ध्वनी"</string>
+<string name="emergency_tone_summary">"आपत्कालीन कॉल केल्या उपरांत स्वभाव सेट करचो"</string>
+<string name="privacy_settings">"परतून सेट करात"</string>
+<string name="privacy_settings_title">"परतून सेट करात"</string>
+<string name="backup_section_title">"बॅकअप &amp; रिस्टोर"</string>
+<string name="personal_data_section_title">"वैयक्तीक डेटा"</string>
+<string name="backup_data_title">"म्हज्या डेटाचो बॅकअप घेयात"</string>
+<string name="backup_data_summary">"बॅक अप ॲप डेटा, Wi-Fi पासवर्ड, आनी Google सर्वरां कडेन हेर सेटिंग्स"</string>
+<string name="backup_configure_account_title">"बॅक अप खाते"</string>
+<string name="backup_configure_account_default_summary">"सद्याक एकूय खाते बॅक्ड अप डेटा सांठयनाa"</string>
+<string name="auto_restore_title">"आपसूक रिस्टोर"</string>
+<string name="auto_restore_summary">"ॲप जेन्ना रिइन्स्टॉल करता, तेन्ना सेटिंग्स आनी डेटा रिस्टोर जाता"</string>
+<string name="local_backup_password_title">"डेस्कटॉप बॅकअप पासवर्ड"</string>
+<string name="local_backup_password_summary_none">"डेस्कटॉपाचो पुराय बॅकअप सद्याक सुरक्षीत ना"</string>
+<string name="local_backup_password_summary_change">"डेस्कटॉपाचो पुराय बॅकअपा खातीरच्या पासवर्डाक काडपाक वा बदलपाक स्पर्श करचो "</string>
+<string name="local_backup_password_toast_success">"नवो बॅकअप पासवर्ड सेट"</string>
+<string name="local_backup_password_toast_confirmation_mismatch">"नवो पासवर्ड आनी खात्री जुळना"</string>
+<string name="local_backup_password_toast_validation_failure">"बॅकअप पासवर्ड सेटिंग अपेशी"</string>
+<string name="backup_erase_dialog_message">"तुमचे Wi-Fi पासवर्ड बॅकींग थांबोवप, बुकमार्क, हेर सेटिंग्स, आनी ॲप डेटा, आनी Google सर्व्हरावेले सगळे प्रती पुसचे?"</string>
+<string name="device_admin_settings_title">"यंत्र प्रशासक सेटिंग्स"</string>
+<string name="active_device_admin_msg">"यंत्र प्रशासक"</string>
+<string name="remove_device_admin">"निश्क्रीय"</string>
+<string name="select_device_admin_msg">"यंत्र प्रशासक"</string>
+<string name="no_device_admins">"यंत्र प्रशासक उपलब्ध ना"</string>
+<string name="add_device_admin_msg">"यंत्र प्रशासक सक्रिय?"</string>
+<string name="add_device_admin">"सक्रिय"</string>
+<string name="device_admin_add_title">"यंत्र प्रशासक"</string>
+<string name="device_admin_warning">"ह्या प्रशासकाक सक्रिय केल्यार ॲपाक <xliff:g id="app_name">%1$s</xliff:g> ही ऑपरेशनां करुंक अनुमती दितले:"</string>
+<string name="device_admin_status">"हो प्रशासक सक्रिय आनी ॲपाक <xliff:g id="app_name">%1$s</xliff:g> ही ऑपरेशनां करुंक अनुमती दितले:"</string>
+<string name="untitled_apn">"अनटायटल्ड"</string>
+<string name="sound_category_sound_title">"सामान्य"</string>
+<string name="sound_category_notification_title">"नोटीफीकेशनां"</string>
+<string name="sound_category_call_ringtone_vibrate_title">"कॉल रिंगटोन &amp; थरथरप"</string>
+<string name="sound_category_system_title">"यंत्रणा"</string>
+<string name="wifi_setup_title">"Wi-Fi सेटअप"</string>
+<string name="wifi_setup_title_editing_network">"Wi-Fi नेटवर्काकडेन जोडला <xliff:g id="network_name" example="Happy Mobile">%s</xliff:g>"</string>
+<string name="wifi_setup_title_connecting_network">"Wi-Fi नेटवर्काकडेन जोडता <xliff:g id="network_name" example="Happy Mobile">%s</xliff:g>..."</string>
+<string name="wifi_setup_title_connected_network">"Wi-Fi नेटवर्काकडेन जोडला <xliff:g id="network_name" example="Happy Mobile">%s</xliff:g>"</string>
+<string name="wifi_setup_title_add_network">"नेटवर्का जोडात"</string>
+<string name="wifi_setup_not_connected">"जोडूंक ना"</string>
+<string name="wifi_setup_add_network">"नेटवर्कात भर"</string>
+<string name="wifi_setup_refresh_list">"रिफ्रेश वळेरी"</string>
+<string name="wifi_setup_skip">"वगळायात"</string>
+<string name="wifi_setup_next">"फुडले"</string>
+<string name="wifi_setup_back">"फाटी"</string>
+<string name="wifi_setup_detail">"नेटवर्क तपशिल"</string>
+<string name="wifi_setup_connect">"जोडात"</string>
+<string name="wifi_setup_forget">"विसरात"</string>
+<string name="wifi_setup_save">"सेव करात"</string>
+<string name="wifi_setup_cancel">"रद्द"</string>
+<string name="wifi_setup_status_scanning">"नेटवर्क स्कॅनिंग..."</string>
+<string name="wifi_setup_status_select_network">"नेटवर्क जोडपाखातीर तेका स्पर्श करात"</string>
+<string name="wifi_setup_status_existing_network">"आशिल्ल्या नेटवर्का कडेन जोडात"</string>
+<string name="wifi_setup_status_unsecured_network">"असुरक्षीत नेटवर्का कडेन जोडात"</string>
+<string name="wifi_setup_status_edit_network">"नेटवर्क कॉन्फीगरेशन टायप करात"</string>
+<string name="wifi_setup_status_new_network">"नव्या नेटवर्काक जोडात"</string>
+<string name="wifi_setup_status_connecting">"जोडटा..."</string>
+<string name="wifi_setup_status_proceed_to_next">"फुडल्या पांवड्यार चलात"</string>
+<string name="wifi_setup_status_eap_not_supported">"EAP तेंको दिना."</string>
+<string name="wifi_setup_eap_not_supported">"सेट अप करतना तुमी EAP Wi-Fi जोडणी कॉन्फीगर करुंक शकनात. सेटअपा उपरांत, तुमी ते सेटिंगात करुंक शकतात &gt; वायरलेस &amp; नेटवर्क."</string>
+<string name="wifi_setup_description_connecting">"जोडपाक आनीक कांय मिनटा लागूंक शकतात..."</string>
+<string name="wifi_setup_description_connected">"स्पर्श <b>फुडें</b> सेटअपा वांगडा चालू दवरप .\n\nस्पर्श <b>फाटी</b> वेगळ्या Wi-Fi नेटवर्काकडेन जोडप."</string>
+<string name="accessibility_sync_enabled">"समक्रमीत सक्षम"</string>
+<string name="accessibility_sync_disabled">"समक्रमीत अक्षम"</string>
+<string name="accessibility_sync_error">"समक्रमीत अडथळो."</string>
+<string name="sync_failed">"समक्रमीत अपेशी"</string>
+<string name="sync_active">"समक्रमीत सक्रीय"</string>
+<string name="account_sync_settings_title">"समक्रमीत"</string>
+<string name="sync_is_failing">"समक्रमीताक सद्याक समस्यांचो अणभव येता. थोड्याच वेळान ते परत येतले."</string>
+<string name="add_account_label">"खातें घालात"</string>
+<string name="background_data">"बॅकग्रावंड डेटा"</string>
+<string name="background_data_summary">"ॲप समक्रमीत, धाडप, आनी खंच्याय वेळार डेटा घेवप शक्य"</string>
+<string name="background_data_dialog_title">"बॅकग्रावंड डेटा अक्षम करप?"</string>
+<string name="background_data_dialog_message">"बॅकग्रावंड डेटा विस्तारित बॅटरी लायफ आनी लोवर डेटा उपेग अक्षम करप. कांय ॲप अजूनय बॅकग्रावंड डेटा जोडणीचो उपेग करुंक शकतात."</string>
+<string name="sync_automatically">"ऑटो-समक्रमीत ॲप डेटा"</string>
+<string name="sync_enabled">"समक्रमीत चालू आसा"</string>
+<string name="sync_disabled">"समक्रमीत बंद आसा"</string>
+<string name="sync_error">"समक्रमीत अडथळो"</string>
+<string name="last_synced">"निमणो समक्रमीत्ड <xliff:g id="last_sync_time">%1$s</xliff:g>"</string>
+<string name="sync_in_progress">"आता समक्रमीत करता..."</string>
+<string name="settings_backup">"बॅक अप सेटिंग्स"</string>
+<string name="settings_backup_summary">"बॅक अप म्हजी सेटिंग्स"</string>
+<string name="sync_menu_sync_now">"आता समक्रमीत"</string>
+<string name="sync_menu_sync_cancel">"समक्रमीत रद्द"</string>
+<string name="sync_calendar">"दिनदर्शिका"</string>
+<string name="sync_contacts">"संपर्क"</string>
+<string name="sync_plug">"<font fgcolor="#ffffffff">Google syncकडेन येवकार!</font> \n Googleचो तुमच्या संपर्कांकडेन शिरकाव करुंक मान्यताय मागपाक फुडाकार, नेमणुको, आनी तुमी आसा थंयच्यान हेर अदिक. "</string>
+<string name="header_application_sync_settings">"ॲप समक्रमीत सेटिंग्स"</string>
+<string name="header_data_and_synchronization">"डेटा &amp; समक्रमीत"</string>
+<string name="preference_change_password_title">"पासवर्ड बदलात"</string>
+<string name="header_account_settings">"खातें रचणूक"</string>
+<string name="remove_account_label">"खाते काडून वडयात"</string>
+<string name="header_add_an_account">"खातें घालात"</string>
+<string name="finish_button_label">"सोपले"</string>
+<string name="really_remove_account_title">"खाते काडचे"</string>
+<string name="really_remove_account_message" product="tablet">"हे खाते काडल्यार ताचे सगळे मॅसेजी, संपर्क, आनी टॅबलेटावेलो हेर डेटा वगळटलो!"</string>
+<string name="really_remove_account_message" product="default">"हे खाते काडल्यार ताचे सगळे मॅसेजी, संपर्क, आनी फोनांवेलो हेर डेटा वगळटलो!"</string>
+<string name="remove_account_failed" product="tablet">"हे खातें कांय ॲपांक जाय. सेटिंग्स &gt; बॅकअप  &amp; रिसेट हातूंत वचून तुमी फॅक्टरी मूलभूत करून टॅबलेट रिसेट करून (जो तुमचो सगळो व्यक्तीगत डाटा वगळायतले) ते काडूंक शकता."</string>
+<string name="remove_account_failed" product="default">"हे खातें कांय ॲपांक जाय. सेटिंग्स &gt; बॅकअप  &amp; रिसेट हातूंत वचून तुमी फॅक्टरी मूलभूत करून फोन रिसेट करून (जो तुमचो सगळो व्यक्तीगत डाटा वगळायतले) ते काडूंक शकता."</string>
+<string name="provider_label">"सबस्क्रीप्शन्स पुश"</string>
+<string name="sync_item_title">"<xliff:g id="authority" example="Calendar">%s</xliff:g>"</string>
+<string name="cant_sync_dialog_title">"मॅनुयली समक्रमीत जायना"</string>
+<string name="cant_sync_dialog_message">"ह्या आयटमा खातीर सद्याक समक्रमीत अक्षम केला. ही सेटिंग बदलूंक, तात्पुरतो बॅकग्रावंड डेटा चालू करात आनी आपसूक समक्रमीत."</string>
+<string name="status_wimax_mac_address">"4G MAC पत्तो"</string>
+<string name="enter_password">"सांठवण डिक्रीप्ट करूंक पासवर्ड टंक करचो"</string>
+<string name="try_again">"परत यत्न"</string>
+<string name="delete">"वगळायात"</string>
+<string name="misc_files">"मिस्क फायल्स"</string>
+<string name="misc_files_selected_count">"वेचिल्ले <xliff:g id="number" example="3">%1$d</xliff:g>  पैकी <xliff:g id="total" example="15">%2$d</xliff:g>"</string>
+<string name="misc_files_selected_count_bytes">"<xliff:g id="number" example="3.25MB">%1$s</xliff:g> पैकी <xliff:g id="total" example="15.25MB">%2$s</xliff:g>"</string>
+<string name="select_all">"सगळे वेंचात"</string>
+<string name="hdcp_checking_title">"HDCP तपसाणी"</string>
+<string name="hdcp_checking_dialog_title">"सेट HDCP तपासण स्वभाव"</string>
+<string name="debug_debugging_category">"डीबंगींग"</string>
+<string name="debug_app">"डिबग ॲप वेंचात"</string>
+<string name="debug_app_not_set">"डिबग ॲप्लिकेशन सेट ना"</string>
+<string name="debug_app_set">"डिबगींग ॲप्लिकेशन: <xliff:g id="app_name">%1$s</xliff:g>"</string>
+<string name="select_application">"ॲप्लिकेशन वेचात"</string>
+<string name="no_application">"काय ना"</string>
+<string name="wait_for_debugger">"डिबगराची वाट पळयात"</string>
+<string name="wait_for_debugger_summary">"डिबग्ड ॲप्लिकेशन पुराय करचे पयली लायल्लाय डिबगराची वाट पळयता"</string>
+<string name="debug_input_category">"इन्पूट"</string>
+<string name="debug_drawing_category">"चित्रावप"</string>
+<string name="debug_hw_drawing_category">"हार्डवेअरान रेंडरिंग वेगान करप"</string>
+<string name="debug_monitoring_category">"निरिक्षण चालू"</string>
+<string name="strict_mode">"कडक मोड सक्षम"</string>
+<string name="strict_mode_summary">"मुख्य थ्रेडाचेर ॲप्लिकेशन जेन्ना चड वेळ ऑपरेशन करता तेन्ना स्क्रीन फ्लॅश"</string>
+<string name="pointer_location">"पोयन्टर सुवात"</string>
+<string name="pointer_location_summary">"सद्याचो स्पर्श डेटा दाखवपी स्क्रीन ओवरले"</string>
+<string name="show_touches">"स्पर्श दाखयात"</string>
+<string name="show_touches_summary">"स्पर्शां खातीर दुश्य फिडबॅक दाखवचे"</string>
+<string name="show_screen_updates">"सरफेस अपडेट्स दाखवचे"</string>
+<string name="show_screen_updates_summary">"ते अपडेट जाले उपरांत पुराय विंडो सरफेस फ्लॅश करची"</string>
+<string name="show_hw_screen_updates">"दाखय GPU व्हीव्ह अपडेट्स"</string>
+<string name="show_hw_screen_updates_summary">"जेन्ना GPUसयत चित्रायता तेन्ना विंडोच्या भितरले व्हीव्ह फ्लॅश करप"</string>
+<string name="show_hw_layers_updates">"हार्डवेअर टप्पे अपडेट्स दाखय"</string>
+<string name="show_hw_layers_updates_summary">"जेन्ना हार्डवेअर टप्पे अपडेट जाता तेन्ना पाचवे फ्लॅश करचे"</string>
+<string name="debug_hw_overdraw">"GPU ओव्हरड्रॉव्ह डिबग"</string>
+<string name="disable_overlays">"HW ओव्हरलेस अक्षम"</string>
+<string name="disable_overlays_summary">"स्क्रीन कम्पोस्टींग करुंक सदांच GPU चो उपेग करचो"</string>
+<string name="enable_opengl_traces_title">"OpenGL ट्रेस सक्षम"</string>
+<string name="debug_layout">"लेआवट बावंड्स दाखय"</string>
+<string name="debug_layout_summary">"क्लीप, मार्जीन, हेर बावंड्स दाखय."</string>
+<string name="force_rtl_layout_all_locales">"RTL लेआवट मार्गदर्शन बळजबरी"</string>
+<string name="force_rtl_layout_all_locales_summary">"सगळ्या थळाव्या RTL खातीर जबरदस्तीन स्क्रीन लेआवट निर्देशन"</string>
+<string name="show_cpu_usage">"दाखय CPU उपेग"</string>
+<string name="show_cpu_usage_summary">"सद्याचो CPU उपेग दाखवपी स्क्रीन ऑवरले"</string>
+<string name="force_hw_ui">"GPU रेंडरींग जबरदस्ती"</string>
+<string name="force_hw_ui_summary">"2d चित्रा काडपा खातीर GPUचो जबरदस्ती उपेग"</string>
+<string name="force_msaa">"4x MSAA बळजबरी"</string>
+<string name="force_msaa_summary">"सक्षम 4x MSAA in OpenGL ES 2.0 ॲप"</string>
+<string name="show_non_rect_clip">"डिबग नॉन-रॅक्टॅंगुलर क्लीप ऑपरेशन"</string>
+<string name="track_frame_time">"प्रोफायल GPU रेंडरिंग"</string>
+<string name="window_animation_scale_title">"विंडो ॲनिमेशन स्केल"</string>
+<string name="transition_animation_scale_title">"ट्रान्सीशन ॲनिमेशन स्केल"</string>
+<string name="animator_duration_scale_title">"ॲनिमेटर वेळ स्केल"</string>
+<string name="overlay_display_devices_title">"सिम्युलेट सेकंडरी प्रदर्शन"</string>
+<string name="debug_applications_category">"ॲपां"</string>
+<string name="immediately_destroy_activities">"क्रिया दवरचे न्ही"</string>
+<string name="immediately_destroy_activities_summary">"उपेगकर्तान सोडटा रोखडेच सगळे क्रिया ना करचे"</string>
+<string name="app_process_limit_title">"बॅकग्रावंड प्रक्रिया मर्यादा"</string>
+<string name="show_all_anrs">"सगळे ANRs दाखय"</string>
+<string name="show_all_anrs_summary">"बॅकग्रावंड ॲपांखातीर डायलॉग प्रतिसाद दिना ती ॲप दाखय"</string>
+<string name="data_usage_summary_title">"डेटा वापर"</string>
+<string name="data_usage_cycle">"डेटा उपेग सायकल"</string>
+<string name="data_usage_menu_roaming">"डेटा रोमींग"</string>
+<string name="data_usage_menu_restrict_background">"बॅकग्रावंड डेटा आडवप"</string>
+<string name="data_usage_menu_split_4g">"वेगळो 4G उपेग"</string>
+<string name="data_usage_menu_show_wifi">"Wi\u2011Fi वापर दाखोवचो"</string>
+<string name="data_usage_menu_show_ethernet">"एथरनेट उपेग दाखय"</string>
+<string name="data_usage_menu_metered">"मोबायल हॉटस्पॉट्स"</string>
+<string name="data_usage_menu_auto_sync">"ऑटो- समक्रमीत डेटा"</string>
+<string name="data_usage_change_cycle">"सायकल बदलात..."</string>
+<string name="data_usage_pick_cycle_day">"डेटा उपेग सायकल रिसेट करुंक म्हयन्याचो दीस:"</string>
+<string name="data_usage_empty">"ह्या काळांत खंयचीच ॲप डेटा उपेग करनात."</string>
+<string name="data_usage_label_foreground">"फोरग्रांवड"</string>
+<string name="data_usage_label_background">"फाटल्या भागांत"</string>
+<string name="data_usage_app_restricted">"मर्यादीत"</string>
+<string name="data_usage_disable_mobile">"मोबायल डाटा अक्षम करूं?"</string>
+<string name="data_usage_disable_mobile_limit">"मोबायल डाटा मर्यादा"</string>
+<string name="data_usage_disable_4g_limit">"सेट 4G डेटा मर्यादा"</string>
+<string name="data_usage_disable_3g_limit">"सेट 2G-3G डेटा मर्यादा"</string>
+<string name="data_usage_disable_wifi_limit">"सेट Wi-Fi डेटा मर्यादा"</string>
+<string name="data_usage_tab_wifi">"Wi-Fi"</string>
+<string name="data_usage_tab_ethernet">"इथरनेट"</string>
+<string name="data_usage_tab_mobile">"मोबायल"</string>
+<string name="data_usage_list_mobile">"मोबायल"</string>
+<string name="data_usage_list_none">"एकूय न्हय"</string>
+<string name="data_usage_enable_mobile">"डाटा जोडणी"</string>
+<string name="data_usage_enable_3g">"2G-3G डेटा"</string>
+<string name="data_usage_enable_4g">"4G डेटा"</string>
+<string name="data_usage_app_settings">"ॲप सेटिंग्स दृश्य करचे"</string>
+<string name="data_usage_app_restrict_background">"बॅकग्रावंड डेटा आडवप"</string>
+<string name="data_usage_app_restrict_background_summary">"मोबायल नॅटवर्कांचेर फाटभूंय डाटा अक्षम करचे. उपलब्ध आसल्यार बिगर-मोबायल नॅटवर्का वापरतले."</string>
+<string name="data_usage_app_restrict_background_summary_disabled">"ह्या ॲपाक फाटभूंय डाटा आडावंक, पयली मोबायल डाटा मर्यादा थारावची."</string>
+<string name="data_usage_app_restrict_dialog_title">"बॅकग्रावंड डेटा मर्यादीत?"</string>
+<string name="data_usage_app_restrict_dialog">"हे वैशिश्ट घडये ॲपाक जे फाटभूंय डाटाचेर निंबून आसता ताका फकत मोबायल नॅटवर्क उपलब्ध आसताना काम करप बंद करूंक शकना.\n\nॲपा अंतर्गत उपलब्ध आशिल्ल्या सेटिंग्सात तुमी आनीक योग्य डाटा वापर नियंत्रक मेळोवंक शकता.."</string>
+<string name="data_usage_restrict_denied_dialog">"तुमी मोबायल डाटा मर्यादा थारयल्ली आसता तेन्नाच फाटभूंय डाटा निर्बंधीत करप शक्य आसता."</string>
+<string name="data_usage_auto_sync_on_dialog_title">"ऑटो-समक्रमीत डेटा चालू करेचे?"</string>
+<string name="data_usage_auto_sync_on_dialog" product="tablet">"वॅबाचेर तुमच्या खात्यांत तुमी केल्ले कसलेय बदल आपोआप तुमच्या टॅबलेटाचेर कॉपी जातले.\n\nकांय खातीं घडये तुमी टॅबलेटाचेर करता ते कसलेय बदल आपोआप वॅबाचेर कॉपी करूंक शकता. Google खातें अशे तरेन काम करता.\n\nदरेक खात्या अंतर्गत खंयच्या प्रकारची म्हायती समक्रमीत करप निवडूंक, सेटिंग्स &gt; खातीं हातूंत वचचें."</string>
+<string name="data_usage_auto_sync_on_dialog" product="default">"वॅबाचेर तुमच्या खात्यांत तुमी केल्ले कसलेय बदल आपोआप तुमच्या फोनाचेर कॉपी जातले.\n\nकांय खातीं घडये तुमी फोनाचेर करता ते कसलेय बदल आपोआप वॅबाचेर कॉपी करूंक शकता. Google खातें अशे तरेन काम करता.\n\nदरेक खात्या अंतर्गत खंयच्या प्रकारची म्हायती समक्रमीत करप निवडूंक, सेटिंग्स &gt; खातीं हातूंत वचचें."</string>
+<string name="data_usage_auto_sync_off_dialog_title">ऑटो-समक्रमीत डेटा बंद करेचे?"</string>
+<string name="data_usage_auto_sync_off_dialog">"हाकालागून डेटा आनी बॅटरीचो उपेगाची बचत जातली, पूण तुमकां सद्याची म्हायती काडूंक दरेक अकावंट स्वता समक्रमीत करचो पडटलो. आनी जेन्ना अपडेट जाता तेन्ना तुमकां सुचोवणी मेळची ना."</string>
+<string name="data_usage_cycle_editor_title">"सायकल रिसेट डेटा वापर"</string>
+<string name="data_usage_cycle_editor_subtitle">"दरेक म्हयन्याची तारिक:"</string>
+<string name="data_usage_cycle_editor_positive">"सेट"</string>
+<string name="data_usage_warning_editor_title">"डेटा उपेग शिटकावणी सेट"</string>
+<string name="data_usage_limit_editor_title">"डेटा उपेग मर्यादा सेट"</string>
+<string name="data_usage_limit_dialog_title">"डेटा उपेग मर्यादीत"</string>
+<string name="data_usage_limit_dialog_mobile" product="tablet">"निर्धारीत मर्यादे मेरेन पावतकच तुमची मोबायल डाटा जोडणी अक्षम करतले.\n\nतुमच्या टॅबलेटा वरवीं डाटा वापराचे मापन जाल्ल्यान, आनी तुमचो वाहक वापराक वेगळे तरेन हिशोब करूंक शकता, ते खातीर राखोवपी मर्यादा वापरप मतींत घेवचे."</string>
+<string name="data_usage_limit_dialog_mobile" product="default">"निर्धारीत मर्यादे मेरेन पावतकच तुमची मोबायल डाटा जोडणी अक्षम करतले.\n\nतुमच्या फोना वरवीं डाटा वापराचे मापन जाल्ल्यान, आनी तुमचो वाहक वापराक वेगळे तरेन हिशोब करूंक शकता, ते खातीर राखोवपी मर्यादा वापरप मतींत घेवचे."</string>
+<string name="data_usage_restrict_background_title">"बॅकग्रावंड डेटा मर्यादीत?"</string>
+<string name="data_usage_restrict_background">"तुमी जरी फाटभूंय मोबायल डाटा निर्बंधीत केलो जाल्यार कांय ॲपां आनी सेवा तुमी Wi\u2011Fi नॅटवर्काक जोडल्या शिवाय काम करची ना."</string>
+<string name="data_usage_restrict_background_multiuser" product="tablet">"तुमी जरी फाटभूंय मोबायल डाटा निर्बंधीत केलो जाल्यार कांय ॲपां आनी सेवा तुमी Wi\u2011Fi नॅटवर्काक जोडल्या शिवाय काम करची ना.\n\nही सेटिंग ह्या टॅबलेटाचेर आशिल्ल्या सगळ्या उपेगकर्त्यांचेर परिणाम करता."</string>
+<string name="data_usage_restrict_background_multiuser" product="default">"तुमी जरी फाटभूंय मोबायल डाटा निर्बंधीत केलो जाल्यार कांय ॲपां आनी सेवा तुमी Wi\u2011Fi नॅटवर्काक जोडल्या शिवाय काम करची ना.\n\nही सेटिंग ह्या फोनाच्या सगळ्या उपेगकर्त्यांचेर परिणाम करता."</string>
+<string name="data_usage_sweep_warning">"<font size="21"><xliff:g id="number" example="128">^1</xliff:g></font> <font size="9"><xliff:g id="unit" example="KB">^2</xliff:g></font>\n<font size="12">शिटकावणी</font>"</string>
+<string name="data_usage_sweep_limit">"<font size="21"><xliff:g id="number" example="128">^1</xliff:g></font> <font size="9"><xliff:g id="unit" example="KB">^2</xliff:g></font>\n<font size="12">मर्यादा</font>"</string>
+<string name="data_usage_uninstalled_apps">"काडिल्ले ॲप्स"</string>
+<string name="data_usage_uninstalled_apps_users">"काडिल्ले ॲप्स आनी उपेगकर्ता"</string>
+<string name="data_usage_received_sent">"<xliff:g id="received" example="128KB">%1$s</xliff:g> मेळिल्ले, <xliff:g id="sent" example="1.3GB">%2$s</xliff:g> धाडले"</string>
+<string name="data_usage_total_during_range">"<xliff:g id="range" example="Jul 1 - Jul 31">%2$s</xliff:g>: विशीं <xliff:g id="total" example="128KB">%1$s</xliff:g> उपेग केल्लो."</string>
+<string name="data_usage_total_during_range_mobile" product="tablet">"<xliff:g id="range" example="Jul 1 - Jul 31">%2$s</xliff:g>: विशीं <xliff:g id="total" example="128KB">%1$s</xliff:g> उपेग केल्लो, तुमच्या टॅबलेटान मेजिल्ल्या प्रमाण. तुमच्या करिअर डेटा उपेगात फरक पडूंक शकता."</string>
+<string name="data_usage_total_during_range_mobile" product="default">"<xliff:g id="range" example="Jul 1 - Jul 31">%2$s</xliff:g>: विशीं <xliff:g id="total" example="128KB">%1$s</xliff:g> उपेग केल्लो, तुमच्या फोनान मेजिल्ल्या प्रमाण. तुमच्या करिअर डेटा उपेगात फरक पडूंक शकता."</string>
+<string name="data_usage_metered_title">"मोबायल हॉटस्पॉट्स"</string>
+<string name="data_usage_metered_body">"मोबायल हॉटस्पॉट्स आशिल्ली Wi\u2011Fi नॅटवर्कां वेंचची. फाटभुंयेंत आसतना ही नॅटवर्कां वापरपा पासून ॲपांचेर निर्बंध घालूंक शकता. ॲपां घड. मोट्या डावनलोडांक ही नॅटवर्कां वापरच्या आदीं शिटकावणी दिवंक शकता."</string>
+<string name="data_usage_metered_mobile">"सेल्युलर नेटवर्क"</string>
+<string name="data_usage_metered_wifi">"Wi-Fi नेटवर्क"</string>
+<string name="data_usage_metered_wifi_disabled">"मोबायल हॉटस्पॉट्स वेंचूंक, Wi\u2011Fi चालू करचे."</string>
+<string name="cryptkeeper_emergency_call">"आपत्कालीन कॉल"</string>
+<string name="cryptkeeper_return_to_call">"कॉला कडेन परत वचात"</string>
+<string name="vpn_name">"नांव"</string>
+<string name="vpn_type">"टायप"</string>
+<string name="vpn_server">"सर्व्हेर पत्तो"</string>
+<string name="vpn_mppe">"PPP एनक्रीप्शन (MPPE)"</string>
+<string name="vpn_l2tp_secret">"L2TP गुपीत"</string>
+<string name="vpn_ipsec_identifier">"IPSec आयडेन्टीफायर"</string>
+<string name="vpn_ipsec_secret">"IPSec प्री-शेअर्ड की"</string>
+<string name="vpn_ipsec_user_cert">"IPSec उपेगकर्ता प्रमाणपत्र"</string>
+<string name="vpn_ipsec_ca_cert">"IPSec CA प्रमाणपत्र"</string>
+<string name="vpn_ipsec_server_cert">"IPSec सर्व्हर प्रमाणपत्र"</string>
+<string name="vpn_show_options">"एडवान्स पर्याय दाखयात"</string>
+<string name="vpn_search_domains">"DNS सोद डोमेन"</string>
+<string name="vpn_dns_servers">"DNS सर्व्हर्स (देखीक 8.8.8.8)"</string>
+<string name="vpn_routes">"रुट फुडे धुकलप (देखीक 10.0.0.0/8)"</string>
+<string name="vpn_username">"उपेगकर्ता नांव"</string>
+<string name="vpn_password">"पासवर्ड"</string>
+<string name="vpn_save_login">"खाते म्हायती जतन करप"</string>
+<string name="vpn_not_used">"(वापरुंक ना)"</string>
+<string name="vpn_no_ca_cert">"(सर्व्हर तपासूंक नाका)"</string>
+<string name="vpn_no_server_cert">"(सर्व्हरा वेल्यान मेळ्ळे)"</string>
+<string name="vpn_cancel">"रद्द"</string>
+<string name="vpn_save">"सेव करात"</string>
+<string name="vpn_connect">"जोडात"</string>
+<string name="vpn_edit">"संपादन VPN प्रोफायल"</string>
+<string name="vpn_connect_to">"हाका जोडात <xliff:g id="profile" example="School">%s</xliff:g>"</string>
+<string name="vpn_create">"जोडात VPN प्रोफायल"</string>
+<string name="vpn_menu_edit">"प्रोफायल संपादन"</string>
+<string name="vpn_menu_delete">"प्रोफायल वगळावप"</string>
+<string name="vpn_menu_lockdown">"सदांच-चालू VPN"</string>
+<string name="vpn_lockdown_summary">"सदांच नॅटवर्काक जोडिल्ले आसूंक VPN रेखाचित्र वेंचचें. ह्या VPN क जोडिल्ले आसतानाच नॅटवर्क ट्रॅफीकाक अनुमती दितले."</string>
+<string name="vpn_lockdown_none">"एकूय न्हय"</string>
+<string name="vpn_lockdown_config_error">"सदांच-चालू VPNक IP पत्त्याची गरज सर्व्हर आनी DNS दोगांक खातीर."</string>
+<string name="vpn_no_network">"हांगा नेटवर्क जोडणी ना. कृपया परत यत्न करात."</string>
+<string name="vpn_missing_cert">"प्रमाणपत्र मेळना. कृपया प्रोफायल संपादीत करचो."</string>
+<string name="trusted_credentials_system_tab">"यंत्रणा"</string>
+<string name="trusted_credentials_user_tab">"उपेगकर्ता"</string>
+<string name="trusted_credentials_disable_label">"अक्षम"</string>
+<string name="trusted_credentials_enable_label">"सक्षम"</string>
+<string name="trusted_credentials_remove_label">"काडात"</string>
+<string name="trusted_credentials_enable_confirmation">"यंत्रणेक CA प्रमाणपत्र सक्षम करूनी?"</string>
+<string name="trusted_credentials_disable_confirmation">"यंत्रणेक CA  प्रमाणपत्र अक्षम करूनी?"</string>
+<string name="trusted_credentials_remove_confirmation">"उपेगकर्ता CA प्रमाणपत्र कायमचे काडप?"</string>
+<string name="spellcheckers_settings_title">"स्पेल चेकर"</string>
+<string name="current_backup_pw_prompt">"तुमचो सद्याचो पुराय बॅकअप पासवर्ड हांगा टायप करात"</string>
+<string name="new_backup_pw_prompt">"पुराय बॅकअपा खातीर नवो पासवर्ड हांगा टायप करात"</string>
+<string name="confirm_new_backup_pw_prompt">"तुमचो नवो पुराय बॅकअप पासवर्ड हांगा रिटायप करचो"</string>
+<string name="backup_pw_set_button_text">"सेट बॅकअप पासवर्ड"</string>
+<string name="backup_pw_cancel_button_text">"रद्द"</string>
+<string name="percentage">"<xliff:g id="number" example="30">%d</xliff:g>%%"</string>
+<string name="additional_system_update_settings_list_item_title">"अतिरिक्त यंत्रणा अपडेट"</string>
+<string name="selinux_status_disabled">"असक्षम"</string>
+<string name="selinux_status_permissive">"पर्मिसिव्ह"</string>
+<string name="selinux_status_enforcing">"दक्षता"</string>
+<string name="ssl_ca_cert_warning">"नॅटवर्काचेर देखरेख दवरला आसुंये"</string>
+<string name="done_button">"जाले"</string>
+<string name="ssl_ca_cert_dialog_title">"नेटवर्काचेर नदर दवरल्या"</string>
+<string name="ssl_ca_cert_info_message">"हे यंत्र वेवस्थापीत केला हाणे:\n<xliff:g id="managing_domain">%s</xliff:g>\n\nतुमचो प्रशासक तुमची नेटवर्क क्रीया निरिक्षण करुंक सक्षम, हातून इमेल, ॲप्स, आनी सुरक्षीत वेबसायटीचो आसपाव.\n\nअदीक म्हायती खातीर, तुमच्या प्रशासकाक संपर्क."</string>
+<string name="ssl_ca_cert_warning_message">"तिसरो पक्ष तुमची नेटवर्क क्रीया निरिक्षण करुंक शकता, हातून इमेल्स, ॲप्स, आनी सुरक्षीत वेबसायट्सीचो आसपाव.\n\nतुमच्या यंत्राचेर हे शक्य करपी विस्वासू क्रॅडॅन्शियल इन्स्टॉल करप."</string>
+<string name="ssl_ca_cert_settings_button">"विस्वासू क्रॅडॅन्शियल तपासप"</string>
+<string name="user_settings_title">"उपेगकर्ता"</string>
+<string name="user_list_title">"उपेगकर्ता &amp; प्रोफायल"</string>
+<string name="user_add_user_menu">"प्रॉफायल वा उपेगकर्ता जोडात"</string>
+<string name="user_summary_restricted_profile">"निर्बंधीत प्रॉफायल"</string>
+<string name="user_need_lock_message">"तुमी निर्बंधीत प्रोफायल तयार करचे पयली,  तुमची ॲप आनी वैयक्तीक डेटाची राखण करपाक तुमकां स्क्रीन कुलुप सेट करचे पडटले."</string>
+<string name="user_set_lock_button">"सेट कुलुप"</string>
+<string name="user_summary_not_set_up">"सेट अप ना"</string>
+<string name="user_summary_restricted_not_set_up">"सेट अप ना - निर्बंधीत प्रॉफायल"</string>
+<string name="user_owner">"मालक"</string>
+<string name="user_you">"तु (<xliff:g id="name" example="Name">%s</xliff:g>)"</string>
+<string name="user_nickname">"टोपण नांव"</string>
+<string name="user_add_user_type_title">"अदीक"</string>
+<string name="user_add_user_item_summary">"उपेगकर्तांचे आपले ॲप आनी कन्टेन्ट आसा"</string>
+<string name="user_add_profile_item_summary">"तुमी तुमच्या खात्यावेल्या ॲपांचो आनी कन्टेन्टांचो शिरकांव निर्बंधीत करुंक शकतात."</string>
+<string name="user_add_user_item_title">"उपेगकर्ता"</string>
+<string name="user_add_profile_item_title">"निर्बंधीत प्रॉफायल"</string>
+<string name="user_add_user_title">"नवो उपेगकर्ता जोडचो"</string>
+<string name="user_add_user_message_long">"अतिरिक्त उपेगकर्तां निर्माण करून तुमी हे यंत्र हेर लोकां कडेन शॅर करूंक शकता. दरेक उपेगकर्ता कडेन आपलो स्वताचो जागो आसता, जे ते स्वताच्या ॲपां, वॉलपेपर आनी हेर प्रमाणें कस्टमायज करूंक शकता. उपेगकर्ता Wi\u2011Fi सारकिली टॅबलेट सेटिंग्स जी सगळ्यांचेर परिणाम करता ताचो ताळमेळ बसोवंक शकता.\n\nतुमी नवो उपेगकर्ता निर्माण केल्या उपरांत, त्या व्यक्तीक सेटअप प्रक्रिये खाला वचचें पडटा.\n\nसगळ्या हेर उपेगकर्त्यांच्या वतीन खंयचोय उपेगकर्ता अद्यावत ॲप मान्यताय स्विकारूंक शकता."</string>
+<string name="user_add_user_message_short">"तुमी नवो उपेगकर्ता निर्माण केल्या उपरांत, त्या व्यक्तीक सेटअप प्रक्रिये खाला वचचें पडटा.\n\nसगळ्या हेर उपेगकर्त्यांच्या वतीन खंयचोय उपेगकर्ता अद्यावत ॲप मान्यताय स्विकारूंक शकता."</string>
+<string name="user_setup_dialog_title">"आता उपेगकर्ता सेट करचो?"</string>
+<string name="user_setup_dialog_message">"व्यक्ती टॅबलेट घेवंक आनी तांचो जागो सेट करूंक उपलब्ध आसा हाची खात्री करची"</string>
+<string name="user_setup_profile_dialog_message">"प्रोफायल आता सेट करचो?"</string>
+<string name="user_setup_button_setup_now">"आता सेट अप"</string>
+<string name="user_setup_button_setup_later">"आता न्हय"</string>
+<string name="user_cannot_manage_message" product="tablet">"फक्त टॅबलेटाचो धनीच उपेगकर्ता वेवस्थापन करुंक शकता."</string>
+<string name="user_cannot_manage_message" product="default">"फक्त फोनाचो धनीच उपेगकर्ता वेवस्थापन करुंक शकता."</string>
+<string name="user_cannot_add_accounts_message">"निर्बंधीत प्रोफायल खाती जोडूंक शकना"</string>
+<string name="user_remove_user_menu">"वगळावप <xliff:g id="user_name">%1$s</xliff:g> ह्या यंत्रातल्यान"</string>
+<string name="user_new_user_name">"नवो उपेगकर्ता"</string>
+<string name="user_new_profile_name">"नवो प्रोफायल"</string>
+<string name="user_confirm_remove_self_title">"तुमकां वगळायता?"</string>
+<string name="user_confirm_remove_title">"उपेगकर्ता काडूं?"</string>
+<string name="user_profile_confirm_remove_title">"रेखाचित्र काडचें?"</string>
+<string name="user_confirm_remove_self_message" product="tablet">"ह्या टॅबलेटावेली तुमची सुवात ऩी डेटा ना जातलो. तुमी ही क्रीया फाटी घेवंक शकनात."</string>
+<string name="user_confirm_remove_self_message" product="default">"ह्या फोनांवेली तुमची सुवात ऩी डेटा ना जातलो. तुमी ही क्रीया फाटी घेवंक शकनात."</string>
+<string name="user_confirm_remove_message" product="tablet">"हो उपेगकर्ताचो जागो आनी डाटा ह्या टॅबलेटा वयल्यान वतले. ही कृती तुमी फाटी घेवंक शकना."</string>
+<string name="user_confirm_remove_message" product="default">"हो उपेगकर्ताचो जागो आनी डाटा ह्या फोना वयल्यान वतले. ही कृती तुमी फाटी घेवंक शकना."</string>
+<string name="user_profile_confirm_remove_message" product="tablet">"हो रेखाचित्राचो जागो आनी डाटा ह्या टॅबलेटा वयल्यान वतले. ही कृती तुमी फाटी घेवंक शकना."</string>
+<string name="user_profile_confirm_remove_message" product="default">"हो रेखाचित्राचो जागो आनी डाटा ह्या फोना वयल्यान वतले. ही कृती तुमी फाटी घेवंक शकना."</string>
+<string name="user_adding_new_user">"नवो उपेगकर्ता जोडटा..."</string>
+<string name="user_delete_user_description">"उपेगकर्ता वगळायात"</string>
+<string name="user_delete_button">"वगळायात"</string>
+<string name="application_restrictions">"ॲप आनी कन्टेंटाक अनुमती"</string>
+<string name="apps_with_restrictions_header">"निर्बंधासयत ॲप्लिकेशन"</string>
+<string name="apps_with_restrictions_settings_button">"ॲप्लिकेशना खातीर सेंटिग्स विस्तार"</string>
+<string name="home_app_uninstall_button">"हे ॲप्लिकेशन अनइन्स्टॉल करप"</string>
+<string name="only_one_home_message">"तुमी दुसरे होम ॲप्लिकेशन इन्स्टॉल करमेरेन होम सेटिग्स लिपिल्ली उरतली."</string>
+<string name="global_change_warning" product="tablet">"ही सॅटिंग टॅबलेटावेल्या सगळ्या उपेगकर्तांचेर परिणाम करता."</string>
+<string name="global_change_warning" product="default">"ही सॅटिंग फोनांवेल्या सगळ्या उपेगकर्तांचेर परिणाम करता."</string>
+<string name="global_locale_change_title">"भाशा बदल"</string>
+<string name="global_font_change_title">"फॉन्ट आकार बदल"</string>
+<string name="nfc_payment_settings_title">"टॅप &amp; फारीक"</string>
+<string name="nfc_payment_no_apps">" एक टॅप करुन फारीक करात"</string>
+<string name="nfc_payment_learn_more">"अदीक जाणून घेयात"</string>
+<string name="nfc_payment_menu_item_add_service">"ॲपां सोदप"</string>
+<string name="nfc_payment_set_default_label">"तुमचे पसंती सेट करप?"</string>
+<string name="nfc_payment_set_default">"जेन्ना तुमी टॅप &amp; फारीक करता तेन्ना सदांच <xliff:g id="app">%1$s</xliff:g> उपेग करात?"</string>
+<string name="nfc_payment_set_default_instead_of">"जेन्ना तुमी टॅप &amp; फारीक सदांच <xliff:g id="app">%2$s</xliff:g> चे सुवातीर <xliff:g id="app">%1$s</xliff:g> चो उपेग करात?"</string>
+<string name="restriction_settings_title">"निर्बंध"</string>
+<string name="restriction_menu_reset">"निर्बंध काडात"</string>
+<string name="restriction_menu_change_pin">"PIN बदलात"</string>
+<string name="app_notifications_switch_label">"सुचोवण्यो दाखयात"</string>
+<string name="help_label">"मजत"</string>
+<string name="user_account_title">"कन्टेटा खातीर खाते"</string>
+<string name="user_picture_title">"फोटो ID"</string>
+<string name="cell_broadcast_settings">"सेल ब्रोडकास्टस"</string>
+<string name="user_restrictions_title">"ॲप्लिकेशन आनी सामुग्री निर्बंध"</string>
+<string name="user_rename">"परतून नांव दियात"</string>
+<string name="app_restrictions_custom_label">"ॲप निर्बंध सेट करप"</string>
+<string name="user_restrictions_controlled_by">"नियंत्रीत हाणे<xliff:g id="app">%1$s</xliff:g>"</string>
+<string name="app_not_supported_in_limited">"ह्या ॲपाक निर्बंधीत प्रोफायलात तेंको ना"</string>
+<string name="app_sees_restricted_accounts">"हे ॲप तुमच्या खात्यात शिरकांव करुंक शकता"</string>
+<string name="restriction_wifi_config_title">"Wi-Fi आनी मोबायल"</string>
+<string name="restriction_wifi_config_summary">"Wi-Fi आनी मोबायल सेटिंग्साच्या बदलाक मान्यताय"</string>
+<string name="restriction_bluetooth_config_title">"Bluetooth"</string>
+<string name="restriction_bluetooth_config_summary">"ब्लुटुथ पॅरिंग आनी सेटिंग्साच्या बदलाक मान्यताय"</string>
+<string name="restriction_nfc_enable_summary" product="tablet">"टॅबलेट हेर यंत्रा कडेन तेंकता तेन्ना डेटा अदला बदल करपाक अनुमती" </string>
+<string name="restriction_nfc_enable_summary" product="default">"फोन हेर यंत्रा कडेन तेंकता तेन्ना डेटा अदला बदल करपाक अनुमती" </string>
+<string name="restriction_location_enable_title">"थळ"</string>
+<string name="restriction_location_enable_summary">"ॲपाक तुमच्या सुवातीची म्हायती वापरुंक दिता"</string>
+<string name="wizard_back">"फाटी"</string>
+<string name="wizard_next">"फुडले"</string>
+<string name="wizard_finish">"सोपले"</string>
+<string name="user_image_take_photo">"फोटो घेयात"</string>
+<string name="user_image_choose_photo">"गॅलरीतल्यान फोटो वेंचात"</string>
+<string name="recovery_update_title">"यंत्रणा सॉफ्टवेअर अपडेट"</string>
+<string name="recovery_update_message">"यंत्रणा सॉफ्टवॅर अद्यावत जातूंत सरक्षा जोखीम आसात, घडये गोपनीय म्हायती पसरप, डाटा वचप आनी मालमत्ता लुकसाण आनी हेर सुरक्षा समस्या करूंक शकता. अद्यावत निश्चीत करूंक उपकार करून \'बरे\' हाचेर क्लिक करचे, अद्यावत चालू दवरूंक नाका जाल्यार, \'रद्द\' क्लिक करचे."</string>
+<string name="recovery_sdacrd_status">"SD कार्ड ना"</string>
+<string name="recovery_updatefile_status">"update.zip फायल मेळूंक ना"</string>
+<string name="recovery_update_level">"35% परस उणी क्षमता अपग्रेड ऑपरेशन सुरु करुंक शकना, कृपया रिचार्ज करचे"</string>
+<string name="recovery_no_package">"sd कार्डाचेर अपडेट पॅकेड फायल ना"</string>
+<string name="network_preference_settings">"नेटवर्क वेवस्थापन"</string>
+<string name="network_type_choosen">"नेटवर्त कनॅक्ट पयलीच वेंचप"</string>
+<string name="default_cmcc_accesspoints_list">"डिफॉल्ट विस्वासू शिरकाव बिंदू"</string>
+<string name="user_defined_accesspoints_list">"कस्टम ट्रस्ट शिरकाव बिंदू"</string>
+<string name="other_accesspoints_list">"अनवळखी शिरकाव बिंदू"</string>
+<string name="wifi_mac">"Mac पत्तो"</string>
+<string name="wifi_netmask">"नेटमास्क"</string>
+<string name="wifi_auto_connect_titile">"आपसूक जोडणी"</string>
+<string name="wifi_auto_connect_summary">"Wi-Fi उक्ते आसता तेन्ना आपसूक AP जोडप"</string>
+<string name="wifi_trusted_ap">"विस्वासू AP"</string>
+<string name="wifi_trusted_ap_category">"विस्वासू AP आनी प्राथमीकता"</string>
+<string name="wifi_trusted_ap_summary">"विस्वासू AP आनी प्राथमीकता पळयात"</string>
+<string name="wifi_move_ap_up">"वयर"</string>
+<string name="wifi_move_ap_down">"सकयल"</string>
+<string name="wifi_save_update">"सेव करात"</string>
+<string name="wifi_disconnect">"तोडात"</string>
+<string name="mobile_to_wlan_policy_title">"Wi-Fi जोडणी धोरण सेटिंग्स"</string>
+<string name="mobile_to_wlan_policy_category">"नेटवर्क डायलॉग वेच्चो"</string>
+<string name="mobile_to_wlan_policy_error">"सेटिंग सेल्युलर करतना समस्या"</string>
+<string name="mobile_to_wlan_popup_prefix">"Wi-Fi सिग्नलाचो सोद"</string>
+<string name="mobile_to_wlan_popup_suffix">"Wi-Fi नेटवर्क उपेग करप वा ना, नेटवर्काचो उपेग केल्यार कांय प्रमाणांत डेटा वेव्हार हस्तक्षेपाची शक्यता"</string>
+<string name="mobile_choice">"मोबायल नेट पसंती"</string>
+<string name="mobile_to_wlan_popup_title">"विस्वासू Wi-Fi AP सोदप"</string>
+<string name="download_complete_filename">"डावनलोड पूर्ण, फायल मार्ग सेव्ह करचो:"</string>
+<string name="gps_to_wifi_yes">"हय"</string>
+<string name="gps_to_wifi_no">"ना"</string>
+<string name="gprs_access">"GPRS शिरकाव"</string>
+<string name="wlan_access">"Wi-Fi शिरकाव"</string>
+<string name="select_net_access_type">"नेटवर्क वेंचपाक टिप्स, उपकार करून तुमचो नेटवर्क शिरकाव वेंचचो"</string>
+<string name="select_trusted_ap_access">"विश्वासनीय प्रवेश पॉयंट"</string>
+<string name="select_trusted_ap_connect">"जोडात"</string>
+<string name="download_wifi_unaviliable">"Wi-Fi नेटवर्क जोडिल्लो ना, मोबयल नेटवर्क इंटरनॅटाचेर वापरुंक"</string>
+<string name="download_select_gprs_yes">"हय"</string>
+<string name="download_select_gprs_no">"ना"</string>
+<string name="wlan_not_available">"Wi-Fi उपलब्ध नात, मोबायल नॅटवर्क वापरूं"</string>
+<string name="mobile_net_yes">"हय"</string>
+<string name="mobile_net_no">"ना"</string>
+<string name="key_index">"की इन्डॅक्स"</string>
+<string name="wifi_unable_connect_network">"नेटवर्का कडेन जोडपाक सक्षम"</string>
+<string name="wifi_network_mask">"नेटमास्क"</string>
+<string name="wifi_ip_settings_invalid_network_mask">"वैध नॅटमास्क पत्तो टायप करात."</string>
+<string name="trusted_ap_list_null">"विस्वासू एपी ना!"</string>
+<string name="wep_password_tip_text">"उपकार करुन 5, 13, 16 ASCII व्ण घालात वा 10, 26, 32 HEX वर्ण WEP auth खातीर घालात."</string>
+<string name="mobile_data_connect_disable">"ना"</string>
+<string name="mobile_data_connect_enable">"हय"</string>
+<string name="network_disconnect_title">"नोटीस"</string>
+<string name="network_disconnect_message">"Wi-Fi नेटवर्क जोडिल्लो ना. \nमोबायल डेटा वरवी जोडप? \nतुमचे कडेन डेटा प्लॅन ना, जाल्यार अतिरिक्त शुल्क लागू येता."</string>
+<string name="swtichmachine">"टामर स्वीच मशिन"</string>
+<string name="power_on">"पावर चालू"</string>
+<string name="power_off">"पावर बंद"</string>
+<string name="every_day">"दर दिसा"</string>
+<string name="never">"केन्नाच ना"</string>
+<string name="done">"जाले"</string>
+<string name="revert">"परत"</string>
+<string name="time">"वेळ"</string>
+<string name="alarm_repeat">"परत करात"</string>
+<string name="set_alarm">"आलार्म सेट करात"</string>
+<string name="set_alarm_on">"सेट अलार्म चालू"</string>
+<string name="set_alarm_off">"सेट अलार्म बंद"</string>
+<string name="day">"1 दीस"</string>
+<string name="days">"<xliff:g id="days">%s</xliff:g> दीस"</string>
+<string name="hour">"1 वर"</string>
+<string name="hours">"<xliff:g id="hours">%s</xliff:g> वरां"</string>
+<string name="minute">"1 मिनिट"</string>
+<string name="minutes">"<xliff:g id="minutes">%s</xliff:g> मिणटां"</string>
+<string name="alarm_klaxon_service_desc">"DeskClockत सेट केल्ल्या अलार्माखातीर आवाज प्लेबॅक सेवा."</string>
+<string name="alarm_alread_exist">"टायमर स्वीच मशिन <xliff:g id="time">%s</xliff:g> पयली सावन अस्तित्वात, कृपया दुसरो वेल सेट करात"</string>
+<string name="hardware_version">"हार्डवॅर आवृत्ती"</string>
+<string name="choose_sub">"SIM वेंचात"</string>
+<string name="mobile_network_settings_other">"हेर"</string>
+<string name="applications_manager">"ॲप्लिकेशन वेवस्थापक"</string>
+<string name="tasks_manager">"टास्क वेवस्थापक"</string>
+<string name="go_to_app">"ॲपा कडेन वचात"</string>
+<string name="audio_profiles">"ऑडीयो प्रोफायल्स"</string>
+<string name="font_setting_title">"फोन्ट"</string>
+<string name="font_setting_tab_sys">"तयार फाँट"</string>
+<string name="font_setting_tab_usr">"उपेगकर्ताचे फाँट"</string>
+<string name="font_setting_menu_add">"फाँट जोडात"</string>
+<string name="font_setting_menu_reset">"रिसेट डिफॉल्ट फाँट"</string>
+<string name="font_setting_default_font">"डिफॉल्ट फाँट"</string>
+<string name="font_setting_menu_delete">"फाँट वगळावप"</string>
+<string name="font_setting_no_fonts">"फाँट ना"</string>
+<string name="font_setting_dialog_delete">"वगळायात"</string>
+<string name="font_setting_dialog_deleting">"वगळायता"</string>
+<string name="font_setting_dialog_delete_confirmation">"वगळावचे?"</string>
+<string name="font_setting_dialog_delete_confirmation_and_reset">"ही फाँट सद्याक उपेग करता ,वगळायले उपरांत डिफॉल्ट फाँट उपेगात हाडटले, वगळावप चालू करचे?"</string>
+<string name="font_setting_dialog_import">"नवी फाँट आयात"</string>
+<string name="font_setting_dialog_importing">"नवी फाँट आयात करता"</string>
+<string name="font_setting_dialog_set_font">"नवी फाँट सेट"</string>
+<string name="font_setting_dialog_set_font_confirmation">"ही फाँट उपेग करची?"</string>
+<string name="font_setting_dialog_set_default">"डिफॉल्ट फाँट सेट"</string>
+<string name="font_setting_dialog_set_default_confirmation">"डिफॉल्ट फाँट उपेग करची?"</string>
+<string name="font_setting_not_selected">"तुमी पयली खंयची फाँट वगळावंक सोदतात ती वेंचात"</string>
+<string name="font_setting_not_enable">"माफ करात，ही फाँट सक्षम ना，कृपया हेर आयात करात"</string>
+<string name="font_setting_is_current">"ही पयली सावनच सद्याची फाँट आसा"</string>
+<string name="font_setting_is_contant">"ही फाँट पयलीसावन आसा"</string>
+<string name="font_setting_name_too_long">"ह्या फाँटाचे नांव चडच लांब आसा, 75 चिन्हापरस चड आसूंक जायना, कृपया परत नांव दिवचे"</string>
+<string name="uplink_rate">"थियोरॅटीकल अपलिंक प्रमाण: <xliff:g id="maxuprate">%s</xliff:g>, सध्याचें अपलिंक प्रमाण: <xliff:g id="uprate">%s</xliff:g>ps"</string>
+<string name="downlink_rate">"थियोरॅटीकल डावनलिंक प्रमाण: <xliff:g id="maxdownrate">%s</xliff:g>, सध्याचें डावनलिंक प्रमाण: <xliff:g id="downrate">%s</xliff:g>ps"</string>
+<string name="total_rate">"डाटा धाड: <xliff:g id="maxSend">%s</xliff:g>, डाटा मेळोवचो: <xliff:g id="maxReceive">%s</xliff:g>"</string>
+<string name="usb_settings">"USB सेटिंग्स"</string>
+<string name="usb_charge_only">"शुल्क फक्त"</string>
+<string name="usb_charge_only_summary">"USB जोडिल्लो आसता तेन्ना फक्त शुल्क मोड उपेग करचो"</string>
+<string name="usb_charge_only_storage_active_subtext">"USB सांठवण उपेगात आसता तेन्नाच फक्त शुल्क लागचेना"</string>
+<string name="usb_charge_only_notification">"फकत चार्ज म्हणून जोडला"</string>
+<string name="usb_storage">"USB स्टोरेज"</string>
+<string name="usb_storage_summary">"USB मास सांठो सक्षम करात"</string>
+<string name="ums_settings">"UMS सेटिंग्स"</string>
+<string name="ums_mounted_setting">"आता ums ते PCक लायात, कृपया रावात..."</string>
+<string name="ums_unmounted_setting">"आता PC वेल्यान ums काडात, कृपया रावात..."</string>
+<string name="usb_virtual_drive">"USB वर्च्युअल ड्रायव्ह"</string>
+<string name="usb_virtual_drive_summary">"USB वर्च्युअल ड्रायव्ह सक्षम"</string>
+<string name="remember_choice">"म्हजी पसंत मतींत दवरात"</string>
+<string name="remember_choice_summary">"म्हजी पसंती लक्षांत दवरात आनी फुडले फावट याद दवरिल्ली कार्या आपसू सुरु करात"</string>
+<string name="internal_format">"मोबायल अंतर्गत सांठवण खोडची"</string>
+<string name="internal_format_summary">"मोबायल अंतर्गत सांठवणी वयलो सगळो डाटा खोडचो, देखीक संगीत आनी फोटो"</string>
+<string name="media_format_title_internal">"अंतर्गत सांठवण खोड"</string>
+<string name="media_format_desc_internal">"सगळी अंतर्गत सांठवण खोडूं? तुमी <b>सगळो</b> सांठयल्लो डाटा गमयतले!"</string>
+<string name="media_format_button_text_internal">"अंतर्गत सांठवण खोड"</string>
+<string name="media_format_final_desc_internal">"अंतर्गत सांठवण खोड, सांठयल्ल्यो सगळ्यो फायली वगळायता? तुमी ही कृती परती करूंक शकना!"</string>
+<string name="delete_file_warning">"वेंचिल्ल्यो फायली वा नामावळ वगळावप चालू दवरूं?"</string>
+<string name="sdcard_not_available">"SD कार्ड उपलब्ध ना"</string>
+<string name="network_settings_tab">"नेटवर्क"</string>
+<string name="more_settings_tab">"अदीक"</string>
+<string name="device_settings_tab">"म्हजी यंत्रा"</string>
+<string name="personal_settings_tab">"वैयक्तीक"</string>
+<string name="individual_title">"वैयक्तीकत्व"</string>
+<string name="language_time_title">"भास &amp; वेळ"</string>
+<string name="about_title">"विशीं"</string>
+<string name="text_blue">"Bluetooth"</string>
+<string name="text_gps">"एलबीएस"</string>
+<string name="text_sync">"समक्रमीत"</string>
+<string name="text_bright">"ब्रायटनेस"</string>
+<string name="simslotcfg_title">"WCDMA कार्ड सेटिंग्स"</string>
+<string name="simslotcfg_sub_summary">"WCDMA कार्ड निवडचे, रिबूट जाय!"</string>
+<string name="wifi_eap_sim_slots">"SIM स्लॉट"</string>
+<string name="wifi_eap_sim_slot1">"SIM स्लॉट 1"</string>
+<string name="wifi_eap_sim_slot2">"SIM स्लॉट 2"</string>
+<string name="toast_datatime_error">"तारीकवेळे विशींची तुमची सेटिंग फावो त्या रेंजीत ना."</string>
+<string name="install_credentials">"प्रमाणपत्रां घालप"</string>
+<string name="cancel_select_all">"सगले रद्द करात"</string>
+<string name="title_delete_other_file">"मिश्ररुपी फायली वगळायता"</string>
+<string name="msg_deleteing_other_file">"मिश्ररुपी फायली आतां वगळायता."</string>
+<string name="timerpower_afternoon">"सांजे"</string>
+<string name="timerpower_morning">"सकाळी"</string>
+<string name="widget_toast_airplane_is_on_wlan">"फोन एअरप्लेन मोडांत आसतना तुमी Wifi वापरूंक शकनात."</string>
+<string name="widget_toast_airplane_is_on_bt">"फोन एअरप्लेन मोडांत आसतना तुमी ब्लुटुथ वापरूंक शकनात."</string>
+<string name="memory_video_usage">"व्हिडीयो"</string>
+<string name="master_clear_level">"30% परस उणी क्षमता, रिसेट फोन ऑपरेशन चालू दवरप?"</string>
+<string name="factory_dialog_title">"तत्पर"</string>
+<string name="confirm">"बरे"</string>
+<string name="softap_bt_cannot_coexist">"जेन्ना ब्लुटुथ सक्षम केला वा चालू जाता, सॉफ्टॅप चलूंक शकना, तुमकां सॉफ्टॅप वापचे आसल्यार, उपकार करुन ब्लुटुथ अक्षम केल्ल्याची खात्री करात."</string>
+<string name="bt_softap_cannot_coexist">"जेन्ना सॉफ्टॅप सक्षम केल्लो आसता वा चालू जाता, ब्लुटुथ काम करुंक शकना, तुमकांं ब्लुटुथ वापरुंक जाय जाल्यार, उपकार करुन खात्री करात की सॉफ्टॅप अक्षम केला."</string>
+<string name="hotspot">"Wi-Fi हॉटस्पॉट"</string>
+<string name="hotspot_settings">"Wi-Fi हॉटस्पॉट सेट अप"</string>
+<string name="hotspot_connected_stations">"जोडिल्लो उपेगकर्ता"</string>
+<string name="hotspot_no_connected_station">"0 जोडिल्लो उपेगकर्ता"</string>
+<string name="hotspot_blocked_stations">"ब्लॉक्ड उपेगकर्ता"</string>
+<string name="hotspot_no_blocked_station">"0 ब्लॉक्ड उपेगकर्ता"</string>
+<string name="block">"आडय"</string>
+<string name="unblock">"अनब्लॉक्ड"</string>
+<string name="delete_applications">"ॲप्लिकेशनां वगळावप"</string>
+<string name="uninstall">"अनइन्स्टॉल"</string>
+<string name="beatch_no_select_uninstall">"बॅच इन्स्टॉल"</string>
+<string name="cancle_select_all">"सगळे सिलॅक्ट रद्द"</string>
+<string name="beatch_uninstall">"बॅच अनइन्स्टॉल (<xliff:g id="UNINSTALL_DESCRIPTION">%1$s</xliff:g>)"</string>
+<string name="confirm_beatch_uninstall_message">"इन्स्टॉल करुंक तुमी खात्री दितात <xliff:g id="UNINSTALL_DESCRIPTION">%1$s</xliff:g> ॲप्लिकेशनां？"</string>
+<string name="confirm_beatch_one_uninstall_message">"अनइन्स्टॉल करुंक तुमी खात्री दितात <xliff:g id="UNINSTALL_DESCRIPTION">%1$s</xliff:g> ॲप्लिकेशनां？"</string>
+<string name="uninstalling_message">"अनइन्स्टॉल，मात्शे रावात..."</string>
+<string name="uninstall_done">""<xliff:g id="UNINSTALL_DONE">%1$s</xliff:g> ॲप्लिकेशनां अनइन्स्टॉल जाली"</string>
+<string name="uninstall_one_app_done">""<xliff:g id="UNINSTALL_DONE">%1$s</xliff:g> ॲप्लिकेशन अनइन्स्टॉल जाले"</string>
+<string name="confirm_one_uninstall_message">"अनइन्स्टॉल करुंक तुमी खात्री दितात <xliff:g id="UNINSTALL_DESCRIPTION">%1$s</xliff:g> ॲप्लिकेशनां？"</string>
+<string name="sort_order_time">"वेळे प्रमाण वेगळे करात"</string>
+<string-array name="sort_type">
+<item>"आकार"</item>
+<item>"नांव"</item>
+<item>"वेळ"</item>
+</string-array>
+<string name="DM_config">"विक्री सेवा उपरांत सीएमसीसी वाड"</string>
+<string name="DM_config_summary">"पावर ऑन आसतना आपसूक सुरू सेट कर"</string>
+<string name="softap_need_mobile_data_enabled">"पोर्टेबल Wi-Fi हॉटस्पॉटाक माबायल डेटा जोडणेची गरज, अतिरिक्त पयशे पडूंक शकतात."</string>
+<string name="show_crash_report_summary">"स्क्रीनीचेर CRASH अहवाल दाखय"</string>
+<string name="show_crash_report">"CRASH अहवाल दाखय"</string>
+<string name="sd_eject_usb">"अनमावंट शॅअर्ड सांठवण"</string>
+<string name="sd_eject_summary_usb">"अंतर्गत USB सांठवण अनमावंट करप"</string>
+<string name="sd_insert_summary_usb">"मांवटिगे खातीर USB  सांठवण भितर घालात"</string>
+<string name="sd_mount_usb">"USB सांठवण मावंट करप"</string>
+<string name="sd_format_usb">"USB सांठो पुसून वडय"</string>
+<string name="sd_format_summary_usb">"अंतर्गत USB सांठवणीचेर आशिल्लो सगळो डाटा खोड, देखीक संगीत आनी फोटो"</string>
+<string name="dlg_confirm_unmount_title_usb">"USB सांठवण अनमावंट करप?"</string>
+<string name="dlg_confirm_unmount_text_usb">"तुमी जर USB कार्ड अनमावंट केले जाल्यार, तुमी वापरतात ते कांय ॲप बंद जावंक शकतात आनी तुमी USB कार्ड मांवट करमेरेन अनुपलब्द आसूंक शकता."</string>
+<string name="dlg_error_unmount_text_usb">"USB कार्ड अनमांवट करपाक जालेना. मागीर परत यत्न करात."</string>
+<string name="unmount_inform_text_usb">"USB सांठवण अनमांवट जातले."</string>
+<string name="move_app_to_internal_sdcard" product="default">"अंतर्गत SD कार्डांत हालय"</string>
+<string name="battery_percentage">"शुल्काची टक्केवारी"</string>
+<string name="stroage_not_mounted">"सांठो मावंट केल्लो ना"</string>
+<string name="do_not_prompt_text">"सूचीत करु नाकात"</string>
+<string name="connect_to_cmcc_ap_message">"जोडिल्लो चायना मोबायल Wi-Fi, वापरपाक चालू दवरल्यार Wi-Fi ट्रॅफीक फी लागू जावंक शकता"</string>
+<string name="show_dialog_connect_to_cmcc_title">"जोडिल्लो प्रॉम्प्ट"</string>
+<string name="show_dialog_connect_to_cmcc_summary">"प्रदर्शन CMCCप्रॉम्प्टाक जोडला"</string>
+<string name="reset_wifi_policy_show_dialog_title">"प्रॉम्प्ट रिकव्हरी"</string>
+<string name="reset_wifi_policy_show_dialog_toast_message">"रिस्टोर जाले"</string>
+<string name="airplane_mode_wifi_notification">"नोटीफीकेशन"</string>
+<string name="airplane_mode_wifi_notification_message">"Wi-Fi एरोप्लेन मोडांत हातांत उक्ते करूं येता"</string>
+<string name="not_ask_again">"संकेत केन्नाच नाका"</string>
+<string name="ask_next_time">"फुडलें फावट विचार"</string>
+<string name="network_id_illegal_character">"कृपया वैध नेटवर्क आयडी टायप करा"</string>
+<string name="max_input_character">"चडावंत 512 कुरवां"</string>
+<string name="tilte_input_more">"माफ करचे, फकत 512 कुरवां घालूंक शकता"</string>
+<string name="weak_wifi_signal_title">"जोडिल्ले AP सिग्नल दुबळे आसा"</string>
+<string name="weak_wifi_signal_message">"जोडिल्ले प्रवेश केंद्र सिग्नल दुबळे आसा, तुमकां दुसऱ्या विस्वासू प्रवेश केंद्र कडेन जोडूंक जाय? हे डेटा वेवसायिकाच्या भागांत आडमेळी हाडूंक शकता.\nउपलब्ध शिरकाव पॉयंट्स:"</string>
+<string name="wifi_set_time_alarm_warning">"आपसूक जोडणी आनी जोडणी सोड वेळ समान आसूंक जायना"</string>
+<string name="wifi_auto_roam">"ऑटो रोम"</string>
+<string name="header_category_common">"समान"</string>
+<string name="sim_settings_title">"SIM कार्डा"</string>
+<string name="current_input_method_pikel">"सद्याचो किबोर्ड"</string>
+<string name="save">"सेव करात"</string>
+<string name="name_too_long">"नांव चड लांब, ते 50 परस कमी आसपाक जाय."</string>
+<string name="sim_editor_title">"SIM स्लॉट %1$d"</string>
+<string name="voice_broadcast_settings">"आवाज सेटिंग्स"</string>
+<string name="voice_broadcast_settings_tile">"आवाज ब्रॉडकास्ट"</string>
+<string name="uninstall_app_settings">"ॲप्लिकेशनां वगळावप"</string>
+<string name="voice_menu">"आवाज मेनू"</string>
+<string name="voice_date">"आवाज तारीख"</string>
+<string name="voice_call">"व्हॉयल कॉल" ॲप्ली</string>
+<string name="voice_contacts">"आवाज संपर्कां"</string>
+<string name="voice_incall">"आवाज कॉलांत"</string>
+<string name="voice_message">"आवाज संदेश"</string>
+<string name="default_feature_bar_options">"पर्याय"</string>
+<string name="default_feature_bar_back">"फाटी"</string>
+<string name="default_feature_bar_center">"वेंचात"</string>
+<string name="sim_status_title">"SIM स्थिती"</string>
+<string name="imei_information_title">"IMEI म्हायती"</string>
+<string name="slot_number">"(स्लोट<xliff:g id="slot_num">%1$d</xliff:g>)"</string>
+<string name="lock_settings_title_pikel">"यंत्रची सुरक्षा"</string>
+<string name="owner_info_settings_title_pikel">"लॉक स्कीन संदेश"</string>
+<string name="phone_memory_title">"अंतर्गत स्टोरेज"</string>
+<string name="phone_memory_category_title">"अंतर्गत स्टोरेज"</string>
+<string name="sdcard_memory_title">"पोर्टेबल सांठो"</string>
+<string name="manage_app_settings_category">"वळेरी वर्गीकरण लागू कर"</string>
+<string name="sim_slot_empty">"SIM रिते"</string>
+<string name="data_switch_started">"डेटा SIM स्वीचींग, हे करपाक सुमार एक मिनिट लागू येता..."</string>
+<string name="data_usage_menu_cellular_networks">"सेल्युलर नेटवर्क"</string>
+<string name="data_usage_disclaimer">"कॅरीअर डेटा अकावंटिग तुमच्या यंत्रापरस वेगळे आसूंक शकता."</string>
+<string name="data_usage_app">"ॲपाचो उपेग"</string>
+<string name="sim_editor_name">"SIM नांव"</string>
+<string name="sim_name_hint">"एन्टर SIM नांव"</string>
+<string name="color_title">"रंग"</string>
+<string name="sim_editor_carrier">"कॅरिअर"</string>
+<string name="sim_editor_number">"नंबर"</string>
+<string name="mouse_control_applications">"मावस नियंत्रण"</string>
+<string name="mouse_control_exit">"सगळो डाटा सेव्ह करपाची तुमकां खात्री आसा?"</string>
+<string name="mouse_control_title">"मावस नियंत्रण सक्षम करूंक उपकार करून ॲपां वेंचची."</string>
+<string name="current_label_phone">"फोन"</string>
+<string name="not_any_file">"खंयचीच फायल ना"</string>
+<string name="settings_more_sprd">"अदीक"</string>
+<string name="enable_data_connection">"डाटा जोडणी सक्षम करची"</string>
+<string name="disable_data_connection">"डाटा जोडणी अक्षम करची"</string>
+</resources>

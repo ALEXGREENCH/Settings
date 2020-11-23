@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"APN प्रकार सेट करा"</string>
+<string name="user_could_input_apn_type">"APN प्रकार वापरकर्ता इनपुट करू शकत नाही"</string>
+<string name="could_not_input_the_same_apn_type">"समान APN प्रकार इनपुट शक्य नाही"</string>
+<string name="apn_type_message">"आपल्या नवीन APN मध्ये डिफॉल्ट प्रकार उपलब्ध नाही, आपण APNची निवड करू शकणार नाही."</string>
+<string name="error_apn_type_message">"APN प्रकार रिक्त असू शकत नाही"</string>
+<string name="error_apn_type">"आपण प्रविष्ट APN प्रकार समर्थीत नाही, पुन्हा प्रविष्ट करा!"</string>
+<string name="same_apn_type">"तुम्ही APN समान प्रकारचे प्रविष्ट केले आहे, पुन्हा करा!"</string>
+<string name="empty_apn_type">"आपण कोणत्याही प्रकारच्या APNला प्रविष्ट केले किंवा निवडले नाही, पुन्हा करा!"</string>
+<string name="dual_settings_title_uui">"SIM कार्ड व्यवस्थापन"</string>
+<string name="dual_voice_setting_title">"आवाज सेट करणे"</string>
+<string name="dual_video_setting_title">"व्हिडिओ सेट करणे"</string>
+<string name="dual_mms_setting_title">"SMS सेट करणे"</string>
+<string name="dual_primary_setting_title">""प्राथमिक कार्ड सेटींग" "</string>
+<string name="dual_settings_title">"ड्युअल SIM सेटिंग्ज"</string>
+<string name="sim_name_setting_title">"SIMचे नाव संपादित करा"</string>
+<string name="sim_number_setting_title">"sim क्रमांक एडिट करा"</string>
+<string name="sim_number_setting_null">"सेट केले गेले नाही"</string>
+<string name="sim_color_setting_title">"पार्श्वभूमी रंग सेट करा"</string>
+<string name="dual_settings_always_prompt">"नेहमी सूचना करा"</string>
+<string name="mms_settings_auto">"ऑटो"</string>
+<string name="no_need_set_data_subscription">"डेटा सदस्यता सेट करणे गरजेचे नाही."</string>
+<string name="voice_setting_title">"व्हॉइस कॉल सेटिंग्ज"</string>
+<string name="video_setting_title">"व्हिडिओ कॉल सेटिंग्ज"</string>
+<string name="mms_setting_title">"SMS व SMS सेटिंग्ज"</string>
+<string name="sim_reply_setting">"SIM प्रत्युत्तर सेटिंग्ज"</string>
+<string name="reply_message_setting">MMS किंवा SMSने रिप्लाय करा </string>
+<string name="closeData">"बंद करा"</string>
+<string name="data_title">"डेटा कनेक्शन सेटिंग्ज"</string>
+<string name="sel_sub_title">"स्टॅंडबाय सेटिंग्ज"</string>
+<string name="sel_sub_summary">"SIM कार्ड कार्यरत किंवा अकार्यरत करण्यासाठी"</string>
+<string name="set_data_subscription_timeout">"डेटा कनेक्शन कालबाह्य सेटिंग्ज!"</string>
+<string name="set_dds_failed">"एरर! सर्व डेटा कनेक्शन्स साफ करा आणि पुन्हा प्रयत्न करा!"</string>
+<string name="set_dds_success">"यशस्वीरित्या सेट केले"</string>
+<string name="set_dds_success_gsm">""यशस्वीरीत्या सेट झाले. डेटा कनेक्शन दुय्यम स्लॉटला स्विच झाले, LTE सेवा अनुपलब्ध आहे." "</string>
+<string name="set_data_subscription_progress">"सेट अप करत आहे, कृपया प्रतीक्षा करा…"</string>
+<string name="set_data_subscription_error_ok">"ठरवा"</string>
+<string name="set_data_subscription_error_title">"चूक"</string>
+<string name="set_data_subscription_error">"या SIM कार्ड शिवाय सत्यापित करा आणि पुन्हा प्रयत्न करा!"</string>
+<string name="sim_retries_left">ची शेष संख्या</string>
+<string name="menu_kill_apps_services">"सर्व ऍप बंद करा"</string>
+<string name="back_groud_data_usage_restrict_protocal">"पार्श्वभूमी डेटा वापर प्रोटोकॉल."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"पार्श्वभूमी डेटा वापर प्रोटोकॉल स्वीकारायचा का?"</string>
+<string name="apn_edit_quit">"सोडून द्या"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> एक्सेस पॉईंट संपादित करा"</string>
+<string name="input_pin_limit">"4 - 8 क्रमांक भरा"</string>
+<string name="agps_supl_manual_settings">"SUPL सर्व्हर मॅन्युअल सेटिंग"</string>
+<string name="agps_supl_manual_settings_summary">"SUPL सर्व्हर आणि पोर्टचे स्वहस्ताचे संच"</string>
+<string name="str_clear">"क्लिअर"</string>
+<string name="str_save">"सेव्ह करा"</string>
+<string name="gps_location_suplserver">"सर्व्हर"</string>
+<string name="agps_setting">"Agps सेट करणे"</string>
+<string name="open">"उघडा"</string>
+<string name="close">"बंद करा"</string>
+<string name="mobile_network_settings_ex">"SIMचे<xliff:g id="SIM">%s</xliff:g> मोबाइल नेटवर्क सेटिंग्ज"</string>
+<string name="pin_enabled_success">"SIM पिन कार्यरत"</string>
+<string name="pin_disabled_success">"SIM पिन अकार्यरत"</string>
+<string name="gps_time_sync_attention_gps_on">"हे GPS निश्चित प्राप्त करण्यासाठी येथे जवळजवळ 1 मिनिट लागेल. याशिवाय, GPS कमकुवत वातावरणीय सिग्नल मुळे वेळ देण्यास असमर्थ ठरू शकेल.\n\n आपण GPS प्रदान वेळ वापरण्यासाठी खात्रीपुर्वक वापरू शकतो का?"</string>
+<string name="gps_time_sync_attention_gps_off">"GPS प्रदान वेळ वापरण्यासाठी, आपण प्रथम GPS कार्यरत करणे आवश्यक आहे. GPS निश्चित प्राप्त करण्यासाठी येथे जवळजवळ 1 मिनिट द्या. याशिवाय, GPS मुळे कमकुवत पर्यावरण सिग्नल वेळ घेत असतील.\n\n आपणास आत्ता GPS कार्यरत करण्याची आणि GPS प्रतीक्षा वेळ प्रदान खात्री आहे का?"</string>
+<string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APN्स"</string>
+<string name="sim_lock_settings_ex">"SIM सेटिंग्ज<xliff:g id="SIM">%s</xliff:g> सुरक्षित करा"</string>
+<string name="device_status_ex">"SIMची<xliff:g id="SIM">%s</xliff:g> स्थिती"</string>
+<string name="lte_service">"4G सेवा/प्रायमरी कार्ड निवडा"</string>
+<string name="lte_enabled">"4G सेवा सक्रिय करा"</string>
+<string name="lte_service_network_mode_settings_dialog_title">"नेटवर्क मोड निवडा"</string>
+<string name="whether_close_lte_service">"आपल्याला क्लोझ 4G सेवा हवी आहे का, हे कृपया नक्की ठरवा"</string>
+<string name="whether_enable_lte_service">"आपल्याला 4G सेवा एनेबल करायची का, हे कृपया नक्की ठरवा"</string>
+<string name="whether_switch_lte_service_sim">"4G सेवा या SIM कार्डला बदलायची आहे का याची कृपया पुष्टी करा?"</string>
+<string name="lte_service_attention">"लक्ष द्या"</string>
+<string name="lte_service_switch">""4G सेवा स्विच करत आहे, कृपया थांबा.." "</string>
+<string-array name="lte_preferred_networks_choices">
+<item>"4G/3G/2G मल्टी मोड"</item>
+<item>"फक्त 3G/2G मोड"</item>
+</string-array>
+<string name="wifi_alarm_category_title">"Wi-Fi अलार्म सेटिंग"</string>
+<string name="wifi_connect_alarm_title">"Wi-Fi स्वयंचलितपणे कनेक्ट करा"</string>
+<string name="wifi_disconnect_alarm_title">"Wi-Fi स्वयंचलितपणे डिसकनेक्ट करा"</string>
+<string name="wifi_alarm_time_title">"वेळ सेट करा"</string>
+<string name="not_stand_by">"फॉर्बिडन"</string>
+<string name="main_card_slot">"PRI. "</string>
+<string name="gsm_card_slot">"SEC. "</string>
+<string name="cellular_data_title">""सेल्युलर डेटा" "</string>
+<string name="sim_selection_required_pref">""निवड आवश्यक" "</string>
+<string name="stand_by_set_changed_prompt">"Sim एक्टिव्हेशन स्टेट बदलली जाईल, कृपया सुरू ठेवायचे का, हे कन्फर्म करा"</string>
+<string name="okay">"ओके"</string>
+<string name="primary_card_switching">"सेटिंग\uff0cकृपया प्रतिक्षा करा..."</string>
+<string name="select_primary_card">"प्राथमिक कार्ड निवडा"</string>
+<string name="sim_calls_ask_first_prefs_title">"दर वेळेला विचारा"</string>
+<string name="sim_preferred_title">"पसंतीप्राप्त SIM कार्ड अपडेट करायचे?"</string>
+<string name="sim_preferred_message">""तुमच्या डिव्हाईसमध्ये केवळ <xliff:g id="new_sim">%1$s</xliff:g> हेच SIM आहे. आपल्याला या SIMलाच सेल्युलर डेटा, कॉल्स, आणि SMS संदेशांसाठी वापरायचे आहे का?" "</string>
+<string name="select_sim_for_data">"डेटासाठी एक SIM निवडा"</string>
+<string name="select_sim_for_calls">"याने कॉल करा"</string>
+<string name="sim_card_select_title">"SIM कार्ड निवडा"</string>
+<string name="select_primary_slot_description_4g">"(पहिले कार्ड 4जी/2जी सेवेला सपोर्ट करते, दूसरे कार्ड फक्त 2जी सेवेला ला सपोर्ट करते)"</string>
+<string name="whether_switch_primary_card">"कृपया पुष्टी करा की प्राथमिक कार्ड या कार्डला स्विच करायचे का?\n(सेल्युलर डेटाही या कार्डवर स्थानांतरीत होईल.)"</string>
+<string-array name="light_color_picker">
+<item>"हिरवा"</item>
+<item>"निळा"</item>
+<item>"इंडिगो"</item>
+<item>"जांभळा"</item>
+<item>"गुलाबी"</item>
+<item>"लाल"</item>
+<item>"पिवळा"</item>
+</string-array>
+<string name="select_primary_slot_description">"(प्रायमरी कार्ड WCDMA/GSM मोडचे समर्थन करते, सेकंडरी कार्ड फक्त GSM मोडचे समर्थन करते.)"</string>
+<string name="sim_pref_divider">"यासाठी पसंतीप्राप्त SIM"</string>
+<string name="calls_title">""कॉल्स" "</string>
+<string name="sms_messages_title">""SMS संदेश" "</string>
+<string name="feature_bar_softkey_edit">"एडिट"</string>
+<string name="feature_bar_softkey_off">"बंद आहे"</string>
+<string name="feature_bar_softkey_on">"चालू आहे"</string>
+<string name="feature_bar_softkey_options">"निवडा"</string>
+    <string name="dialog_restore_default_apn">"आपण जमा केलेले सर्व एपीएन निघून जातील आणि उरलेले एपीएन त्यांच्या मूळ सेटींगवर येतील. आपणास नक्की पुढे जायचे आहे काय?"</string>
+
+</resources>

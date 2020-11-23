@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"APN प्रकारस्य अभविन्यासः"</string>
+<string name="user_could_input_apn_type">"प्रयोक्ता APN प्रकारं निवेशितुं शक्तवान्"</string>
+<string name="could_not_input_the_same_apn_type">"समानं APN प्रकारं निवेशितुं न शक्तवान्"</string>
+<string name="apn_type_message">"भवतः/भवत्याः नवीने APN इत्यस्मिन् उत्सर्गप्रकारः नास्ति, येन APN चितं न भविष्यति।"</string>
+<string name="error_apn_type_message">"APN प्रकारः रिक्तः न भवेत्"</string>
+<string name="error_apn_type">"निवेशितः APN प्रकारः असमर्थितः अस्ति, कृपया पुनः निवेशयतु!"</string>
+<string name="same_apn_type">"समानप्रकारस्य APN निवेशितः, कृपया पुनः निवेशयतु!"</string>
+<string name="empty_apn_type">"भवता/भवत्या APN न निवेशितः उत प्रकारचयनं न कृतं, कृपया पुनः निवेशयतु!"</string>
+<string name="dual_settings_title_uui">"SIM-पत्रस्य प्रबन्धनम्"</string>
+<string name="dual_voice_setting_title">"ध्वनेः अभविन्यासः"</string>
+<string name="dual_video_setting_title">"दृश्यचलितस्य अभिविन्यासः"</string>
+<string name="dual_mms_setting_title">"SMS अभविन्यासः"</string>
+<string name="dual_primary_setting_title">"मुख्यपत्रस्य अभविन्यासः"</string>
+<string name="dual_settings_title">"उभौ SIM अभिविन्यासाः"</string>
+<string name="sim_name_setting_title">"SIM नाम सम्पद्यताम्"</string>
+<string name="sim_number_setting_title">"SIM क्रमाङ्कः सम्पद्यताम्"</string>
+<string name="sim_number_setting_null">"स्थापनं नास्ति"</string>
+<string name="sim_color_setting_title">"पृष्ठभूमिरङ्गः निर्धार्यताम्"</string>
+<string name="dual_settings_always_prompt">"सर्वदा उत्सूचयतु"</string>
+<string name="mms_settings_auto">"स्वतः"</string>
+<string name="no_need_set_data_subscription">"दत्तांशपञ्जीकरणस्य आवश्यकता नास्ति।"</string>
+<string name="voice_setting_title">"ध्वन्याह्वाहनस्य अभिविन्यासाः"</string>
+<string name="video_setting_title">"दृश्यचलितस्य अभिविन्यासाः"</string>
+<string name="mms_setting_title">"MMS, SMS च अभविन्यासाः"</string>
+<string name="sim_reply_setting">"SIM प्रत्युत्तरस्य अभिविन्यासाः"</string>
+<string name="reply_message_setting">"MMS उत SMS प्रत्तुत्तरम्"</string>
+<string name="closeData">"पिदधातु"</string>
+<string name="data_title">"दत्तांशसंयोजनसक्रियतायाः अभिविन्यासः"</string>
+<string name="sel_sub_title">"अतिरिक्तस्य अभविन्यासाः"</string>
+<string name="sel_sub_summary">"SIM पत्रं सक्रियम् उत निष्क्रियं कर्तम्"</string>
+<string name="set_data_subscription_timeout">"दत्तांशसंयोजनस्य अभिविन्यासानां समयसमाप्तः!"</string>
+<string name="set_dds_failed">"दोषः! सर्वाणि दत्तांशसंयोजनानि प्रोञ्छयित्वा पुनः प्रयततु!"</string>
+<string name="set_dds_success">"साफल्येन निर्धारितम्"</string>
+<string name="set_dds_success_gsm">"साफल्येन निर्धारितम्। दत्तांशसंयोजनं सहायकछिद्रं प्रति स्थानान्तरति, LTE सेवा अनुपलब्धा अस्ति"</string>
+<string name="set_data_subscription_progress">"व्यवस्थापयति, कृपया प्रतीक्षतु..."</string>
+<string name="set_data_subscription_error_ok">"बाढम्।"</string>
+<string name="set_data_subscription_error_title">"दोषः"</string>
+<string name="set_data_subscription_error">"एतत् SIM पत्रं  विना, कृपया पुष्टयित्वा पुनः प्रयततु!"</string>
+<string name="sim_retries_left">"इत्यस्य क्रमाङ्काः अवशिष्टाः"</string>
+<string name="menu_kill_apps_services">"सर्वान् अनुप्रयोगान् पिदधातु"</string>
+<string name="back_groud_data_usage_restrict_protocal">"पृष्ठभूमिदत्तांशोपयोगस्य आचारसंहिता।"</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"पृष्ठभूमिदत्तांशोपयोगस्य आचारसंहितां अङ्गीकरोति?"</string>
+<string name="apn_edit_quit">"त्यजतु"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> प्राप्तिकेन्द्राणि सम्पाद्यन्ताम्"</string>
+<string name="input_pin_limit">"4 - 8 अङ्कान् निवेशयतु कृपया"</string>
+<string name="agps_supl_manual_settings">"SUPL वितरकस्य हस्तेन अभिविन्यासाः"</string>
+<string name="agps_supl_manual_settings_summary">"SUPL वितरकस्थानयोः हस्तेन स्थापनम्"</string>
+<string name="str_clear">"प्रोञ्छतु"</string>
+<string name="str_save">"सक्ष्यताम्"</string>
+<string name="gps_location_suplserver">"वितरकः"</string>
+<string name="agps_setting">"AGPS स्थानान्तरणम्"</string>
+<string name="open">"उद्घाट्यताम्"</string>
+<string name="close">"पिदधातु"</string>
+<string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> दूरभाषजालस्य अभिविन्यासाः"</string>
+<string name="pin_enabled_success">"SIM PIN सक्रियम्"</string>
+<string name="pin_disabled_success">"SIM PIN निष्क्रियम्"</string>
+<string name="gps_time_sync_attention_gps_on">"GPS निराकरणाय एतत् 1 निमेषं स्वीकरिष्यति। तद्विहाय वातावरणयीसङ्केतत्वात् GPS कदाचित् समयं प्रदातुं न शक्नुयोत्।\n\n GPS प्रदत्तसमयस्य उपयोगाय निश्चितः अस्ति?"</string>
+<string name="gps_time_sync_attention_gps_off">"GPS प्रदत्तस्य समयस्य उपयोगाय GPS सक्रियता अनिवार्या। GPS निवारयितुं 1 निमेषः अपेक्षते। GPS कदाचित् समयं प्रदातुं न शक्नुयोत्।\n\n GPS प्रदत्तसमयस्य उपयोगाय निश्चितः अस्ति?"</string>
+<string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+<string name="sim_lock_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> स्थानीयाः अभिविन्यासाः"</string>
+<string name="device_status_ex">"SIM<xliff:g id="SIM">%s</xliff:g> स्थितिः"</string>
+<string name="lte_service">"4G सेवां/ मुख्यपत्रं चिनोतु"</string>
+<string name="lte_enabled">"4G सेवा सक्रियताम्"</string>
+<string name="lte_service_network_mode_settings_dialog_title">"जालावस्थां चिनोतु"</string>
+<string name="whether_close_lte_service">"4G सेवां पिदधातुम् इच्छति इति कृपया पुष्यटति?"</string>
+<string name="whether_enable_lte_service">"4G सेवां आरब्धुम् इच्छति इति कृपया पुष्यटति?"</string>
+<string name="whether_switch_lte_service_sim">"एतस्मिन् SIM पत्रे 4G सेवां प्रति स्थानान्तरितुं पुष्टतां ददाति?"</string>
+<string name="lte_service_attention">"सावधानः"</string>
+<string name="lte_service_switch">"4G सेवां प्रति स्थानान्तरति, कृपया प्रतिक्षताम्..."</string>
+<string-array name="lte_preferred_networks_choices">
+<item>"4G/3G/2G एकाधिकावस्था"</item>
+<item>"4G/3G/2G एकावस्था"</item>
+</string-array>
+<string name="wifi_alarm_category_title">"Wi-Fi क्वणनस्य अभिविन्यासः"</string>
+<string name="wifi_connect_alarm_title">"स्वतः Wi-Fi संयोजनम्"</string>
+<string name="wifi_disconnect_alarm_title">"स्वतः Wi-Fi असंयोजनम्"</string>
+<string name="wifi_alarm_time_title">"अस्तमित समय"</string>
+<string name="not_stand_by">"प्रतिबन्धितम्"</string>
+<string name="main_card_slot">"PRI. "</string>
+<string name="gsm_card_slot">"पलम्"</string>
+<string name="cellular_data_title">"दूरभाषस्य दत्तांशः"</string>
+<string name="sim_selection_required_pref">"चयनम् आवश्यकम्"</string>
+<string name="stand_by_set_changed_prompt">"Sim सक्रियतावस्था परिवर्तिता, कृपया अनुसरणाय निश्चितः?"</string>
+<string name="okay">"बाढम्।"</string>
+<string name="primary_card_switching">"अभिविन्यसति, कृपया प्रतीक्ष्यताम्..."</string>
+<string name="select_primary_card">"मुख्यपत्रं चिनोतु"</string>
+<string name="sim_calls_ask_first_prefs_title">"प्रतिवारं पृच्छतु"</string>
+<string name="sim_preferred_title">"आवश्यकं SIM पत्रं अद्यतनीकरोति?"</string>
+<string name="sim_preferred_message">"<xliff:g id="new_sim">%1$s</xliff:g> इत्येतत् SIM एकाकि अस्ति उपकरणे। दूरसञ्चारदत्तांशाय, आह्वाहनेभ्यः, SMS सन्देशेभ्यश्च भवान्/भवती एतत् SIMपत्रम् उपयोक्तुम् इच्छति?"</string>
+<string name="select_sim_for_data">"दत्तांशाय SIM चिनोतु"</string>
+<string name="select_sim_for_calls">"सह आह्वाहनम्"</string>
+<string name="sim_card_select_title">"SIM-पत्रं चिनोतु"</string>
+<string name="select_primary_slot_description_4g">"(मुख्यपत्रं 4G/2G सेवां समर्थयति, गौणपत्रं केवलं 2G सेवां समर्थयति।)"</string>
+<string name="whether_switch_primary_card">"मुख्यपत्रात् एतत् पत्रं प्रति स्थानान्तरितुं निश्चितः अस्ति?\n (दूरसञ्चारदतक्तांशस्यापिन पत्रं प्रति स्थानान्तरं भविष्यति।)"</string>
+<string-array name="light_color_picker">
+<item>"हरितः"</item>
+<item>"नीलः"</item>
+<item>"जम्बुकी"</item>
+<item>"लोहितः"</item>
+<item>"पाटलः"</item>
+<item>"रक्तम्"</item>
+<item>"पीतः"</item>
+</string-array>
+<string name="select_primary_slot_description">"WCDMA/GSM अवस्थायां मुख्यपत्रं समर्थयति, GSM अवस्थायां केवलं द्वितयपत्रम्)"</string>
+<string name="sim_pref_divider">"कृते अनुकूलं SIM"</string>
+<string name="calls_title">"आवाहयतयाः"</string>
+<string name="sms_messages_title">"SMS सन्देशाः"</string>
+<string name="feature_bar_softkey_edit">"सम्पाद्यताम्"</string>
+<string name="feature_bar_softkey_off">"निष्क्रियम्"</string>
+<string name="feature_bar_softkey_on">"सक्रियम्"</string>
+<string name="feature_bar_softkey_options">"चिनोतु"</string>
+<string name="dialog_restore_default_apn">"सर्वे योजिताः APN अपाकृताः तथा च अवशिष्टाः APN उत्सर्गाभिविन्यासेषु पुनस्स्थापिताः भविष्यन्ति। अनुवर्तयितुं निश्चितमनाः किम्?"</string>
+</resources>

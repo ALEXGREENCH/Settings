@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"apn வகை அமைப்பு"</string>
+<string name="user_could_input_apn_type">"பயனர் apn வகையை உள்ளிட முடியும்"</string>
+<string name="could_not_input_the_same_apn_type">"அதே apn வகையை உள்ளிட முடியாது"</string>
+<string name="apn_type_message">"உங்களின் புதிய APNஇல் ஒரு இயல்புநிலை வகை இல்லை, APNஐத் தேர்ந்தெடுக்க இயலாது."</string>
+<string name="error_apn_type_message">"APN வகை காலியாக இருக்க முடியாது"</string>
+<string name="error_apn_type">"நீங்கள் உள்ளீடு செய்த Apn வகையானது ஆதரிக்கப்படாதது ஆகும், தயவுசெய்து மீண்டும் உள்ளீடு செய்யவும்!"</string>
+<string name="same_apn_type">"நீங்கள் அதே வகை APNஐ உள்ளீடு செய்துள்ளீர்கள், தயவுசெய்து மீண்டும் உள்ளீடு செய்யவும்!"</string>
+<string name="empty_apn_type">"நீங்கள் எந்தஒரு வகை APNஐயும் உள்ளீடு செய்யவோ அல்லது தேர்ந்தெடுக்கவோ இல்லை, தயவுசெய்து மீண்டும் உள்ளீடு செய்யவும்!"</string>
+<string name="dual_settings_title_uui">சிம்கார்டு மேலாண்மை</string>
+<string name="dual_voice_setting_title">குரல் அமைத்தல்</string>
+<string name="dual_video_setting_title">வீடியோ அமைப்பு</string>
+<string name="dual_mms_setting_title">எஸ் எம் எஸ் அமைப்பு</string>
+<string name="dual_primary_setting_title">"முதன்மை கார்டு அமைப்பு"</string>
+<string name="dual_settings_title">இரட்டை சிம் அமைப்புக்கள்</string>
+<string name="sim_name_setting_title">சிம் பெயர் திருத்தவும்</string>
+<string name="sim_number_setting_title">"SIM எண்ணை திருத்தவும்"</string>
+<string name="sim_number_setting_null">அமைக்கப்படவில்லை</string>
+<string name="sim_color_setting_title">பின்னணி நிறம் அமைக்கவும்</string>
+<string name="dual_settings_always_prompt">எப்போதும் முனையசெய்யவும்</string>
+<string name="mms_settings_auto">தானியக்கம்</string>
+<string name="no_need_set_data_subscription">தரவுக்கான சந்த அமைக்க தேவையில்லை.</string>
+<string name="voice_setting_title">"வீடியோ அழைப்பு அமைவுகள்"</string>
+<string name="video_setting_title">"குரல் அழைப்பு அமைவுகள்"</string>
+<string name="mms_setting_title">"MMS மற்றும் SMS அமைவுகள்"</string>
+<string name="sim_reply_setting">"Sim பதிலளி அமைவுகள்"</string>
+<string name="reply_message_setting">"பதிலளி Mms அல்லது Sms"</string>
+<string name="closeData">மூடு</string>
+<string name="data_title">"தரவு இணைப்பு அமைவுகள்"</string>
+<string name="sel_sub_title">தயார்நிலை அமைப்புக்கள்</string>
+<string name="sel_sub_summary">சிம் கார்டினை ஏதுவாக்க அல்லது செயலிழக்க வைக்க</string>
+<string name="set_data_subscription_timeout">தரவுகள் இணைப்பு அமைப்புக்கள் நேரம் கடந்தது!</string>
+<string name="set_dds_failed">பிழை! அனைத்துதரவு இணைப்புக்களையுமகற்றி மீண்டும் முயலவும்</string>
+<string name="set_dds_success">வெற்றிகரமாக அமைக்கப்பட்டது</string>
+<string name="set_dds_success_gsm">"வெற்றிகரமாக அமைக்கப்பட்டது. டேட்டா இணைப்பு இரண்டாவது ஸ்லாட்டுக்கு மாற்றப்பட்டது, LTE சேவை கிடைக்கவில்லை."</string>
+<string name="set_data_subscription_progress">"அமைத்துக் கொண்டிருக்கின்றது, தயவுசெய்து காத்திருக்கவும்..."</string>
+<string name="set_data_subscription_error_ok">தீர்மானிக்கவும்</string>
+<string name="set_data_subscription_error_title">பிழை</string>
+<string name="set_data_subscription_error">இந்த சிம் கார்டு இல்லாமல் தயவு செய்து சரிபார்த்து மீண்டும் முயலவும்!</string>
+<string name="sim_retries_left">எண்ணிக்கையில் மீதமுள்ளவை</string>
+<string name="menu_kill_apps_services">"அனைத்து பயன்பாடுகளையும் மூடவும்"</string>
+<string name="back_groud_data_usage_restrict_protocal">"பின்னணி டேட்டா செயல்முறை திட்டம்"</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"பின்னணி டேட்டா செயல்முறை திட்டத்தை ஏற்கிறீர்களா?"</string>
+<string name="apn_edit_quit">"வெளியேறு"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> அணுகல் புள்ளியைத் திருத்து"</string>
+<string name="input_pin_limit">"தயவுசெய்து 4 - 8 எண்களை உள்ளிடவும்"</string>
+<string name="agps_supl_manual_settings">"SUPL சர்வர் மேனுவல் அமைவு"</string>
+<string name="agps_supl_manual_settings_summary">"மேனுவல் செட் SUPL சர்வர் மற்றும் போர்ட்"</string>
+<string name="str_clear">அகற்றவும்</string>
+<string name="str_save">சேமி</string>
+<string name="gps_location_suplserver">சர்வர்</string>
+<string name="agps_setting">"Agps அமைவுகள்"</string>
+<string name="open">திற</string>
+<string name="close">மூடு</string>
+<string name="mobile_network_settings_ex">"சிம்<xliff:g id="SIM">%s</xliff:g> மொபைல் வலைப்பின்னல் அமைப்புக்கள்"</string>
+<string name="pin_enabled_success">"SIM PIN செயல்பட வைக்கப்பட்டது"</string>
+<string name="pin_disabled_success">"SIM PIN செயலிழக்க செய்யப்பட்டது"</string>
+<string name="gps_time_sync_attention_gps_on">"GPS ஃபிக்ஸைப் பெறுவதற்கு அதிகபட்சம் 1 நிமிடம் எடுக்கும். அதைத் தவிர, மோசமான சுற்றுப்புற சிக்னலின் காரணமாக GPS  நேரம் வழங்குவதில் தோல்வியடையக்கூடும்.\n\n GPS வழங்கிய நேரத்தை பயன்படுத்துவதில் நீங்கள் உறுதியாக இருக்கிறீர்களா?"</string>
+<string name="gps_time_sync_attention_gps_off">"GPS வழங்கிய நேரத்தைப் பயன்படுத்த நீங்கள் முதலில் GPS ஐ செயல்படுத்த வேண்டும். GPS ஃபிக்ஸைப் பெறுவதற்கு அதிகபட்சம் 1 நிமிடம் எடுக்கும். அதைத் தவிர, மோசமான சுற்றுப்புற சிக்னலின் காரணமாக GPS  நேரம் வழங்குவதில் தோல்வியடையக்கூடும்.\n\nGPS ஐ இப்பொழுதே செயல்படுத்தி, GPS வழங்கும் நேரத்திற்காக காத்திருக்க விரும்புகிறீர்களா?"</string>
+<string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+<string name="sim_lock_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> சிம் பூட்டும் அமைப்புகள்"</string>
+<string name="device_status_ex">"SIM<xliff:g id="SIM">%s</xliff:g> நிலை"</string>
+<string name="lte_service">"4G சேவை / முதன்மை கார்டைத் தேர்வுசெய்யவும்"</string>
+<string name="lte_enabled">"4G சேவை செயல்பட செய்யப்பட்டது"</string>
+<string name="lte_service_network_mode_settings_dialog_title">"நெட்வொர்க் பயன்முறையைத் தேர்வுசெய்யவும்"</string>
+<string name="whether_close_lte_service">"நீங்கள் 4G சேவையை நிறைவுசெய்ய விரும்புகின்றீர்களா என்பதை உறுதிசெய்யவும்?"</string>
+<string name="whether_enable_lte_service">"நீங்கள் 4G சேவையை செயல்படுத்த விரும்புகின்றீர்களா என்பதை உறுதிசெய்யவும்?"</string>
+<string name="whether_switch_lte_service_sim">"இந்த சிம்கார்டை 4G சேவைக்கு மாற்ற உறுதி செய்கிறீர்களா என தயவு செய்து தெரிவிக்கவும்?"</string>
+<string name="lte_service_attention">கவனம்</string>
+<string name="lte_service_switch">"4G சேவைக்கு மாற்றப்படுகிறது. தயவு செய்து காத்திருக்கவும்..."</string>
+<string-array name="lte_preferred_networks_choices">
+<item>"4G/3G/2G பல பயன்முறை"</item>
+<item>"3G/2G மட்டும் பயன்முறை"</item>
+</string-array>
+<string name="wifi_alarm_category_title">"Wi-fi அலாரம் அமைப்பு"</string>
+<string name="wifi_connect_alarm_title">"தானாக Wi-fi உடன் இணையவும்"</string>
+<string name="wifi_disconnect_alarm_title">"தானாக Wi-fi யை துண்டிக்கவும்"</string>
+<string name="wifi_alarm_time_title">நேரம் அமைக்கவும்</string>
+<string name="not_stand_by">"தடுக்கப்பட்டது"</string>
+<string name="main_card_slot">"முதன்மை "</string>
+<string name="gsm_card_slot">"இரண்டாம் நிலை"</string>
+<string name="cellular_data_title">"செல்லுலார் டேட்டா"</string>
+<string name="sim_selection_required_pref">"தேர்வு தேவைப்படுகிறது"</string>
+<string name="stand_by_set_changed_prompt">"SIM செயல்படுத்தும் நிலை மாற்றப்படும், தயவுசெய்து தொடர வேண்டுமா என்பதை உறுதிசெய்யவும்?"</string>
+<string name="okay">ஓகே</string>
+<string name="primary_card_switching">"அமைக்கிறது\uff0cதயவுசெய்து காத்திருக்கவும்...</string>
+<string name="select_primary_card">"முதன்மை கார்டைத் தேர்வுசெய்யவும்"</string>
+<string name="sim_calls_ask_first_prefs_title">"ஒவ்வொரு முறையும் கேட்கவும்"</string>
+<string name="sim_preferred_title">"தேர்வு செய்த சிம்கார்டை புதுப்பிக்கிறீர்களா?"</string>
+<string name="sim_preferred_message">"<xliff:g id="new_sim">%1$s</xliff:g> இது உங்கள் கருவியில் உள்ள ஒரே ஒரு சிம். இதை செல்லுலார் டேட்டா, அழைப்பு, எஸ்எம்எஸ் தகவல்கள் பயன்படுத்த விரும்புகிறீர்களா?"</string>
+<string name="select_sim_for_data">"டேட்டாவுக்கு சிம்மை தேர்வு செய்யவும்"</string>
+<string name="select_sim_for_calls">"இதனுடன் அழைக்க"</string>
+<string name="sim_card_select_title">" சிம் கார்டு தெரிவு செய்க"</string>
+<string name="select_primary_slot_description_4g">"(முதன்மை கார்டு 4G/2G சேவைக்கு மட்டுமே பொருந்துகிறது, இரண்டாம்நிலை கார்டு 2G க்கு மட்டுமே பொருந்துகிறது. )"</string>
+<string name="whether_switch_primary_card">"முதன்மை அட்டையை அந்த அட்டைக்கு மாற்றுவதா என்பதை தயவுசெய்து உறுதிப்படுத்தவும்?\n(செல்லுலார் தரவும் அட்டைக்கு மாற்றப்படும்.)</string>
+<string-array name="light_color_picker">
+<item>"பச்சை"</item>
+<item>"நீலம்"</item>
+<item>"இண்டிகோ"</item>
+<item>"ஊதா"</item>
+<item>"பிங்க்"</item>
+<item>"சிகப்பு"</item>
+<item>"மஞ்சள்"</item>
+</string-array>
+<string name="select_primary_slot_description">"(முதன்மை கார்டு சேவையை WCDMA/GSM ஆதரிக்கின்றது, இரண்டாம் நிலை கார்டு GSM சேவையை மட்டுமே ஆதரிக்கின்றது.)"</string>
+<string name="sim_pref_divider">"இதற்காக சிம்மை தேர்வு செய்க"</string>
+<string name="calls_title">"அழைப்புகள்"</string>
+<string name="sms_messages_title">"எஸ்எம்எஸ் தகவல்கள்"</string>
+<string name="feature_bar_softkey_edit">திருத்து</string>
+<string name="feature_bar_softkey_off">ஆஃப்</string>
+<string name="feature_bar_softkey_on">ஆன்</string>
+<string name="feature_bar_softkey_options">தேர்வு செய்யவும்</string>
+    <string name="dialog_restore_default_apn">"நீங்கள் சேர்க்கும் அனைத்து APN களும் நீக்கப்படும், மேலும் மீதமுள்ள APN இயல்புநிலை அமைப்புக்குள் மறுமடியும் அமைக்கப்படும். நீங்கள் தொடர விரும்புகிறீர்களா?"</string>
+
+</resources>

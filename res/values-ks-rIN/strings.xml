@@ -1,0 +1,2266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="yes">"اوا"</string>
+<string name="no">"نہ"</string>
+<string name="create">بنايو</string>
+<string name="allow">"اجازت"</string>
+<string name="deny">"انکار"</string>
+<string name="device_info_default">"نامعلوم"</string>
+<plurals name="show_dev_countdown">
+<item quantity="one">"توہی چھو ووني <xliff:g id="step_count">%1$d</xliff:g> ڈیولوپر اسن نشی رذو اكھ قدم راستہ."</item>
+<item quantity="other">"توہی چھو ووني <xliff:g id="step_count">%1$d</xliff:g> ڈیولوپر اسن نشی قدم راستہ."</item>
+</plurals>
+<string name="show_dev_on">توہی چھو ووني اكھ ڈیولوپر!</string>
+<string name="show_dev_already">كاه ضرورت چھنء، توہی چھو برونٹھي اكھ ڈیولوپر.</string>
+<string name="header_category_wireless_networks">"وائرلیس &amp; نیٹ ورک"</string>
+<string name="header_category_device">ال</string>
+<string name="header_category_personal">"ذاتی"</string>
+<string name="header_category_system">"سسٹم"</string>
+<string name="turn_on_radio">ریڈیو کرییو يل</string>
+<string name="turn_off_radio">ریڈیو کرییو بند</string>
+<string name="sms_over_ims_on">IMS پیٹھي کرییو SMS يل</string>
+<string name="sms_over_ims_off">IMS پیٹھي کرییو SMS بند</string>
+<string name="ims_reg_required_on">ضروری IMS رجسٹریشن کرییو يل</string>
+<string name="ims_reg_required_off">ضروری IMS رجسٹریشن کرییو بند</string>
+<string name="lte_ram_dump_on">lte ram ڈمپ کرییو يل</string>
+<string name="lte_ram_dump_off">lte ram ڈمپ کرییو بند</string>
+<string name="radioInfo_menu_viewADN">SIM ایڈریس بک وچھو</string>
+<string name="radioInfo_menu_viewFDN">فکسڈ ڈائلنگ نمبر وچھو</string>
+<string name="radioInfo_menu_viewSDN">سروس ڈائلنگ نمبر وچھو</string>
+<string name="radioInfo_menu_getPDP">PDP فہرست کرییو حاصل</string>
+<string name="radioInfo_service_in">سرویس منز</string>
+<string name="radioInfo_service_out">سرویس</string>
+<string name="radioInfo_service_emergency">"مجبوری کالس خالی"</string>
+<string name="radioInfo_service_off">"ریڈیو چھ بند"</string>
+<string name="radioInfo_roaming_in">رومنگ</string>
+<string name="radioInfo_roaming_not">رومنگ</string>
+<string name="radioInfo_phone_idle">بیکار</string>
+<string name="radioInfo_phone_ringing">رنگ گسان</string>
+<string name="radioInfo_phone_offhook">دور چھ جاری</string>
+<string name="radioInfo_data_disconnected">"ژٹنء آو"</string>
+<string name="radioInfo_data_connecting">مربوط کران تھی</string>
+<string name="radioInfo_data_connected">"جڑن امت"</string>
+<string name="radioInfo_data_suspended">"موتل گمت"</string>
+<string name="radioInfo_unknown">"نامعلوم"</string>
+<string name="radioInfo_display_bytes">بائٹس</string>
+<string name="sdcard_unmount" product="nosdcard">USB اسٹوریج کرییو ان ماؤنٹ</string>
+<string name="sdcard_unmount" product="default">SD کارڈ کرییو ان ماؤنٹ</string>
+<string name="sdcard_format" product="nosdcard">USB اسٹوریج کرییو اریذ</string>
+<string name="sdcard_format" product="default">SD کارڈ کرییو اریذ</string>
+<string name="small_font">لكٹ</string>
+<string name="medium_font">درمیان</string>
+<string name="large_font">بوڈھ</string>
+<string name="font_size_save">"ٹھیک"</string>
+<string name="sdcard_setting" product="nosdcard">"USB اسٹوریج"</string>
+<string name="sdcard_setting" product="default">"ایس ڈي کارڈ"</string>
+<string name="battery_info_status_label">" بیٹری ہنز مقام:"</string>
+<string name="battery_info_power_label">" پاور پلگ:"</string>
+<string name="battery_info_scale_label">" بیٹری سکیل:"</string>
+<string name="battery_info_level_label">" بیٹری خطء:"</string>
+<string name="battery_info_health_label">" بیٹری صحت:"</string>
+<string name="battery_info_technology_label">" بیٹری تکنیک:"</string>
+<string name="battery_info_voltage_label">" بیٹری ولٹیج:"</string>
+<string name="battery_info_temperature_label">" بیٹری درجہ حرارت:"</string>
+<string name="battery_info_temperature_units">"\u00B0 C"</string>
+<string name="battery_info_uptime">" وقت بوٹء پیٹھ:"</string>
+<string name="battery_info_awake_battery">" ہوشار واقھ بیٹری ہند:"</string>
+<string name="battery_info_awake_plugged">" ہوشارک واقھ یلء چارج آسء گژھان:"</string>
+<string name="battery_info_screen_on">" سکرین یلء واقھ:"</string>
+<string name="battery_info_status_unknown">"نامعلوم"</string>
+<string name="battery_info_status_charging">"چارج گسسن"</string>
+<string name="battery_info_status_charging_ac">"(AC)"</string>
+<string name="battery_info_status_charging_wireless">" ( وایرلس )"</string>
+<string name="battery_info_status_discharging">" ڈسچارجنگ"</string>
+<string name="battery_info_status_not_charging">چارج چھن گسان</string>
+<string name="battery_info_status_full">برتھ</string>
+<string name="battery_info_power_unplugged">" پلگء منز نیبر"</string>
+<string name="battery_info_power_ac">" اۓ سی"</string>
+<string name="battery_info_power_wireless">" تاري ورۓ"</string>
+<string name="battery_info_power_ac_usb">"AC+USB"</string>
+<string name="battery_info_power_unknown">"نامعلوم"</string>
+<string name="battery_info_health_unknown">"نامعلوم"</string>
+<string name="battery_info_health_good">اصل</string>
+<string name="battery_info_health_overheat">" ذیادء گرم"</string>
+<string name="battery_info_health_dead">" مرن"</string>
+<string name="battery_info_health_over_voltage">" ذیادء ولٹیج"</string>
+<string name="battery_info_health_unspecified_failure">" بے زاین خرابی"</string>
+<string name="battery_info_health_cold">سرد</string>
+<string name="bluetooth">بلوٹوتھ</string>
+<string name="bluetooth_is_discoverable">"تمام نزدیکی بلوٹوت الن خاطر وذبل (<xliff:g id="discoverable_time_period">%1$s</xliff:g>)"</string>
+<string name="bluetooth_is_discoverable_always">تمام نزدیکی بلوٹوت الن خاطر وذبل</string>
+<string name="bluetooth_not_visible_to_other_devices">تمام نزدیکی بلوٹوت الن خاطر چھن وذبل</string>
+<string name="bluetooth_only_visible_to_paired_devices">سرپھ چھ ٹانگوں كرد الن خاطر وذبل</string>
+<string name="bluetooth_visibility_timeout">وذبلٹي ٹائم آؤٹ</string>
+<string name="bluetooth_lock_voice_dialing">وائس ڈائلنگ کرییو لاک</string>
+<string name="bluetooth_lock_voice_dialing_summary">بلوٹوتھ ڈايلرك استعمال نشی رذو راہ ییلء سکرین لاک كریتھ اس</string>
+<string name="bluetooth_devices">بلوٹوتھ ال</string>
+<string name="bluetooth_device_name">ال ناو</string>
+<string name="bluetooth_device_details">ال ترتیبات</string>
+<string name="bluetooth_profile_details">پروفایل ترتیبات</string>
+<string name="bluetooth_name_not_set">كاه ناو چھن سیٹ كریتھ، اکاؤنٹ ناو استعمال کران تھی</string>
+<string name="bluetooth_scan_for_devices">الو خاطر کرییو سكین</string>
+<string name="bluetooth_rename_device" product="tablet">" ناو بدلایو ٹیبلیٹس"</string>
+<string name="bluetooth_rename_device" product="default">" ناو بدلایو فونس"</string>
+<string name="bluetooth_rename_button">ناو بدلاون</string>
+<string name="bluetooth_disconnect_title">منكت؟</string>
+<string name="bluetooth_disconnect_all_profiles">"ي كر تہند کنکشن ختم سيتھ: &lt;br&gt;&lt;b&gt;<xliff:g id="device_name">%1$s</xliff:g>&lt;/b&gt;"</string>
+<string name="bluetooth_disable_profile_title">پروفایل کرییو گیرفایل؟</string>
+<string name="bluetooth_disable_profile_message">""ي پیدا موذور: &lt;br&gt;&lt;b&gt;<xliff:g id="profile_name">%1$s</xliff:g>&lt;/b&gt;&lt;br&gt;&lt;br&gt; پیٹھ: &lt;br&gt;&lt;b&gt;<xliff:g id="device_name">%2$s</xliff:g>&lt;/b&gt;" "</string>
+<string name="bluetooth_connected">"جڑن امت"</string>
+<string name="bluetooth_connected_no_headset">"رلامت (کہان فون چھنء)"</string>
+<string name="bluetooth_connected_no_a2dp">"جوڈیتھ (میڈیا چھن)"</string>
+<string name="bluetooth_connected_no_map">"جوڈیتھ (میسیج چلاو چھنء)"</string>
+<string name="bluetooth_connected_no_headset_no_a2dp">"جوڈیتھ (فون یا میڈیا چھن)"</string>
+<string name="bluetooth_disconnected">"ژٹنء آو"</string>
+<string name="bluetooth_disconnecting">"ژٹنء ایوان  ..."</string>
+<string name="bluetooth_connecting">"جڈن ..."</string>
+<string name="bluetooth_pairing">"رلان ..."</string>
+<string name="bluetooth_device">بلا ناو بلوٹوت ال</string>
+<string name="progress_scanning">ژانڈن کران تھی</string>
+<string name="bluetooth_no_devices_found">كاه نزدیکی بلوٹوت ال آو ن لبن.</string>
+<string name="bluetooth_notif_ticker">بلوٹوتھ پیيیرگ درخواست</string>
+<string name="bluetooth_notif_title">پیيرگ درخواست</string>
+<string name="bluetooth_notif_message">يتھ سیتھ پیئر كرن خاطر کرییو ٹچ <xliff:g id="device_name">%1$s</xliff:g>."</string>
+<string name="bluetooth_show_received_files">موصول كرد فایل کرییو موصول</string>
+<string name="bluetooth_ftp_switch_on">" یلء ترایو FTP سرور"</string>
+<string name="bluetooth_ftp_switch_off">" بند کریو FTP سرور"</string>
+<string name="bluetooth_ftp_acceptance_dialog_text">"%1$s چھء یژھان توہنز فایل فیرنک سرور چلاون۔ دییو چلاونء %2$s؟"</string>
+<string name="bluetooth_ftp_acceptance_dialog_title">" فایل بۓ جاۓ سوزنس عاجزی"</string>
+<string name="device_picker">" بلوٹوتھ آلء چنن وول"</string>
+<string name="bluetooth_permission_request">بلوٹوت اجازت درخواست</string>
+<string name="bluetooth_ask_enablement">" یء ایپ چھء یژھان بلوٹوتھ یلء کرن۔"</string>
+<string name="bluetooth_ask_discovery" product="tablet">اكھ ایپ چھ تہند ٹیبلٹ باقی بلوٹوت الن خاطر وذبل كرن يسان <xliff:g id="timeout">%1$d</xliff:g> سیکنڈ."</string>
+<string name="bluetooth_ask_discovery" product="default">اكھ ایپ چھ تہند فون باقی بلوٹوت الن خاطر وذبل كرن يسان <xliff:g id="timeout">%1$d</xliff:g> سیکنڈ."</string>
+<string name="bluetooth_ask_lasting_discovery" product="tablet">اكھ ایپ چھ تہند ٹیبلٹ باقی بلوٹوت الن خاطر وذبل كرن يسان. توہی ہیکو ي بلوٹوت سیٹگن منز پت ي تبدیل كریتھ.</string>
+<string name="bluetooth_ask_lasting_discovery" product="default">اكھ ایپ چھ تہند فون باقی بلوٹوت الن خاطر وذبل كرن يسان. توہی ہیکو ي بلوٹوت سیٹگن منز پت ي تبدیل كریتھ.</string>
+<string name="bluetooth_ask_enablement_and_discovery" product="tablet">"اكھ ایپ چھ بلوٹوت يل كرن يسان ت تہند ٹیبلٹ باقی الن خاطر وذبل كرن يسان کھتر <xliff:g id="timeout">%1$d</xliff:g> سیکنڈ."</string>
+<string name="bluetooth_ask_enablement_and_discovery" product="default">"اكھ ایپ چھ بلوٹوت يل كرن يسان ت تہند ٹیبلٹ باقی الن خاطر وذبل كرن يسان <xliff:g id="timeout">%1$d</xliff:g> سیکنڈ."</string>
+<string name="bluetooth_ask_enablement_and_lasting_discovery" product="tablet">اكھ ایپ چھ بلوٹوت يل كرن يسان ت تہند ٹیبلٹ باقی الن خاطر وذبل كرن يسان. توہی ہیکو ي بلوٹوت سیٹگن منز پت ي تبدیل كریتھ.</string>
+<string name="bluetooth_ask_enablement_and_lasting_discovery" product="default">اكھ ایپ چھ بلوٹوت يل كرن يسان ت تہند فون باقی الن خاطر وذبل كرن يسان. توہی ہیکو ي بلوٹوت سیٹگن منز پت ي تبدیل كریتھ.</string>
+<string name="bluetooth_turning_on">بلوٹوتھ يل کران تھی ...</string>
+<string name="bluetooth_turning_off">بلوٹوت بند کران تھی ...</string>
+<string name="bluetooth_auto_connect">آٹو-مربوط</string>
+<string name="bluetooth_connection_permission_request">بلوٹوتھ كنیكشن درخواست</string>
+<string name="bluetooth_connection_notif_message">"يتھ سیتھ مربوط كرن خاطر کرییو ٹچ \u0022<xliff:g id="device_name">%1$s</xliff:g>\u0022."</string>
+<string name="bluetooth_connection_dialog_text">"توہی چھو يسان \u0022<xliff:g id="device_name">%1$s</xliff:g>\u0022?"</string>
+<string name="bluetooth_phonebook_request">فون بک پیٹھ چلاییوي هد درخواست</string>
+<string name="bluetooth_pb_acceptance_dialog_text">%1$s چھ تہندین رابطءن ت زمانی ہسٹری پیٹھ چلاییوي كرن يسانديو چلاییوي يتھ%2$s؟</string>
+<string name="bluetooth_remember_choice">"دبار م پرچھو"</string>
+<string name="bluetooth_pb_remember_choice">"دبار م پرچھو"</string>
+<string name="bluetooth_map_request">میسیج ایكسیس درخواست</string>
+<string name="bluetooth_map_acceptance_dialog_text">%1$s چھ تهذن میسیجن پیٹھ چلاییوي كرن يسان. ديو چلاییوي يتھ%2$s؟</string>
+<string name="date_and_time">" تاریخ تء واقھ ترتیب"</string>
+<string name="choose_timezone">وقت ذون کرییو منتخب</string>
+<string name="normal_date_format">" ریجنل (<xliff:g id="date" example="12-31-2009">%s</xliff:g>)"</string>
+<string name="display_preview_label">دباره وچھن</string>
+<string name="display_font_size_label">فانٹ سائیز:</string>
+<string name="intent_sender_sendbroadcast_text">"سوذو <xliff:g id="broadcast">broadcast</xliff:g>"</string>
+<string name="intent_sender_startactivity_text">"شروع کرییو <xliff:g id="activity">activity</xliff:g>"</string>
+<string name="intent_sender_account_label">اکاؤنٹ:</string>
+<string name="proxy_settings_title">پراکسی</string>
+<string name="proxy_clear_text">"صاف"</string>
+<string name="proxy_port_label">پراکسی پورٹ</string>
+<string name="proxy_exclusionlist_label">یمء خاطر بائی پاس پراکسی</string>
+<string name="proxy_defaultView_text">رسٹور ڈفلٹس</string>
+<string name="proxy_action_text">"پوره"</string>
+<string name="proxy_hostname_label">پراکسی هوسٹناو</string>
+<string name="proxy_error">"ہوشیار"</string>
+<string name="proxy_error_dismiss">"ٹھیک"</string>
+<string name="proxy_error_invalid_host">"هوسٹناو يس توه ٹائپ كورو چھن درستت."</string>
+<string name="proxy_error_invalid_exclusion_list">"اكھراج فہرست يس توه ٹائپ كورو تميك پھارمیٹ چھن سهيكھارج كرد ڈومینن هد كامما-الگكرد فہرست کرییو ٹائپ."</string>
+<string name="proxy_error_empty_port">توه چھ پورٹ فیلڈ مكمل كرنچ ضرورت.</string>
+<string name="proxy_error_empty_host_set_port">پورٹ فیلڈ گس لازمی تور خالی اسن اگر میزبان فیلڈ خالی اس.</string>
+<string name="proxy_error_invalid_port">"يس پورٹ توه ٹائپ كورو ایس یو چھن درستت."</string>
+<string name="proxy_warning_limited_support">HTTP پراکسی چھ براؤزر ذري استعمال كرن يوان مگر هیك ن باقی بندر ذري استعمال كرن يتھ.</string>
+<string name="proxy_url">PAC یو آر ایل:</string>
+<string name="radio_info_signal_location_label">کی جاۓ:</string>
+<string name="radio_info_neighboring_location_label">همسايگي منز CID:</string>
+<string name="radio_info_cellinfo_label">"سیلنپھو:"</string>
+<string name="radio_info_data_attempts_label">ڈیٹا اٹیمپٹس:</string>
+<string name="radio_info_gprs_service_label">GPRS سرویس:</string>
+<string name="radio_info_roaming_label">رومنگ</string>
+<string name="radio_info_imei_label">ایمياي:</string>
+<string name="radio_info_call_redirect_label">دور رڈايریكٹ:</string>
+<string name="radio_info_ppp_resets_label">بوٹ كرن پیٹھ PPP ين هد تیداد:</string>
+<string name="radio_info_gsm_disconnects_label">GSM ڈسكنیكٹس:</string>
+<string name="radio_info_current_network_label">موجود نیٹ ورک:</string>
+<string name="radio_info_data_successes_label">ڈیٹا کامیابی:</string>
+<string name="radio_info_ppp_received_label">PPP موصول كرد:</string>
+<string name="radio_info_gsm_service_label">GSM سرویس:</string>
+<string name="radio_info_signal_strength_label">سگنل طاقت:</string>
+<string name="radio_info_call_status_label">دور اسٹیٹس:</string>
+<string name="radio_info_ppp_sent_label">PPP سوذمت:</string>
+<string name="radio_info_radio_resets_label">ریڈیو رسیٹس:</string>
+<string name="radio_info_message_waiting_label">میسیج اتجار:</string>
+<string name="radio_info_phone_number_label">فون نمبر:</string>
+<string name="radio_info_band_mode_label">ریڈیو جھکنا کرییو منتخب</string>
+<string name="radio_info_network_type_label">نیٹ ورک کہ SIM:</string>
+<string name="radio_info_set_perferred_label">ترجیحی نیٹ ورک کہ SIM کرییو سیٹ:</string>
+<string name="radio_info_ping_ipaddr">" Ping Ip پتہ:"</string>
+<string name="radio_info_ping_hostname">Ping میزبان ناو (www.google.com):</string>
+<string name="radio_info_http_client_test">HTTP کلائنٹ:</string>
+<string name="ping_test_label">ping ٹیسٹ چلايو</string>
+<string name="radio_info_smsc_label">SMSC:</string>
+<string name="radio_info_smsc_update_label">اپ ڈیٹ</string>
+<string name="radio_info_smsc_refresh_label">دبار تاذه ...</string>
+<string name="radio_info_toggle_dns_check_label">DNS چیک کرییو ٹوگل</string>
+<string name="oem_radio_info_label">OEM- مكھوس انفارمیشن / ترتیبات</string>
+<string name="band_mode_title">GSM / UMTS بینڈ کرییو سیٹ</string>
+<string name="band_mode_loading">کھلان چھء بینڈچ فہرست۔۔۔</string>
+<string name="band_mode_set">"تھاوو"</string>
+<string name="band_mode_failed">"ناکاءم"</string>
+<string name="band_mode_succeeded">کاءمیاب</string>
+<string name="sdcard_changes_instructions">تبدیلی چھی شروع گسان ییلء USB کیبل دبار مربوط كرن يي.</string>
+<string name="sdcard_settings_screen_mass_storage_text">USB ماس ذخیرہ بنايو فایل</string>
+<string name="sdcard_settings_total_bytes_label">کل بائٹس:</string>
+<string name="sdcard_settings_not_present_status" product="nosdcard">USB اسٹوریج چھن ماؤنٹ كریتھ.</string>
+<string name="sdcard_settings_not_present_status" product="default">كاه SD کارڈ چھن.</string>
+<string name="sdcard_settings_available_bytes_label">دستياب بائٹس:</string>
+<string name="sdcard_settings_mass_storage_status" product="nosdcard">USB اسٹوریج چھ بتور ماس اسٹوریج ال استعمال كرن يوان.</string>
+<string name="sdcard_settings_mass_storage_status" product="default">SD کارڈ چھ بتور ماس اسٹوریج ال استعمال كرن يوان.</string>
+<string name="sdcard_settings_unmounted_status" product="nosdcard">"USB اسٹوریج هٹاون چھ ووني محفوظ."</string>
+<string name="sdcard_settings_unmounted_status" product="default">"SD کارڈ هٹاون چھ ووني محفوظ."</string>
+<string name="sdcard_settings_bad_removal_status" product="nosdcard">USB اسٹوریج اي استعمال كرنس دوران هٹاون!</string>
+<string name="sdcard_settings_bad_removal_status" product="default">SD کارڈ اي استعمال كرنس دوران هٹاون!</string>
+<string name="sdcard_settings_used_bytes_label">استعمال شد بائٹس:</string>
+<string name="sdcard_settings_scanning_status" product="nosdcard">میڈیا خاطر USB سٹوریج سكین کران تھی ...</string>
+<string name="sdcard_settings_scanning_status" product="default">میڈیا خاطر SD کارڈ سكین کران تھی ...</string>
+<string name="sdcard_settings_read_only_status" product="nosdcard">USB اسٹوریج آو ماؤنٹ كرن بتور پرن-سرپھ.</string>
+<string name="sdcard_settings_read_only_status" product="default">SD کارڈ آو ماؤنٹ كرن بتور پرن-سرپھ.</string>
+<string name="skip_label">"ترايو"</string>
+<string name="next_label">"بياكھ"</string>
+<string name="language_picker_title">کی زبان</string>
+<string name="activity_picker_label">"چنو کاءم"</string>
+<string name="device_info_label">ال انفارمیشن</string>
+<string name="battery_info_label">" بیٹری ہنز زانکاری"</string>
+<string name="display_label">سکرین</string>
+<string name="phone_info_label" product="tablet">ٹیبلٹ انفارمیشن</string>
+<string name="phone_info_label" product="default">فون انفارمیشن</string>
+<string name="sd_card_settings_label" product="nosdcard">"USB اسٹوریج"</string>
+<string name="sd_card_settings_label" product="default">"ایس ڈي کارڈ"</string>
+<string name="proxy_settings_label">پراکسی ترتیبات</string>
+<string name="cancel">"خائریج"</string>
+<string name="settings_label">"ترتیبات"</string>
+<string name="settings_label_launcher">"ترتیبات"</string>
+<string name="settings_shortcut">ترتیبات شارٹ کٹ</string>
+<string name="airplane_mode">"آیرپلین موڈ"</string>
+<string name="radio_controls_title">" ذیادء۔۔۔"</string>
+<string name="wireless_networks_settings_title">"واريه"</string>
+<string name="radio_controls_summary">" سمبھالیو Wi\u2011Fi، بلوٹوتھ، ایرپلین موڈ، موبایل نٹورک، تء VPNs"</string>
+<string name="roaming">ڈیٹا رومنگ</string>
+<string name="roaming_enable">ڈیٹا سرویس سیتھ مربوط ییلء رومنگ منز اسو</string>
+<string name="roaming_disable">ڈیٹا سرویس سیتھ مربوط ییلء رومنگ منز اسو</string>
+<string name="roaming_reenable_message">تهذ ڈیٹا کنیکٹوٹی گی ختم تكياذ توه ڈیٹا رومنگ بند كریتھ پنن گھر کی نیٹ ورک ترووو.</string>
+<string name="roaming_turn_it_on_button">ي تھايو بند</string>
+<string name="roaming_warning">ییلء توہی ڈیٹا رومنگ اجازت ديو، توه هیكن مخصوص رومنگ پونسء لاگو گستھ!</string>
+<string name="roaming_warning_multiuser" product="tablet">ییلء توہی ڈیٹ رومنگ اجازت ديو، توه هیكن مخصوص رومنگ پونسء لاگو گستھ! \n\n ي ترتیب چھ تمام يوذرن خاطر يتھ ٹیبلٹس پیٹھ اثرانداز گسان.</string>
+<string name="roaming_warning_multiuser" product="default">ییلء توہی ڈیٹ رومنگ اجازت ديو، توه هیكن مخصوص رومنگ پونسء لاگو گستھ! \n\n ي ترتیب چھ تمام يوذرن خاطر يتھ پھونس پیٹھ اثرانداز گسان.</string>
+<string name="roaming_reenable_title">ڈیٹا رومنگ هد ديو اجازت؟</string>
+<string name="networks">آپریٹر اتكھاب</string>
+<string name="sum_carrier_select">اكھ نیٹ ورک آپریٹر کرییو منتخب</string>
+<string name="date_and_time_settings_title">"تاركھ ت وقت"</string>
+<string name="date_and_time_settings_title_setup_wizard">تاریخ ت وقت کرییو سیٹ</string>
+<string name="date_and_time_settings_summary">"مقرر کرییو وقت، وقت جاۓ، تء صورت"</string>
+<string name="date_time_auto">"اٹومیٹك تاركھ تہ وقت"</string>
+<string name="date_time_auto_summaryOn">نیٹ ورک-فراہم كرد وقت کرییو استعمال</string>
+<string name="date_time_auto_summaryOff">نیٹ ورک-فراہم كرد وقت کرییو استعمال</string>
+<string name="zone_auto">كھودكار وقت ذون</string>
+<string name="zone_auto_summaryOn">نیٹ ورک-پرییواڈ كرد وقت ذون</string>
+<string name="zone_auto_summaryOff">نیٹ ورک-پرییواڈ كرد وقت ذون</string>
+<string name="date_time_24hour">24-گٹ پھارمیٹ کرییو استعمال</string>
+<string name="date_time_set_time">"تھاوو وقت"</string>
+<string name="date_time_set_timezone">وقت ذون کرییو استعمال</string>
+<string name="date_time_set_date">"تھاوو تاریخ"</string>
+<string name="date_time_date_format">" چنیو تاریخک فارمیٹ"</string>
+<string name="zone_list_menu_sort_alphabetically">الپھابیٹ هساب کرییو ترتیب</string>
+<string name="zone_list_menu_sort_by_timezone">وقت ذون هساب کرییو ترتیب</string>
+<string name="zone_list_menu_sort_by_pinyin">ٹھیک کرییو چينذ PIN ین سیتھ</string>
+<string name="date_picker_title">تاریخ</string>
+<string name="time_picker_title">وقت</string>
+<string name="biometric_weak_improve_matching_title">" ٹھیک کریتھ بتھ رلن"</string>
+<string name="biometric_weak_liveliness_title">"" "</string>
+<string name="biometric_weak_liveliness_summary">" ضرورت چھء اچھ بند تہ یل کرن یم ساتء یلء آسء گژھان"</string>
+<string name="lock_after_timeout">كھودكار تریقء کرییو لاک</string>
+<string name="lock_after_timeout_summary">"<xliff:g id="timeout_string">%1$s</xliff:g> نیند پت"</string>
+<string name="show_owner_info_on_lockscreen_label">لاک سكرينس پیٹھ هايو مجاۓس متعلق انفارمیشن</string>
+<string name="owner_info_settings_title">" مالکس سنز زانکاری"</string>
+<string name="security_enable_widgets_title">وگیٹس کرییو فایل</string>
+<string name="security_enable_widgets_disabled_summary">ایڈمنٹریٹر سد ذري ​​گیرفایل</string>
+<string name="owner_info_settings_edit_text_hint">" دباییو ٹیکسٹ لاک سکرینس پیٹھ ہاونء کھتر"</string>
+<string name="show_user_info_on_lockscreen_label">" ہاییو استعمال کرن وایل سنز زانکاری لاک سکرینس پیٹھ"</string>
+<string name="user_info_settings_title">استعمال کرن وول انفارمیشن</string>
+<string name="show_profile_info_on_lockscreen_label">لاک سكرينس پیٹھ هايو پروفایل</string>
+<string name="profile_info_settings_title">پروفایل انفارمیشن</string>
+<string name="location_settings_title">"جائی"</string>
+<string name="security_settings_title">حفاظت اكدام</string>
+<string name="security_settings_summary">مياني جاۓ کرییو سیٹ، سکرین انلاك، SIM کارڈ لاک، اسناد اسٹوریج لاک</string>
+<string name="cdma_security_settings_summary">مياني جاۓ کرییو سیٹ، سکرین انلاک، اسناد اسٹوریج لاک</string>
+<string name="security_passwords_title">پاسورڈس</string>
+<string name="crypt_keeper_settings_title">ژورء تھاون آمت</string>
+<string name="crypt_keeper_encrypt_title" product="tablet">ژوري ٹیبلٹ</string>
+<string name="crypt_keeper_encrypt_title" product="default">ژوري فون</string>
+<string name="crypt_keeper_encrypt_summary" product="tablet">" ضرورت چھء نمبر وول PIN یا پاسورڈک توہند ٹیبلیٹ ڈیکرپٹ کرنء کھتر پریتھ تیمء ساتء یمء وزء توہی یء یلء تراییو"</string>
+<string name="crypt_keeper_encrypt_summary" product="default">" ضرورت چھء نمبر وول PIN یا پاسورڈک توہند فون ڈیکرپٹ کرنء کھتر پریتھ تیمء ساتء یمء وزء توہی یء یلء تراییو"</string>
+<string name="crypt_keeper_encrypted_summary">اینكرپٹڈ</string>
+<string name="crypt_keeper_desc" product="tablet">" توہی ہیکویو انکرپٹ کریتھ پنن خاطء، ترتیب، ڈاونلوڈ واجن ایپس تء تیمک ڈیپا، میڈیا، تء باقی فایلء۔ اکء پھرء یلء توہی انکرپٹ کورو پنن ثیبلیٹ، توہی چھو ضرورت نمبرء وول PIN یا پاسورڈ دیون یء ڈکریپٹ کرنء کھترء پریتھ تیمء ساتء یمء وزء توہی یء یلء تراییو۔ توہی ہیکیو نء پنن ٹیبلیٹ ڈکرپٹ کریتھ بجاۓ کریون یء فیکٹری ڈیٹا رسیٹ، مٹایو تمام پنن ڈیٹا۔ \n\nانکرپشنس چھہ اکھ گنٹء یا ذیادء واقھ لگان۔ توہی پزیو یء شروع کرین چارجڈ بیٹری یمء ساتہ آسء تء تھایو پنن ٹیبلیٹس پلگ لگاویتھ یوتام انکرپشن مکمل گژھء۔ اگر توہی انکرپشن کامء منز مداخلت کریو، توہی ہکیو پنن کہنء یا سوری ڈیٹا راوراویتھ۔"</string>
+<string name="crypt_keeper_desc" product="default">" توہی ہیکویو انکرپٹ کریتھ پنن خاطء، ترتیب، ڈاونلوڈ واجن ایپس تء تیمک ڈیپا، میڈیا، تء باقی فایلء۔ اکء پھرء یلء توہی انکرپٹ کورو پنن فون، توہی چھو ضرورت نمبرء وول PIN یا پاسورڈ دیون یء ڈکریپٹ کرنء کھترء پریتھ تیمء ساتء یمء وزء توہی یء یلء تراییو۔ توہی ہیکیو نء پنن فون ڈکرپٹ کریتھ بجاۓ کریون یء فیکٹری ڈیٹا رسیٹ، مٹایو تمام پنن ڈیٹا۔ \n\nانکرپشنس چھہ اکھ گنٹء یا ذیادء واقھ لگان۔ توہی پزیو یء شروع کرین چارجڈ بیٹری یمء ساتہ آسء تء تھایو پنن ٹیبلیٹس پلگ لگاویتھ یوتام انکرپشن مکمل گژھء۔ اگر توہی انکرپشن کامء منز مداخلت کریو، توہی ہکیو پنن کہنء یا سوری ڈیٹا راوراویتھ۔"</string>
+<string name="crypt_keeper_button_text" product="tablet">ژوري ٹیبلٹ</string>
+<string name="crypt_keeper_button_text" product="default">ژوري فون</string>
+<string name="crypt_keeper_low_charge_text">پنن بیٹري کرییو چارج ت کرییو دبار کوشش کریو.</string>
+<string name="crypt_keeper_unplugged_text">پننس چارجرس منز کرییو پلگ ت کرییو دبار کوشش کریو.</string>
+<string name="crypt_keeper_dialog_need_password_title">كاه لاك سكرين PIN یا پاس ورڈ چھن</string>
+<string name="crypt_keeper_dialog_need_password_message">" توہی چھو ضرورت لاک تھاونچ سکرینس PIN یا پاسورڈ توہند انکرپشن شروع  کرنء برونہہ۔"</string>
+<string name="crypt_keeper_confirm_title">ژوري کرییو؟</string>
+<string name="crypt_keeper_final_desc" product="tablet">"ژورء تھاون آمت آپریشن چھنءاكابل واپسی ت اگر توہی اتھ منز خلل ترايو، تہند ڈیٹا گس ذاي. اینكرپشنس لگ اكھ گٹ یا ام كھوت ذياد، يتھ دوران ٹیبلٹ واريا پھر رسٹارٹ گس."</string>
+<string name="crypt_keeper_final_desc" product="default">"ژورء تھاون آمت آپریشن چھنءاكابل واپسی ت اگر توہی اتھ منز خلل ترايو، تہند ڈیٹا گس ذاي. اینكرپشنس لگ اكھ گٹ یا ام كھوت ذياد، يتھ دوران فون واريا پھر رسٹارٹ گس."</string>
+<string name="crypt_keeper_setup_title">ژوري کران تھی</string>
+<string name="crypt_keeper_setup_description" product="tablet">"ییلء تہند ٹیبلٹ ژوري كرن يوان اس. <xliff:g id="percent" example="50">^1</xliff:g>% مكمل."</string>
+<string name="crypt_keeper_setup_description" product="default">"ییلء تہند فون ژوري كرن يوان اس. <xliff:g id="percent" example="50">^1</xliff:g>% مكمل."</string>
+<string name="crypt_keeper_cooldown">" دبارء کرییو کوشش یتھ منز <xliff:g id="delay" example="15">^1</xliff:g> سکینڈس۔"</string>
+<string name="crypt_keeper_enter_password">پنن پاس ورڈ کرییو ٹائپ</string>
+<string name="crypt_keeper_failed_title">اینكرپشن ناکاءم</string>
+<string name="crypt_keeper_failed_summary" product="tablet">"" انکرپشنس آو منز مداخلت کرنء تء گژھنء مکمل۔ یمکء نتیج سیتھ، توہند ڈیٹا یس ٹیبلیٹس منز اوس رودنء چلن لایق۔ \n\n پنن ٹیبلیٹ دبارء بۓ چلاو کرنء کھتر، توہی چھو فکٹری ریسٹ کرنچ ضرورت۔ یلء توہی پنن ٹیبلیٹ ریسیٹ کریتھ بۓ ٹھیک کریون، توہی اییو موقع کہانتء ڈیٹا واپس آننک یس توہۓ برونٹھے Google خاطس منز محفوظ آسیو تھومت۔" "</string>
+<string name="crypt_keeper_failed_summary" product="default">"" انکرپشنس آو منز مداخلت کرنء تء گژھنء مکمل۔ یمکء نتیج سیتھ، توہند ڈیٹا یس فونس منز اوس رودنء چلن لایق۔ \n\n پنن فون دبارء بۓ چلاو کرنء کھتر، توہی چھو فکٹری ریسٹ کرنچ ضرورت۔ یلء توہی پنن فون ریسیٹ کریتھ بۓ ٹھیک کریون، توہی اییو موقع کہانتء ڈیٹا واپس آننک یس توہۓ برونٹھے Google خاطس منز محفوظ آسیو تھومت۔" "</string>
+<string name="crypt_keeper_switch_input_method">ان پٹ تریقءس منز کرییو پھیریو</string>
+<string name="lock_settings_picker_title">سکرین لاك کرییو منتخب</string>
+<string name="backup_lock_settings_picker_title">" چنیو بیک اپ لاک"</string>
+<string name="unlock_set_unlock_launch_picker_title">"سکرین لاک"</string>
+<string name="unlock_set_unlock_launch_picker_change_title">لاك سکرین کرییو تبدیل</string>
+<string name="unlock_set_unlock_launch_picker_change_summary">پیٹرن، PIN، یا پاس ورڈ سکیورٹی کرییو تبدیل یا گیرفایل</string>
+<string name="unlock_set_unlock_launch_picker_enable_summary">سکرین لاك كرن خاطر کرییو اكھ تریقء منتخب</string>
+<string name="unlock_backup_info_summary">" یلنء توہی بتھک انلاک وچھیو، توہی کیتھ کن یژھیو انلاک کرن؟"</string>
+<string name="unlock_set_unlock_off_title">"کہانء"</string>
+<string name="unlock_set_unlock_none_title">"سوائپ کرییو"</string>
+<string name="unlock_set_unlock_none_summary">كاه سکیورٹی چھنء</string>
+<string name="unlock_set_unlock_biometric_weak_title">" بتھک انلاک"</string>
+<string name="unlock_set_unlock_biometric_weak_summary">" کم حفاظت، تجرب"</string>
+<string name="unlock_set_unlock_pattern_title">پیٹرن</string>
+<string name="unlock_set_unlock_pattern_summary">میڈیم سیکورٹی</string>
+<string name="unlock_set_unlock_pin_summary">میڈیم تا ہائ سیکورٹی</string>
+<string name="unlock_set_unlock_password_title">"پاس ورڈ"</string>
+<string name="unlock_set_unlock_password_summary">ہائ سیکورٹی</string>
+<string name="unlock_set_unlock_disabled_summary">انتیظامی سد ذري ​​کرییو گیرفایل، ایكرپشن پالیسی، یا سند اسٹوریج</string>
+<string name="unlock_set_unlock_mode_off">"کہانء"</string>
+<string name="unlock_set_unlock_mode_none">"سوائپ کرییو"</string>
+<string name="unlock_set_unlock_mode_biometric_weak">" بتھک انلاک"</string>
+<string name="unlock_set_unlock_mode_pattern">پیٹرن</string>
+<string name="unlock_set_unlock_mode_password">"پاس ورڈ"</string>
+<string name="unlock_disable_lock_title">سکرین لاك چھ بند گسان</string>
+<string name="unlock_disable_lock_pattern_summary">" مکلاییو انلاک پٹیرن"</string>
+<string name="unlock_disable_lock_pin_summary">" مکلاییو انلاک پین"</string>
+<string name="unlock_disable_lock_password_summary">" مکلاییو انلاک پاسورڈ"</string>
+<string name="unlock_change_lock_pattern_title">انلاك پیٹرن کرییو تبدیل</string>
+<string name="unlock_change_lock_pin_title">انلاك PIN کرییو تبدیل</string>
+<string name="unlock_change_lock_password_title">انلاك پاس ورڈ کرییو تبدیل</string>
+<string name="lockpassword_password_too_short">پاس ورڈ گس كمنز کم%d كریٹرن هد اسن</string>
+<string name="lockpassword_pin_too_short">PIN گس كمنز کم%d ڈجٹن هد اسن</string>
+<string name="lockpassword_press_continue">جاری تھايو ییلء كرن يي</string>
+<string name="lockpassword_continue_label">جاری</string>
+<string name="lockpassword_password_too_long">پاس ورڈ گس یمء كھوت کم اسن <xliff:g id="number" example="17">%d</xliff:g> كریكٹرس.</string>
+<string name="lockpassword_pin_too_long">PIN گس یمء كھوت کم اسن <xliff:g id="number" example="17">%d</xliff:g> عدد.</string>
+<string name="lockpassword_pin_contains_non_digits">PIN حس منز گسن عدد اس سرپھ 0-9.</string>
+<string name="lockpassword_pin_recently_used">"ال انتیظامی چھن تاذ PIN استعمال كرنك اجازتدیوان."</string>
+<string name="lockpassword_illegal_character">پاسورڈس منز چھ اكھ غیر قانونی كریكٹر شامل ہیں.</string>
+<string name="lockpassword_password_requires_alpha">پاسورڈس منز گس کمس کم اكھ حرف اسن.</string>
+<string name="lockpassword_password_requires_digit">پاسورڈس منز گس کمس کم اكھ عدد اسن.</string>
+<string name="lockpassword_password_requires_symbol">پاسورڈس منز گس کمس کم اكھ SIM بل اسن.</string>
+<plurals name="lockpassword_password_requires_letters">
+<item quantity="one">پاسورڈس منز گس کمس کم 1 حرف اسن.</item>
+<item quantity="other">پاسورڈس منز گس کمس کم%d حرف اسن.</item>
+</plurals>
+<plurals name="lockpassword_password_requires_lowercase">
+<item quantity="one">پاسورڈس منز گس کمس کم 1 لووركیس حرف اسن.</item>
+<item quantity="other">پاسورڈس منز گس کمس کم%d لووركیس حرف اسن.</item>
+</plurals>
+<plurals name="lockpassword_password_requires_uppercase">
+<item quantity="one">پاسورڈس منز گس کمس کم 1 بڑی حرف اسن.</item>
+<item quantity="other">پاسورڈس منز گس کمس کم%d بڑی حرف اسن.</item>
+</plurals>
+<plurals name="lockpassword_password_requires_numeric">
+<item quantity="one">پاسورڈس منز گس کمس کم 1 عددی عدد اسن.</item>
+<item quantity="other">پاسورڈس منز گس کمس کم%d عددی عدد اسن.</item>
+</plurals>
+<plurals name="lockpassword_password_requires_symbols">
+<item quantity="one">پاسورڈس منز گس کمس کم 1 مخصوص SIM بل اسن.</item>
+<item quantity="other">پاسورڈس منز گس کمس کم%d مخصوص SIM بل اسن.</item>
+</plurals>
+<plurals name="lockpassword_password_requires_nonletter">
+<item quantity="one">پاسورڈس منز گس کمس کم 1 غیر حرفي كریكٹر اسن.</item>
+<item quantity="other">پاسورڈس منز گس کمس کم%d غیر حرفي كریكٹر اسن.</item>
+</plurals>
+<string name="lockpassword_password_recently_used">"ال انتیظامی چھن تاذ پاس ورڈ استعمال كرنك اجازتدیوان."</string>
+<string name="lockpassword_ok_label">"ٹھیک"</string>
+<string name="lockpassword_cancel_label">"خائریج"</string>
+<string name="lockpattern_tutorial_cancel_label">"خائریج"</string>
+<string name="lockpattern_tutorial_continue_label">"بياكھ"</string>
+<string name="lock_setup">سیٹ اپ گو مكمل.</string>
+<string name="device_admin_title">ال ایڈمنسٹریشن</string>
+<string name="manage_device_admin">ال انتیظامیس</string>
+<string name="manage_device_admin_summary">انتیظامیس وچھو یا کرییو ڈیكٹویٹ</string>
+<string name="manage_notification_access">نوٹیفکیشن تک رسائی</string>
+<string name="manage_notification_access_summary_zero">اپلیکیشن چھنء هیكین نوٹیفکیشن پرتھ</string>
+<plurals name="manage_notification_access_summary_nonzero">
+<item quantity="one">%d اپلیکیشن هیكین نوٹیفکیشن پرتھ</item>
+<item quantity="other">%d اپلیکیشن هیكین نوٹیفکیشن پرتھ</item>
+</plurals>
+<string name="no_notification_listeners">" کہان اشار بوزن وایل چھنء انسٹال کرن آمژ۔"</string>
+<string name="notification_listener_security_warning_title">" یلء تراییو <xliff:g id="service" example="NotificationReader">%1$s</xliff:g>?"</string>
+<string name="notification_listener_security_warning_summary">" <xliff:g id="notification_listener_name">%1$s</xliff:g> ای صلاحیت دینء پرنچ تمام اشارء یمء سسٹم کھالۓ یا کہانتء انسٹال کریتھ ایپ، یتھ منز زاتی زانکاری  آسء زن کء رابطن ہند ناو تء ٹیکسٹ مسیجن ہند یمء توہی سوزنء او۔ یء ہیکء بۓ امء اشارء رد کریتھ یا زیر وایل بٹن تھایوتھ تمن منز۔"</string>
+<string name="bluetooth_quick_toggle_title">بلوٹوتھ</string>
+<string name="bluetooth_quick_toggle_summary">بلوٹوتھ کرییو يل</string>
+<string name="bluetooth_settings">بلوٹوتھ</string>
+<string name="bluetooth_settings_title">بلوٹوتھ</string>
+<string name="bluetooth_settings_summary">"پكنايو کنکشن، سیٹ کرییو جاۓ ناو ت ایجاد كرنچ صلاحیت"</string>
+<string name="bluetooth_pairing_request">بلوٹوتھ پیيیرگ درخواست</string>
+<string name="bluetooth_enter_pin_msg">" یتھ سیتھ رلن: <xliff:g id="bold">&lt;br&gt;&lt;b&gt;</xliff:g><xliff:g id="device_name">%1$s</xliff:g><xliff:g id="end_bold">&lt;/b&gt;&lt;br&gt;&lt;br&gt;</xliff:g> دباییو آلک ضرورتء وول PIN:"</string>
+<string name="bluetooth_enter_passkey_msg">" یتھ سیتھ رلن: <xliff:g id="bold">&lt;br&gt;&lt;b&gt;</xliff:g><xliff:g id="device_name">%1$s</xliff:g><xliff:g id="end_bold">&lt;/b&gt;&lt;br&gt;&lt;br&gt;</xliff:g> دباییو آلک ضرورتء وول پاس کیی:"</string>
+<string name="bluetooth_enable_alphanumeric_pin">PIN حس منز چھ حرف ت SIM بل شامل ہیں</string>
+<string name="bluetooth_pin_values_hint">امتور 0000 یا 1234</string>
+<string name="bluetooth_enter_pin_other_device">توه پیي ي PIN پننس باقی آلسی پیٹھ ٹائپ كرنچ ضرورت.</string>
+<string name="bluetooth_enter_passkey_other_device">توه پیي ي کنجی ت بیكس آلسی پیٹھ ٹائپ كرنچ ضرورت.</string>
+<string name="bluetooth_confirm_passkey_msg">"کا اضافہ بناونه باپتھ: &lt;br&gt;&lt;b&gt;<xliff:g id="device_name">%1$s</xliff:g>&lt;/b&gt;&lt;br&gt;&lt;br&gt; سيتھ یقین تھايو کہ ي ہائی ي پاس ورڈ: &lt;br&gt;&lt;b&gt;<xliff:g id="passkey">%2$s</xliff:g>&lt;/b&gt;"</string>
+<string name="bluetooth_incoming_pairing_msg">"پیٹھ: &lt;br&gt;&lt;b&gt;<xliff:g id="device_name">%1$s</xliff:g>&lt;/b&gt;&lt;br&gt;&lt;br&gt; شامل کر بناون یتھ آلسی سيتھ ؟:"</string>
+<string name="bluetooth_display_passkey_pin_msg">" یتھ سیتھ رلن: <xliff:g id="bold1">&lt;br&gt;&lt;b&gt;</xliff:g><xliff:g id="device_name">%1$s</xliff:g><xliff:g id="end_bold1">&lt;/b&gt;&lt;br&gt;&lt;br&gt;</xliff:g> دبایو اتھ پیٹھ: <xliff:g id="bold2">&lt;br&gt;&lt;b&gt;</xliff:g><xliff:g id="passkey">%2$s</xliff:g><xliff:g id="end_bold2">&lt;/b&gt;</xliff:g>، پتء دبایو واپی یا انٹر۔"</string>
+<string name="bluetooth_pairing_accept">"رلاون"</string>
+<string name="bluetooth_pairing_decline">"خائریج"</string>
+<string name="bluetooth_pairing_error_message">"ہکنء رلتھ یتھ سیتھ <xliff:g id="device_name">%1$s</xliff:g>."</string>
+<string name="bluetooth_pairing_pin_error_message">"ہکنء رلتھ یتھ سیتھ <xliff:g id="device_name">%1$s</xliff:g> اك غلط PIN یا کنجی موجوب."</string>
+<string name="bluetooth_pairing_device_down_error_message">"ہکنء رابتء كریتھ یتھ سیتھ <xliff:g id="device_name">%1$s</xliff:g>."</string>
+<string name="bluetooth_pairing_rejected_error_message">"رالاون آو منسوخ كرنء یمء <xliff:g id="device_name">%1$s</xliff:g>."</string>
+<string name="bluetooth_connecting_error_message">"هيوك ن يتھ سیتھ مربوط كریتھ <xliff:g id="device_name">%1$s</xliff:g>."</string>
+<string name="bluetooth_preference_scan_title">الو خاطر کرییو سكین</string>
+<string name="bluetooth_search_for_devices">ژانڈنن الس کھتر</string>
+<string name="bluetooth_searching_for_devices">ژانڈان۔۔۔</string>
+<string name="bluetooth_preference_device_settings">ال ترتیبات</string>
+<string name="bluetooth_preference_paired_devices">رلیمت ال</string>
+<string name="bluetooth_preference_found_devices">دستياب ال</string>
+<string name="bluetooth_device_context_connect">مربوط کرییو</string>
+<string name="bluetooth_device_context_disconnect">"منكتء"</string>
+<string name="bluetooth_device_context_pair_connect">"کا اضافہ بنايو ت جڈو"</string>
+<string name="bluetooth_device_context_unpair">انجوڈء</string>
+<string name="bluetooth_device_context_disconnect_unpair">"منكت ت بی مثال"</string>
+<string name="bluetooth_device_context_connect_advanced">متبادل ...</string>
+<string name="bluetooth_menu_advanced">ترقی یافت</string>
+<string name="bluetooth_advanced_titlebar">تاركياپھت بلوٹوت</string>
+<string name="bluetooth_empty_list_bluetooth_off">يمسات بلوٹوت اس ییل تراوتھ، تہند ال كر رابتء باقی نجديكین الن سیتھ.</string>
+<string name="bluetooth_connect_specific_profiles_title">جوڈو یتھ ...</string>
+<string name="bluetooth_profile_a2dp">"میڈیا آواز"</string>
+<string name="bluetooth_profile_headset">"فون آواز)"</string>
+<string name="bluetooth_profile_opp">"فائل تبدیل کیرن"</string>
+<string name="bluetooth_profile_hid">"ان پٹ الء"</string>
+<string name="bluetooth_profile_pan">"انٹرنیٹ چلاییو"</string>
+<string name="bluetooth_profile_pan_nap">"انٹرنیٹ کنکشن باٹون"</string>
+<string name="bluetooth_profile_map">"میسیج چلاییو"</string>
+<string name="bluetooth_disconnect_a2dp_profile">"<xliff:g id="device_name">%1$s</xliff:g> گاس منكت میڈیا آواز پیٹھ."</string>
+<string name="bluetooth_disconnect_headset_profile">"<xliff:g id="device_name">%1$s</xliff:g> گاس منكت دست آزاد آواز پیٹھ."</string>
+<string name="bluetooth_disconnect_hid_profile">"<xliff:g id="device_name">%1$s</xliff:g> گاس منكت ان پٹ ال پیٹھ."</string>
+<string name="bluetooth_disconnect_pan_user_profile">انٹرنیٹ چلاییو یمءسيت <xliff:g id="device_name">%1$s</xliff:g> ييي منكت كرن."</string>
+<string name="bluetooth_disconnect_pan_nap_profile" product="tablet">"<xliff:g id="device_name">%1$s</xliff:g> ييي منكت كرن یمء ٹیبلیٹ ٹک انٹرنیٹ کنکشن باٹن منز."</string>
+<string name="bluetooth_disconnect_pan_nap_profile" product="default">"<xliff:g id="device_name">%1$s</xliff:g> ييي منكت كرن یمء فوننك انٹرنیٹ کنکشن باٹن منز."</string>
+<string name="bluetooth_device_advanced_title">راليومت بلوٹوت ال</string>
+<string name="bluetooth_device_advanced_online_mode_title">مربوط کرییو</string>
+<string name="bluetooth_device_advanced_online_mode_summary">جوڈو بلوٹوت الس سیتھ</string>
+<string name="bluetooth_device_advanced_profile_header_title">" پروفایلز"</string>
+<string name="bluetooth_device_advanced_rename_device">ناو بدلاون</string>
+<string name="bluetooth_device_advanced_enable_opp_title">اجازت یمءواجنن فایلن تبدیلی منز</string>
+<string name="bluetooth_a2dp_profile_summary_connected">"جوڈیتھ میڈیا آواز سیتھ"</string>
+<string name="bluetooth_headset_profile_summary_connected">"جوڈیتھ فون آواز سیتھ"</string>
+<string name="bluetooth_opp_profile_summary_connected">"جوڈیتھ فائل ٹرانسفر سرورز سیتھ"</string>
+<string name="bluetooth_map_profile_summary_connected">"جوڈیتھ نكشس سیتھ"</string>
+<string name="bluetooth_opp_profile_summary_not_connected">"چھن جوڈیتھ فائل ٹرانسفر سرورز سیتھ"</string>
+<string name="bluetooth_hid_profile_summary_connected">"چھن جوڈیتھ ان پٹ"</string>
+<string name="bluetooth_pan_user_profile_summary_connected">"جوڈیتھ چھ الس سیتھ انٹرنیٹ چلاییو کھتر"</string>
+<string name="bluetooth_pan_nap_profile_summary_connected">"بٹان مقامی انٹرنیٹ کنکشن ال سیتھ"</string>
+<string name="bluetooth_a2dp_profile_summary_use_for">"استعمال كريو میڈیا آواز کھتر"</string>
+<string name="bluetooth_headset_profile_summary_use_for">"استعمال كريو فون آواز کھتر"</string>
+<string name="bluetooth_opp_profile_summary_use_for">"استعمال كريو فائل تبدیلی کھتر"</string>
+<string name="bluetooth_hid_profile_summary_use_for">"استعمال كريو ان پٹ کھتر"</string>
+<string name="bluetooth_pan_profile_summary_use_for">"استعمال کران انٹرنیٹ چلاییو کھتر"</string>
+<string name="bluetooth_map_profile_summary_use_for">"استعمال كريو نكشه کھتر"</string>
+<string name="bluetooth_dock_settings">گودی ترتیبات</string>
+<string name="bluetooth_dock_settings_title">استعمال کرییو گودی آڈیو کھتر</string>
+<string name="bluetooth_dock_settings_headset">اسپیکر فون هيو</string>
+<string name="bluetooth_dock_settings_a2dp">موسیقی ت میڈیا کھتر</string>
+<string name="bluetooth_dock_settings_remember">یاد تھاویو ترتیبات</string>
+<string name="wifi_display_settings_title">" کاسٹ سکرین"</string>
+<string name="wifi_display_enable_menu_item">کارگر وائرلیس ڈسپلی</string>
+<string name="wifi_display_no_devices_found">كه نزدیکی ال اون لبن.</string>
+<string name="wifi_display_status_connecting">مربوط کران تھی</string>
+<string name="wifi_display_status_connected">"جڑن امت"</string>
+<string name="wifi_display_status_in_use">"استعمالس منز"</string>
+<string name="wifi_display_status_not_available">چھن دستياب</string>
+<string name="wifi_display_details">ڈسپلی ترتیبات</string>
+<string name="wifi_display_options_title">وائرلیس ڈسپلی متبادل</string>
+<string name="wifi_display_options_forget">مشراو</string>
+<string name="wifi_display_options_done">"پوره"</string>
+<string name="wifi_display_options_name">ناو</string>
+<string name="nfc_quick_toggle_summary" product="tablet">اجازت دییو ڈیٹا بدلاون یمءسات ٹیبلیٹ ٹچ كر بيس الس سیتھ</string>
+<string name="nfc_quick_toggle_summary" product="default">اجازت دییو ڈیٹا بدلاون یمءسات فون ٹچ كر بيس الس سیتھ</string>
+<string name="android_beam_on_summary">تيار اپلیکیشن کنٹینٹ NFC سیتھ پھلاونس</string>
+<string name="android_beam_off_summary">"بند"</string>
+<string name="android_beam_disabled_summary">چھن دستياب تكياذي NFC چھ امت بند كرن</string>
+<string name="android_beam_explained">یمءسات یء خصوصیت ییل يي تراون، توہی ہیکءو اپلیکیشن موادچ جھلک هاوتھ بيك NFC- مہارت والس آلسی يكواٹي ال نزدیک رٹن سيتمسالپاٹھ، توہی ہیکءو جھلک هاوتھ براؤزر صفحءه، YouTube ويڈيوس، لوكھ رابتء، ت وارياه. \n\n خالی انو آلء نزدیک (بالکل شپ رالاوتھ) ت پت كريو زیر پننس سكرينس. اپلیکیشن هاو کیا يي ہاونء. </string>
+<string name="nsd_quick_toggle_title">نیٹ ورک كھادمات ژانڈنن</string>
+<string name="nsd_quick_toggle_summary">اجازت ديو ایپس باقی الس پیٹھ یتھ الس پیٹھ ایپس چھاڑن کھتر</string>
+<string name="wifi_quick_toggle_title">Wi-Fi</string>
+<string name="wifi_quick_toggle_summary">ترايو ییل Wi-Fi</string>
+<string name="wifi_settings">Wi-Fi</string>
+<string name="wifi_settings_category">Wi-Fi ترتیبات</string>
+<string name="wifi_settings_title">Wi-Fi</string>
+<string name="wifi_settings_summary">"مقرر کرییو ت پكنايو وائرلیس رسائی پٹس"</string>
+<string name="wifi_setup_wizard_title">چنو Wi-Fi</string>
+<string name="wifi_starting">Wi-Fi تراوان ییل ...</string>
+<string name="wifi_stopping">Wi-Fi کران بند ...</string>
+<string name="wifi_error">"نكس"</string>
+<string name="wifi_in_airplane_mode">آیرپلین موڈس منز</string>
+<string name="wifi_fail_to_scan">"ہکنء اسکین كریتھ نیٹ ورک باپتھ"</string>
+<string name="wifi_wapi_fail_to_init">اتھ قابل چھنء ذ ي تبدیل سیٹ تص WAPI سرٹیفکیٹ \nاسناد اسٹوریج ہیکہ نہ: کارگر است</string>
+<string name="wifi_wapi_fail_to_auth">WAPI توثیق ناکاءم \nمہربانی كریتھ وچھو پاس ورڈ یا سرٹیفکیٹ</string>
+<string name="wifi_wapi_cert_lost">ہیکہ ن ميلتھ سرٹیفیکیشن چلائیں جڑن امت AP کھتر</string>
+<string name="wifi_notify_open_networks">نیٹ ورک اتلات</string>
+<string name="wifi_notify_open_networks_summary">" مء دییو اشارء یلء کھولء نٹورک آسء موجود"</string>
+<string name="wifi_poor_network_detection">کمزور کنکشن کرییو گریز</string>
+<string name="wifi_poor_network_detection_summary">"م كريو استعمال اكھ Wi-Fi نیٹ ورک يتسكالس ن اٹھ اس اكھ اصل انٹرنیٹ کنکشن"</string>
+<string name="wifi_scan_always_available">سکیننگ همیشه دستياب</string>
+<string name="wifi_scan_always_available_summary">کرییو گوگل روزن جاۓ خدمات تہ باقی ایپس اسکین نیٹ ورکس کھتر، يمسات Wi-Fi اس بند ت</string>
+<string name="wifi_install_credentials">انسٹال سرٹیفکیٹ</string>
+<string name="wifi_scan_notify_text_location_on">" جاۓ ہند بہتری بڈھاونء کھتر تء باقی کامیو کھتر، گوگل تء باقی ایپس ہیکن سکین کریتھ نذیکی نٹورک، ہلانکء اگر واۓ فاۓ بند تی آسء۔ اگر توہی چھونء یژھان یی گژھء سپدن، گژھیو اڈوانسڈ &gt; سکینگ ہمیشء موجود۔"</string>
+<string name="wifi_scan_notify_text_location_off">" ایپس ہیکن سکین کریتھ نذدیکک نٹورک، ہلانکء اگر واۓ فاۓ بند تی آسء، اگر توہی چھونء یژھان یی گژھء سپدن، گژھیو اڈوانسڈ &gt; سکینگ ہمیشء موجود۔"</string>
+<string name="wifi_scan_notify_remember_choice">م هاویو دباره</string>
+<string name="wifi_setting_sleep_policy_title">تھاوو Wi-Fi ییل ندري دوران</string>
+<string name="wifi_setting_sleep_policy_error">انتہائی چھ اكھ مشکل کی ترتیبات بدلاونس منز</string>
+<string name="wifi_suspend_optimizations">Wi-Fi بہتری</string>
+<string name="wifi_suspend_optimizations_summary">کم كريو بیٹری استعمال کرنچه یمءسات Wi-Fi اس ییل</string>
+<string name="wifi_add_network">جوڈو نیٹ ورک</string>
+<string name="wifi_access_points">Wi-Fi نیٹ ورکس</string>
+<string name="wifi_menu_wps_pbc">WPS پش بٹن</string>
+<string name="wifi_menu_more_options">"واريه متبادل"</string>
+<string name="wifi_menu_wps_pin">WPS PIN انٹری</string>
+<string name="wifi_menu_p2p">Wi-Fi ڈائریکٹ</string>
+<string name="wifi_menu_scan">سکین</string>
+<string name="wifi_menu_advanced">ترقی یافت</string>
+<string name="wifi_menu_connect">نیٹورکس سیتھ کرییو مربوط</string>
+<string name="wifi_menu_forget">مشرايو نیٹ ورک</string>
+<string name="wifi_menu_modify">صحیح كريو نیٹ ورک</string>
+<string name="wifi_empty_list_wifi_off">دستياب نیٹ ورکس وچھن کھتر، ترايو Wi-Fi ییل.</string>
+<string name="wifi_empty_list_wifi_on">Wi-Fi نیٹورکس کھتر ژانڈان ...</string>
+<string name="wifi_empty_list_user_restricted">"Wi-Fi نیٹ ورک بدلاون کھتر چھون توہی اجازت"</string>
+<string name="wifi_other_network">"تبدیل نیٹ ورک ..."</string>
+<string name="wifi_more">"واريه"</string>
+<string name="wifi_setup_wps">اٹومیٹك سیٹ اپ (WPS)</string>
+<string name="wifi_required_info_text">" سیٹ آپ مکمل کرنء کھتر، توہند ٹیبلیٹس چھء ضرورت چلاونک Wi\u2011Fi۔ سیٹ اپ پتء، توہی ہیکیو فریتھ موبایل ڈیٹاس تء Wi\u2011Fi درمیان۔"</string>
+<string name="wifi_show_advanced">هايو نیي اپشنس</string>
+<string name="wifi_wps_setup_title">Wi-Fi محفوظ سیٹ اپ</string>
+<string name="wifi_wps_setup_msg">شروع گسان WPS ...</string>
+<string name="wifi_wps_onstart_pbc">" دباییو Wi\u2011Fi حفاظتء ترتیب وول بٹن توہندس روٹر پیٹھ۔ اتھ چھ ہکان ونیتھ "WPS" یا اسء اتھ پیٹھ یی نشان:"</string>
+<string name="wifi_wps_onstart_pin">داخل كريو pin " <xliff:g id="number">%1$s</xliff:g> پننس Wi-Fi راوٹرس پیٹھ. یء سیٹ اپ مكمل گسنس لگین ذه منٹ."</string>
+<string name="wifi_wps_complete">WPS گو کاءمیاب. جوڈان نیٹ ورکس سیتھ ...</string>
+<string name="wifi_wps_connected">جوڈیتھ Wi-Fi نیٹ ورک سیتھ <xliff:g id="network_name">%s</xliff:g>"</string>
+<string name="wifi_wps_in_progress">WPS چھ گوڈی چلان ت ہیکءنس لاگت ذه منٹ مكمل گسنس منز</string>
+<string name="wifi_wps_failed_generic">WPS گو ناکاءم. مهرباني كريهٹ کرییو کوشش دباره كینسن منٹن منز.</string>
+<string name="wifi_wps_failed_wep">وائرلیس راؤٹر سکیورٹی ترتیب (WEP) چھنء مددگار سپدان.</string>
+<string name="wifi_wps_failed_tkip">وائرلیس راؤٹر سکیورٹی ترتیب (TKIP) چھنء مددگار سپدان.</string>
+<string name="wifi_wps_failed_auth">ثبوت گئی ناکاءم. مهرباني كریتھ کرییو دباره کوشش کریو.</string>
+<string name="wifi_wps_failed_overlap">بياكھ WPS آپشن آو لبن. مهرباني كریتھ کرییو دباره کوشش كینسن منٹن منز.</string>
+<string name="wifi_ssid">" نٹورک SSID"</string>
+<string name="wifi_ssid_hint">داخل كريو SSID</string>
+<string name="wifi_security">حفاظت اكدام</string>
+<string name="wifi_signal">سگنل طاقت</string>
+<string name="wifi_status">"اسٹیٹس"</string>
+<string name="wifi_speed">کی لنک رفتار</string>
+<string name="wifi_ip_address">IP پتہ</string>
+<string name="wifi_eap_method">EPA تریقء</string>
+<string name="please_select_phase2">فیز 2 ثبوت</string>
+<string name="wifi_eap_ca_cert">CA سرٹیفکیٹ</string>
+<string name="wifi_eap_user_cert">استعمال کرن وول سرٹیفکیٹ</string>
+<string name="wifi_eap_identity">شناكھت</string>
+<string name="wifi_eap_anonymous">گمنام شناكھت</string>
+<string name="wifi_wapi_psk_type">پاس ورڈ ٹائپ</string>
+<string name="wifi_password">"پاس ورڈ"</string>
+<string name="wifi_show_password">هايو پاس ورڈ</string>
+<string name="wifi_wapi_as_certificate">AS سرٹیفکیٹ</string>
+<string name="wifi_wapi_user_certificate">استعمال کرن وول سرٹیفکیٹ</string>
+<string name="wifi_ip_settings">IP ترتیبات</string>
+<string name="wifi_unchanged">(بدلاون بغیر)</string>
+<string name="wifi_unspecified">(خسوسي بغیر)</string>
+<string name="wifi_remembered">"محفوظ گمت"</string>
+<string name="wifi_disabled_generic">"کمزور گمت"</string>
+<string name="wifi_disabled_network_failure">" بچیو کمزور انٹرنیٹ کنکشن نش"</string>
+<string name="wifi_disabled_password_failure">"تصدیقی مشکلات"</string>
+<string name="wifi_not_in_range">"چھنء پوهنچس منز"</string>
+<string name="wifi_wps_available_first_item">"WPS دستياب"</string>
+<string name="wifi_wps_available_second_item">"\u0020 (WPS دستياب)"</string>
+<string name="wifi_secured_first_item">" محفوظ یمء سیتھ <xliff:g id="wifi_security_short">%1$s</xliff:g>"</string>
+<string name="wifi_secured_second_item">"، محفوظ یمء سیتھ <xliff:g id="wifi_security_short">%1$s</xliff:g>"</string>
+<string name="wifi_security_none">"كھولیو"</string>
+<string name="wifi_security_wapi_psk_hexadecimal">WAPI PSK هیكساڈیسيمل</string>
+<string name="wifi_scan_always_turnon_message">جائی ہند ميار صحیح كرن کھتر ت باقی مقصد کھتر، "<xliff:g id="app_name">%1$s</xliff:g> يسان چھ ییل تراوین نیٹ ورک سکیننگ، حالانکہ یمءسات Wi-Fi اس بند. \n\n اجازت ديو یتھ سارني ایپس کھتر يم اسکین چھ يسان گسنء ؟ "</string>
+<string name="wifi_scan_always_confirm_allow">"اجازت"</string>
+<string name="wifi_scan_always_confirm_deny">"انکار"</string>
+<string name="wifi_connect">مربوط کرییو</string>
+<string name="wifi_failed_connect_message">ناکاءم گو نیٹورکس سیتھ جڑنس</string>
+<string name="wifi_forget">مشراو</string>
+<string name="wifi_failed_forget_message">ناکاءم گو نیٹ ورک مشراونس</string>
+<string name="wifi_save">"محفوظ تھايو"</string>
+<string name="wifi_failed_save_message">ناکاءم گو نیٹ ورک محفوظ كرنس منز</string>
+<string name="wifi_cancel">"خائریج"</string>
+<string name="wifi_skip_anyway">جائیں كنتپاٹھ</string>
+<string name="wifi_dont_skip">"م کرییو جائیں"</string>
+<string name="wifi_skipped_message" product="tablet">" احتیاط: توہی ہکنو لگیتھ الاو ڈیٹا چارجز۔ \n\n ٹیبلیٹ سیٹ اپس چھء مفید نٹورک کامء ہنز ضرورت۔"</string>
+<string name="wifi_skipped_message" product="default">" احتیاط: توہی ہکنو لگیتھ الاو ڈیٹا چارجز۔ \n\n فونوک سیٹ اپس چھء مفید نٹورک کامء ہنز ضرورت۔"</string>
+<string name="wifi_and_mobile_skipped_message" product="tablet">" خبردار: یوتام نء توہی انٹرنیٹ کنکشن آسیو، یء ٹیبلیٹ ہیکنء یء وچھیتھ زء توہند سافٹویر چھا آپ ڈیٹ کنء نء۔"</string>
+<string name="wifi_and_mobile_skipped_message" product="default">" خبردار: یوتام نء توہی انٹرنیٹ کنکشن آسیو، یء فون ہیکنء یء وچھیتھ زء توہند سافٹویر چھا آپ ڈیٹ کنء نء۔"</string>
+<string name="wifi_connect_failed_message" product="tablet">ٹیبلیٹ ہیکءن جوڈت یتھ Wi-Fi نیٹورکس سیتھ.</string>
+<string name="wifi_connect_failed_message" product="default">فون ہیکءن جوڈت یتھ Wi-Fi نیٹورکس سیتھ.</string>
+<string name="wifi_advanced_titlebar">ترقی یافت Wi-Fi</string>
+<string name="wifi_setting_frequency_band_title">Wi-Fi فریکوئنسی بینڈ</string>
+<string name="wifi_setting_frequency_band_summary">خاسپاٹھ ونو آپریشن نك فریکوئینسی طاقت</string>
+<string name="wifi_setting_frequency_band_error">انتہائی چھ اكھ مشکل کی ترتیبات فریکوئینسی بیڈسمنز.</string>
+<string name="wifi_advanced_mac_address_title">MAC ایڈریس</string>
+<string name="wifi_advanced_ip_address_title">IP پتہ</string>
+<string name="wifi_advanced_settings_label">IP ترتیبات</string>
+<string name="wifi_ip_settings_menu_save">"محفوظ تھايو"</string>
+<string name="wifi_ip_settings_menu_cancel">"خائریج"</string>
+<string name="wifi_ip_settings_invalid_ip_address">لیکھیو اكھ صحیح IP پتہ.</string>
+<string name="wifi_ip_settings_invalid_gateway">لیکھیو اكھ صحیح گیٹ وی جانتی ہیں.</string>
+<string name="wifi_ip_settings_invalid_dns">لیکھیو اكھ صحیح DNS جانتی ہیں.</string>
+<string name="wifi_ip_settings_invalid_network_prefix_length">لیکھیو اكھ نیٹ ورک پريپھكس جيچھر 0 ت 32 درمیان.</string>
+<string name="wifi_dns1">"DNS 1"</string>
+<string name="wifi_dns2">"DNS 2"</string>
+<string name="wifi_gateway">گیٹ وی</string>
+<string name="wifi_network_prefix_length">نیٹ ورک پريپھكس جيچھر</string>
+<string name="wifi_p2p_settings_title">Wi-Fi ڈائریکٹ</string>
+<string name="wifi_p2p_device_info">ال ذانكاري</string>
+<string name="wifi_p2p_persist_network">یاد تھاوو یء کنکشن</string>
+<string name="wifi_p2p_menu_search">ژانڈنن الس کھتر</string>
+<string name="wifi_p2p_menu_searching">ژانڈان۔۔۔</string>
+<string name="wifi_p2p_menu_rename">الس بدلايو ناو</string>
+<string name="wifi_p2p_peer_devices">پیر آلء</string>
+<string name="wifi_p2p_remembered_groups">یاد تھايو گروپس</string>
+<string name="wifi_p2p_failed_connect_message">"ہیکءن جوڈیتھ."</string>
+<string name="wifi_p2p_failed_rename_message">ناکاءم گو ال ناو بدلاونس منز.</string>
+<string name="wifi_p2p_disconnect_title">منكت؟</string>
+<string name="wifi_p2p_disconnect_message">اگر توہی منتقل کرییو، تہند کنکشن یتھ <xliff:g id="peer_name">%1$s</xliff:g> گاس ختم."</string>
+<string name="wifi_p2p_disconnect_multiple_message">اگر توہی منتقل کرییو، تہند کنکشن یتھ <xliff:g id="peer_name">%1$s</xliff:g> ت <xliff:g id="peer_count">%2$s</xliff:g> باقی الن سیتھ گاس ختم. "</string>
+<string name="wifi_p2p_cancel_connect_title">منسوخ دعوت؟</string>
+<string name="wifi_p2p_cancel_connect_message">کیا توہی چھوا يسان منسوخ كرن یء دعوت یتھ جوڈن کھتر <xliff:g id="peer_name">%1$s</xliff:g>؟"</string>
+<string name="wifi_p2p_delete_group_message">مشرايو یء گروپ؟</string>
+<string name="wifi_tether_checkbox_text">پورٹیبل Wi-Fi ہاٹ سپاٹ</string>
+<string name="wifi_tether_starting">ییل گسان ہاٹ سپاٹ ...</string>
+<string name="wifi_tether_stopping">بند گسان ہاٹ سپاٹ ...</string>
+<string name="wifi_tether_enabled_subtext">پورٹیبل ہاٹ سپاٹ <xliff:g id="network_ssid">%1$s</xliff:g> چھ چلان"</string>
+<string name="wifi_tether_failed_subtext">پورٹیبل Wi-Fi ہاٹ سپاٹ نكس</string>
+<string name="wifi_tether_configure_ap_text">سیٹ اپ Wi-Fi ہاٹ سپاٹ</string>
+<string name="wifi_tether_configure_subtext">"<xliff:g id="network_ssid">%1$s</xliff:g> <xliff:g id="network_security">%2$s</xliff:g> پورٹ ایبل Wi-Fi ہاٹ سپاٹ"</string>
+<string name="wifi_tether_configure_ssid_default">" MocorDroid ہاٹ سپاٹ"</string>
+<string name="home_settings">"گارء"</string>
+<string name="display_settings_title">ڈسپلی</string>
+<string name="sound_settings">آواز</string>
+<string name="ringtone_title">فون رنگ ٹونز</string>
+<string name="all_volume_title">اواج</string>
+<string name="musicfx_title">موسیقی اثرات</string>
+<string name="ring_volume_title">"رنگر آواز"</string>
+<string name="vibrate_in_silent_title">ويبریٹ پت خاموش</string>
+<string name="notification_sound_title">ڈیفالٹ اتلات آواز</string>
+<string name="notification_pulse_title">پلس نوٹیفکیشن روشنی</string>
+<string name="incoming_call_volume_title">رنگ ٹون</string>
+<string name="notification_volume_title">نوٹیفکیشن</string>
+<string name="checkbox_notification_same_as_incoming_call">استعمال كريو يینواجن کال آواز اتلاتن کھتر</string>
+<string name="notification_sound_dialog_title">ڈیفالٹ اتلات آواز</string>
+<string name="media_volume_title">میڈیا</string>
+<string name="media_volume_summary">سیٹ كريو آواز موسیقی ت ويڈيوس کھتر</string>
+<string name="alarm_volume_title">الارم</string>
+<string name="dock_settings_summary">آوازک ترتیبات منسلک گودی کھتر</string>
+<string name="dtmf_tone_enable_title">ڈائل پیڈ ٹچ ٹونس</string>
+<string name="sound_effects_enable_title">ذير آواز</string>
+<string name="lock_sounds_enable_title">سکرین لاک آواز</string>
+<string name="haptic_feedback_enable_title">تھرتھر ذير پیٹھ</string>
+<string name="audio_record_proc_title">شور مسوكي</string>
+<string name="volume_media_description">"موسیقی، ویڈیو، کھیل، ت باقی میڈیا"</string>
+<string name="volume_ring_description">"رنگ ٹونز تہ اتلات"</string>
+<string name="volume_notification_description">"اتلات"</string>
+<string name="volume_alarm_description">الارمس</string>
+<string name="volume_ring_mute">"خاموش رنگ ٹونز ت اشتيار"</string>
+<string name="volume_media_mute">"خاموش موسیقی ت باقی میڈیا"</string>
+<string name="volume_notification_mute">خاموش اتلات</string>
+<string name="volume_alarm_mute">خاموش الارمس</string>
+<string name="vibrate_when_ringing_title">تھرتھر ییلء بج</string>
+<string name="dock_settings">گودی</string>
+<string name="dock_settings_title">گودی ترتیبات</string>
+<string name="dock_audio_settings_title">آواز</string>
+<string name="dock_audio_summary_desk">منسلک ڈیسک ٹاپ گودی کھتر سیٹگس</string>
+<string name="dock_audio_summary_car">منسلک کار گودی کھتر سیٹگس</string>
+<string name="dock_audio_summary_none" product="tablet">ٹیبلیٹ چھن کنار دار</string>
+<string name="dock_audio_summary_none" product="default">فون چھن کنار دار</string>
+<string name="dock_audio_summary_unknown">منسلک گودی کھتر سیٹگس</string>
+<string name="dock_not_found_title">گودی اون لبن</string>
+<string name="dock_not_found_text" product="tablet">گودی آواز ترتیب برونٹھ چھ توہی ضرورت پننن ٹیبلیٹ گودی كرن.</string>
+<string name="dock_not_found_text" product="default">گودی آواز ترتیب برونٹھ چھ توہی ضرورت پننن فون گودی كرن.</string>
+<string name="dock_sounds_enable_title">گودی داخل آواز</string>
+<string name="dock_sounds_enable_summary_on" product="tablet">چلايو آواز یمءسات داخل یا نیبر كڈو ٹیبلیٹ گودی پیٹھ</string>
+<string name="dock_sounds_enable_summary_on" product="default">چلايو آواز یمءسات داخل یا نیبر كڈو فون گودی پیٹھ</string>
+<string name="dock_sounds_enable_summary_off" product="tablet">"م چلايو آواز یمءسات داخل یا نیبر كڈو ٹیبلیٹ گودی پیٹھ"</string>
+<string name="dock_sounds_enable_summary_off" product="default">"م چلايو آواز یمءسات داخل یا نیبر كڈو فون گودی پیٹھ"</string>
+<string name="account_settings">اکاونٹس</string>
+<string name="search_settings">"ژانڈن"</string>
+<string name="search_settings_summary">مینج كريو ژانڈن ترتیبات ت ہسٹری</string>
+<string name="display_settings">ڈسپلی</string>
+<string name="accelerometer_title">"آٹو-روٹیٹ سکرین "</string>
+<string name="accelerometer_summary_on" product="tablet">ترايو ییل واقفیت پانپانی یمءسات ٹیبلیٹ اس پھیران</string>
+<string name="accelerometer_summary_on" product="default">ترايو ییل واقفیت پانپانی یمءسات فون اس پھیران</string>
+<string name="accelerometer_summary_off" product="tablet">ترايو ییل واقفیت پانپانی یمءسات ٹیبلیٹ اس پھیران</string>
+<string name="accelerometer_summary_off" product="default">ترايو ییل واقفیت پانپانی یمءسات فون اس پھیران</string>
+<string name="brightness">چمكون</string>
+<string name="brightness_summary">اپناو سكريننك چمكوون</string>
+<string name="screen_timeout">نیدر</string>
+<string name="touch_light_timeout">ٹچ روشنی</string>
+<string name="touch_light_timeout_title">ٹچ روشنی وقت</string>
+<string name="touch_light_timeout_summary">ایم پت <xliff:g id="timeout_description">%1$s</xliff:g> کاءم نہ: كرنك پل"</string>
+<string name="close_screen_bright_automode">مہربانی كریتھ کرییو بند سکرین براٹنیس گاس پاني ٹھیک ہی</string>
+<string name="screen_timeout_summary">امپت <xliff:g id="timeout_description">%1$s</xliff:g> امژ ن كاه حرکت"</string>
+<string name="wallpaper_settings_title">"والپیپر"</string>
+<string name="wallpaper_settings_fragment_title">چنو والپیپر یمء پیٹھ</string>
+<string name="screensaver_settings_title">دوهلي خواب</string>
+<string name="screensaver_settings_summary_either_long">یمءسات کنار دار یا شوگتھ ت چارج اس گسان</string>
+<string name="screensaver_settings_summary_either_short">كاه اكھ</string>
+<string name="screensaver_settings_summary_sleep">چارج دوران</string>
+<string name="screensaver_settings_summary_dock">"کنار دار دوران"</string>
+<string name="screensaver_settings_summary_off">"بند"</string>
+<string name="screensaver_settings_disabled_prompt">یء قابو ذ کیا سپد یمءسات فون اس کنار دار ت / یا شوگتھ، ترايو ڈیڈريم ییل.</string>
+<string name="screensaver_settings_when_to_dream">یمءسات ڈیڈريم منز اس</string>
+<string name="screensaver_settings_dream_start">شروع ونكین</string>
+<string name="screensaver_settings_button">"ترتیبات"</string>
+<string name="automatic_brightness">پانپانی چمكوون</string>
+<string name="title_font_size">پھٹ سائیز</string>
+<string name="dialog_title_font_size">پھٹ سائیز</string>
+<string name="sim_lock_settings">SIM کارڈ لاک ترتیبات</string>
+<string name="sim_lock_settings_category">سیٹ كريو SIM کارڈ لاک</string>
+<string name="sim_lock_settings_title">SIM کارڈ لاک</string>
+<string name="sim_pin_toggle">لاک SIM کارڈ</string>
+<string name="sim_lock_on" product="tablet">ٹیبلیٹ استعمال کھتر چھ ضرورت PIN</string>
+<string name="sim_lock_on" product="default">فون استعمال کھتر چھ ضرورت PIN</string>
+<string name="sim_lock_off" product="tablet">ٹیبلیٹ استعمال کھتر چھ ضرورت PIN</string>
+<string name="sim_lock_off" product="default">فون استعمال کھتر چھ ضرورت PIN</string>
+<string name="sim_pin_change">بدلايو SIM PIN</string>
+<string name="sim_enter_pin">SIM PIN</string>
+<string name="sim_enable_sim_lock">لاک SIM کارڈ</string>
+<string name="sim_disable_sim_lock">غیر لاک كريو SIM کارڈ</string>
+<string name="sim_enter_old">پريون SIM PIN</string>
+<string name="sim_enter_new">نوو SIM PIN</string>
+<string name="sim_reenter_new">" دبارء دباییو نو PIN"</string>
+<string name="sim_change_pin">SIM PIN</string>
+<string name="sim_bad_pin">غلط PIN</string>
+<string name="sim_pins_dont_match">"PINs چھنء رلان"</string>
+<string name="sim_change_failed">"ہکنء PIN بدلاوتھ. \nممکن چھ غلط PIN."</string>
+<string name="sim_change_succeeded">SIM PIN آو كاميابيسان بدلاون</string>
+<string name="sim_lock_failed">"ہیکءن بدلاوتھ SIM کارڈ لاک حالت. \nممکن چھ غلط PIN."</string>
+<string name="sim_enter_ok">"ٹھیک"</string>
+<string name="sim_enter_cancel">"خائریج"</string>
+<string name="wrong_pin_code_pukked">"غلط SIM PIN کوڈ توہی چھ ون رابتء كرن پننس كیريرس سيتھ پنن آلء یلء تراون باپتھ."</string>
+<plurals name="wrong_pin_code">
+<item quantity="one">"غلط SIM PIN کوڈ، توہی چھ <xliff:g id="number">%d</xliff:g> بكاي كوشش برونٹھ توہی چھ ضروری رابتء كرن پننس كیريرس سيتھ پنن آلء یلء تراون باپتھ."</item>
+<item quantity="other">"غلط SIM PIN کوڈ، توہی چھ <xliff:g id="number">%d</xliff:g> بكاي كوشش."</item>
+</plurals>
+<string name="pin_failed">"SIM PIN عمل ناکاءم!"</string>
+<string name="device_info_settings" product="tablet">ٹیبلیٹ اسٹیٹس</string>
+<string name="device_info_settings" product="default">فون اسٹیٹس</string>
+<string name="system_update_settings_list_item_title">سسٹم اپڈیٹس</string>
+<string name="firmware_version">"MocorDroid ورجن"</string>
+<string name="model_number">ماڈل نمبر</string>
+<string name="fcc_equipment_id">چیزیں ID</string>
+<string name="baseband_version">بیسبد ورشن</string>
+<string name="kernel_version">دانا ورشن</string>
+<string name="build_number">تعمیر نمبر</string>
+<string name="selinux_status">SELinux اسٹیٹس</string>
+<string name="device_info_not_available">"چھنء دستياب"</string>
+<string name="device_status_activity_title">"اسٹیٹس"</string>
+<string name="device_status">"اسٹیٹس"</string>
+<string name="device_status_summary" product="tablet">بیٹری ہند اسٹیٹس، نیٹ ورک، ت باقی ذانكاري</string>
+<string name="device_status_summary" product="default">فون نمبر، سگنل، وغیرہ.</string>
+<string name="storage_settings">"اسٹوریج"</string>
+<string name="storage_settings_title">اسٹوریج ترتیبات</string>
+<string name="storage_settings_summary" product="nosdcard">ان ماؤنٹ USB اسٹوریج، وچھیو دستياب اسٹوریج</string>
+<string name="storage_settings_summary" product="default">ان ماؤنٹ SD کارڈ، وچھیو دستياب اسٹوریج</string>
+<string name="status_number" product="tablet">MDN</string>
+<string name="status_number" product="default">ميون فون نمبر</string>
+<string name="status_prl_version">PRL ورشن</string>
+<string name="status_network_type">" موبایل نٹورک قسم"</string>
+<string name="status_latest_area_info">آپریٹر ذانكاري</string>
+<string name="status_data_state">"سیلولر نیٹ ورک حالت"</string>
+<string name="status_service_state">كھادمات حالت</string>
+<string name="status_signal_strength">سگنل طاقت</string>
+<string name="status_roaming">رومنگ</string>
+<string name="status_operator">نیٹ ورک</string>
+<string name="status_wifi_mac_address">Wi-Fi MAC ایڈریس</string>
+<string name="status_bt_address">بلوٹوتھ پتہ</string>
+<string name="status_serial_number">سیریل نمبر</string>
+<string name="status_unavailable">چھن دستياب</string>
+<string name="status_up_time">واتھن وقت</string>
+<string name="status_awake_time">ہوشیار وقت</string>
+<string name="internal_memory">"اندریم اسٹوریج"</string>
+<string name="sd_memory" product="nosdcard">"USB اسٹوریج"</string>
+<string name="sd_memory" product="default">"ایس ڈي کارڈ"</string>
+<string name="memory_available">"دستياب"</string>
+<string name="memory_available_read_only">دستياب (خالی-پرییون)</string>
+<string name="memory_size">کل جائی</string>
+<string name="memory_calculating_size">گجران ...</string>
+<string name="memory_apps_usage">" ایپس ( ایپ ڈیٹا تء میڈیا کنٹینٹ)"</string>
+<string name="memory_media_usage">میڈیا</string>
+<string name="memory_downloads_usage">ڈاؤن لوڈ</string>
+<string name="memory_dcim_usage">تصویر</string>
+<string name="memory_music_usage">آواز (موسیقی، رنگٹونز، پوڈكاسٹس، وغیرہ.)</string>
+<string name="memory_media_misc_usage">مسك.</string>
+<string name="memory_others_usage">" استعمال گومت ( باقی قسمن ہند فایلء )"</string>
+<string name="memory_media_cache_usage">كیچڈ ڈیٹا</string>
+<string name="sd_eject" product="nosdcard">ان ماؤنٹ باٹمت اسٹوریج</string>
+<string name="sd_eject" product="default">SD کارڈ کرییو ان ماؤنٹ</string>
+<string name="sd_eject_summary" product="nosdcard">ان ماؤنٹ اندریم USB سٹوریج</string>
+<string name="sd_eject_summary" product="default">ان ماؤنٹ SD کارڈ تاکہ توہی كڈو یء محفوظ پاٹھ نیبر "</string>
+<string name="sd_insert_summary" product="nosdcard">داخل کرییو USB سٹوریج مونٹگ کھتر</string>
+<string name="sd_insert_summary" product="default">داخل کرییو SD کارڈ مونٹگ کھتر</string>
+<string name="sd_mount" product="nosdcard">ماؤنٹ USB سٹوریج</string>
+<string name="sd_mount" product="default">ماؤنٹ SD کارڈ</string>
+<string name="sd_format" product="nosdcard">USB اسٹوریج کرییو اریذ</string>
+<string name="sd_format" product="default">SD کارڈ کرییو اریذ</string>
+<string name="sd_format_summary" product="nosdcard">" مٹاییو تمام ڈیٹا اندریم USB جمع جاۓ پیٹھ، زنء کء موسیقی تء شکلء"</string>
+<string name="sd_format_summary" product="default">" مٹاییو تمام ڈیٹا SD کارڈء پیٹھ، زنء کء موسیقی تء شکلء"</string>
+<string name="memory_clear_cache_title">موكلايو كیچڈ ڈیٹا؟</string>
+<string name="memory_clear_cache_message">یء موكلاي كیچڈ ڈیٹا سارني ایپسن ہند.</string>
+<string name="mtp_ptp_mode_summary">MTP یا PTP تكريب چھ چلان</string>
+<string name="dlg_confirm_unmount_title" product="nosdcard">ان ماؤنٹ USB سٹوریج؟</string>
+<string name="dlg_confirm_unmount_title" product="default">ان ماؤنٹ SD کارڈ؟</string>
+<string name="dlg_confirm_unmount_text" product="nosdcard">اگر توہی ان ماؤنٹ کرییو USB اسٹوریج، کنہہ اپلیکیشن يم توہی استعمال چھو کران گسنء  بند ت مہ ہیکن ن روذتھ دستياب يتس فن ن توہی رماٹ کرییو USB سٹوریج.</string>
+<string name="dlg_confirm_unmount_text" product="default">اگر توہی ان ماؤنٹ کرییو SD کارڈ، کنہہ اپلیکیشن يم توہی استعمال چھو کران گسنء  بند ت مہ ہیکن ن روذتھ دستياب يتس فن ن توہی رماٹ کرییو SD کارڈ.</string>
+<string name="dlg_error_unmount_text" product="nosdcard">"ہیکءن ان ماؤنٹ كریتھ USB سٹوریج. کوشش کرییو دباره پت."</string>
+<string name="dlg_error_unmount_text" product="default">"ہیکءن ان ماؤنٹ كریتھ SD کارڈ. کوشش کرییو دباره پت."</string>
+<string name="unmount_inform_text" product="nosdcard">USB اسٹوریج گاس انماٹڈ.</string>
+<string name="unmount_inform_text" product="default">SD کارڈ گاس انماٹڈ.</string>
+<string name="sd_ejecting_title">انمونٹگ</string>
+<string name="sd_ejecting_summary">ان ماؤنٹ چھ چلان</string>
+<string name="storage_low_title">اسٹوریج جائی چھی موكلان</string>
+<string name="storage_low_summary">کنہہ سسٹم تكريب، مسالپاٹھ سکرییونیسگ، م كر ن ٹھیک پاٹھ کاءم. کوشش کرییو جائی خالی كرنس خائریج كرن سیتھ یا هٹايو چیز، مسالپاٹھ ایپس یا میڈیا کنٹینٹ.</string>
+<string name="storage_menu_usb">USB کمپیوٹر کنکشن</string>
+<string name="storage_title_usb">USB کمپیوٹر کنکشن</string>
+<string name="usb_connection_category">جوڈو هيو</string>
+<string name="usb_mtp_title">ویڈيا ال (MTP)</string>
+<string name="usb_mtp_summary">" دیوان چھء توہی سوزنء میڈیا فایلء Windows پیٹھ، یا استعمال کران MocorDroid فایل سوزن Mac پیٹھ ( وچھیو www.android.com/filetransfer )"</string>
+<string name="usb_ptp_title">کیمری (PTP)</string>
+<string name="usb_ptp_summary">"کرییو تبدیل شكله کیمری سافٹ استعمال سیتھ، ت تبدیل كاه فایلس كمپيوٹرس پیٹھ يس ن مدد كر MTP"</string>
+<string name="usb_label_installer_cd">" انسٹال فایل- سوزنک سامان"</string>
+<string name="storage_other_users">باقی یوزرس</string>
+<string name="battery_status_title">بیٹری اسٹیٹس</string>
+<string name="battery_level_title">بیٹری حد</string>
+<string name="apn_settings">"APN"</string>
+<string name="apn_edit">درست كريو چلاییو پوائنٹ</string>
+<string name="apn_not_set">چھن سیٹ</string>
+<string name="apn_name">ناو</string>
+<string name="apn_http_proxy">پراکسی</string>
+<string name="apn_http_port">پورٹ</string>
+<string name="apn_user">یوزرناو</string>
+<string name="apn_password">"پاس ورڈ"</string>
+<string name="apn_server">سرور</string>
+<string name="apn_mms_proxy">MMS پراکسی</string>
+<string name="apn_mms_port">MMS پورٹ</string>
+<string name="apn_auth_type">ثبوت اسنك کہ SIM</string>
+<string name="apn_auth_type_none">"کہانء"</string>
+<string name="apn_auth_type_pap_chap">PAP یا CHAP</string>
+<string name="apn_type">APN قسم</string>
+<string name="apn_protocol">APN پرییوٹوکول</string>
+<string name="apn_roaming_protocol">APN رومنگ پرییوٹوکول</string>
+<string name="carrier_enabled">APN کارگر / ناكار</string>
+<string name="carrier_enabled_summaryOn">APN کارگر</string>
+<string name="carrier_enabled_summaryOff">APN ناكار</string>
+<string name="bearer">علمبردار</string>
+<string name="mvno_type">MNVO قسم</string>
+<string name="mvno_match_data">MVNO قدر</string>
+<string name="menu_delete">خائریج كريو APN</string>
+<string name="menu_new">نوو APN</string>
+<string name="menu_save">"محفوظ تھايو"</string>
+<string name="menu_cancel">واپس كر</string>
+<string name="error_name_empty">ناو فیلڈ ہکنء اسيت خالی.</string>
+<string name="error_apn_empty">APN ہکنء اسيت خالی.</string>
+<string name="error_mcc_not3">MMC فیلڈ گوس اسون 3 ڈجٹس.</string>
+<string name="error_mnc_not23">MMC فیلڈ گوس اسون 2 یا 3 ڈجٹس.</string>
+<string name="restore_default_apn">رسٹور کران ڈیفالٹ APN کی ترتیبات.</string>
+<string name="menu_restore">دبار تھايو ڈفلٹس کین</string>
+<string name="restore_default_apn_completed">پھر سیٹ کرتا ہی کران ڈیفالٹ APN کی ترتیبات گئی مكمل.</string>
+<string name="master_clear_title">"فیکٹری ڈیٹا ریسیٹ"</string>
+<string name="master_clear_summary" product="tablet">" مٹایو تمام ڈیٹا ٹیبلیٹس پیٹھ"</string>
+<string name="master_clear_summary" product="default">" مٹایو تمام ڈیٹا فونس پیٹھ"</string>
+<string name="master_clear_desc" product="tablet">"یء مٹاي سورري ڈیٹا تہندي ٹیبلیٹ منز <b> انٹرنل اسٹوریج </b>، یتھمنز: \n\n <li> تہند گوگل اکاؤنٹ </li>\n<li> سسٹم تہ اپلیکیشن ڈیٹا تہ ترتیبات </li>\n<li> ڈاؤن لوڈ گمژھ ایپس </li> "</string>
+<string name="master_clear_desc" product="default">"یء کر‌ۓ توہندء فونک تمام ڈیٹا ختم <b>اندرم ڈیٹا </b>, یتھ منز:\n\n<li>توہند گوگل اکاونٹ </li>\n<li>سسٹم تء ایپ ڈیٹا ترتیب </li>\n<li>ڈاونلوڈ کرییو ایپس "</li>"</string>
+<string name="master_clear_accounts" product="default">\n\n توہی چھو ونكین یتھ اکاؤنٹس منز داخل گامت: \n</string>
+<string name="master_clear_desc_also_erases_external"><li> موسیقی </li>\n<li> تصويره </li>\n<li> باقی استعمال گژھن وول سند کنٹینٹ </li></string>
+<string name="master_clear_desc_erase_external_storage" product="nosdcard">\n\n موسیقی، شكله، تہ باقی یوزر ڈیٹا صاف كرنه کھتر، یء <b> USB سٹوریج </b> چھی مٹاونچ ضرورت.</string>
+<string name="master_clear_desc_erase_external_storage" product="default">\n\n موسیقی، شكله، تہ باقی یوزر ڈیٹا صاف كرنه کھتر، یء <b> SD کارڈ </b> چھی مٹاونچ ضرورت.</string>
+<string name="erase_external_storage" product="nosdcard">USB اسٹوریج کرییو اریذ</string>
+<string name="erase_external_storage" product="default">SD کارڈ کرییو اریذ</string>
+<string name="erase_external_storage_description" product="nosdcard">مٹايو سورري ڈیٹا اندریم USB سٹوریج منز، مسالپاٹھ موسیقی یا شكله</string>
+<string name="erase_external_storage_description" product="default">مٹايو سورري ڈیٹا اندریم SD کارڈ منز، مسالپاٹھ موسیقی یا شكله</string>
+<string name="master_clear_button_text" product="tablet">پھر سیٹ کرتا ٹیبلٹ</string>
+<string name="master_clear_button_text" product="default">پھر سیٹ کرتا ہی فون</string>
+<string name="master_clear_final_desc">مٹايو تمام پنن ذاتی ذانكاري تہ لوڈ گمژ ایپس؟ توہی ہیکءو نه واپس كریتھ یء عمل!</string>
+<string name="master_clear_final_button_text">مٹايو پریتھکنہہ</string>
+<string name="master_clear_gesture_prompt">" دییو پنن یلء تراونک پٹیرن"</string>
+<string name="master_clear_gesture_explanation">" توہی چھو پنن یلء تراونک پٹیرن بناون تنن فیکٹری ڈیٹا ریسیٹن منظوری دینء کھتر۔"</string>
+<string name="master_clear_failed">"كاه پھر سیٹ کرتا ہی اوناه كرنه تكياذي سسٹم کلیئر سروس چھناه دستياب."</string>
+<string name="master_clear_confirm_title">پھر سیٹ کرتا ہی؟</string>
+<string name="media_format_title" product="nosdcard">USB اسٹوریج کرییو اریذ</string>
+<string name="media_format_title" product="default">SD کارڈ کرییو اریذ</string>
+<string name="media_format_summary" product="nosdcard">" مٹایو تمام ڈیٹا USB جمع جاۓ منز"</string>
+<string name="media_format_summary" product="default">" مٹایو تمام ڈیٹا SD کارڈ پیٹھ"</string>
+<string name="media_format_desc" product="nosdcard">" تمام ڈیٹا مٹاییو USB جمع جاۓ منز؟ توہۓ رایو <b> تمام </b> جمع تھاون واجن ڈیٹا!""</string>
+<string name="media_format_desc" product="default">" تمام ڈیٹا مٹاییوSD کارڈ منز؟ توہۓ رایو <b> تمام </b> جمع تھاون واجن ڈیٹا!""</string>
+<string name="media_format_button_text" product="nosdcard">USB اسٹوریج کرییو اریذ</string>
+<string name="media_format_button_text" product="default">SD کارڈ کرییو اریذ</string>
+<string name="media_format_final_desc" product="nosdcard">" مٹاییو USB جمع جاۓ، ختم کرییو تمام فایلء یمء تاتھ منز آسن؟ توہی ہیکیو نء یء کاءم واپس نیتھ!"</string>
+<string name="media_format_final_desc" product="default">" مٹاییو SD کارڈ، ختم کرییو تمام فایلء یمء تاتھ منز آسن؟ توہی ہیکیو نء یء کاءم واپس نیتھ!"</string>
+<string name="media_format_final_button_text">مٹايو پریتھکنہہ</string>
+<string name="media_format_gesture_prompt">" دییو پنن یلء تراونک پٹیرن"</string>
+<string name="media_format_gesture_explanation" product="nosdcard">" توہی چھء ضرورت پنن انلاک پٹیرن بناونچ یء منظوری دینء کھتر زء توہی چھو یژھان USB جمع جاۓ مٹاونچ منزوری دینء۔"</string>
+<string name="media_format_gesture_explanation" product="default">" توہی چھء ضرورت پنن انلاک پٹیرن بناونچ یء منظوری دینء کھتر زء توہی چھو یژھان SD کارڈ مٹاونچ منزوری دینء۔"</string>
+<string name="call_settings_title">کال ترتیبات</string>
+<string name="call_settings_summary">سیٹ كريو ويسمیل. کال برونٹھكرین، کال ویٹنگ، کالر ايڈي</string>
+<string name="tether_settings_title_usb">USB ٹتھیرگ</string>
+<string name="tether_settings_title_wifi">پورٹیبل ہاٹ سپاٹ</string>
+<string name="tether_settings_title_bluetooth">بلوٹوتھ ٹتھیرگ</string>
+<string name="tether_settings_title_usb_bluetooth">تیٹھیرنگ</string>
+<string name="tether_settings_title_all">"ٹیتھیرگ ت پورٹیبل ہاٹ سپاٹ"</string>
+<string name="usb_tethering_button_text">USB ٹتھیرگ</string>
+<string name="usb_tethering_available_subtext">USB چھو جوڈیتھ، وچھیو ٹتھیر كرنءه کھتر</string>
+<string name="usb_tethering_active_subtext">ٹتھیرڈ</string>
+<string name="usb_tethering_storage_active_subtext">"ہیکو نہ: بگرايتھ انٹرنیٹ کنہہ ییلء اسٹوریج اس گسن استعمال"</string>
+<string name="usb_tethering_unavailable_subtext">USB چھو نه جوڈیتھ</string>
+<string name="usb_tethering_errored_subtext">USB ٹتھیرگ نكس</string>
+<string name="bluetooth_tether_checkbox_text">بلوٹوتھ ٹتھیرگ</string>
+<string name="bluetooth_tethering_available_subtext" product="tablet">"بٹان یمء ٹیبلیٹٹك انٹرنیٹ کنکشن"</string>
+<string name="bluetooth_tethering_available_subtext" product="default">"بٹان یمء فوننك انٹرنیٹ کنکشن"</string>
+<string name="bluetooth_tethering_device_connected_subtext" product="tablet">"بٹان یمء ٹیبلیٹٹك انٹرنیٹ کنکشن 1 الس سیتھ"</string>
+<string name="bluetooth_tethering_device_connected_subtext" product="default">"بٹان یمء فوننك انٹرنیٹ کنکشن 1 الس سیتھ"</string>
+<string name="bluetooth_tethering_devices_connected_subtext" product="tablet">"بٹان یمء ٹیبلیٹٹك انٹرنیٹ کنکشن یتھ <xliff:g id="connectedDeviceCount">%1$d</xliff:g> الس""</string>
+<string name="bluetooth_tethering_devices_connected_subtext" product="default">"بٹان یمء فوننك انٹرنیٹ کنکشن یتھ <xliff:g id="connectedDeviceCount">%1$d</xliff:g> الس""</string>
+<string name="bluetooth_tethering_off_subtext" product="tablet">"باٹهنه یمء ٹیبلیٹٹك انٹرنیٹ کنکشن"</string>
+<string name="bluetooth_tethering_off_subtext" product="default">"باٹهنه یمء فوننك انٹرنیٹ کنکشن"</string>
+<string name="bluetooth_tethering_errored_subtext">چھوناه ٹتھیرڈ</string>
+<string name="bluetooth_tethering_overflow_error">"ہیکءناه ٹتھیرڈ كریتھ یمء كھوت ذیادء <xliff:g id="maxConnection">%1$d</xliff:g> ال.""</string>
+<string name="bluetooth_untether_blank">"<xliff:g id="device_name">%1$s</xliff:g> گاس نه ٹتھیرڈ."</string>
+<string name="tethering_help_button_text">مدد</string>
+<string name="network_settings_title">"سیلولر نیٹ ورکس"</string>
+<string name="manage_mobile_plan_title">موبائل پلان</string>
+<string name="sms_application_title">ڈیفالٹ SMS اپلیکیشن</string>
+<string name="sms_change_default_dialog_title">بدلايو SMS اپلیکیشن؟</string>
+<string name="sms_change_default_dialog_text">استعمال <xliff:g id="new_app">%1$s</xliff:g> یمء كھوت <xliff:g id="current_app">%2$s</xliff:g> زن تہنز SMS اپلیکیشن؟"</string>
+<string name="sms_change_default_no_previous_dialog_text">استعمال <xliff:g id="new_app">%s</xliff:g> زن تہنز SMS اپلیکیشن؟"</string>
+<string name="mobile_unknown_sim_operator">نامولوم SIM آپریٹر</string>
+<string name="mobile_no_provisioning_url">%1$s چھنءاه زاننه يوان اتجاري ویب سائٹ</string>
+<string name="mobile_insert_sim_card">مهرباني كریتھ کرییو داخل SIM کارڈ تہ بیچالو</string>
+<string name="mobile_connect_to_internet">مهرباني كریتھ جوڈو انٹرنیٹس سیتھ</string>
+<string name="location_title">میان روزن جاۓ</string>
+<string name="location_mode_title">تریقء</string>
+<string name="location_mode_high_accuracy_title">اعلی درستتگي</string>
+<string name="location_mode_battery_saving_title">بیٹری بچاوان</string>
+<string name="location_mode_sensors_only_title">ال خالی</string>
+<string name="location_mode_location_off_title">جائی بند</string>
+<string name="location_category_recent_location_requests">بیکرییو روزن جاۓ عرضی</string>
+<string name="location_no_recent_apps">كني ایپس چھنءه تاج عرضی کرمژھ</string>
+<string name="location_category_location_services">روزن جاۓ كھادمات</string>
+<string name="location_high_battery_use">اعلی بیٹری استعمال</string>
+<string name="location_low_battery_use">کم بیٹری استعمال</string>
+<string name="location_mode_screen_title">روزن جاۓ موڈ</string>
+<string name="location_mode_high_accuracy_description">" استعمال کریو GPS، Wi\u2011Fi، تء موبایل نٹورک جاۓ ہاونء کھترء"</string>
+<string name="location_mode_battery_saving_description">"استعمال کریو Wi\u2011Fi تء موبایل نٹورک جاۓ ہاونء کھترء""</string>
+<string name="location_mode_sensors_only_description">" استعمال کریوGPS جاۓ ژانڈنء کھتر"</string>
+<string name="location_loading_injected_setting">" لبان چھء۔۔۔"</string>
+<string name="location_network_based">"  Wi\u2011Fi تء موبایل نٹورک جاۓ"</string>
+<string name="location_neighborhood_level">"کری ایپس استعمال گوگل روزن جاۓ كھادمات تاکہ توہی کرییو ورق روزن جاۓ ہند تكھمينا جلدی. گمنام روزن جاۓ ڈیٹا يي جمع كرنه تہ سوزء گوگلس."</string>
+<string name="location_neighborhood_level_wifi">روزن جاۓ گئی محدود Wi-Fi سیتھ</string>
+<string name="location_gps">GPS سٹلاٹس</string>
+<string name="location_street_level" product="tablet">کرییو ایپس استعمال GPS تهندس ٹیبلیٹس پیٹھ تاکہ تہنز روزن جاۓ گاس ہند اشاره</string>
+<string name="location_street_level" product="default">کرییو ایپس استعمال GPS تهندس فونس پیٹھ تاکہ تہنز روزن جاۓ گاس ہند اشاره</string>
+<string name="assisted_gps">استعمال کرییو مددگار GPS</string>
+<string name="assisted_gps_enabled">استعمال کرییو سرور مدد کھتر GPS (گیرمنتخب کرییو نیٹ ورک استعمال کم كرنه کھتر)</string>
+<string name="assisted_gps_disabled">استعمال کرییو سرور مدد کھتر GPS (گیرمنتخب کرییو GPS کارکردگی بڈاونه کھتر)"</string>
+<string name="use_location_title">"جائی ت گوگل ژانڈن"</string>
+<string name="use_location_summary">كر گوگل استعمال تہند روزن جاۓ تاکہ چھاڈن نتيج گسنء  بہتر تہ باقی كھادمات</string>
+<string name="location_access_title">چلاییو ميان روزن جاۓ</string>
+<string name="location_access_summary">کری ایپس يمو توہی اجازت هيوتوه استعمال تہنز روزن جاۓ تفصیل كرنءه کھتر</string>
+<string name="location_sources_heading">راجینجاي اگر</string>
+<string name="location_gps_config">AGPS کارگر اختیار</string>
+<string name="location_gps_config_summary">کہ agps بنی کارگر مختلف نیٹوركن منز</string>
+<string name="agps_config_summary">" SUPL تء NTP کنفگ"</string>
+<string name="location_gps_config_titlebar">AGPS کارگر اختیار</string>
+<string name="gps_config_titlebar">" GPS کنفگ"</string>
+<string name="gps_config_supl_host">"SUPL سرور پتء"</string>
+<string name="gps_config_supl_port">"SUPL سرور پورٹ"</string>
+<string name="gps_config_cert_path">"SUPL سرٹفکیٹ فایل ہنز واتھ"</string>
+<string name="gps_config_location_method">" اہمیت وول تریقء"</string>
+<string name="gps_config_start_mode">" GPS انجن یلء موڈ"</string>
+<string name="gps_config_connection_type">" کنکشن قسم"</string>
+<string name="gps_enable_option">AGPS کارگر اختیار</string>
+<string name="gps_log_show">AGPS LOG شو</string>
+<string name="gps_log_show_summary">" ہاییو لاگ ای جی پی ایس کھتر"</string>
+<string name="agps_config_taile">" اۓ جی پی ایس کنفگ"</string>
+<string name="agps_enable_option_tailebar">AGPS کارگر اختیار</string>
+<string name="agps_enable_option_registered">درج گمت نیٹ ورک</string>
+<string name="agps_enable_option_all">ساری نیٹ ورکس</string>
+<string name="agps_enable_option_none">م کرییو استعمال AGPS</string>
+<string name="agps_enable_default_set_tailebar">دبار کرییو جمه ڈیفالٹ ترتیبات</string>
+<string name="agps_enable_default_set_text">دبايو ڈیفالٹ ترتیبات واپس اناج کھتر.</string>
+<string name="agps_enable_default_set_button">ڈیفالٹ ترتیبات</string>
+<string name="agps_config_help_tailebar">AGPS مدد</string>
+<string name="agps_config_help_text">AGPS استعمال کرن سیتھ گاس پاد انٹرنیشنل رومنگ فیس اگر توہی ساری نیٹ ورک چنو AGPS کارگر پشنس منز، کر چھ تہندس فونس انٹرنیشنل رومنگ.</string>
+<string name="settings_other">"باقی"</string>
+<string name="about_settings" product="tablet">ٹیبلیٹ متالک</string>
+<string name="about_settings" product="default">فون متالک</string>
+<string name="about_settings_summary">وچھو كونوني ذانكاري، اسٹیٹس، سافٹ ورشن</string>
+<string name="legal_information">كونوني ذانكاري</string>
+<string name="contributors_title">یوگدانکرتا</string>
+<string name="regulatory_information">ریگولیٹری ذانكاري</string>
+<string name="copyright_title">كپيرايٹ</string>
+<string name="license_title">لاسن</string>
+<string name="terms_title">شرت تہ حالت</string>
+<string name="settings_license_activity_title">یلء ذريه لاسن</string>
+<string name="settings_license_activity_unavailable">انتہائی چھ اكھ مشکل لاسن بوجھ كرنس منز.</string>
+<string name="settings_license_activity_loading">"لوڈ گسان"</string>
+<string name="settings_safetylegal_title">هپھاذتي ذانكاري</string>
+<string name="settings_safetylegal_activity_title">هپھاذتي ذانكاري</string>
+<string name="settings_safetylegal_activity_unreachable">"توہی چھوو نه اكھ ڈیٹا کنکشن. یء ذانكاري ونكین وچچھنه کھتر، گسو%s كنتت كمپيوٹرس يس جوڈیتھ اس انٹرنیٹس سیتھ."</string>
+<string name="settings_safetylegal_activity_loading">"لوڈ گسان"</string>
+<string name="lockpassword_choose_your_password_header">چنو پنن پاس ورڈ</string>
+<string name="lockpassword_choose_your_pattern_header">چنو پنن پیٹرن</string>
+<string name="lockpassword_choose_your_pin_header">چنو پننن PIN</string>
+<string name="lockpassword_confirm_your_password_header">واذي کرییو پنن پاس ورڈ</string>
+<string name="lockpassword_confirm_your_pattern_header">واذي کرییو پنن پیٹرن</string>
+<string name="lockpassword_confirm_your_pin_header">واذي کرییو پنن PIN</string>
+<string name="lockpassword_confirm_passwords_dont_match">"پاسورڈس چھناه رلان"</string>
+<string name="lockpassword_confirm_pins_dont_match">"PINs چھنء رلان"</string>
+<string name="lockpassword_choose_lock_generic_header">غیر لاک پسند</string>
+<string name="lockpassword_password_set_toast">پاس ورڈ آو سیٹ كرنه</string>
+<string name="lockpassword_pin_set_toast">PIN آو سیٹ كرنه</string>
+<string name="lockpassword_pattern_set_toast">پیٹرن آو سیٹ كرنه</string>
+<string name="lock_settings_title">" سکرین حفاظتی"</string>
+<string name="lockpattern_change_lock_pattern_label">انلاك پیٹرن کرییو تبدیل</string>
+<string name="lockpattern_change_lock_pin_label">انلاك PIN کرییو تبدیل</string>
+<string name="lockpattern_need_to_unlock">" منظور کریو محفوظ تھاون واجن پٹیرن"</string>
+<string name="lockpattern_need_to_unlock_wrong">" دبارء کرییو کوشش:"</string>
+<string name="lockpattern_recording_intro_header">بنايو اكھ انلاک پیٹرن</string>
+<string name="lockpattern_recording_intro_footer">دبايو مینو مدد کھتر.</string>
+<string name="lockpattern_recording_inprogress">مكمل پت ترايو انگذ ییل</string>
+<string name="lockpattern_recording_incorrect_too_short">جوڈو كمجكم <xliff:g id="number">%d</xliff:g> بندیاں. دباره کوشش کریو."</string>
+<string name="lockpattern_pattern_entered_header">پیٹرن آو ریکارڈ كرنه</string>
+<string name="lockpattern_need_to_confirm">بنايو پیٹرن دباره واذي كرنه کھتر</string>
+<string name="lockpattern_pattern_confirmed_header">تہند نوو انلاک پیٹرن</string>
+<string name="lockpattern_confirm_button_text">"کنفرم"</string>
+<string name="lockpattern_restart_button_text">بییبنايو</string>
+<string name="lockpattern_retry_button_text">"دبارء کرییو کوشش"</string>
+<string name="lockpattern_continue_button_text">جاری</string>
+<string name="lockpattern_settings_title">غیر لاک پیٹرن</string>
+<string name="lockpattern_settings_enable_title">ضرورت پیٹرن</string>
+<string name="lockpattern_settings_enable_summary">ضروری چھو پیٹرن بناون سکرین انلاک کھتر</string>
+<string name="lockpattern_settings_enable_visible_pattern_title">بنايو پیٹرن وچچھون</string>
+<string name="lockpattern_settings_enable_tactile_feedback_title">تھرتھر ذير پیٹھ</string>
+<string name="lockpattern_settings_enable_power_button_instantly_locks">پآو‌ر بٹن گو فوریتور لاک</string>
+<string name="lockpattern_settings_choose_lock_pattern">سیٹ كريو انلاک پیٹرن</string>
+<string name="lockpattern_settings_change_lock_pattern">انلاك پیٹرن کرییو تبدیل</string>
+<string name="lockpattern_settings_help_how_to_record">كتھكٹھ بناووو اكھ انلاک پیٹرن</string>
+<string name="lockpattern_too_many_failed_confirmation_attempts_header">" واریہاہ ذیادء غلط کوششء!"</string>
+<string name="lockpattern_too_many_failed_confirmation_attempts_footer">"بیی کرییو كوشش <xliff:g id="number">%d</xliff:g> سیکنڈ."</string>
+<string name="activity_not_found">اپلیکیشن چھنءه انسٹال كریتھ تهندس فونس منز.</string>
+<string name="manageapplications_settings_title">بندر کرییو مینیج</string>
+<string name="manageapplications_settings_summary">مینج تہ ریموو کرییو انسٹالڈ ایپس</string>
+<string name="applications_settings">اپلیکیشن</string>
+<string name="applications_settings_summary">مینج ایپس، سیٹ اپ کرییو اتاؤلا لانچ شورٹكٹس</string>
+<string name="applications_settings_header">اپلیکیشن ترتیبات</string>
+<string name="install_applications">نامولوم اگر</string>
+<string name="install_unknown_applications">اجازت ديو انسٹال كرنس ایپس نامولوم اگرس پیٹھ</string>
+<string name="install_all_warning" product="tablet">" توہند ٹیبلیٹ تء زاتی ڈیٹا چھء ذیادء کمزور تمن پیٹھ نامعلوم ذریعن ہند ایپسن کن حملہ گژھن، توہی چھوا مانان زء توہی چھو پورء ذمیدار کنتء خرابی توہندء ٹیبلیٹک یا ڈیٹا راونس یس یمء ایپء استعمال کرنء سیتھ ہیکء گژھیتھ۔"</string>
+<string name="install_all_warning" product="default">" توہند فون تء زاتی ڈیٹا چھء ذیادء کمزور تمن پیٹھ نامعلوم ذریعن ہند ایپسن کن حملہ گژھن، توہی چھوا مانان زء توہی چھو پورء ذمیدار کنتء خرابی توہندء فونک یا ڈیٹا راونس یس یمء ایپء استعمال کرنء سیتھ ہیکء گژھیتھ۔"</string>
+<string name="verify_applications">واذي ایپس</string>
+<string name="verify_applications_summary">مهديو اجازت یا کرییو خبردار انسٹال ایپس كرنه برونٹھ يس نكسان ہیکء واتناييتھ</string>
+<string name="advanced_settings">ترقی یافت ترتیبات</string>
+<string name="advanced_settings_summary">کارگر وارياه ترتیبات متبادل</string>
+<string name="application_info_label">"اپلیکیشن ذانكاري"</string>
+<string name="storage_label">"اسٹوریج"</string>
+<string name="auto_launch_label">"ڈفلٹس"</string>
+<string name="auto_launch_label_generic">ڈفلٹس</string>
+<string name="screen_compatibility_label">سکرین متابكت</string>
+<string name="permissions_label">منظوری</string>
+<string name="cache_header_label">کی شی</string>
+<string name="clear_cache_btn_text">صاف کرییو نشاستہ</string>
+<string name="cache_size_label">کی شی</string>
+<string name="controls_label">قابو</string>
+<string name="force_stop">"ذبردستی بند"</string>
+<string name="total_size_label">کل</string>
+<string name="application_size_label">اپلیکیشن</string>
+<string name="external_code_size_label">USB اسٹوریج اپلیکیشن</string>
+<string name="data_size_label">"ڈیٹا"</string>
+<string name="external_data_size_label" product="nosdcard">USB اسٹوریج ڈیٹا</string>
+<string name="external_data_size_label" product="default">"ایس ڈي کارڈ"</string>
+<string name="uninstall_text">"انانسٹال"</string>
+<string name="uninstall_all_users_text">انسٹال سارني یوزر n کھتر</string>
+<string name="install_text">انسٹال</string>
+<string name="disable_text">ناكار</string>
+<string name="enable_text">کارگر</string>
+<string name="clear_user_data_text">صاف کرییو ڈیٹا</string>
+<string name="app_factory_reset">انسٹال اپڈیٹس</string>
+<string name="auto_launch_enable_text">"توہی كوروه پسند یء اپلیکیشن لانچ کیرن ڈیفالٹ سیٹ کنہہ هركتن کھتر."</string>
+<string name="always_allow_bind_appwidgets_text">"توہی كوروه پسند یء اپلیکیشن وڈجیٹس بناونس تہ چلاییو اميك ڈیٹا."</string>
+<string name="auto_launch_disable_text">كاه ڈیفالٹ چھونه مقرر.</string>
+<string name="clear_activities">صاف كريو ڈفلٹس</string>
+<string name="screen_compatibility_text">"یء اپلیکیشن چھونه تہندي سکرین باپت بناوناه امژ. توہی هیكهون یء قابو كرت ذ كتھكٹھ گاس ایڈجسٹ تهندس سكرينس."</string>
+<string name="ask_compatibility">پريچھو یمءسات لانچ کرییو</string>
+<string name="enable_compatibility">پیمانہ اپلیکیشن</string>
+<string name="unknown">"نامعلوم"</string>
+<string name="sort_order_alpha">ناو سیتھ ترتيب</string>
+<string name="sort_order_size">ترتيب سائیز متابك</string>
+<string name="show_running_services">هايو چلنوال كھادمات</string>
+<string name="show_background_processes">هايو كیچڈ چلان</string>
+<string name="reset_app_preferences">پھر سیٹ کرتا اپلیکیشن پسديده</string>
+<string name="reset_app_preferences_title">پھر سیٹ کرتا اپلیکیشن پسديده؟</string>
+<string name="reset_app_preferences_desc">یء کری پھر سیٹ کرتا اپلیکیشن پسديده یمء کھتر: \n\n <li> انکار گمژھ ایپس </li>\n<li> انکار گمژھ اپلیکیشن اتلات </li>\n<li> ڈیفالٹ ایپلیکیشنس حرکت کھتر </li>\n<li> پوتمنزر ڈیٹا ہدایت ایپس کھتر </li>\n<li> كاه ہدایت منظوری </li>\n\n توہی موكلو ناه كاه اپلیکیشن ڈیٹا. </string>
+<string name="reset_app_preferences_button">پھر سیٹ کرتا ہی ایپس</string>
+<string name="manage_space_text">مینج کرییو جائی</string>
+<string name="filter">فلٹر</string>
+<string name="filter_dlg_title">چنو فلٹر متبدل</string>
+<string name="filter_apps_all">تمام "</string>
+<string name="filter_apps_disabled">"کمزور گمت"</string>
+<string name="filter_apps_third_party">ڈاؤن لوڈ گوموت</string>
+<string name="filter_apps_running">انوائس</string>
+<string name="filter_apps_onsdcard" product="nosdcard">"USB اسٹوریج"</string>
+<string name="filter_apps_onsdcard" product="default">SD کارڈز منز</string>
+<string name="disabled">"کمزور گمت"</string>
+<string name="not_installed">"انسٹال چھو نء کرتھ"</string>
+<string name="no_applications">كاه ایپس چھنه.</string>
+<string name="internal_storage">"اندریم اسٹوریج"</string>
+<string name="sd_card_storage" product="nosdcard">"USB اسٹوریج"</string>
+<string name="sd_card_storage" product="default">SD کارڈ اسٹوریج</string>
+<string name="recompute_size">بیگجراوان سائیز ...</string>
+<string name="clear_data_dlg_title">ساری اپلیکیشن ڈیٹا گي خائریج؟</string>
+<string name="clear_data_dlg_text">"ساری اپلیکیشن ڈیٹا گسنء  خائریج هميشکھتر. یتھ منز چھ ساری فائلیں، ترتیبات، اکاؤنٹس، ڈاٹابیسس، وغیرہ."</string>
+<string name="dlg_ok">"ٹھیک"</string>
+<string name="dlg_cancel">"خائریج"</string>
+<string name="app_not_found_dlg_text">ایپ اي ن انسٹال كرد ایپ فہرستس منز لبن.</string>
+<string name="clear_data_failed">"کری نه صاف اپلیکیشن ڈیٹا."</string>
+<string name="app_factory_reset_dlg_title">انسٹال اپڈیٹس؟</string>
+<string name="app_factory_reset_dlg_text">" تمام اپ ڈیٹس یمن MocorDroid سسٹمن ایپن پیٹھ ای آنانسٹال کرنء۔"</string>
+<string name="clear_failed_dlg_title">صاف کرییو ڈیٹا</string>
+<string name="clear_failed_dlg_text">"کری نه صاف اپلیکیشن ڈیٹا."</string>
+<string name="security_settings_desc" product="tablet">یء اپلیکیشن کری چلاییو پھلاين تهندس ٹیبلیٹس پیٹھ:</string>
+<string name="security_settings_desc" product="default">یء اپلیکیشن کری چلاییو پھلاين تهندس فونس پیٹھ:</string>
+<string name="security_settings_desc_multi" product="tablet">یء اپلیکیشن کری چلاییو پھلاين تهندس ٹیبلیٹس پیٹھ: کارکردگی بہتر كرنءه کھتر تہ کم میموری استعمال كرنه کھتر، یمءو منز کنہہ منظوری چھناه دستياب یتھ <xliff:g id="base_app_name">%1$s</xliff:g> تكياذي یء چھو چلان اكسي امل منز یوتھ <xliff:g id="additional_apps_list">%2$s</xliff:g>:" </string>
+<string name="security_settings_desc_multi" product="default">یء اپلیکیشن کری چلاییو پھلاين تهندس فونس پیٹھ: کارکردگی بہتر كرنءه کھتر تہ کم میموری استعمال كرنه کھتر، یمءو منز کنہہ منظوری چھناه دستياب یتھ <xliff:g id="base_app_name">%1$s</xliff:g> تكياذي یء چھو چلان اكسي امل منز یوتھ <xliff:g id="additional_apps_list">%2$s</xliff:g>:"</string>
+<string name="join_two_items">"<xliff:g id="first_item">%1$s</xliff:g> تہ <xliff:g id="second_item">%2$s</xliff:g>"</string>
+<string name="join_many_items_last">"<xliff:g id="all_but_last_item">%1$s</xliff:g> تہ <xliff:g id="last_item">%2$s</xliff:g>"</string>
+<string name="join_many_items_first">"<xliff:g id="first_item">%1$s</xliff:g>, <xliff:g id="all_but_first_and_last_item">%2$s</xliff:g>"</string>
+<string name="join_many_items_middle">"<xliff:g id="added_item">%1$s</xliff:g>, <xliff:g id="rest_of_items">%2$s</xliff:g>"</string>
+<string name="security_settings_billing_desc">یتھ اپلیکیشن ہیکء قیمت گستھ:</string>
+<string name="security_settings_premium_sms_desc">سوزیو پریمیم SMS</string>
+<string name="computing_size">گجران ...</string>
+<string name="invalid_size_value">"ہیکءنه گجروتھ پیکیج سائیز."</string>
+<string name="empty_list_msg">"توہی چھونه کنتءريم-پارٹی ایپس انسٹال كریتھ."</string>
+<string name="version_text">ورشن <xliff:g id="version_num">%1$s</xliff:g>"</string>
+<string name="move_app">پكنايو</string>
+<string name="move_app_to_internal" product="tablet">پكنايو ٹیبلیٹس منز</string>
+<string name="move_app_to_internal" product="default">پكنايو فونس منز</string>
+<string name="move_app_to_sdcard" product="nosdcard">پكنايو USB منز</string>
+<string name="move_app_to_sdcard" product="default">پكنايو SD کارڈ منز</string>
+<string name="moving">پكان</string>
+<string name="insufficient_storage">چھنه وارياه اسٹوریج جائی.</string>
+<string name="does_not_exist">"اپلیکیشن چھنءه موجود."</string>
+<string name="app_forward_locked">اپلیکیشن چھ کاپی- پرییوٹیكٹیڈ.</string>
+<string name="invalid_location">"انسٹال جاۓ چھنءاه صحیح."</string>
+<string name="system_package">"سسٹم اپڈیٹس چھنءه انسٹال كریتھ نیبریمس ميڈياهس منز."</string>
+<string name="force_stop_dlg_title">ذبردستی بند؟</string>
+<string name="force_stop_dlg_text">اگر توہی کرییو ذبردستی اپلیکیشن بند، یء کری نه صحیح کاءم.</string>
+<string name="move_app_failed_dlg_text">"ہکنءه اپلیکیشن پكناوتھ. <xliff:g id="reason">%1$s</xliff:g>""</string>
+<string name="app_install_location_title">پسديد انسٹال جائی</string>
+<string name="app_install_location_summary">بدلايو پسند کرمژ تنصیب روزن جاۓ نيین ایپسن کھتر</string>
+<string name="app_disable_dlg_title">ناكار بلٹ ان اپلیکیشن؟</string>
+<string name="app_disable_dlg_text">" اگر توہی بند کریو بیولٹ-ان ایپ، باقی ایپس ہیکن غلطی کریتھ۔"</string>
+<string name="app_special_disable_dlg_title">خائریج ڈیٹا تہ ناكار اپلیکیشن؟</string>
+<string name="app_special_disable_dlg_text">" اگر توہی بند کریو بیولٹ-ان ایپ، باقی ایپس ہیکن غلطی کریتھ۔ توہند ڈیٹا تی ای مٹاونء۔"</string>
+<string name="app_disable_notifications_dlg_title">بند کرییو اتلاته؟</string>
+<string name="app_disable_notifications_dlg_text">اگر توہی بند کرییو اتلاته یمء اپلیکیشن کھتر، توہی کرییو ذاي وارياه اهم الرٹس تہ اپڈیٹس.</string>
+<string name="app_ops_settings">اپلیکیشن آپریشن</string>
+<string name="app_ops_running">انوائس</string>
+<string name="app_ops_never_used">(ذهينه استعمال گوموت)</string>
+<string name="storageuse_settings_title">اسٹوریج استیمالس منز</string>
+<string name="storageuse_settings_summary">وچھیو اسٹوریج ایپس سیتھ استعمال گمژھ</string>
+<string name="runningservices_settings_title">چلان خدمات</string>
+<string name="runningservices_settings_summary">وچھیو تہ قابو کرییو موجود چلان خدمات</string>
+<string name="service_restarting">بیشروگسان</string>
+<string name="cached">كیچڈ پوتمنزر چلان</string>
+<string name="no_running_services">کنہہین نه چلان.</string>
+<string name="service_started_by_app">اپلیکیشن سیتھ شروع گوموت.</string>
+<string name="service_background_processes">"<xliff:g id="memory">%1$s</xliff:g> خالی"</string>
+<string name="service_foreground_processes">"<xliff:g id="memory">%1$s</xliff:g> استیماللد"</string>
+<string name="running_process_item_user_label">استعمال کرن وول: <xliff:g id="user_name">%1$s</xliff:g>"</string>
+<string name="running_process_item_removed_user_label">موكلايو استعمال کرن وول</string>
+<string name="running_processes_item_description_s_s">"<xliff:g id="numprocess">%1$d</xliff:g> چلان تہ <xliff:g id="numservices">%2$d</xliff:g> كھادمات"</string>
+<string name="running_processes_item_description_s_p">"<xliff:g id="numprocess">%1$d</xliff:g> چلان تہ <xliff:g id="numservices">%2$d</xliff:g> كھادمات"</string>
+<string name="running_processes_item_description_p_s">"<xliff:g id="numprocess">%1$d</xliff:g> چلان چھء تہ <xliff:g id="numservices">%2$d</xliff:g> كھادمات"</string>
+<string name="running_processes_item_description_p_p">"<xliff:g id="numprocess">%1$d</xliff:g> چلان چھء تہ <xliff:g id="numservices">%2$d</xliff:g> كھادمات"</string>
+<string name="runningservicedetails_settings_title">چلان اپلیکیشن</string>
+<string name="no_services">چھوناه چلان</string>
+<string name="runningservicedetails_services_title">كھادمات</string>
+<string name="runningservicedetails_processes_title">چلان چھو</string>
+<string name="service_stop">"ركو"</string>
+<string name="service_manage">"ترتیبات"</string>
+<string name="service_stop_description">یء خدمات چھ آمژھ پانۓ شروع گژھنء. یء بند کیرن مہ واتناي اثر اپلیکیشن ناکاءم كرنس.</string>
+<string name="heavy_weight_stop_description">"یء اپلیکیشن گاس نه محفوظ پاٹھ بند. اگر توہی یء بند کرییو، توہی مہ موكلياو کنہہ تہندي موجود كم."</string>
+<string name="background_process_stop_description">"یء چھ اكھ پرايین اپلیکیشن چلان يس ونت چھ چلان یمءسات امژ ضرورت چھی بی. انتہائی چھونه امتور پاٹھ كه بهانه یء بند كرنس."</string>
+<string name="service_manage_description">"<xliff:g id="client_name">%1$s</xliff:g>: ونكین چھ استعمال سپدان. زیر کرییو ترتیب یء قابو كرنه کھتر."</string>
+<string name="main_running_process_description">حقیقی عمل چھی استیمالس منز.</string>
+<string name="process_service_in_use_description">خدمات <xliff:g id="comp_name">%1$s</xliff:g> چھ كم منز."</string>
+<string name="process_provider_in_use_description">مهيياوول <xliff:g id="comp_name">%1$s</xliff:g> چھ كم منز. "</string>
+<string name="runningservicedetails_stop_dlg_title">بند کرییو سسٹم خدمات؟</string>
+<string name="runningservicedetails_stop_dlg_text" product="tablet">اگر توہی یء خدمات بند کرییو، کنہہ خصوصیات تہندي ٹیبلیٹک مہ کیرن ٹھیک پاٹھ کاءم يتسكالس نه توہی پآو‌ر کرییو بند تہ پت ترايو ییل دباره.</string>
+<string name="runningservicedetails_stop_dlg_text" product="default">اگر توہی یء خدمات بند کرییو، کنہہ خصوصیات تہندي فوننك مہ کیرن ٹھیک پاٹھ کاءم يتسكالس نه توہی پآو‌ر کرییو بند تہ پت ترايو ییل دباره.</string>
+<string name="language_settings">"کی زبان ت ان پٹ"</string>
+<string name="language_keyboard_settings_title">"کی زبان ت ان پٹ"</string>
+<string name="language_settings_category">زبانک ترتیبات</string>
+<string name="keyboard_settings_category">"كیيبوڈ ت ان پٹ ذري"</string>
+<string name="phone_language">کی زبان</string>
+<string name="auto_replace">آٹو-رپلیس</string>
+<string name="auto_replace_summary">صحیح کرییو غلط گامت الفاظ</string>
+<string name="auto_caps">آٹو-كیپٹلاجیشن</string>
+<string name="auto_caps_summary">بڑی حروف کرییو گوڈنيك هروپھ جملهس منز</string>
+<string name="auto_punctuate">آٹو-پككویٹ</string>
+<string name="hardkeyboard_category">کوڑی بورڈ ترتیبات</string>
+<string name="auto_punctuate_summary">پریس کرییو خلائی کی دويلاٹي داخل كرنه کھتر \u0022. \u0022</string>
+<string name="show_password">بنايو پسسوورڈ وچچھون</string>
+<string name="ime_security_warning">یء ان پٹ تریقء مہ اس کران جمع سورري ٹیکسٹ يس توہی لیکھیوه، یتھمنز ذاتی ڈیٹا ت چھو مثال پسسوورڈس تہ کریڈٹ کارڈ نمبرس. یء چھو اپلیکیشن پیٹھ يوان <xliff:g id="ime_application_name">%1$s</xliff:g>. استعمال کرییو یء ان پٹ تریقء؟ "</string>
+<string name="spellchecker_security_warning">یء اسپیل چیکر مہ اس کران جمع سورري ٹیکسٹ يس توہی لیکھیوه، یتھمنز ذاتی ڈیٹا ت چھو مثال پسسوورڈس تہ کریڈٹ کارڈ نمبرس. یء چھو اپلیکیشن پیٹھ يوان <xliff:g id="ime_application_name">%1$s</xliff:g>. استعمال کرییو یء اسپیل چیکر؟ "</string>
+<string name="spellchecker_quick_settings">"ترتیبات"</string>
+<string name="spellchecker_language">کی زبان</string>
+<string name="failed_to_open_app_settings_toast">ناکاءم گو ترتیبات ییل كرنس منز یتھ کھتر <xliff:g id="ime_application_name">%1$s</xliff:g>"</string>
+<string name="pointer_settings_category">ماؤس / ٹریک پیڈ</string>
+<string name="pointer_speed">پٹر رفتار</string>
+<string name="game_controller_settings_category">كھیل كابووال</string>
+<string name="vibrate_input_devices">استعمال کرییو وایبریٹر</string>
+<string name="vibrate_input_devices_summary">رڈریكٹر وایبریٹر كھیل كابووالس یمءسات جوڈیتھ اس.</string>
+<string name="keyboard_layout_dialog_title">چنو بورڈ لی آؤٹ</string>
+<string name="keyboard_layout_dialog_setup_button">سیٹ كريو بورڈ لیاٹس</string>
+<string name="keyboard_layout_dialog_switch_hint">ییل کھتر، پریس کرییو کنٹرول-اسپیس بار</string>
+<string name="keyboard_layout_default_label">ڈیفالٹ</string>
+<string name="keyboard_layout_picker_title">کی بورڈ لیاٹس</string>
+<string name="user_dict_settings_title">ذاتی ڈکشنری</string>
+<string name="user_dict_settings_add_menu_title">جوڈن</string>
+<string name="user_dict_settings_add_dialog_title">"جڈو ڈکشنری سیتھ"</string>
+<string name="user_dict_settings_add_screen_title">جمله</string>
+<string name="user_dict_settings_add_dialog_more_options">"واريه متبادل"</string>
+<string name="user_dict_settings_add_dialog_less_options">کم اكھتيارت</string>
+<string name="user_dict_settings_add_dialog_confirm">"ٹھیک"</string>
+<string name="user_dict_settings_add_word_option_name">لفظ:</string>
+<string name="user_dict_settings_add_shortcut_option_name">شارٹ کٹ</string>
+<string name="user_dict_settings_add_locale_option_name">کی زبان:</string>
+<string name="user_dict_settings_add_word_hint">لیکھیو اكھ لفظ</string>
+<string name="user_dict_settings_add_shortcut_hint">اختیار وول شارٹ کٹ</string>
+<string name="user_dict_settings_edit_dialog_title">درستت کرییو لفظ</string>
+<string name="user_dict_settings_context_menu_edit_title">درستت كرن</string>
+<string name="user_dict_settings_context_menu_delete_title">"رد"</string>
+<string name="user_dict_settings_empty_text">تهي چھ نہ كه هروپھ استعمال گژھن وول ڈکشنری مذهررايو هروپھ ذير كرتھ اضافہ (+) بٹون.</string>
+<string name="user_dict_settings_all_languages">سارني ذبانن کھتر</string>
+<string name="user_dict_settings_more_languages">وارياه ذبانه ...</string>
+<string name="testing">اجماون</string>
+<string name="testing_phone_info" product="tablet">ٹیبلیٹ ذانكاري</string>
+<string name="testing_phone_info" product="default">فون ذانكاري</string>
+<string name="testing_battery_info">" بیٹری زانکاری"</string>
+<string name="quick_launch_title">" جلدی لانچ"</string>
+<string name="quick_launch_summary">" تھاییو کیبورڈک شاٹکٹس ایپ لانچ کرنء کھتر"</string>
+<string name="quick_launch_assign_application">" منصوب کریو ایپ"</string>
+<string name="quick_launch_no_shortcut">" کہان شاٹکٹ چھنء"</string>
+<string name="quick_launch_shortcut">" ژانڈیو + <xliff:g id="shortcut_letter">%1$s</xliff:g>"</string>
+<string name="quick_launch_clear_dialog_title">"صاف"</string>
+<string name="quick_launch_clear_dialog_message">" توہند شاٹکٹ <xliff:g id="shortcut_letter">%1$s</xliff:g> (<xliff:g id="application_name">%2$s</xliff:g>) کھتر ای صاف کرنء۔"</string>
+<string name="quick_launch_clear_ok_button">"ٹھیک"</string>
+<string name="quick_launch_clear_cancel_button">"خائریج"</string>
+<string name="quick_launch_display_mode_applications">اپلیکیشن</string>
+<string name="quick_launch_display_mode_shortcuts">"شورٹکٹ"</string>
+<string name="input_methods_settings_title">ٹیکسٹ ان پٹ</string>
+<string name="input_method">"ان پٹ تریقء"</string>
+<string name="current_input_method">ڈیفالٹ</string>
+<string name="input_method_selector">ان پٹ کی بورڈ سلیكٹر</string>
+<string name="input_method_selector_show_automatically_title">حاصل</string>
+<string name="input_method_selector_always_show_title">"ہمیش هویو"</string>
+<string name="input_method_selector_always_hide_title">همیشه چھپاون</string>
+<string name="configure_input_method">"سیٹ اپ ان پٹ تریقء"</string>
+<string name="input_method_settings">"ترتیبات"</string>
+<string name="input_method_settings_button">"ترتیبات"</string>
+<string name="active_input_method_subtypes">چلان ان پٹ تریقء</string>
+<string name="use_system_language_to_select_input_method_subtypes">استعمال کرییو سسٹم کی زبان</string>
+<string name="input_methods_settings_label_format">"<xliff:g id="ime_name">%1$s</xliff:g> ترتیبات"</string>
+<string name="input_methods_and_subtype_enabler_title">چنو چلان ان پٹ تریقء</string>
+<string name="onscreen_keyboard_settings_summary">سکرین پیٹھ بورڈ ترتیبات</string>
+<string name="builtin_keyboard_settings_title">"سوبود کیبورڈ"</string>
+<string name="builtin_keyboard_settings_summary">کوڑی بورڈ ترتیبات</string>
+<string name="development_settings_title">ڈویلپر متبادل</string>
+<string name="development_settings_summary">سیٹ اپشنس اپلیکیشن تركي کھتر</string>
+<string name="development_settings_not_available">ڈیولپر اپشنس چھنه دستياب یمءس استعمال کرن وولس کھتر</string>
+<string name="enable_adb">USB ٹھیک کرون</string>
+<string name="enable_adb_summary">ڈیبگ موڈ یمءسات USB اس جوڈیتھ</string>
+<string name="clear_adb_keys">واپس USB ٹھیک کرون مجازی</string>
+<string name="bugreport_in_power">" پاور مینیوک بگ رپورٹ"</string>
+<string name="bugreport_in_power_summary">" تھاییو را‌ۓ اتھ پاور مینیوس منز تاکء نی بگ رپورٹ"</string>
+<string name="keep_screen_on">روجو راہ</string>
+<string name="keep_screen_on_summary">سکرین چھنءه ذهي شوگان چارج گسنس دوران</string>
+<string name="bt_hci_snoop_log">کارگر بلوٹوت HCI سنوپ لاگ</string>
+<string name="bt_hci_snoop_log_summary">تلیو سورري بلوٹوت HCI پیکٹ اكس فایلء منز</string>
+<string name="select_runtime_title">" چنیو چلنک واقھ"</string>
+<string name="select_runtime_dialog_title">" چنیو چلنک واقھ"</string>
+<string name="select_runtime_warning_message">" دبارء کرییو شروع بدلاونء کھتر چلنک واقھ یتء پیٹھ <xliff:g id="old" example="libdvm.so">%1$s</xliff:g> یوت تام <xliff:g id="new" example="libart.so">%2$s</xliff:g>؟"</string>
+<string name="wifi_display_certification">وائرلیس ڈسپلی سرٹیفیکیشن</string>
+<string name="wifi_display_certification_summary">هايو اپشنس وائرلیس ڈسپلی سرٹیفیکیشن کھتر</string>
+<string name="allow_mock_location">اجازت موك روزن جاۓ</string>
+<string name="allow_mock_location_summary">اجازت موك روزن جاۓ</string>
+<string name="adb_warning_title">"اجازت دییو USB ڈیبگگگ کھتر؟"</string>
+<string name="adb_warning_message">USB ٹھیک کرون چھو اراد خالی تارك مقصد کھتر. استعمال كريو یء ڈیٹا نقل كرنه کھتر تهندس کمپیوٹر تہ تهندس الس درمیان، ام بجائی ذ ایپس تهندس الس پیٹھ چھ اتلات بغیر تہ پرییو لوگ ڈیٹا.</string>
+<string name="adb_keys_warning_message">"موكلاوین چلاییو USB ٹھیک كرنه کھتر ساروي كپيوٹرو پیٹھ یمءك توہی گوڈی مجاز چھو؟"</string>
+<string name="dev_settings_warning_title">اجازت تارك ترتیبات؟</string>
+<string name="dev_settings_warning_message">یمء ترتیبات ٹھیک کرون چھو اراد خالی تارك مقصد کھترم سیتھ واتي تهندس آلسی اثر تہ اپلیکیشن اتھ پیٹھ پھٹی یا كرينه صحیح کاءم.</string>
+<string name="verify_apps_over_usb_title">USB پیٹھ کرییو ایپس واذياه</string>
+<string name="verify_apps_over_usb_summary">وچھیو ایپس يم انسٹال گئی ADB / ADT سیتھ نقصان دہ عادت کین.</string>
+<string name="enforce_read_external_title" product="nosdcard">بچايو USB سٹوریج</string>
+<string name="enforce_read_external_summary" product="nosdcard">ایپس پذي ضرور اجازت مگن USB سٹوریج پرنه کھتر</string>
+<string name="enforce_read_external_confirm_title" product="nosdcard">بچايو USB سٹوریج؟</string>
+<string name="enforce_read_external_confirm_message" product="nosdcard">یمءسات USB سٹوریج اس محفوظ، ایپس چھ ضروری اجازت مگن ڈیٹا پرنه کھتر نیبریم اسٹوریج پیٹھ. \n\n کنہہ ایپس مہ کیرن نه کاءم يتسكالس نه کوئی بھی اپ گسنء  تیهیدین ڈیولپرس نشست.</string>
+<string name="enforce_read_external_title" product="default">بچايو SD کارڈ</string>
+<string name="enforce_read_external_summary" product="default">ایپس پذي ضرور اجازت مگن SD کارڈ پرنه کھتر</string>
+<string name="enforce_read_external_confirm_title" product="default">بچايو SD کارڈ؟</string>
+<string name="enforce_read_external_confirm_message" product="default">یمءسات SD کارڈ چھ محفوظ، ایپس چھ ضروری اجازت مگن ڈیٹا پرنه کھتر نیبریم اسٹوریج پیٹھ. \n\n کنہہ ایپس مہ کیرن نه کاءم يتسكالس نه کوئی بھی اپ گسنء  تیهیدین ڈیولپرس نشست.</string>
+<string name="enable_terminal_title">لوکل تیرمنول</string>
+<string name="enable_terminal_summary">کارگر ٹرمینل اپلیکیشن يس پیش تھاوي لوکل شیل چلاییو</string>
+<string name="gadget_picker_title">چنو گیڈجیٹ</string>
+<string name="widget_picker_title">چنو وڈجیٹ</string>
+<string name="allow_bind_app_widget_activity_allow_bind_title">بنايو وڈجیٹ تہ اجازت چلاییو؟</string>
+<string name="allow_bind_app_widget_activity_allow_bind">همیشه بنايو توہی وڈجیٹ، <xliff:g id="widget_host_name">%1$s</xliff:g> كر چلاییو سورري ڈیٹا يس یء کا غلبہ ہی."</string>
+<string name="allow_bind_app_widget_activity_always_allow_bind">همیشه اجازت <xliff:g id="widget_host_name">%1$s</xliff:g> وڈجیٹس بناونس تہ چلاییو اميك ڈیٹا"</string>
+<string name="battery_history_days">"<xliff:g id="days">%1$d</xliff:g>d <xliff:g id="hours">%2$d</xliff:g>h <xliff:g id="minutes">%3$d</xliff:g>m <xliff:g id="seconds">%4$d</xliff:g>s"</string>
+<string name="battery_history_hours">"<xliff:g id="hours">%1$d</xliff:g>h <xliff:g id="minutes">%2$d</xliff:g>m <xliff:g id="seconds">%3$d</xliff:g>s"</string>
+<string name="battery_history_minutes"><xliff:g id="minutes">%1$d</xliff:g>m <xliff:g id="seconds">%2$d</xliff:g>s</string>
+<string name="battery_history_seconds"><xliff:g id="seconds">%1$d</xliff:g> s"</string>
+<string name="battery_history_days_no_seconds"><xliff:g id="days">%1$d</xliff:g>d <xliff:g id="hours">%2$d</xliff:g>h <xliff:g id="minutes">%3$d</xliff:g>m"</string>
+<string name="battery_history_hours_no_seconds"><xliff:g id="hours">%1$d</xliff:g>h <xliff:g id="minutes">%2$d</xliff:g>m</string>
+<string name="battery_history_minutes_no_seconds">"<xliff:g id="minutes">%1$d</xliff:g>m"</string>
+<string name="usage_stats_label">استعمال حساب</string>
+<string name="testing_usage_stats">استعمال حساب</string>
+<string name="display_order_text">ترتيب یمءسيت:</string>
+<string name="app_name_label">اپلیکیشن</string>
+<string name="launch_count_label">" گراند"</string>
+<string name="usage_time_label">ٹائم استعمال</string>
+<string name="accessibility_settings">"رسائی پذیری"</string>
+<string name="accessibility_settings_title">چلاییو ترتیبات</string>
+<string name="accessibility_services_title">كھادمات</string>
+<string name="accessibility_system_title">"سسٹم"</string>
+<string name="accessibility_captioning_title">كیپشنس</string>
+<string name="accessibility_screen_magnification_title">اجاپھ اشاره</string>
+<string name="accessibility_screen_magnification_summary">" ییلء یء خاصیت آسء یالء، توہی ہیکیو زوم ان یا آوٹ کریتھ  ترۓ لٹء سکرین دباونء سیتھ۔ \n\n ییلء زومڈ ان آسء، توہی ہیکیو: \n<ul><li> پین: فیریو زء یا ترۓ اونگجء سکرین پیٹھ۔ </li>\n<li>اڈجسٹ کریو زوم ہند مقدار: رلایو زء یا ترۓ اونگجء اکوٹ یا پھلایو تعم الگ۔ </li></ul>\n\nتوہی ہیکیو بۓ عام پایٹھ بڈھراویتھ زء توہندء اونگجء تال کیہاہ چھو ترۓ لٹء دباونء سیتھ تء اتی تھاونء سیتھ۔ اتھ بڈھراونکس حالتس منز، توہی ہیکیو اونگج فیرناویتھ مختلف حصن منز سکرینس پیٹھ۔ تولیو اونگچ تھود بۓ پننس حالتس منز واپن اننء کھتر۔ \n\nنوٹ: ترۓ لٹء دباون بڈھاونء کھتر چھء پریتھ جاۓ کاءم کران کیبورڈ تء نیویگیشن بارء ورۓ۔"</string>
+<string name="accessibility_global_gesture_preference_title">چلاییو شارٹ کٹ</string>
+<string name="accessibility_global_gesture_preference_summary_on">"ییل"</string>
+<string name="accessibility_global_gesture_preference_summary_off">"بند"</string>
+<string name="accessibility_global_gesture_preference_description">یمءسات یء خصوصیات اس ییل، توہی ہیکءو جلدی کارگر كریتھ چلاییو خصوصیات ڈیل سٹیپس منز: \n\n مرحلہ 1 پریس تہ ہولڈ پآو‌ر بٹن ييتسكالس توہی آواز بوجو یا محسوس اكھ ويبریشن کرییو. \n\n ٹچ تہ ہولڈ ذه اگذه يتسكالس توہی بوجو تصدیق . \n\n اگر الس چھ مكھتالپھي یوزر، استعمال کرییو یء شٹكٹ لاک سکرین پیٹھ ارجيتور كر چلاییو يتسكالس ال گاس انلاک. </string>
+<string name="accessibility_toggle_large_text_preference_title">" بوڈ ٹیکسٹ"</string>
+<string name="accessibility_toggle_screen_magnification_preference_title">سکرین اجاپھ</string>
+<string name="accessibility_toggle_screen_magnification_auto_update_preference_title">ٹوپڈیٹ سکرین اجاپھ</string>
+<string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">"اپڈیٹسكرين اجاپھ اپلیکیشن ترسشاشنس پیٹھ"</string>
+<string name="accessibility_power_button_ends_call_prerefence_title">پآو‌ر بٹنن کر ختم کال</string>
+<string name="accessibility_toggle_speak_password_preference_title">ونو پسسوورڈس</string>
+<string name="accessibility_long_press_timeout_preference_title">"ذير کرییو ت رٹو جمود"</string>
+<string name="accessibility_menu_item_settings">"ترتیبات"</string>
+<string name="accessibility_feature_state_on">"ییل"</string>
+<string name="accessibility_feature_state_off">"بند"</string>
+<string name="captioning_preview_title">ہاییو</string>
+<string name="captioning_standard_options_title">مياردار اكھتيارت</string>
+<string name="captioning_locale">کی زبان</string>
+<string name="captioning_text_size">ٹیکسٹ زیچھرس</string>
+<string name="captioning_preset">کیپشن تریقء</string>
+<string name="captioning_custom_options_title">پننء مرضی اكھتيارات</string>
+<string name="captioning_background_color">پوتمنزر رنگ</string>
+<string name="captioning_background_opacity">پوتمنزر گوٹنيار</string>
+<string name="captioning_foreground_color">ٹیکسٹ رنگ</string>
+<string name="captioning_foreground_opacity">ٹیکسٹ گوٹنيار</string>
+<string name="captioning_edge_color">ایج رنگ</string>
+<string name="captioning_edge_type">ایجک قسم</string>
+<string name="captioning_typeface">فانٹ فیملی</string>
+<string name="captioning_preview_text">کیپشن باسن یتھ هو</string>
+<string name="locale_default">ڈیفالٹ</string>
+<string name="color_none">"کہانء"</string>
+<string name="color_white">سفید</string>
+<string name="color_gray">صوئر</string>
+<string name="color_black">كرهون</string>
+<string name="color_red">ووذول</string>
+<string name="color_green">سبذ</string>
+<string name="color_blue">نيول</string>
+<string name="color_cyan">لاجوردی</string>
+<string name="color_yellow">لدر</string>
+<string name="color_magenta">میگٹا</string>
+<string name="enable_service_title">استعمال کرییو <xliff:g id="service" example="TalkBack">%1$s</xliff:g>؟"</string>
+<string name="capabilities_list_title">"<xliff:g id="service" example="TalkBack">%1$s</xliff:g> ضرورت چھی"</string>
+<string name="capability_title_receiveAccessibilityEvents">پركھو پنن کاءم</string>
+<string name="capability_desc_receiveAccessibilityEvents">"حاصل کرییو معلومات ییلءي توہی دبار اٹریكٹ گسيو یپپ سیتھ."</string>
+<string name="disable_service_title">ركو <xliff:g id="service" example="TalkBack">%1$s</xliff:g>؟"</string>
+<string name="disable_service_message">"اوکی ٹچ كریتھ رکی <xliff:g id="service" example="TalkBack">%1$s</xliff:g>.""</string>
+<string name="accessibility_no_services_installed">كهن سروس گئی نہ: انسٹال</string>
+<string name="accessibility_service_no_apps_title">" ضرورت چھء سکرین پرن وایل سند؟"</string>
+<string name="accessibility_service_no_apps_message">" ٹاک بیک چھء دیوان آوازء ہند را‌ۓ تاکہ گاش ورۓ نفر تء کم وچھن وایل استعمال کرن وایل میلء مدد۔ کیہاہ توہی چھوا یژھان یء استعمال کرن مفتس منز MocorDroid مارکیٹ پیٹھ؟"</string>
+<string name="accessibility_service_default_description">كهن ڈسكرپشن آو نہ: پھرهام کرن :.</string>
+<string name="settings_button">"ترتیبات"</string>
+<string name="print_settings">پرنٹنگ</string>
+<string name="print_settings_title">پرنٹ سروسز</string>
+<string name="print_service_security_warning_title">استعمال کرییو <xliff:g id="service" example="My Print Service">%1$s</xliff:g>؟"</string>
+<string name="print_service_security_warning_summary">"تہند دستاویز هیكین اكس یا اك كھوت ذیادء سرورن نش گجرتھ پرنٹر تان واتنس دوران."</string>
+<string name="print_no_services_installed">" کہان سرور آء نء استعمال کرنء۔"</string>
+<string name="print_no_printers_found">"كه ت پرنیتر آو نہ لبن"</string>
+<string name="print_menu_item_settings">"ترتیبات"</string>
+<string name="print_menu_item_add_printers">اضافہ پرنٹر</string>
+<string name="print_feature_state_on">"ییل"</string>
+<string name="print_feature_state_off">"بند"</string>
+<string name="print_menu_item_add_service">"هررايو پرنٹر"</string>
+<string name="print_menu_item_add_printer">"هررايو پرنٹر"</string>
+<string name="print_menu_item_search">"ژانڈن"</string>
+<string name="print_searching_for_printers">"ساڈن پرنٹر کھتر"</string>
+<string name="print_service_disabled">ناكار خدمت</string>
+<string name="print_print_jobs">پرنٹ نوکری</string>
+<string name="print_print_job">پرنٹ نوکری</string>
+<string name="print_restart">"نوو شروع"</string>
+<string name="print_cancel">"خائریج"</string>
+<string name="print_printing_state_title_template">"پرنٹ گسسن <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g>"</string>
+<string name="print_cancelling_state_title_template">"منسوخ گسسن <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g>"</string>
+<string name="print_failed_state_title_template">"پرنٹر غلطی <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g>"</string>
+<string name="print_blocked_state_title_template">"پرنٹر بند گمت <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g>"</string>
+<string name="print_search_box_shown_utterance">"ساڈو هومت دببه"</string>
+<string name="print_search_box_hidden_utterance">"ساڈو كھٹتھ دببه"</string>
+<plurals name="print_search_result_count_utterance">
+<item quantity="one">"<xliff:g id="count" example="1">%1$s</xliff:g> پرنٹر آو لبن"</item>
+<item quantity="other">"<xliff:g id="count" example="2">%1$s</xliff:g> پرنٹر آو لبن"</item>
+</plurals>
+<string name="power_usage_summary_title">بیٹری</string>
+<string name="power_usage_summary">بیٹری کیا ہیکہ استعمال كریتھ</string>
+<string name="power_usage_not_available">"بیٹری استعمال كرنك ڈیٹا چھنء: موجود."</string>
+<string name="battery_since_unplugged">بیٹری کرییو استعمال پلگ كڈنس تام</string>
+<string name="battery_since_reset">بیٹری کرییو استعمال دوبار سیٹ كرنس تام</string>
+<string name="battery_stats_on_battery">"<xliff:g id="time">%1$s</xliff:g> بیٹری دخول"</string>
+<string name="battery_stats_duration">"<xliff:g id="time">%1$s</xliff:g> پلگ كڈنس تام"</string>
+<string name="battery_stats_charging_label">"چارج گسسن"</string>
+<string name="battery_stats_screen_on_label">سکرین ترايو ییل</string>
+<string name="battery_stats_gps_on_label">GPS ترايو ییل</string>
+<string name="battery_stats_wifi_running_label">Wi-Fi</string>
+<string name="battery_stats_wake_lock_label">هوشيار</string>
+<string name="battery_stats_phone_signal_label">"سیلولر نیٹ ورک سگنل"</string>
+<string name="awake">آل هوشيار وقت</string>
+<string name="wifi_on_time">Wi-Fi كھولنك وقت</string>
+<string name="bluetooth_on_time">Wi-Fi كھولنك وقت</string>
+<string name="usage_name_percent">"<xliff:g id="name">%1$s</xliff:g>" - "<xliff:g id="number" example="30">%2$s</xliff:g><xliff:g id="percent" example="%">%%</xliff:g>"</string>
+<string name="history_details_title">پتم معلومات</string>
+<string name="details_title">استعمال کرییو معلومات</string>
+<string name="details_subtitle">استعمال کرییو معلومات</string>
+<string name="controls_subtitle">پآو‌ر استعمال کرییو ٹھیک ہی</string>
+<string name="packages_subtitle">پیكیجس هیتھ</string>
+<string name="power_screen">سکرین</string>
+<string name="power_wifi">Wi-Fi</string>
+<string name="power_bluetooth">بلوٹوتھ</string>
+<string name="power_cell">سیل یوز</string>
+<string name="power_phone">آواز کالس</string>
+<string name="power_idle" product="tablet">ٹیبلیٹ آئیڈل</string>
+<string name="power_idle" product="default">فون آئیڈل</string>
+<string name="usage_type_cpu">CPU تمام</string>
+<string name="usage_type_cpu_foreground">CPU پھورگروڈ</string>
+<string name="usage_type_wake_lock">ہوشیار روذو</string>
+<string name="usage_type_wifi_running">Wi-Fi چلان</string>
+<string name="usage_type_phone" product="tablet">"ٹیبلیٹ"</string>
+<string name="usage_type_phone" product="default">"فون"</string>
+<string name="usage_type_data_send">" موبایل ڈیٹا آونء سوزنء"</string>
+<string name="usage_type_data_recv">" موبایل ڈیٹا آو رٹنء"</string>
+<string name="usage_type_data_wifi_send">"Wi\u2011Fi ڈیٹا آو سوزنء"</string>
+<string name="usage_type_data_wifi_recv">" "Wi\u2011Fi آو رٹنء""</string>
+<string name="usage_type_audio">آواز</string>
+<string name="usage_type_video">ویڈیو</string>
+<string name="usage_type_on_time">وقت شروع</string>
+<string name="usage_type_no_coverage">سگنل بغیر وقت</string>
+<string name="battery_action_stop">"ذبردستی بند"</string>
+<string name="battery_action_app_details">"اپلیکیشن ذانكاري"</string>
+<string name="battery_action_app_settings">اپلیکیشن ترتیبات</string>
+<string name="battery_action_display">سکرین ترتیبات</string>
+<string name="battery_action_wifi">Wi-Fi ترتیبات</string>
+<string name="battery_action_bluetooth">بلوٹوت ترتیبات</string>
+<string name="battery_desc_voice">بیٹری چھ استعمال گسن آواز کالس جريي</string>
+<string name="battery_desc_standby" product="tablet">بیٹری چھ استعمال گسن ییلء ٹیبلیٹ اس بیکار</string>
+<string name="battery_desc_standby" product="default">بیٹری چھ استعمال گسن ییلء فون اس بیکار</string>
+<string name="battery_desc_radio">بیٹری چھ استعمال گسن پھونك ریڈیو سیتھ</string>
+<string name="battery_sugg_radio">آیرپلین موڈ ترايو ییل تاکہ توہی ہیکیو بچايتھ پآو‌ر تمن جگهن نش يیتي نہ تہند فونک کوریج آسء</string>
+<string name="battery_desc_display">بیٹری چھ استعمال گسان ڈسپلی ت بی بیک لایٹء دوران</string>
+<string name="battery_sugg_display">گنٹءايو سكرينچ رونك ب / یا سکرین ٹائم آؤٹ</string>
+<string name="battery_desc_wifi">بیٹری چھ استعمال گسان Wi-Fi دورہ</string>
+<string name="battery_sugg_wifi">"Wi-Fi اسو بند کران ییلء نہ استعمال اسو كر آسان یا ییلء نہ ي دستياب اس آسان"</string>
+<string name="battery_desc_bluetooth">بیٹری چھ استعمال گسان بلوٹوت دورہ</string>
+<string name="battery_sugg_bluetooth_basic">"بلوٹوتھ اسو بند کران ییلء نہ توہی اسو استعمال کرون"</string>
+<string name="battery_sugg_bluetooth_headset">بيس بلوٹوت آلسی کرییو جڈنچ کوشش کریو</string>
+<string name="battery_desc_apps">بیٹری چھ اپلیکیشن دورہ استعمال گسان</string>
+<string name="battery_sugg_apps_info">ركو یا انسٹال کرییو اپلیکیشن</string>
+<string name="battery_sugg_apps_gps">چنو بیٹری-دفاع تریقء</string>
+<string name="battery_sugg_apps_settings">اكھ اپلیکیشن هیكي ترتیبات ي پیشکش دتھ زی ایس یو کری بیٹری هند استعمال ختم</string>
+<string name="battery_desc_users">بیٹری چھ استعمال گسان کلائنٹ دورہ</string>
+<string name="menu_stats_unplugged">"<xliff:g id="unplugged">%1$s</xliff:g> پلگ كڈنس تام"</string>
+<string name="menu_stats_last_unplugged">یوتام آخری پلگ یی كڈن: <xliff:g id="unplugged">%1$s</xliff:g>"</string>
+<string name="menu_stats_total">يوسیج ٹوٹلس</string>
+<string name="menu_stats_refresh">دبار تاذه ...</string>
+<string name="process_mediaserver_label">ميڈياسرور</string>
+<string name="process_stats_summary_title">چلن مطابق</string>
+<string name="process_stats_summary">گيكي چھ مسلسل اضافہ كرنس متعلق ونان</string>
+<string name="app_memory_use">میموری استعمال</string>
+<string name="process_stats_total_duration">"<xliff:g id="type">%1$s</xliff:g>  ایپس پیٹھ <xliff:g id="time">%2$s</xliff:g>"</string>
+<string name="process_stats_type_background">بیک گراؤنڈ</string>
+<string name="process_stats_type_foreground">بروهيم منظر</string>
+<string name="process_stats_type_cached">كیشڈ</string>
+<string name="process_stats_memory_status">" آلچ میمری چھء وکینس <xliff:g id="memstate">%1$s</xliff:g>"</string>
+<string name="process_stats_avg_ram_use">" مقدار RAM ہند استعمال"</string>
+<string name="process_stats_max_ram_use">" ذیادء RAM ہند استعمال"</string>
+<string name="process_stats_run_time">پكنك وقت</string>
+<string name="services_subtitle">كھادمات</string>
+<string name="menu_proc_stats_duration">عرصہ</string>
+<string name="menu_duration_3h">3 گنٹه</string>
+<string name="menu_duration_6h">6 گنٹه</string>
+<string name="menu_duration_12h">12 گنٹه</string>
+<string name="menu_duration_1d">1 دوه</string>
+<string name="menu_show_system">"سسٹم هايو"</string>
+<string name="menu_use_uss">استعمال Uss</string>
+<string name="menu_proc_stats_type">ہاون كسم</string>
+<string name="menu_proc_stats_type_background">بیک گراؤنڈ</string>
+<string name="menu_proc_stats_type_foreground">بروهيم منظر</string>
+<string name="menu_proc_stats_type_cached">كیشڈ</string>
+<string name="voice_input_output_settings">"آواز ان پٹ ت پیداوار"</string>
+<string name="voice_input_output_settings_title">"آواز ان پٹ ت پیداوار کی ترتیبات"</string>
+<string name="voice_search_settings_title">"آواز ژانڈیو"</string>
+<string name="keyboard_settings_title">"MocorDroid کیبورڈ"</string>
+<string name="voice_category">تقریر</string>
+<string name="recognizer_title">" آوار پریزناون وول"</string>
+<string name="recognizer_settings_title">"آواز ژانڈیو"</string>
+<string name="recognizer_settings_summary">" ترتیب یمء کھتر \' <xliff:g id="recognizer_name">%s</xliff:g>\'"</string>
+<string name="tts_settings">ٹیکسٹ ٹو اسپیچ ترتیبات</string>
+<string name="tts_settings_title">ٹیکسٹ ٹو اسپیچ پیداوار</string>
+<string name="use_default_tts_settings_title">ہمیش کرییو استعمال میني ترتیبات</string>
+<string name="use_default_tts_settings_summary">ڈیفالٹ ترتیبات بنكني کرییو منسوخ اپلیکیشن ترتیبات</string>
+<string name="tts_default_settings_section">ڈیفالٹ ترتیبات</string>
+<string name="tts_default_synth_title">ڈیفالٹ انجن</string>
+<string name="tts_default_synth_summary">" تھاوان چھء اوازء ہند سنتھسس انجن ٹیکسٹ بوزنک استعمال کھترء"</string>
+<string name="tts_default_rate_title">كتھ-باتھ هند خرچ</string>
+<string name="tts_default_rate_summary">جلدی کرییو يوتان زی ٹیکسٹ یی پرن:</string>
+<string name="tts_default_pitch_title">پچ</string>
+<string name="tts_default_pitch_summary">دباؤ تراون اسپوکن ٹیکسٹ کس لهجس</string>
+<string name="tts_default_lang_title">کی زبان</string>
+<string name="tts_lang_not_selected">کی زبان آئی نہ چنن: کنہہ</string>
+<string name="tts_default_lang_summary">ٹھیک کرییو اكھ خاص کی زبان ہنز آواز اسپوکن ٹیکسٹ کھتر</string>
+<string name="tts_play_example_title">بذو اكھ مثال</string>
+<string name="tts_play_example_summary">هايو اكھ لكٹ مكٹ نمونہ كتھ-باتھ ہند ملاوٹك</string>
+<string name="tts_install_data_title">انسٹال کرییو آواز ڈیٹا</string>
+<string name="tts_install_data_summary">انسٹال کرییو آواز ڈیٹا يس كتھ-باتھ ہند ملاوٹ کھتر ضرورت اس</string>
+<string name="tts_data_installed_summary">تم آواز يم كتھ-باتھ ہند ملاوٹ کھتر چھ ضرورت چھ گڈھنيتھ اصل تریقءس منز گمت انسٹال</string>
+<string name="tts_settings_changed_demo">تہنز ترتیبات آئی بدلاوني چھ اكھ نمونہ ذ كتھكیٹ چلن تم.</string>
+<string name="tts_engine_error">"يس مشین توہی چنو: ص چھن چلان"</string>
+<string name="tts_engine_error_config">ترتيب دییو</string>
+<string name="tts_engine_error_reselect">بھی کہہ مشین چنو</string>
+<string name="tts_engine_security_warning">ي كتھ-باتھ ملاوٹی مشین ہکء کورسز تقریبا اتھ قابل است ذ ي کری جمع ساری ٹیکسٹ يم پرن ین، بھی اتھ سیتھ-سیتھ پاس ورڈ ت کریڈٹ کارڈ نبرسن هوي نيجي ڈیٹايم چھ يوان يیتپیٹھ <xliff:g id="tts_plugin_engine_name">%s</xliff:g> مشيني كتھ-باتھ ملاوٹی مشین بنايو توہی اتھ قابل ذ ي کرییو توہی استعمال؟ "</string>
+<string name="tts_engine_network_required">یمء کی زبان ہند سیتھ ​​چھ ملاپ اس م اكھ کاءم کرن وول نیٹوركك ذریعہ يس اس ضرورت چھ لگان ٹیکسٹ ٹو اسپیچ پیداوار کھتر.</string>
+<string name="tts_default_sample_string">ي چھ اكھ مثال کی زبان ہند ملاوٹچ.</string>
+<string name="tts_status_title">ذبان هند درجہ آو نہ برقرار تھاون كه.</string>
+<string name="tts_status_ok">"<xliff:g id="locale" example="English (United States)">%1$s</xliff:g> چھی پور اتھرٹ کرن"</string>
+<string name="tts_status_requires_network">"<xliff:g id="locale" example="English (United States)">%1$s</xliff:g> ضرورت نیٹ ورک ذریعہ"</string>
+<string name="tts_status_not_supported">"<xliff:g id="locale" example="English (United States)">%1$s</xliff:g> چھی نہ پور اتھرٹ کرن"</string>
+<string name="tts_status_checking">جاچن: يوان ...</string>
+<string name="tts_engines_section">واريا مشین</string>
+<string name="tts_engine_name_settings">"<xliff:g id="tts_plugin_engine_name">%s</xliff:g> ترتیبات"</string>
+<string name="tts_engine_name_is_enabled_summary">"<xliff:g id="tts_plugin_engine_name">%s</xliff:g> چھی قابل"</string>
+<string name="tts_engine_name_is_disabled_summary">"<xliff:g id="tts_plugin_engine_name">%s</xliff:g> چھی ناكار"</string>
+<string name="tts_engine_settings_section">مشین ترتیبات</string>
+<string name="tts_engine_settings_title">يم کھتر ترتیبات <xliff:g id="tts_engine_name">%s</xliff:g>"</string>
+<string name="pico_languages_and_voices">کی زبان ت آواز</string>
+<string name="pico_installed">"انسٹال کرتھ"</string>
+<string name="pico_not_installed">"انسٹال چھو نء کرتھ"</string>
+<string name="pico_voice_summary_female">ذنان</string>
+<string name="pico_voice_summary_male">مرد</string>
+<string name="tts_notif_engine_install_title">كتھ-باتھ ملاوٹی مشین کاءم چلاون:</string>
+<string name="tts_notif_engine_install_message">استعمال کرن برونٹھ انو نو مشین.</string>
+<string name="tts_engine_settings_button">شروع کرییو مشین ترتیبات</string>
+<string name="tts_engine_preference_section_title">پسندیدہ مشین</string>
+<string name="tts_general_section_title">عام</string>
+<string name="gadget_title">پآو‌ر كٹرول</string>
+<string name="gadget_toggle_wifi">Wi-Fi ترتیبات بنايو بہترین</string>
+<string name="gadget_toggle_bluetooth">بلوٹوتھ کی ترتیبات بنايو بہترین</string>
+<string name="gadget_state_template">"<xliff:g name="feature" example="Wi\u2011Fi">%1$s</xliff:g> <xliff:g name="state" example="off">%2$s</xliff:g>"</string>
+<string name="gadget_state_on">"ییل"</string>
+<string name="gadget_state_off">"بند"</string>
+<string name="gadget_state_turning_on">ترايو ییل</string>
+<string name="gadget_state_turning_off">کرییو بند</string>
+<string name="gadget_wifi">Wi-Fi</string>
+<string name="gadget_bluetooth">بلوٹوتھ</string>
+<string name="gadget_location">"جائی"</string>
+<string name="gadget_sync">"سنکرونایزیشن"</string>
+<string name="gadget_brightness_template">رونك <xliff:g name="state" example="half">%1$s</xliff:g>"</string>
+<string name="gadget_brightness_state_auto">"آٹو"</string>
+<string name="gadget_brightness_state_full">برتھ</string>
+<string name="gadget_brightness_state_half">نیسب</string>
+<string name="gadget_brightness_state_off">"بند"</string>
+<string name="credentials_title">اسناد اسٹوریج</string>
+<string name="credentials_install" product="nosdcard">اسٹوریج دخول کرییو انسٹال</string>
+<string name="credentials_install" product="default">SD کارڈ دخول کرییو انسٹال</string>
+<string name="credentials_install_summary" product="nosdcard">سرٹیفکیٹ اسٹوریج دخول انسٹال</string>
+<string name="credentials_install_summary" product="default">سرٹیفکیٹ انو SD رسائی</string>
+<string name="credentials_reset">صاف کرییو كریڈیشيلس</string>
+<string name="credentials_reset_summary">هٹايو ساری سرٹیفکیٹ</string>
+<string name="trusted_credentials">بروسمد كریڈیشيلس</string>
+<string name="trusted_credentials_summary">ڈسپلی بروس کرن CA سرٹیفکیٹ</string>
+<string name="credential_storage_type">اسٹوریج ٹائپ</string>
+<string name="credential_storage_type_hardware">ہارڈ ویئر بیكڈ</string>
+<string name="credential_storage_type_software">صرف سافٹ</string>
+<string name="credentials_install_gesture_prompt">" دییو پنن یلء تراونک پٹیرن"</string>
+<string name="credentials_install_gesture_explanation">" توہی چھو ضرورت پنن انلاک نشان پناونچ کریڈنشل انسٹالیشن ہنزء منظوری کھتر۔"</string>
+<string name="credentials_unlock_hint">پاس ورڈ کرییو ٹائپ اسناد کھتر</string>
+<string name="credentials_old_password">چلائیں پاس ورڈ:</string>
+<string name="credentials_reset_hint">هٹايو ساری کنٹنٹس؟</string>
+<string name="credentials_password_too_short">پاس ورڈ گس اسون کم سی کم 8 چركٹیرس "</string>
+<string name="credentials_wrong_password">"غلط پاس ورڈ"</string>
+<string name="credentials_reset_warning">غلط پاسورڈتوہی چھ بھی اكھ موك ایمی برونٹھ ذ اسناد اسٹوریج یی مٹاون.</string>
+<string name="credentials_reset_warning_plural">غلط پاسورڈتوہی چھ <xliff:g id="number" example="5">%1$d</xliff:g> واريا موك ایمی برونٹھ ذ اسناد اسٹوریج یی مٹاون."</string>
+<string name="credentials_erased">اسناد اسٹوریج کاءم مٹاون.</string>
+<string name="credentials_not_erased">"اسناد اسٹوریج یی نہ مٹاون."</string>
+<string name="credentials_enabled">اسناد اسٹوریج چھ اتھ قابل</string>
+<string name="credentials_configure_lock_screen_hint">" توہی چھو ضرورت سکرین لاک کرنچ پن یا پاسورڈ سیتھ کریڈنشل جمع جاۓ استعمال کرنء برونہہ۔"</string>
+<string name="emergency_tone_title">كھترچ گنٹي</string>
+<string name="emergency_tone_summary">ٹھیک رذو ییل اكھ ایمرجنسی کال یی کرن:</string>
+<string name="privacy_settings">"نووتھاون"</string>
+<string name="privacy_settings_title">"نووتھاون"</string>
+<string name="backup_section_title">"واپس انن ت ریسٹور"</string>
+<string name="personal_data_section_title">نيجي ڈیٹا</string>
+<string name="backup_data_title">"بیک آپ کرییو مینس موادس"</string>
+<string name="backup_data_summary">راہ پكنايو اپلیکیشن ڈیٹا، Wi-Fi پاس ورڈ، ت: گوگل سرورسچ باقی ترتیبات</string>
+<string name="backup_configure_account_title">بیک اپ اکاؤنٹ</string>
+<string name="backup_configure_account_default_summary">ونكیس چھنء كهن اکاؤنٹ کرن پتم ڈیٹا جمع</string>
+<string name="auto_restore_title">پاني بحال گسون</string>
+<string name="auto_restore_summary">ییل اكھ اپلیکیشن اسو دبار انسٹال كرن، پتم ترتیبات تء ڈیٹا کرییو گوڈ بحال</string>
+<string name="local_backup_password_title">ڈیسک ٹاپ بیک اپ پاس ورڈ</string>
+<string name="local_backup_password_summary_none">"ڈیسكٹپك ساری بیكپس چھنء ونكیس ت صحیح سلامت"</string>
+<string name="local_backup_password_summary_change">ڈیسک ٹاپ فل بیک اپ پاس ورڈ بدلاون یا هٹاون کھتر کرییو ذير</string>
+<string name="local_backup_password_toast_success">نو بیک اپ پاس ورڈ کرییو ٹھیک ہی</string>
+<string name="local_backup_password_toast_confirmation_mismatch">"نو پاس ورڈ ت معلومات چھنء رلان"</string>
+<string name="local_backup_password_toast_validation_failure">خراب ترتیبات بیک اپ پاس ورڈ</string>
+<string name="backup_erase_dialog_message">پنن Wi-Fi پاس ورڈ، بک مارکس، باقی کی ترتیبات، ت اپلیکیشن ڈیٹا، ركايو راہ نن نش، بھی مٹايو سوري ي گوگل سرورس منز چھ لكھمت؟</string>
+<string name="device_admin_settings_title">آل نذامت ترتیبات</string>
+<string name="active_device_admin_msg">آل ا نذامتوول</string>
+<string name="remove_device_admin">خائریج كر</string>
+<string name="select_device_admin_msg">ال انتیظامیس</string>
+<string name="no_device_admins">ال نذامتوول چھنء دستياب</string>
+<string name="add_device_admin_msg">ال نذامتوول کرییو لاگو؟</string>
+<string name="add_device_admin">ایكٹویٹ کرییو</string>
+<string name="device_admin_add_title">آل ا نذامتوول</string>
+<string name="device_admin_warning">ي نذامتوول لاگو گست ہیک اپلیکیشن كریتھ "<xliff:g id="app_name">%1$s</xliff:g> يم تمام كام كريتھ:"</string>
+<string name="device_admin_status">ي نذامتوول چھ پھرتيل ت: ہیک اكھ اپلیکیشن "<xliff:g id="app_name">%1$s</xliff:g> يم تمام كام كريتھ:"</string>
+<string name="untitled_apn">موذوه بغیر</string>
+<string name="sound_category_sound_title">عام</string>
+<string name="sound_category_notification_title">"اتلات"</string>
+<string name="sound_category_call_ringtone_vibrate_title">"کال رنگ ٹونز ت تھرتھر"</string>
+<string name="sound_category_system_title">"سسٹم"</string>
+<string name="wifi_setup_title">Wi-Fi بناون بہترین</string>
+<string name="wifi_setup_title_editing_network">جڈيو Wi-Fi نیٹورکس سیتھ <xliff:g id="network_name" example="Happy Mobile">%s</xliff:g>"</string>
+<string name="wifi_setup_title_connecting_network">جڈيو Wi-Fi نیٹورکس سیتھ <xliff:g id="network_name" example="Happy Mobile">%s</xliff:g>" ..."</string>
+<string name="wifi_setup_title_connected_network">جڈن امت Wi-Fi نیٹورکس سیتھ <xliff:g id="network_name" example="Happy Mobile">%s</xliff:g>"</string>
+<string name="wifi_setup_title_add_network">جوڈو اكھ نیٹ ورک</string>
+<string name="wifi_setup_not_connected">جوڈیتھ چھن</string>
+<string name="wifi_setup_add_network">جوڈو نیٹ ورک</string>
+<string name="wifi_setup_refresh_list">تروتاذ فہرست</string>
+<string name="wifi_setup_skip">"ترايو"</string>
+<string name="wifi_setup_next">"بياكھ"</string>
+<string name="wifi_setup_back">"راہ"</string>
+<string name="wifi_setup_detail">نیٹ ورک تفصیل</string>
+<string name="wifi_setup_connect">مربوط کرییو</string>
+<string name="wifi_setup_forget">مشراو</string>
+<string name="wifi_setup_save">"محفوظ تھايو"</string>
+<string name="wifi_setup_cancel">"خائریج"</string>
+<string name="wifi_setup_status_scanning">سکیننگ نیٹ ورکس ...</string>
+<string name="wifi_setup_status_select_network">نیٹ ورکس جوڈن کھتر لاگو ذير</string>
+<string name="wifi_setup_status_existing_network">چلن والس نیٹ ورکس سیتھ جڈو</string>
+<string name="wifi_setup_status_unsecured_network">غیر ضمانت والس نیٹ ورکس سیتھ جڈو</string>
+<string name="wifi_setup_status_edit_network">ٹائپ نیٹ ورک تشکیل</string>
+<string name="wifi_setup_status_new_network">جڈو نيس نیٹ ورکس سیتھ</string>
+<string name="wifi_setup_status_connecting">"جڈن ..."</string>
+<string name="wifi_setup_status_proceed_to_next">پكو بيس مرهلس کین</string>
+<string name="wifi_setup_status_eap_not_supported">"ای ای پی چھنء شفاعت کران تھی."</string>
+<string name="wifi_setup_eap_not_supported">"توہی ہیکو نہ ترتیب كريتھ کنہہ اكھ ای ای پی Wi-Fi کنکشن تيار كرنس دوران. ایم پت ذ توہی کرییو ي تيار، توہی ہیکو ایس یو ترتیبات منز كریتھ&gt; وائرلیس تء نیٹ ورکس."</string>
+<string name="wifi_setup_description_connecting">کنہہ منٹ لگین جڈنس ...</string>
+<string name="wifi_setup_description_connected">اتھ لگايو <b> بياكھ </b> سیٹ اپ جاری تھاونس کھتر. \n\n زیر <b> راہ </b> بيس Wi-Fi نیٹ ورکس سیتھ جڈن کھتر.</string>
+<string name="accessibility_sync_enabled">سنک کارگر</string>
+<string name="accessibility_sync_disabled">سنک ناكار</string>
+<string name="accessibility_sync_error">سنک گندگی.</string>
+<string name="sync_failed">سنک ناکاءم</string>
+<string name="sync_active">تیز سنک</string>
+<string name="account_sync_settings_title">"سنکرونایزیشن"</string>
+<string name="sync_is_failing">سنک چھ مسلسل گڑبڑس منزکنہہ زمانی پتي گس ي ٹھیک.</string>
+<string name="add_account_label">"هرريو اکاؤنٹ"</string>
+<string name="background_data">پوتمنزر ڈیٹا</string>
+<string name="background_data_summary">اپلیکیشن هیكین تال میل بناوتھ، سذتھ بھی رٹيتھ ڈیٹا كنت وقت</string>
+<string name="background_data_dialog_title">ناكار پوتمنزر ڈیٹا</string>
+<string name="background_data_dialog_message">پوتمنزر ڈیٹاچ کمزوری چھ بڑھاون بیٹری هذ وانس ت کم چھ کران ڈیٹا استعمال کنہہ اپلیکیشن چھ ونت برهم ڈیٹا کنکشن استعمال کران تھی.</string>
+<string name="sync_automatically">آٹو سنک اپلیکیشن ڈیٹا"</string>
+<string name="sync_enabled">سنک چھ ییل</string>
+<string name="sync_disabled">سنک چھ بند</string>
+<string name="sync_error">سنک گڑبڑ</string>
+<string name="last_synced">آخری سكڈ <xliff:g id="last_sync_time">%1$s</xliff:g>"</string>
+<string name="sync_in_progress">سنک گسن ونكین</string>
+<string name="settings_backup">بیک اپ ترتیبات</string>
+<string name="settings_backup_summary">بیک اپ کرییو مین ترتیبات</string>
+<string name="sync_menu_sync_now">سنک ونكین</string>
+<string name="sync_menu_sync_cancel">سنک منسوخ</string>
+<string name="sync_calendar">"کلنڈر"</string>
+<string name="sync_contacts">"رابتءہ"</string>
+<string name="sync_plug">"<font fgcolor="#ffffffff"> خوشامد چھ گوگل سنک منز !</font> \nA گوگل ایپرییوچ چھ سكگ ڈیٹاهس یی اجازتدیوان ذ م واتناين پنن كنٹیكٹس، تقرریوں ت: بھی واريا کنہہ تت يیت توہی چھ."</string>
+<string name="header_application_sync_settings">اپلیکیشن سنک ترتیبات</string>
+<string name="header_data_and_synchronization">"کنٹینٹ ت سنکرونایزیشن"</string>
+<string name="preference_change_password_title">پاس ورڈ بدلايو</string>
+<string name="header_account_settings">اکاؤنٹک ترتیبات</string>
+<string name="remove_account_label">هٹايو اکاؤنٹ</string>
+<string name="header_add_an_account">"هرريو اكھ اکاؤنٹ"</string>
+<string name="finish_button_label">ختم</string>
+<string name="really_remove_account_title">اکاؤنٹ برخاست؟</string>
+<string name="really_remove_account_message" product="tablet">"ي اکاؤنٹ برخاست کرن سیتھ هیكن ختم گست ٹیبلیٹ دخول یمچ ساری مسیجس، كنٹیكٹس، ت بھی باقی ڈیٹا!"</string>
+<string name="really_remove_account_message" product="default">ي اکاؤنٹ برخاست کرن سیتھ هیكن ختم گست فون دخول یمچ ساری مسیجس، كنٹیكٹس، ت بھی باقی ڈیٹا!</string>
+<string name="remove_account_failed" product="tablet">" یمء خاطک چھء کہنژن ایپسن ضرورت۔ توہی ہیکیو یء نیبر کڈیتھ صرف پنن ٹیبلیٹ ریسیٹ کرن پنن ترتیبن منز ( یس توہند تمام زاتی ڈیٹا مٹاۓ ) ترتیبن منز &gt; بیک اپ تء ریسیٹ۔"</string>
+<string name="remove_account_failed" product="default">" یمء خاطک چھء کہنژن ایپسن ضرورت۔ توہی ہیکیو یء نیبر کڈیتھ صرف پنن فون ریسیٹ کرن پنن ترتیبن منز ( یس توہند تمام زاتی ڈیٹا مٹاۓ ) ترتیبن منز &gt; بیک اپ تء ریسیٹ۔"</string>
+<string name="provider_label">"بڑھايو چند"</string>
+<string name="sync_item_title">"<xliff:g id="authority" example="Calendar">%s</xliff:g>"</string>
+<string name="cant_sync_dialog_title">"ہیکہ نہ گست دستی طور سنک"</string>
+<string name="cant_sync_dialog_message">یمء هسك سنک چھ ونت ناكاریمچ ترتیبات تبدیل کرن کھتر ترايو کنہہ وكتس پوتمنزر ڈیٹا ت: اٹومیٹك سنک ییل.</string>
+<string name="status_wimax_mac_address">"4G MAC ایڈریس</string>
+<string name="enter_password">" دبایو پاسورڈ پنن جمع جاۓ ڈکرپٹ کرنء کھتر"</string>
+<string name="try_again">"دباره کوشش کریو۔"</string>
+<string name="delete">"رد"</string>
+<string name="misc_files">"مسك فائلیں"</string>
+<string name="misc_files_selected_count">جہاد <xliff:g id="number" example="3">%1$d</xliff:g> ام نیبر <xliff:g id="total" example="15">%2$d</xliff:g>"</string>
+<string name="misc_files_selected_count_bytes">"<xliff:g id="number" example="3.25MB">%1$s</xliff:g> ام نیبر <xliff:g id="total" example="15.25MB">%2$s</xliff:g>"</string>
+<string name="select_all">"چنو ساری"</string>
+<string name="hdcp_checking_title">HDCP جاچپڑتال</string>
+<string name="hdcp_checking_dialog_title">ٹھیک کرییو HDCP جاچپڑتجاۓ طریقی</string>
+<string name="debug_debugging_category">ڈیبگینگ</string>
+<string name="debug_app">چنو ڈیبگ اپلیکیشن</string>
+<string name="debug_app_not_set">كهن ڈیبگ دوخواست او نہ: ٹھیک کرن</string>
+<string name="debug_app_set">ٹھیک کرنا دوخواست: "<xliff:g id="app_name">%1$s</xliff:g>"</string>
+<string name="select_application">چنو دوخواست</string>
+<string name="no_application">كهن نہ</string>
+<string name="wait_for_debugger">انتظار کرییو دیبگگیر کھتر</string>
+<string name="wait_for_debugger_summary">بہتر کرمژ اپلیکیشن ڈيبگگر کھتر کران انتظار منسلک کری عمل كرنه برونٹھ</string>
+<string name="debug_input_category">ان پٹ</string>
+<string name="debug_drawing_category">ڈراوگ</string>
+<string name="debug_hw_drawing_category">ہارڈ ویئر ایكسیلریٹیڈ ریڈرگ</string>
+<string name="debug_monitoring_category">دیکھ بھال كرن</string>
+<string name="strict_mode">سخت تریقء ناكار</string>
+<string name="strict_mode_summary">پھلیش سکرین یمءسات ایپس کریو ذيوٹھ پریشنس بنيادي تار پیٹھ</string>
+<string name="pointer_location">پٹر جاۓ</string>
+<string name="pointer_location_summary">برتھ سکرین چھ ہاون چلائیں ٹچ ڈیٹا</string>
+<string name="show_touches">هايو ٹوچیس</string>
+<string name="show_touches_summary">ٹچ کرن کھتر ديو تصويري معلومات</string>
+<string name="show_screen_updates">هايو سرفیس اپڈیٹس</string>
+<string name="show_screen_updates_summary">چمكايو سوری ونڈو سرفیس ییل تم کوئی بھی اپ گسنء </string>
+<string name="show_hw_screen_updates">هايو GPU ویو اپڈیٹس</string>
+<string name="show_hw_screen_updates_summary">ونڈوز ادر ترايو جعس ییل سكڑي ایس یو GPU سیتھ</string>
+<string name="show_hw_layers_updates">هايو ہارڈ ویئر لیيرس اپڈیٹڈ</string>
+<string name="show_hw_layers_updates_summary">ہارڈ ویئر لیيرس ییل کوئی بھی اپ گسنء  ت هايو کچا روشنی</string>
+<string name="debug_hw_overdraw">ڈیبگ GPU اوویردرو</string>
+<string name="disable_overlays">ناكار HW اوورلیس</string>
+<string name="disable_overlays_summary">ہمیش کرییو استعمال GPU سکرین كومپوسٹگ کھتر</string>
+<string name="enable_opengl_traces_title">کارگر اوپن GL ٹریسیس</string>
+<string name="debug_layout">هايو ترتیب بوڈس</string>
+<string name="debug_layout_summary">هايو کلپ بوڈس، مارجنس، وغیرہ</string>
+<string name="force_rtl_layout_all_locales">دھكيلو نكشس کین RTL</string>
+<string name="force_rtl_layout_all_locales_summary">دھكيلو سکرین نكشس کین RTL سارني لوكالس کھتر</string>
+<string name="show_cpu_usage">هايو CPU استعمال</string>
+<string name="show_cpu_usage_summary">برتھ سکرین چھ ہاون چلائیں CPU استعمال</string>
+<string name="force_hw_ui">ركايو GPU ریڈرگ</string>
+<string name="force_hw_ui_summary">ركايو GPU استعمال 2d ڈراوگ کھتر</string>
+<string name="force_msaa">ركايو 4x MSAA</string>
+<string name="force_msaa_summary">کارگر 4x MSAA Open GL ES 2.0 اپلیکیشن</string>
+<string name="show_non_rect_clip">ڈیبگ نان ریكٹگلر کلپ پریشنس</string>
+<string name="track_frame_time">پروفایل GPU ریڈرگ</string>
+<string name="window_animation_scale_title">ونڈو انیمیشن پیمانی</string>
+<string name="transition_animation_scale_title">ٹراجيشن انیمیشن پیمانی</string>
+<string name="animator_duration_scale_title">انمیٹر جوریشن پیمانی</string>
+<string name="overlay_display_devices_title">جعلی منزم ڈسپلی</string>
+<string name="debug_applications_category">اپلیکیشن</string>
+<string name="immediately_destroy_activities">مہ تھاوو عملء</string>
+<string name="immediately_destroy_activities_summary">"تیهس-نیهس کرییو ساری کارکردگی ایم برونٹھ ذ کلائنٹ تراي ي"</string>
+<string name="app_process_limit_title">پوتمنزر کارروائی لمٹ</string>
+<string name="show_all_anrs">هايو ساری ANR</string>
+<string name="show_all_anrs_summary">"هايو اپلیکیشن يوس ن واپس جواب دی کنہہ پوتمنزر اپلیکیشن کھتر"</string>
+<string name="data_usage_summary_title">ڈیٹا يوسیج</string>
+<string name="data_usage_cycle">ڈیٹا استعمجاۓ سلسل</string>
+<string name="data_usage_menu_roaming">ڈیٹا رومنگ</string>
+<string name="data_usage_menu_restrict_background">محدود پوتمنزر ڈیٹا</string>
+<string name="data_usage_menu_split_4g">وہری 4G استعمال</string>
+<string name="data_usage_menu_show_wifi">" ہاییو Wi\u2011Fi استعمال"</string>
+<string name="data_usage_menu_show_ethernet">هايو ایتھرنیٹ استعمال</string>
+<string name="data_usage_menu_metered">" موبایل ہاٹ سپاٹ"</string>
+<string name="data_usage_menu_auto_sync">آٹو مطابقت پذیری ڈیٹا</string>
+<string name="data_usage_change_cycle">بدلايو سلسل ...</string>
+<string name="data_usage_pick_cycle_day">ریتك دوه چھ لگان ڈیٹا استعمال سلسل دبار ٹھیک کرن کھتر:</string>
+<string name="data_usage_empty">كنهت اپلیکیشن چھنء ڈیٹا استعمال کرن يتھ وكتس درمیان.</string>
+<string name="data_usage_label_foreground">بروهيم منظر</string>
+<string name="data_usage_label_background">بیک گراؤنڈ</string>
+<string name="data_usage_app_restricted">محدود</string>
+<string name="data_usage_disable_mobile">" بند کرییو موبایل ڈیٹا؟"</string>
+<string name="data_usage_disable_mobile_limit">" موبایل ڈیٹاہک حد"</string>
+<string name="data_usage_disable_4g_limit">ٹھیک کرییو 4G ڈیٹاہیکء حد</string>
+<string name="data_usage_disable_3g_limit">ٹھیک کرییو 2G-3G ڈیٹاہیکء حد</string>
+<string name="data_usage_disable_wifi_limit">ٹھیک کرییو Wi-Fi ڈیٹاہیکء حد</string>
+<string name="data_usage_tab_wifi">Wi-Fi</string>
+<string name="data_usage_tab_ethernet">ایرٹھیرنیٹ</string>
+<string name="data_usage_tab_mobile">"موبائل"</string>
+<string name="data_usage_list_mobile">"موبائل"</string>
+<string name="data_usage_list_none">"کہانء"</string>
+<string name="data_usage_enable_mobile">" موبایل ڈیٹا"</string>
+<string name="data_usage_enable_3g">2G-3G ڈیٹا</string>
+<string name="data_usage_enable_4g">4G ڈیٹا</string>
+<string name="data_usage_app_settings">" وچھیو ایپ ترتیب"</string>
+<string name="data_usage_app_restrict_background">محدود پوتمنزر ڈیٹا</string>
+<string name="data_usage_app_restrict_background_summary">" بند کرییو بیک گراونڈ ڈیٹا پننس موبایلس پیٹھ۔ نان-موبایل نٹورکس این استعمال کرنء اگر موجود آسن۔"</string>
+<string name="data_usage_app_restrict_background_summary_disabled">" بیک گراونڈ ڈيٹاہک پاپندی یتھ ایپس پیٹھ کرنء کھتر، گوڈنتھ تھاییو موبایل ڈیٹاہک حد۔"</string>
+<string name="data_usage_app_restrict_dialog_title">ركايو پوتمنزر ڈیٹا؟</string>
+<string name="data_usage_app_restrict_dialog">"  یء صلاحیت چھء اکھ ایپ بناوان یس دارمدار چھء بیک گراونڈ ڈیٹاہس پیٹھ کاءم رکاونء باپیتھ یلء صرف موبایل نٹورکس آسن موجود۔ \n\nتوہی ہیکیو لبیتھ ذیادء صحیح ڈیٹا استعمالک قوبو ترتیبن منز یس ایپن منز موجود چھء۔"</string>
+<string name="data_usage_restrict_denied_dialog">" بیک گراونڈ ڈیٹا رکاون چھء تیلی ممکن یلء صرف توہی آسیو تھومت موبایل ڈیٹاہک حد۔ "</string>
+<string name="data_usage_auto_sync_on_dialog_title">آٹو-ہم آہنگی ڈیٹا ترايو ییل؟</string>
+<string name="data_usage_auto_sync_on_dialog" product="tablet">" کہانتء بدلاو یمء توہی پننس خاطس کریو ویبس پیٹھ ای پاین پانۓ نقل کرنء توہندس ٹیبلیٹس پیٹھ۔ \n\n کہنء خاطء ہیکن پاین پانۓ نقل کریتھ کہانتء بدلاو یمء توہی ٹیبلیٹس منز کرییو ویبس پیٹھ۔ اکھ Google خاطء چھء کاءم کران ایتھ پایٹھ۔ \n\n یء چننء کھتر رء کس زانکاری ہند قسم اي سنکرونایز کرنء اتھ خاطس منز، گژھیو ترتیبن منز&gt; خاظء۔"</string>
+<string name="data_usage_auto_sync_on_dialog" product="default">" کہانتء بدلاو یمء توہی پننس خاطس کریو ویبس پیٹھ ای پاین پانۓ نقل کرنء توہندس فونس پیٹھ۔ \n\n کہنء خاطء ہیکن پاین پانۓ نقل کریتھ کہانتء بدلاو یمء توہی فونس منز کرییو ویبس پیٹھ۔ اکھ Google خاطء چھء کاءم کران ایتھ پایٹھ۔ \n\n یء چننء کھتر رء کس زانکاری ہند قسم اي سنکرونایز کرنء اتھ خاطس منز، گژھیو ترتیبن منز&gt; خاظء۔"</string>
+<string name="data_usage_auto_sync_off_dialog_title">آٹو-ہم آہنگی ڈیٹا کرییو بند؟</string>
+<string name="data_usage_auto_sync_off_dialog">"ي چھ ڈیٹا ت بیٹری هند استعمال تھاون بچايتھ مگر توہی چھ ضرورت ذ توہی کرییو سنک پریتھ كاه اکاؤنٹ پاني میں Taz معلومات جمع کرن باپتھت بھی ہیکو ن توہی رٹتھ کنتء معلومات ییل کوئی بھی اپ اس گسان."</string>
+<string name="data_usage_cycle_editor_title">استعمال سلسلك ڈیٹ کرییو دبار ٹھیک ہی</string>
+<string name="data_usage_cycle_editor_subtitle">پریتھ ریتك د</string>
+<string name="data_usage_cycle_editor_positive">"تھاوو"</string>
+<string name="data_usage_warning_editor_title">ٹھیک کرییو ڈیٹا استعمال وارننگ</string>
+<string name="data_usage_limit_editor_title">ڈیٹا استملك حد بندی کرییو ٹھیک ہی</string>
+<string name="data_usage_limit_dialog_title">محدود ڈیٹا استعمال</string>
+<string name="data_usage_limit_dialog_mobile" product="tablet">" توہند موبایل ڈیٹا کنکشن ای بند کرنء یلء اکھ مخصوص حد واتء۔ \n\nہلانکء ڈیٹاہک کوتھا استعمال چھء ایوان میننء توہند ٹیبلٹ سیتھ، تء توہند کیریر ہیکء استعمالک مواعنء مختلف طریقو کریتھ، نیو استعمال کرییو اکھ تنگ حد۔ "</string>
+<string name="data_usage_limit_dialog_mobile" product="default">" توہند موبایل ڈیٹا کنکشن ای بند کرنء یلء اکھ مخصوص حد واتء۔ \n\nہلانکء ڈیٹاہک کوتھا استعمال چھء ایوان میننء توہند فون سیتھ، تء توہند کیریر ہیکء استعمالک مواعنء مختلف طریقو کریتھ، نیو استعمال کرییو اکھ تنگ حد۔ "</string>
+<string name="data_usage_restrict_background_title">ركايو پوتمنزر ڈیٹا؟</string>
+<string name="data_usage_restrict_background">" اگر توہی بیک گراونڈ موبایل ڈیٹا محدود کریون، کہنء ایپس تء کامء کرنء کاءم یوتام نء توہی جڈیتھ اءسیو Wi\u2011Fi نٹورکس سیتھ۔"</string>
+<string name="data_usage_restrict_background_multiuser" product="tablet">" اگر توہی بیک گراونڈ موبایل ڈیٹا محدود کریون، کہنء ایپس تء کامء کرنء کاءم یوتام نء توہی جڈیتھ اءسیو Wi\u2011Fi نٹورکس سیتھ۔ \n\n یء ترتیب کرۓ اثر تمام استعمال کرن والن پیٹھ ٹیبلیٹس منز۔"</string>
+<string name="data_usage_restrict_background_multiuser" product="default">" اگر توہی بیک گراونڈ موبایل ڈیٹا محدود کریون، کہنء ایپس تء کامء کرنء کاءم یوتام نء توہی جڈیتھ اءسیو Wi\u2011Fi نٹورکس سیتھ۔ \n\n یء ترتیب کرۓ اثر تمام استعمال کرن والن پیٹھ فونس منز۔"</string>
+<string name="data_usage_sweep_warning">"<font size="21"><xliff:g id="number" example="128">^1</xliff:g></font> <font size="9"><xliff:g id="unit" example="KB">^2</xliff:g></font>\n<font size="12">خبردار</font>"</string>
+<string name="data_usage_sweep_limit"><font size="21"><xliff:g id="number" example="128">^1</xliff:g></font> <font size="9"><xliff:g id="unit" example="KB">^2</xliff:g></font>\n<font size="12">حد </font>"</string>
+<string name="data_usage_uninstalled_apps">برخاست اپلیکیشن</string>
+<string name="data_usage_uninstalled_apps_users">برخاست ایپس ت کلائنٹ</string>
+<string name="data_usage_received_sent"><xliff:g id="received" example="128KB">%1$s</xliff:g>  رٹمت, <xliff:g id="sent" example="1.3GB">%2$s</xliff:g> سوزون"</string>
+<string name="data_usage_total_during_range"><xliff:g id="range" example="Jul 1 - Jul 31">%2$s</xliff:g>: یمیوک <xliff:g id="total" example="128KB">%1$s</xliff:g> استعمال."</string>
+<string name="data_usage_total_during_range_mobile" product="tablet">"<xliff:g id="range" example="Jul 1 - Jul 31">%2$s</xliff:g>: متالک <xliff:g id="total" example="128KB">%1$s</xliff:g> استعمال کرییو تتھپیٹھ ذ تهندي ٹیبلیٹ ذريي یی ووچھنتهند كیرريرس ڈیٹا استعمال اکاؤنٹنگ ہیکہ وہری گست. "</string>
+<string name="data_usage_total_during_range_mobile" product="default">"<xliff:g id="range" example="Jul 1 - Jul 31">%2$s</xliff:g>: متالک <xliff:g id="total" example="128KB">%1$s</xliff:g> استعمال کرییو تتھپیٹھ ذ تهندي فون ذريي یی ووچھنتهند كیرريرس ڈیٹا استعمال اکاؤنٹنگ ہیکہ وہری گست. "</string>
+<string name="data_usage_metered_title">" موبایل ہاٹ سپاٹ"</string>
+<string name="data_usage_metered_body">" چنیو Wi\u2011Fi نٹورکس یمء موبایل ہاٹ سپاٹ چھء۔ ایپس این محدود تھاونء یمء نٹورکس استعمال کرن یلء توہی بیک گراونڈس منز اءسیو۔ ایپن ای گوڈء اگاہ کرنء یمء نٹورک استعمال کرنء برونہہ بڈھن ڈاونلوڈن کھتر۔"</string>
+<string name="data_usage_metered_mobile">"سیلولر نیٹ ورکس"</string>
+<string name="data_usage_metered_wifi">Wi-Fi نیٹ ورکس</string>
+<string name="data_usage_metered_wifi_disabled">" موبایل ہاٹ سپاٹ چننء کھتر، تراییو Wi\u2011Fi یلء۔ "</string>
+<string name="cryptkeeper_emergency_call">ایمرجنسی کال</string>
+<string name="cryptkeeper_return_to_call">"پھيرو واپس كلء پیٹھ"</string>
+<string name="vpn_name">ناو</string>
+<string name="vpn_type">ٹائپ</string>
+<string name="vpn_server">سرور ایڈریس</string>
+<string name="vpn_mppe">PPP ژورء تھاون آمت (MPPE)</string>
+<string name="vpn_l2tp_secret">L2TP راز</string>
+<string name="vpn_ipsec_identifier">IPSec پهچانوول</string>
+<string name="vpn_ipsec_secret">IPSec پری-شیيرڈ كذ</string>
+<string name="vpn_ipsec_user_cert">IPSec کلائنٹ سرٹیفکیٹ</string>
+<string name="vpn_ipsec_ca_cert">IPSec CA سرٹیفکیٹ</string>
+<string name="vpn_ipsec_server_cert">IPSec سرور سرٹیفکیٹ</string>
+<string name="vpn_show_options">هايو نیي اپشنس</string>
+<string name="vpn_search_domains">DNS ساڈو ڈومینس</string>
+<string name="vpn_dns_servers">DNS سرورز (مثال 8888)</string>
+<string name="vpn_routes">بروهم وت (مثال 10000/8)</string>
+<string name="vpn_username">یوزرناو</string>
+<string name="vpn_password">"پاس ورڈ"</string>
+<string name="vpn_save_login">بچايو اکاؤنٹ کی معلومات</string>
+<string name="vpn_not_used">(استعمال چھ: ن گمت)</string>
+<string name="vpn_no_ca_cert">"(سرور م جاچهن)"</string>
+<string name="vpn_no_server_cert">(سرورز نش روٹی)"</string>
+<string name="vpn_cancel">"خائریج"</string>
+<string name="vpn_save">"محفوظ تھايو"</string>
+<string name="vpn_connect">مربوط کرییو</string>
+<string name="vpn_edit">ایڈٹ VPN پروفایل</string>
+<string name="vpn_connect_to">جڈو <xliff:g id="profile" example="School">%s</xliff:g>"</string>
+<string name="vpn_create">جوڈو VPN پروفایل</string>
+<string name="vpn_menu_edit">ایڈٹ پروفایل</string>
+<string name="vpn_menu_delete">مٹايو پروفایل</string>
+<string name="vpn_menu_lockdown">ہمیش تھايو ییل VPN</string>
+<string name="vpn_lockdown_summary">"" چنیو VPN پروفایل یمن نٹورکن سیتھ ہمیشء رلنء کھتر۔ نٹورک ٹریفک ای صرف اجازت دینء یلء توہی VPN سیتھ رلاییو۔ " "</string>
+<string name="vpn_lockdown_none">"کہانء"</string>
+<string name="vpn_lockdown_config_error">VPN ہمیش ییل تھاون: سیتھ هیكین سرور ت DNS IP ایڈریس مگتھ.</string>
+<string name="vpn_no_network">يیتي چھنء كهنت نیٹ ورک كنیكشنمہربانی كریتھ کرییو بھی رسكھن کوشش کریو.</string>
+<string name="vpn_missing_cert">سرٹیفکیٹ چھ رامسمہربانی كریتھ کرییو کانٹ-چھانٹ اتھ پروفایلز.</string>
+<string name="trusted_credentials_system_tab">"سسٹم"</string>
+<string name="trusted_credentials_user_tab">استعمال کرن وول</string>
+<string name="trusted_credentials_disable_label">ناكار</string>
+<string name="trusted_credentials_enable_label">کارگر</string>
+<string name="trusted_credentials_remove_label">"نیبر كڈيو"</string>
+<string name="trusted_credentials_enable_confirmation">کارگر بنايو سسٹم CA سرٹیفکیٹ؟</string>
+<string name="trusted_credentials_disable_confirmation">ناكار بنايو سسٹم CA سرٹیفکیٹ؟</string>
+<string name="trusted_credentials_remove_confirmation">ہمیش کھتر هٹايو کلائنٹ CA سرٹیفکیٹ؟</string>
+<string name="spellcheckers_settings_title">اسپیل جاچنوول</string>
+<string name="current_backup_pw_prompt">يیتین کرییو ٹائپ پنن ونكك سوری بیک اپ پاس ورڈ</string>
+<string name="new_backup_pw_prompt">يیتین کرییو ٹائپ اكھ نوو پاس ورڈ ساری بیكپس کھتر</string>
+<string name="confirm_new_backup_pw_prompt">يیتین کرییو دبار ٹائپ نوو بیكپس پاس ورڈ</string>
+<string name="backup_pw_set_button_text">ٹھیک کرییو بیک اپ پاس ورڈ</string>
+<string name="backup_pw_cancel_button_text">"خائریج"</string>
+<string name="percentage">"<xliff:g id="number" example="30">%d</xliff:g>%%"</string>
+<string name="additional_system_update_settings_list_item_title">ایڈیشنل سسٹم پاس ورڈ</string>
+<string name="selinux_status_disabled">"کمزور گمت"</string>
+<string name="selinux_status_permissive">اجازت دنوول</string>
+<string name="selinux_status_enforcing">لاگو گسنوول</string>
+<string name="ssl_ca_cert_warning">"نیٹ ورک ہکنء نگرانی منز اسيت۔"</string>
+<string name="done_button">"پوره"</string>
+<string name="ssl_ca_cert_dialog_title">نیٹ ورک نگرانی منز</string>
+<string name="ssl_ca_cert_info_message">ي ال چھ سبھالن امت \n<xliff:g id="managing_domain">%s</xliff:g>\n\n تهند نذامتوول چھ اتھ قابل ذ م كر دیکھ بھال تهندن نیٹوركچ كامن منز بھی يمیلس، اطلاقات ت هپھاذتي ویبساٹس هذ ت. \n\n بھيي معلومات کھتر کرییو كاٹیكٹ پننس نذامتوالس. "</string>
+<string name="ssl_ca_cert_warning_message">اكھ تریيم پارٹی چھ اتھ قابل ذ سو كر دیکھ بھال تهندن نیٹوركچ كامن منز بھی يمیلس، اطلاقات ت هپھاذتي ویبساٹس هذ ت. \n\n اكھ بروسمد اسناد يس تہندس آلسی منز چھ انسٹال امت کرن تیم بنوو ي یقینی.</string>
+<string name="ssl_ca_cert_settings_button">وچھو بروسمد كریڈیشيلس</string>
+<string name="user_settings_title">کلائنٹ</string>
+<string name="user_list_title">"استعمال گژھن وول ت پروفایل"</string>
+<string name="user_add_user_menu">جوڈو کلائنٹ یا پروفایل</string>
+<string name="user_summary_restricted_profile">منسوخ گمت پروفایل</string>
+<string name="user_need_lock_message">"ایم بروه ذ توہی بنايو اكھ منسوخ گمت پروفایل، توہی چھ ضرورت ذ توہی کرییو تيار اكھ سکرین لاک يس حفاظت كر تهندن اپلیکیشن ت نيجي ڈیٹاهن."</string>
+<string name="user_set_lock_button">ٹھیک کرییو لاک</string>
+<string name="user_summary_not_set_up">تيار چھنء کنہہ</string>
+<string name="user_summary_restricted_not_set_up">تيار چھنء کنہہ-منسوخ گمت پروفایل</string>
+<string name="user_owner">"مالک"</string>
+<string name="user_you">توہی (<xliff:g id="name" example="Name">%s</xliff:g>)"</string>
+<string name="user_nickname">ارف</string>
+<string name="user_add_user_type_title">جوڈن</string>
+<string name="user_add_user_item_summary">استعمال کرن والن چھ آسن پنن اپلیکیشن ت مواد</string>
+<string name="user_add_profile_item_summary">توہی کرییو منسوخ پنن اپلیکیشن ت مواد ورق اکاؤنٹ دخول</string>
+<string name="user_add_user_item_title">استعمال کرن وول</string>
+<string name="user_add_profile_item_title">منسوخ گمت پروفایل</string>
+<string name="user_add_user_title">" ہراییو نو استعمال کرن وول"</string>
+<string name="user_add_user_message_long">"" توہی ہیکیو یء آلء پھلاویتھ باقین لکن سیتھ علاو استعمال کرن وایل بناونء سیتھ۔ پریتھ استعمال کرن وایلس چھء پنن جاۓ، یس تمء ہیکن پننء مرضی متعبق تھاویتھ پنن ایپن منز، والپیپر، تء باقی۔  استعمال کرن وایل ہیکن بۓ ٹیبلیٹک ترتیب ٹھیک کریتھ زن کہ Wi\u2011Fi یس پریتھ کنسء اثر کرۓ۔ \n\nنو استعمال وول بناونء پتء، سیمس نفرس چھء ضرورت زء سو کرۓ ایمء کامء کن۔ \n\nکہانتء استعمال کرن وول ہیکء مانیتھ ایپن اپ ڈیٹ کرنس اجازت دیون باقیو استعمال کرن والیو بدلء۔" "</string>
+<string name="user_add_user_message_short">"" نو استعمال وول بناونء پتء، سیمس نفرس چھء ضرورت زء سو کرۓ ایمء کامء کن۔ \n\nکہانتء استعمال کرن وول ہیکء مانیتھ ایپن اپ ڈیٹ کرنس اجازت دیون باقیو استعمال کرن والیو بدلء۔" "</string>
+<string name="user_setup_dialog_title">کسٹمر كرهن وني تيار؟</string>
+<string name="user_setup_dialog_message">" یقین تھایو زء نفر چھء موجود توہند ٹیبلیٹ رٹنء کھتر تء ایمء کھتر جاۓ بناونء کھتر"</string>
+<string name="user_setup_profile_dialog_message">"تيار کرییو پروفایل ون؟"</string>
+<string name="user_setup_button_setup_now">"تيار گسو ون"</string>
+<string name="user_setup_button_setup_later">"ونكین نء"</string>
+<string name="user_cannot_manage_message" product="tablet">"صرف هیكین ٹیبلیٹک مالک سبھالتھ استعمال کرن والن۔"</string>
+<string name="user_cannot_manage_message" product="default">"صرف هیكین فونك مالک سبھالتھ استعمال کرن والن"</string>
+<string name="user_cannot_add_accounts_message">"منسوخ گمت پروفایل هیكین نہ جوڈيتھ اکاؤنٹس"</string>
+<string name="user_remove_user_menu">مٹايو <xliff:g id="user_name">%1$s</xliff:g> یمء ال رسائی"</string>
+<string name="user_new_user_name">نوو استعمال کرن وول</string>
+<string name="user_new_profile_name">"نوو پروفایل"</string>
+<string name="user_confirm_remove_self_title">"مٹايو پننپان؟"</string>
+<string name="user_confirm_remove_title">" نیبر کڈیو استعمال کرن وول؟"</string>
+<string name="user_profile_confirm_remove_title">" نیبر کڈیو پروفایل؟"</string>
+<string name="user_confirm_remove_self_message" product="tablet">"توہی رايو پنن جائی ت ڈیٹا یمء ٹیبلیٹ پیٹھتوہی ہیکو نہ ي واپس انتھ کنہہ."</string>
+<string name="user_confirm_remove_self_message" product="default">"توہی رايو پنن جائی ت ڈیٹا یمء فون پیٹھتوہی ہیکو نہ ي واپس انتھ کنہہ."</string>
+<string name="user_confirm_remove_message" product="tablet">" یہ استعمال کرن وایل سنز جاۓ تء ڈیٹا گژھء غعاءب ٹیبلیٹ منز۔ توہی ہیکیو نء یء کاءم واپس انیتھ۔"</string>
+<string name="user_confirm_remove_message" product="default">" یہ استعمال کرن وایل سنز جاۓ تء ڈیٹا گژھء غعاءب فون منز۔ توہی ہیکیو نء یء کاءم واپس انیتھ۔"</string>
+<string name="user_profile_confirm_remove_message" product="tablet">" یء پروفایلچ جاۓ تء ڈیٹا گژھء غعاءب ٹیبلیٹ منز۔ توہی ہیکیو نء یء کاءم واپس انیتھ۔"</string>
+<string name="user_profile_confirm_remove_message" product="default">" یء پروفایلچ جاۓ تء ڈیٹا گژھء غعاءب فون منز۔ توہی ہیکیو نء یء کاءم واپس انیتھ۔"</string>
+<string name="user_adding_new_user">"جوڈو نوو کلائنٹ ۔۔۔"</string>
+<string name="user_delete_user_description">"استعمال کرن وول مٹايهن"</string>
+<string name="user_delete_button">"رد"</string>
+<string name="application_restrictions">"اپلیکیشن ت کنٹنٹس کرییو تيار"</string>
+<string name="apps_with_restrictions_header">"دوخواست منسوخ گامت"</string>
+<string name="apps_with_restrictions_settings_button">"دوخواست کھتر بڑھايو ترتیبات"</string>
+<string name="home_app_uninstall_button">"یہ دوخواست کرییو انسٹال"</string>
+<string name="only_one_home_message">"نيجي ترتیبات ین تھاون چپايتھ توتتام یوتام توہی باقی نيجي دوخواست کرییو انسٹال۔"</string>
+<string name="global_change_warning" product="tablet">"ي ترتیب چھ سارني استعمال کرن والن هندین ٹیبلیٹن منز بدلاون"</string>
+<string name="global_change_warning" product="default">"ي ترتیب چھ سارني استعمال کرن والن هندین فونن منز بدلاون"</string>
+<string name="global_locale_change_title">"بدلايو کی زبان"</string>
+<string name="global_font_change_title">"بدلايو فانٹ سائیز"</string>
+<string name="nfc_payment_settings_title">"دباییو ت ديو پوسه"</string>
+<string name="nfc_payment_no_apps">" پۓ کریو اکء زیرء سیتھ"</string>
+<string name="nfc_payment_learn_more">هیچھو زیادہ</string>
+<string name="nfc_payment_menu_item_add_service">" ژانڈیو ایپس"</string>
+<string name="nfc_payment_set_default_label">ورق پسند مطابق کرییو ٹھیک؟</string>
+<string name="nfc_payment_set_default">"ہمیش کرییو استعمال "<xliff:g id="app">%1$s</xliff:g> ییلءلي توہی پكو ت برو؟""</string>
+<string name="nfc_payment_set_default_instead_of">"ہمیش کرییو استعمال "<xliff:g id="app">%1$s</xliff:g> ام بدله <xliff:g id="app">%2$s</xliff:g> ییلءلي توہی پكو ت برو؟ ""</string>
+<string name="restriction_settings_title">رکاوٹ</string>
+<string name="restriction_menu_reset">ختم کرییو رکاوٹ</string>
+<string name="restriction_menu_change_pin">بدلايو PIN</string>
+<string name="app_notifications_switch_label">هايو معلومات</string>
+<string name="help_label">مدد</string>
+<string name="user_account_title">مواد کھتر اکاؤنٹ</string>
+<string name="user_picture_title">تصویر ID</string>
+<string name="cell_broadcast_settings">سیل ناشرييات</string>
+<string name="user_restrictions_title">" اپلیکیشن تء کنٹینٹ رکاوٹء"</string>
+<string name="user_rename">ناو بدلاون</string>
+<string name="app_restrictions_custom_label">سبھالو اپلیکیشن رکاوٹ</string>
+<string name="user_restrictions_controlled_by">كابوس منز کرن امت "<xliff:g id="app">%1$s</xliff:g>"</string>
+<string name="app_not_supported_in_limited">یء اپلیکیشن چھنءه مددگار ركاونه پروفایلس منز</string>
+<string name="app_sees_restricted_accounts">ي اپلیکیشن ہیکہ تهندس اکاؤنٹس تام واتتھ</string>
+<string name="restriction_wifi_config_title">Wi-Fi ت موبائل</string>
+<string name="restriction_wifi_config_summary">Wi-Fi ت موبائل کی ترتیبات سدارن کھتر ديو اجازت</string>
+<string name="restriction_bluetooth_config_title">بلوٹوتھ</string>
+<string name="restriction_bluetooth_config_summary">بلوٹوتھ جوڈءگس ت ترتیبات سدارن کھتر ديو اجازت</string>
+<string name="restriction_nfc_enable_summary" product="tablet">اجازت دییو ڈیٹا بدلاون یمءسات ٹیبلیٹ ٹچ كر بيس الس سیتھ</string>
+<string name="restriction_nfc_enable_summary" product="default">اجازت دییو ڈیٹا بدلاون یمءسات فون ٹچ كر بيس الس سیتھ</string>
+<string name="restriction_location_enable_title">"جائی"</string>
+<string name="restriction_location_enable_summary">ایپسن ديو استعمال کرن تہنز جگهچ معلومات</string>
+<string name="wizard_back">"راہ"</string>
+<string name="wizard_next">"بياكھ"</string>
+<string name="wizard_finish">ختم</string>
+<string name="user_image_take_photo">تلیو تصویر</string>
+<string name="user_image_choose_photo">گیلری، نگارخانہ دخول چنو تصویر</string>
+<string name="recovery_update_title">" سسٹم سافٹویر اپ ڈیٹ"</string>
+<string name="recovery_update_message">" یتھ سسٹم سافٹویر اپ ڈیٹس منز چھء حفاظتک کھترء، یء ہیکء واتی زانکاری نیبر کڈیتھ، ڈیٹا ہیکء راویتھ تء خصلتس ہیکء نقصان واتیتھ تء بۓ باقی حفاظتک مشکلات۔ یء اپ ڈیٹ کنفرم کرنء کھتر مہربانی کریتھ دباییو \'آو کۓ\'، اگر نء اپ ڈیٹ جاری چھء تھاون، تیلء دباییو \' رد\'۔"</string>
+<string name="recovery_sdacrd_status">كه SD چھنء</string>
+<string name="recovery_updatefile_status">اپ ڈیٹ زپ فائل چھی نہ لبان</string>
+<string name="recovery_update_level">گنجائش كھوت35% کم ہیکہ نہ اپ گریڈ آپریشن شروع كریتھ کنہہ، مہربانی كریتھ کرییو ریچارج</string>
+<string name="recovery_no_package">sd کارڈز منز چھنء کوئی بھی اپ پیکج فائل كهن</string>
+<string name="network_preference_settings">نیٹ ورک مینجمنٹ</string>
+<string name="network_type_choosen">چنو اكھ نیٹ ورک پرائر سیتھ جڑن کھتر</string>
+<string name="default_cmcc_accesspoints_list">" پنن بروسء وول ایکسس پوینٹ"</string>
+<string name="user_defined_accesspoints_list">" استعمال کرن وایل سند بروسء وول ایکسس پوینٹ"</string>
+<string name="other_accesspoints_list">"انجان ایكسیسپٹس"</string>
+<string name="wifi_mac">" میک خبر"</string>
+<string name="wifi_netmask">نیٹماسك</string>
+<string name="wifi_auto_connect_titile">آٹو مربوط</string>
+<string name="wifi_auto_connect_summary">" پانۓ رلاییو ایپ یلء واۓ فاۓ یلء کرو"</string>
+<string name="wifi_trusted_ap">"بروسمد ایكسیسپٹس"</string>
+<string name="wifi_trusted_ap_category">بروسمد AP ت ترجي</string>
+<string name="wifi_trusted_ap_summary">" وچھیو بروس وول AP تء خاصیت"</string>
+<string name="wifi_move_ap_up">ہیآو‌ر</string>
+<string name="wifi_move_ap_down">بون</string>
+<string name="wifi_save_update">"محفوظ تھايو"</string>
+<string name="wifi_disconnect">"منكتء"</string>
+<string name="mobile_to_wlan_policy_title">" واۓ فاۓ کنکشنک پالسی ترتیب"</string>
+<string name="mobile_to_wlan_policy_category">چنو نیٹ ورک ڈائیلاگ</string>
+<string name="mobile_to_wlan_policy_error">سیلولر سیٹ كرنس مذ چھ مشکلات</string>
+<string name="mobile_to_wlan_popup_prefix">" واۓ فاۓ سگنل ژانڈن"</string>
+<string name="mobile_to_wlan_popup_suffix">" ہالانکء واۓ فاۓ نیٹورک استعمال کرن، نٹورک استعمال کرن ہیکء گوڈنکس تجارتکس ڈیٹاہس رکاوٹ انیتھ"</string>
+<string name="mobile_choice">" موبایل نیٹ چونن"</string>
+<string name="mobile_to_wlan_popup_title">سانڈو بروسمد Wi-Fi AP</string>
+<string name="download_complete_filename">" ڈاونلوڈ گو مکمل، محفوظ تھاییو فایلء ہنز واتھ:"</string>
+<string name="gps_to_wifi_yes">"اوا"</string>
+<string name="gps_to_wifi_no">"نہ"</string>
+<string name="gprs_access">" GPRS چلاون"</string>
+<string name="wlan_access">" واۓ فاۓ چلاون"</string>
+<string name="select_net_access_type">" نٹورک چننک راۓ، مہربانی کریتھ چنیو پنن نٹورک چلاون"</string>
+<string name="select_trusted_ap_access">" بروسء وول ایکسس پوینٹ"</string>
+<string name="select_trusted_ap_connect">مربوط کرییو</string>
+<string name="download_wifi_unaviliable">" واۓ فاۓ نٹورک چھء امت ژٹنء، موبایل نٹورک استعمال کرنء کھتر انٹرنیٹس پیٹھ"</string>
+<string name="download_select_gprs_yes">"اوا"</string>
+<string name="download_select_gprs_no">"نہ"</string>
+<string name="wlan_not_available">"Wi-Fi چھنء موجود، چاہے توہی کرییو استعمال موبایل نٹورک"</string>
+<string name="mobile_net_yes">"اوا"</string>
+<string name="mobile_net_no">"نہ"</string>
+<string name="key_index">كيي انڈیکس</string>
+<string name="wifi_unable_connect_network">"ناکاءم گو نیٹورکس سیتھ جڑنس"</string>
+<string name="wifi_network_mask">نیٹماسك</string>
+<string name="wifi_ip_settings_invalid_network_mask">" دباییو صحیح نیٹ ماسک پتء۔"</string>
+<string name="trusted_ap_list_null">كه بروسمد کیشنز چھنہ</string>
+<string name="wep_password_tip_text">مهرباني كریتھ کرییو ان پٹ 5، 13، 16 اییسسياياي لفظ یا 10، 26، 32 ایچيیكس لفظ WEP اختیار.</string>
+<string name="mobile_data_connect_disable">"نہ"</string>
+<string name="mobile_data_connect_enable">"اوا"</string>
+<string name="network_disconnect_title">اتلاه</string>
+<string name="network_disconnect_message">Wi-Fi نیٹ ورک چھ منكت كرنه امت. \nجڈو موبل پیپ دیس؟ \nاگر نہ تهي پیپ پلان چھ، ي هیك هرریمان استعمال کرنچ كھاڈتتھ.</string>
+<string name="swtichmachine">"شیڈول پآو‌ر یلء/بند""</string>
+<string name="power_on">پآو‌ر يل</string>
+<string name="power_off">"پآو‌ر آف"</string>
+<string name="every_day">پریتھ دوه</string>
+<string name="never">"قطعی نء"</string>
+<string name="done">"پوره"</string>
+<string name="revert">واپس كرن</string>
+<string name="time">وقت</string>
+<string name="alarm_repeat">رپيٹ</string>
+<string name="set_alarm">سیٹ كريو الارم</string>
+<string name="set_alarm_on">تھاییو واقھ پآو‌ر یلء کھتر"</string>
+<string name="set_alarm_off">تھاییو واقھ پآو‌ر بند کھتر"</string>
+<string name="day">1 دوه</string>
+<string name="days">"<xliff:g id="days">%s</xliff:g> ده"</string>
+<string name="hour">"1 گنٹء"</string>
+<string name="hours">"<xliff:g id="hours">%s</xliff:g> گنٹ"</string>
+<string name="minute">"1 منٹ"</string>
+<string name="minutes">"<xliff:g id="minutes">%s</xliff:g> منٹس"</string>
+<string name="alarm_klaxon_service_desc">الارم کھتر کرییو سیٹ آواز پلی بیک خدمت ڈیسككلكس رسائی.</string>
+<string name="alarm_alread_exist">ٹائمر پھیریو مشین <xliff:g id="time">%s</xliff:g> چھ گڈنیتھي موجود، مہربانی كریتھ کرییو سیٹ بھيي كه وقت"</string>
+<string name="hardware_version">" ہارڈویر ورجن"</string>
+<string name="choose_sub">"مهرباني كریتھ کرییو SIM کارڈ منتخب"</string>
+<string name="mobile_network_settings_other">"باقی"</string>
+<string name="applications_manager"> اپلیکیشن مینیجر</string>
+<string name="tasks_manager">كامء مینیجر</string>
+<string name="go_to_app">" گژھیو ایپس نش"</string>
+<string name="audio_profiles">آواز پروفایل</string>
+<string name="font_setting_title">پھٹ</string>
+<string name="font_setting_tab_sys">" بناوان فونٹ"</string>
+<string name="font_setting_tab_usr">" استعمال کرن وایل سند فانٹ"</string>
+<string name="font_setting_menu_add">" ہراییو فانٹ"</string>
+<string name="font_setting_menu_reset">" رسیٹ کریو پنن فانٹ"</string>
+<string name="font_setting_default_font">" پنن فانٹ"</string>
+<string name="font_setting_menu_delete">" ختم کرییو فانٹ"</string>
+<string name="font_setting_no_fonts">" کہان فانٹ نء"</string>
+<string name="font_setting_dialog_delete">"رد"</string>
+<string name="font_setting_dialog_deleting">خائریج گسان</string>
+<string name="font_setting_dialog_delete_confirmation">" کرۓ ختم؟"</string>
+<string name="font_setting_dialog_delete_confirmation_and_reset">" یء فانٹ چھء وکینس استعمال ایوان کرنء، پنن فانٹ ای استعمال کرنء یء ختم کرنء پتء، جاری کرییو ختم کرنء کھتر؟"</string>
+<string name="font_setting_dialog_import">" انیو نایو فانٹ"</string>
+<string name="font_setting_dialog_importing">" انان چھء نایو فانٹ"</string>
+<string name="font_setting_dialog_set_font">" تھایو نایو فانٹ"</string>
+<string name="font_setting_dialog_set_font_confirmation">" استعمال کریو یء فانٹ؟"</string>
+<string name="font_setting_dialog_set_default">" تھاییو پنن فانٹ"</string>
+<string name="font_setting_dialog_set_default_confirmation">" استعمال کرییو پنن فانٹ؟"</string>
+<string name="font_setting_not_selected">" مہربانی کریتھ چنیو یمء فانٹس یمء توہی گوڈ چھو یژھان ختم کرن"</string>
+<string name="font_setting_not_enable">" معافی دییو، یء فانٹ چھنء یلء، مہربانی کریتھ انییو باقی"</string>
+<string name="font_setting_is_current">" یء چھء برونٹھۓ موجود فانٹ۔"</string>
+<string name="font_setting_is_contant">" یء فانٹ چھء گوڈنتھی موجود"</string>
+<string name="font_setting_name_too_long">" یمء فانٹک ناو چھء واریہاہ زیوٹھ، ہیکنء 75 حرفء کھوت ذیادء اسیتھ، مہربانی کریتھ بدلایو ناو"</string>
+<string name="uplink_rate">" ٹھیورٹیکل اپ لنک ریٹ : <xliff:g id="maxuprate">%s</xliff:g>، موجود اپ لنک  ریٹ: <xliff:g id="uprate">%s</xliff:g>ps"</string>
+<string name="downlink_rate">" ٹھیورٹیکل ڈاون لنک ریٹ: <xliff:g id="maxdownrate">%s</xliff:g>، موجود ڈاونلنک ریٹ : <xliff:g id="downrate">%s</xliff:g>ps"</string>
+<string name="total_rate">" سوزیو ڈیٹا : <xliff:g id="maxSend">%s</xliff:g>، رٹیو ڈیٹا : <xliff:g id="maxReceive">%s</xliff:g>"</string>
+<string name="usb_settings">USB ترتیبات</string>
+<string name="usb_charge_only">چارج صرف</string>
+<string name="usb_charge_only_summary">استعمال کرییو صرف چارج موڈ ییلء USB اس جڈتھ</string>
+<string name="usb_charge_only_storage_active_subtext">ہیکہ ن چارج گست صرف ییلء USB سٹوریج اس استعمالس منز</string>
+<string name="usb_charge_only_notification">"جڈتھ چھ خالی چارج باپتھ"</string>
+<string name="usb_storage">"USB اسٹوریج"</string>
+<string name="usb_storage_summary">USB ماس ذخیرہ بنايو فایل</string>
+<string name="ums_settings">UMS ترتیبات</string>
+<string name="ums_mounted_setting">كھاڈو ums رسائی PC ون، مہربانی كریتھ کرییو انتظار ...</string>
+<string name="ums_unmounted_setting">واليو ums رسائی PC ون، مہربانی كریتھ کرییو انتظار ...</string>
+<string name="usb_virtual_drive">USB مجازی ڈرائیو</string>
+<string name="usb_virtual_drive_summary">کارگر USB مجازی ڈرائیو</string>
+<string name="remember_choice">"یاد تھاوو میںن پسند"</string>
+<string name="remember_choice_summary">یاد تھايو مین پسند ت شروع کرییو یاد تھاون امت فنکشن پاني بھيي وقت</string>
+<string name="internal_format">" مٹاییو موبایل اندیم جمع جاۓ"</string>
+<string name="internal_format_summary">" مٹاییو تمام ڈیٹا موبایل اندیم جمع جا‌ۓ منز، زن کء موسیقی تء شکلء"</string>
+<string name="media_format_title_internal">" مٹاییو اندیم جمع جاۓ"</string>
+<string name="media_format_desc_internal">" مٹاییو تمام اندریم جمع جاۓ؟ توہۓ رایو <b> تمام </b> جمع واجن ڈیٹا !"</string>
+<string name="media_format_button_text_internal">" مٹاییو اندیم جمع جاۓ"</string>
+<string name="media_format_final_desc_internal">" مٹایو اندریم جمع جاۓ، ختم چھء کران تمام فایلء یمء اتھ منز جمع آسن؟ توہی ہیکیو نء کاءم واپس نیتھ !"</string>
+<string name="delete_file_warning">" جاری تھاییو ختم کرنء کھتر چننء آمژ فایلء یا ڈارکریز؟"</string>
+<string name="sdcard_not_available">" SD کارڈ چھنء موجود"</string>
+<string name="network_settings_tab">نیٹ ورک</string>
+<string name="more_settings_tab">"واريه"</string>
+<string name="device_settings_tab">" مین آلء"</string>
+<string name="personal_settings_tab">"ذاتی"</string>
+<string name="individual_title">" کنیار"</string>
+<string name="language_time_title">" زبانء تء واقھ"</string>
+<string name="about_title">متعلق</string>
+<string name="text_blue">بلوٹوتھ</string>
+<string name="text_gps">"LBS"</string>
+<string name="text_sync">"سنکرونایزیشن"</string>
+<string name="text_bright">چمكون</string>
+<string name="simslotcfg_title">"WCDMA کارد ترتیب"</string>
+<string name="simslotcfg_sub_summary">" چنیو WCDMA کارڈ، ضرورت چھء دبارء کھولنچ!"</string>
+<string name="wifi_eap_sim_slots">SIM سلاٹ</string>
+<string name="wifi_eap_sim_slot1">SIM سلاٹ 1</string>
+<string name="wifi_eap_sim_slot2">SIM سلاٹ 2</string>
+<string name="toast_datatime_error">" توہند ترتیب تاریخ وقتس متعلق چھنء مناسب حدس منز۔ "</string>
+<string name="install_credentials">"انسٹال سرٹیفکیٹ"</string>
+<string name="cancel_select_all">رد ساری</string>
+<string name="title_delete_other_file">" ختم کریو مسک فایلء"</string>
+<string name="msg_deleteing_other_file">" ختم چھء کران مسک فایلء وکینس۔"</string>
+<string name="timerpower_afternoon">پی ایم</string>
+<string name="timerpower_morning">ای ایم</string>
+<string name="widget_toast_airplane_is_on_wlan">" توہی ہیکیونء واۓ فاۓ استعمال کریتھ یلء فون آسء ایرپلین موڈس منز۔"</string>
+<string name="widget_toast_airplane_is_on_bt">" توہی ہیکیونء بلوٹوتھ استعمال کریتھ یلء فون آسء ایرپلین موڈس منز۔"</string>
+<string name="memory_video_usage">ویڈیو</string>
+<string name="master_clear_level">گنجائش كھوت چھ 30% کم، ون تھايو جاری فون آپریشن دبار ٹھیک کرن کھتر؟</string>
+<string name="factory_dialog_title">جلدی</string>
+<string name="confirm">"ٹھیک"</string>
+<string name="softap_bt_cannot_coexist">"یمءسات بلوٹوت اس کارگر یا ییل تراوتھ، سوپھٹیپ كر ن کاءم، اگر توہی يچھان چھو سوپھٹیپ استعمال كرن، مهرباني كریتھ بنايو یقینی ذ بلوٹوت چھنءاكار سپديومت. ""</string>
+<string name="bt_softap_cannot_coexist">ییلء سوپھٹیپ اس کارگر یا اس يل ترايتھ، بلوٹوت كر نہ: کاءم کنہہ، مہربانی كریتھ کرییو پتہ ذ سوپھٹیپ چھا ناكر.</string>
+<string name="hotspot">Wi-Fi ہاٹ سپاٹ</string>
+<string name="hotspot_settings">مقرر کرییو Wi-Fi ہاٹ سپاٹ</string>
+<string name="hotspot_connected_stations">جوڈیتھ استعمال کرن وول</string>
+<string name="hotspot_no_connected_station">0 استعمال کرن وول چھ جوڈیتھ</string>
+<string name="hotspot_blocked_stations">بلاک كریتھ استعمال کرن وول</string>
+<string name="hotspot_no_blocked_station">0 استعمال کرن وول چھ بلاک كریتھ</string>
+<string name="block">بلاک</string>
+<string name="unblock">غیر مسدود</string>
+<string name="delete_applications">" ختم کرییو اپلیکیشن"</string>
+<string name="uninstall">"انانسٹال"</string>
+<string name="beatch_no_select_uninstall">" بیچ اناسٹال"</string>
+<string name="cancle_select_all">منسوخ چنو ساری</string>
+<string name="beatch_uninstall">" بیچ اناسٹال (<xliff:g id="UNINSTALL_DESCRIPTION">%1$s</xliff:g>)"</string>
+<string name="confirm_beatch_uninstall_message">" کیہاہ توہی دیژوہ منظوری انانسٹال کرنء کھتر <xliff:g id="UNINSTALL_DESCRIPTION">%1$s</xliff:g> اپلیکیشنس؟"</string>
+<string name="confirm_beatch_one_uninstall_message">" کیہاہ توہی چھوا اجازت دیوان یء انانسٹال کرنس <xliff:g id="UNINSTALL_DESCRIPTION">%1$s</xliff:g> اپلیکیشن؟"</string>
+<string name="uninstalling_message">" انانسٹال، مہربانی کریتھ پراریو۔۔۔"</string>
+<string name="uninstall_done">""<xliff:g id="UNINSTALL_DONE">%1$s</xliff:g> اپلیکیشنس انانسٹال گو مکمل"</string>
+<string name="uninstall_one_app_done">""<xliff:g id="UNINSTALL_DONE">%1$s</xliff:g> اپلیکیشن انانسٹال گو مکمل"</string>
+<string name="confirm_one_uninstall_message">" کیہاہ توہی چھوا اجازت دیوان یء انانسٹال کرنس <xliff:g id="UNINSTALL_DESCRIPTION">%1$s</xliff:g> اپلیکیشن؟"</string>
+<string name="sort_order_time">وقت سیتھ ترتيب</string>
+<string-array name="sort_type">
+<item>زیچھرس</item>
+<item>ناو</item>
+<item>وقت</item>
+</string-array>
+<string name="DM_config">" CMCC ٹھیک کرین سیل سروس پتء"</string>
+<string name="DM_config_summary">" تھایو پانۓ شروع گژھن ییلء پاور یلء تراوو"</string>
+<string name="softap_need_mobile_data_enabled">پورٹیبل Wi-Fi ہاٹ سپاٹ چھ ضرورت موبائل ڈیٹا حس سیتھ جڈون، ہیکہ دتھ پیٹھم خرچ.</string>
+<string name="show_crash_report_summary">" ہاییو CRASH نتیج سکرینس پیٹھ"</string>
+<string name="show_crash_report">" ہاییو CRASH نتیج"</string>
+<string name="sd_eject_usb">ان ماؤنٹ باٹمت اسٹوریج</string>
+<string name="sd_eject_summary_usb">ان ماؤنٹ اندریم USB سٹوریج</string>
+<string name="sd_insert_summary_usb">داخل کرییو USB سٹوریج مونٹگ کھتر</string>
+<string name="sd_mount_usb">ماؤنٹ USB سٹوریج</string>
+<string name="sd_format_usb">USB اسٹوریج کرییو اریذ</string>
+<string name="sd_format_summary_usb">" مٹاییو تمام ڈیٹا اندریم USB جمع جاۓ پیٹھ، زنء کء موسیقی تء شکلء"</string>
+<string name="dlg_confirm_unmount_title_usb">ان ماؤنٹ USB سٹوریج؟</string>
+<string name="dlg_confirm_unmount_text_usb">اگر توہی ان ماؤنٹ کرییو USB اسٹوریج، کنہہ اپلیکیشن يم توہی استعمال چھو کران گسنء  بند ت مہ ہیکن ن روذتھ دستياب يتس فن ن توہی رماٹ کرییو USB سٹوریج.</string>
+<string name="dlg_error_unmount_text_usb">"ہیکءن ان ماؤنٹ كریتھ USB سٹوریج. کوشش کرییو دباره پت."</string>
+<string name="unmount_inform_text_usb">USB اسٹوریج گاس انماٹڈ.</string>
+<string name="move_app_to_internal_sdcard" product="default">" پکنایو اندریم SD کارڈس منز"</string>
+<string name="battery_percentage">چارجچ پرسیٹیج</string>
+<string name="stroage_not_mounted">"اسٹوریج چھنءه ماؤنٹڈ"</string>
+<string name="do_not_prompt_text">م کرییو اشارہ</string>
+<string name="connect_to_cmcc_ap_message">جڑمت چین موبائل Wi-Fi، جاری تھاون هیك Wi-Fi ٹریفک فیس بڑايتھ</string>
+<string name="show_dialog_connect_to_cmcc_title">جڑن امت اشارہ</string>
+<string name="show_dialog_connect_to_cmcc_summary">ڈسپلی جڑن امت CMCC پراپٹس سیتھ</string>
+<string name="reset_wifi_policy_show_dialog_title">وصول کرن امت اشارہ</string>
+<string name="reset_wifi_policy_show_dialog_toast_message">کرن امت بحال</string>
+<string name="airplane_mode_wifi_notification">نوٹیفکیشن</string>
+<string name="airplane_mode_wifi_notification_message">Wi-Fi ہیکو پنن پان كھولتھ ایيروپلین تریقءس مذ</string>
+<string name="not_ask_again">"ذهنه هٹ"</string>
+<string name="ask_next_time">" پریژیو بیکء وقتء"</string>
+<string name="network_id_illegal_character">مہربانی كریتھ کرییو ٹائپ اكھ ٹھوس نیتووك id</string>
+<string name="max_input_character">" ذیادء کھوت ذیادء چھء 512 حرف"</string>
+<string name="tilte_input_more">" معافی دییو، صرف ہیکء دیتھ 512 حرف"</string>
+<string name="weak_wifi_signal_title">جڑمت AP سگنل چھ کمزور</string>
+<string name="weak_wifi_signal_message">جڑمت AP سگنل چھ کمزور، تهي چھوا یژھن جڈون تبدیل بروسمد کیشنز سيتھ؟ ي هیك کم كیسا پیپ تجارت ركايتھ. \nمیسر رسائی پٹس:</string>
+<string name="wifi_set_time_alarm_warning">پاني جڈون ت منكت گسون گس نہ هوي اسن</string>
+<string name="wifi_auto_roam">آٹو روم</string>
+<string name="header_category_common">" عام"</string>
+<string name="sim_settings_title">SIM کارڈز</string>
+<string name="current_input_method_pikel">موجود کی بورڈ</string>
+<string name="save">"محفوظ تھايو"</string>
+<string name="name_too_long">ناو واريا بوڑ، ي گاس اسون 50 كھوت کم.</string>
+<string name="sim_editor_title">"%1$d سم سلاٹ "</string>
+<string name="voice_broadcast_settings">" آوازء ہنز ترتیب"</string>
+<string name="voice_broadcast_settings_tile">" آوازء ہنز نشریات"</string>
+<string name="uninstall_app_settings">" انانسٹال کریو ایپس"</string>
+<string name="voice_menu">" آوازء ہند مینیو"</string>
+<string name="voice_date">" آوازء ہند تاریخ"</string>
+<string name="voice_call">"آواز کال"</string>
+<string name="voice_contacts">" آوازء ہند رابطء"</string>
+<string name="voice_incall">" آوازء اینچ کال"</string>
+<string name="voice_message">" آوازء مسیج"</string>
+<string name="default_feature_bar_options">متابدل</string>
+<string name="default_feature_bar_back">"راہ"</string>
+<string name="default_feature_bar_center">"چنو"</string>
+<string name="sim_status_title">SIM اوكات</string>
+<string name="imei_information_title">IMEI معلومات</string>
+<string name="slot_number">(سلاٹ <xliff:g id="slot_num">%1$d</xliff:g>)"</string>
+<string name="lock_settings_title_pikel">ال حفاظت</string>
+<string name="owner_info_settings_title_pikel">لاک سکرین میسیڈ</string>
+<string name="phone_memory_title">"اندریم اسٹوریج"</string>
+<string name="phone_memory_category_title">ال اسٹوریج</string>
+<string name="sdcard_memory_title">پورٹیبل اسٹوریج</string>
+<string name="manage_app_settings_category">" لاگو کریو فہرستچ درجہ بندی"</string>
+<string name="sim_slot_empty">SIM خالی</string>
+<string name="data_switch_started">ڈیٹا SIM ترايو يل، اتھ ہیکہ لگتھ اكھ منٹ ...</string>
+<string name="data_usage_menu_cellular_networks">سیلولر نیٹ ورکس</string>
+<string name="data_usage_disclaimer">كارريیر ڈیٹا اکاؤنٹنگ ہیکہ مختلف است تهند ال نش.</string>
+<string name="data_usage_app">اپلیکیشن استعمال</string>
+<string name="sim_editor_name">SIM ناو</string>
+<string name="sim_name_hint">درج کرییو SIM ناو</string>
+<string name="color_title">"رنگ"</string>
+<string name="sim_editor_carrier">كارريیر</string>
+<string name="sim_editor_number">نمبر</string>
+<string name="mouse_control_applications">" ماوسک قوبو"</string>
+<string name="mouse_control_exit">" کیہاہ توہی چھوا یژھان محفوظ تھاون پنن ڈیٹا؟"</string>
+<string name="mouse_control_title">" مہربانی کریتھ چنیو ایپس ماوسک قوبو یالء تراونء کھتر۔"</string>
+<string name="current_label_phone">"فون"</string>
+<string name="not_any_file">" چھنء کہان فایل"</string>
+<string name="settings_more_sprd">"واريه"</string>
+<string name="enable_data_connection">" یالء ترہیو ڈیٹا کنکشن"</string>
+<string name="disable_data_connection">" بند کرییو ڈیٹا کنکشن"</string>
+</resources>

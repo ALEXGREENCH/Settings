@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"apn किस्म सेटिंग होआ करदी ऐ"</string>
+<string name="user_could_input_apn_type">"बरतूनक apn किस्म इनपुट करी सकदा ऐ "</string>
+<string name="could_not_input_the_same_apn_type">"इक्कै चाल्ली दे apn ​​इनपुट नेईं कीते जाई सके"</string>
+<string name="apn_type_message">"थुआढ़े नमें APN च कोई डिफाल्ट किस्म नेईं ऐ, APN चुनने च समर्थ नेईं होग।"</string>
+<string name="error_apn_type_message">"APN किस्म खाली नेईं होई सकदी"</string>
+<string name="error_apn_type">"थुआढ़े आसेआ दर्ज कीती गेदी APN किस्म समर्थत नेईं ऐ, किरपा करियै मुड़ियै-दर्ज करो!"</string>
+<string name="same_apn_type">"तुसें इक्कै चाल्ली दा APN दर्ज कीता ऐ, किरपा करियै मुड़-दर्ज करो!"</string>
+<string name="empty_apn_type">"तुसें कुसै बी चाल्ली दा APN नां ते दर्ज नेईं कीता ऐ जां चुनेआ  ऐ, किरपा करियै मुड़ियै-दर्ज करो!"</string>
+<string name="dual_settings_title_uui">"सिम कार्ड प्रबंधन"</string>
+<string name="dual_voice_setting_title">"वायस सेटिंग"</string>
+<string name="dual_video_setting_title">"वीडियो सेटिंगां"</string>
+<string name="dual_mms_setting_title">"SMS सेटिंग"</string>
+<string name="dual_primary_setting_title">"मुक्ख कार्ड सेटिंग"</string>
+<string name="dual_settings_title">"ड्यूल सिम सेटिंगां"</string>
+<string name="sim_name_setting_title">"सिम नांऽ संपादत करो"</string>
+<string name="sim_number_setting_title">"सिम नंबर संपादत करो"</string>
+<string name="sim_number_setting_null">"सेट नेईं"</string>
+<string name="sim_color_setting_title">"पछौकड़ रंग सेट करो"</string>
+<string name="dual_settings_always_prompt">"म्हेशां प्राम्प्ट"</string>
+<string name="mms_settings_auto">"आटो"</string>
+<string name="no_need_set_data_subscription">"डेटा सदस्यता सेट करने दी कोई लोड़ नेईं ऐ।"</string>
+<string name="voice_setting_title">"वायस काल सेटिंगां"</string>
+<string name="video_setting_title">"वीडियो काल सेटिंगां"</string>
+<string name="mms_setting_title">"MMS ते SMS सेटिंगां"</string>
+<string name="sim_reply_setting">"सिम परता सेटिंगां"</string>
+<string name="reply_message_setting">"MMS जां SMS परता देओ"</string>
+<string name="closeData">"बंद करो"</string>
+<string name="data_title">"डेटा कनेक्शन समर्थ सेटिंग"</string>
+<string name="sel_sub_title">"स्टैंडबाय सेटिंगां"</string>
+<string name="sel_sub_summary">"सिम कार्ड समर्थ जां नकारा करने लेई"</string>
+<string name="set_data_subscription_timeout">"डेटा कनेक्शन सेटिंगां टाइमआउट!"</string>
+<string name="set_dds_failed">"त्रुटि! सब्भै डेटा कनेक्शन साफ करो ते मुड़-कोशिश करो!"</string>
+<string name="set_dds_success">"सफलतापूर्वक सेट करो"</string>
+<string name="set_dds_success_gsm">"सफलतापूर्वक सेट करो। सकेंडरी स्लाट पर डेटा कनेक्शन स्विच, LTE सेवा अन-उपलब्ध ऐ।"</string>
+<string name="set_data_subscription_progress">"सेटअप होआ करदा ऐ, किरपा करियै इंतजार करो ..."</string>
+<string name="set_data_subscription_error_ok">"ठीक ऐ"</string>
+<string name="set_data_subscription_error_title">"त्रुटि"</string>
+<string name="set_data_subscription_error">"इस सिम कार्ड  बिना, किरपा करियै तस्दीक करो ते मुड़-कोशिश करो!"</string>
+<string name="sim_retries_left">"नंबरे दा मुड़-नांऽ करण"</string>
+<string name="menu_kill_apps_services">"सब्भै ऐपलीकेशन बंद करो"</string>
+<string name="back_groud_data_usage_restrict_protocal">"पछौकड़ डेटा बरतून प्रोटोकाल।"</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"पछौकड़ डेटा बरतून प्रोटोकाल मंजूर करो?"</string>
+<string name="apn_edit_quit">"छोड़ो"</string>
+<string name="apn_edit_ex">"सिम <xliff:g id="SIM">%s</xliff:g> ऐक्सस पाइंट संपादत करो"</string>
+<string name="input_pin_limit">"किरपा करियै 4 - 8 नंबर इनपुट करो"</string>
+<string name="agps_supl_manual_settings">"SUPL सर्वर दस्ती सेटिंग्स"</string>
+<string name="agps_supl_manual_settings_summary">"दस्ती सेट SUPL सर्वर त् पोर्ट"</string>
+<string name="str_clear">"साफ"</string>
+<string name="str_save">"सहेजो"</string>
+<string name="gps_location_suplserver">"सर्वर"</string>
+<string name="agps_setting">"Agps स्विच"</string>
+<string name="open">"खोलो"</string>
+<string name="close">"बंद करो"</string>
+<string name="mobile_network_settings_ex">"सिम <xliff:g id="SIM">%s</xliff:g> मोबाइल नेटवर्क सेटिंग्स"</string>
+<string name="pin_enabled_success">"सिम पिन समर्थ ऐ"</string>
+<string name="pin_disabled_success">"सिम पिन नकारा ऐ"</string>
+<string name="gps_time_sync_attention_gps_on">"एह् GPS फिक्स हासल करने च मता 1 मिनट लैग। इसदे अलावा GPS  कमजोर चपासम सिगनल करियै समां देने च असमर्थ होग। \n\n क्या तुस जकीनी तौर पर GPS दित्ता समां बरतना चांह्‌दे ओ?"</string>
+<string name="gps_time_sync_attention_gps_off">"GPS दित्ता समां बरतने लेई, तुस पैह्‌लें GPS समर्थ करो। एह् GPS फिक्स हासल करने च मता 1 मिनट लैग। इसदे अलावा GPS  कमजोर चपासम सिगनल करियै समां देने च असमर्थ होग। \n\nक्या तुस जकीनी तौर पर इसलै GPS समर्थ होन देना चांह्‌दे ओ ते GPS दित्ते सच लेई इंतजार करो?</string>
+<string name="apn_settings_ex">"सिम <xliff:g id="SIM">%s</xliff:g> APNs"</string>
+<string name="sim_lock_settings_ex">"सिम <xliff:g id="SIM">%s</xliff:g> लाक सेटिंग्स"</string>
+<string name="device_status_ex">"सिम <xliff:g id="SIM">%s</xliff:g> स्टेटस"</string>
+<string name="lte_service">"4Gसेवा/मुक्ख कार्ड चुनो"</string>
+<string name="lte_enabled">"4G सेवा समर्थ करो"</string>
+<string name="lte_service_network_mode_settings_dialog_title">"नेटवर्क मोड चुनो"</string>
+<string name="whether_close_lte_service">"किरपा करियै तस्दीक करी क्या तुस 4G सेवा बंद करना चांह्​दे ओ?"</string>
+<string name="whether_enable_lte_service">"किरपा करियै तस्दीक करी क्या तुस 4G सेवा समर्थ करना चांह्​दे ओ?"</string>
+<string name="whether_switch_lte_service_sim">"क्या तुस इस सिम कार्ड च 4G सेवा स्विच करना चांह्‌दे ओ?"</string>
+<string name="lte_service_attention">"ध्यान देओ"</string>
+<string name="lte_service_switch">"4G सेवा स्विच होआ करदी ऐ, किरपा करियै इंतजार करो ..."</string>
+<string-array name="lte_preferred_networks_choices">
+<item>"4G/3G/2G मल्टी मोड"</item>
+<item>"3G/2G  सिर्फ मोड"</item>
+</string-array>
+<string name="wifi_alarm_category_title">"Wi-Fi अलार्म सेटिंगस"</string>
+<string name="wifi_connect_alarm_title">"अपने-आप कनेक्ट Wi-Fi"</string>
+<string name="wifi_disconnect_alarm_title">"अपने-आप डिसकनेक्ट Wi-Fi"</string>
+<string name="wifi_alarm_time_title">"समां सेट करो"</string>
+<string name="not_stand_by">"मना कीते दा"</string>
+<string name="main_card_slot">"PRI. "</string>
+<string name="gsm_card_slot">"SEC. "</string>
+<string name="cellular_data_title">"सेलुलर डेटा"</string>
+<string name="sim_selection_required_pref">"चुनांऽ लोड़चदा"</string>
+<string name="stand_by_set_changed_prompt">"सिम ऐक्टीवेशन अवस्था बदली जाग, जारी रक्खने लेई तस्दीक करो?"</string>
+<string name="okay">"ठीक ऐ"</string>
+<string name="primary_card_switching">"सेटिंग होआ करदी ऐ, किरपा करियै इंतजार करो..."</string>
+<string name="select_primary_card">"मुक्ख कार्ड चुनो"</string>
+<string name="sim_calls_ask_first_prefs_title">"हर बार पुच्छो"</string>
+<string name="sim_preferred_title">"तरजीही सिम कार्ड अपडेट करो?"</string>
+<string name="sim_preferred_message">"<xliff:g id="new_sim">%1$s</xliff:g> थुआढ़े डिवाइस पर इकलौती सिम ऐ। क्या तुस इस सिम गी सेलूलर डेटा, कालें ते SMS सनेहें लेई बरतना चांह्‌दे ओ?"</string>
+<string name="select_sim_for_data">"डेटा लेई सिम चुनो"</string>
+<string name="select_sim_for_calls">"कन्नै काल करो"</string>
+<string name="sim_card_select_title">"सिम कार्ड चुनो"</string>
+<string name="select_primary_slot_description_4g">"(मुक्ख कार्ड4G /2G सेवा दा समर्थन करदा ऐ, सकेंडरी कार्ड सिर्फ 2G सेवा दा समर्थन करदा ऐ।)"</string>
+<string name="whether_switch_primary_card">"किरपा करियै तस्दीक करो जे मुक्ख कार्ड थमां इस कार्ड पर आना चांह्​दे ओ जां नेईं?\n(सेलूलर डेटा बी कार्ड पर स्थानंतरत होई जाग।)"</string>
+<string-array name="light_color_picker">
+<item>"हरा"</item>
+<item>"नीला"</item>
+<item>"इंडिगो"</item>
+<item>"बैगंनी"</item>
+<item>"गुलाबी"</item>
+<item>"लाल"</item>
+<item>"पीला"</item>
+</string-array>
+<string name="select_primary_slot_description">"(मुक्ख कार्ड WCDMA/GSM मोड गी समर्थन करदा ऐ, दुआ कार्ड सिर्फ GSM मोड गी समर्थन करदा ऐ।)"</string>
+<string name="sim_pref_divider">"लेई तरजीही सिम"</string>
+<string name="calls_title">"कालां"</string>
+<string name="sms_messages_title">"SMS सनेह्"</string>
+<string name="feature_bar_softkey_edit">"संपादत करो"</string>
+<string name="feature_bar_softkey_off">"बंद"</string>
+<string name="feature_bar_softkey_on">"चालू"</string>
+<string name="feature_bar_softkey_options">"चुनो"</string>
+<string name="dialog_restore_default_apn">"थुआढ़े आसेआ जोड़े जाने आह्‌ले सब्भै APN हटाई दित्ते जाङन, ते बाकी APN गी डिफ़ाल्ट सेटिंग्स पर रीसेट करी दित्ता जाग। क्या तुस जारी रक्खना चांह्‌दे ओ?"</string>
+</resources>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"Vrsta podešavanja mreže pristupne točke"</string>
+<string name="user_could_input_apn_type">"Korisnik može umetnuti vrstu mreže pristupne točke"</string>
+<string name="could_not_input_the_same_apn_type">"Nije moguće umetnuti istu vrstu mreže pristupne točke"</string>
+<string name="apn_type_message">"Tamo gdje nema početne vrste u vašoj novoj mreži pristupne točke, nećete moći odabrati mrežu pristupne točke."</string>
+<string name="error_apn_type_message">"Mreža pristupne točke ne može biti prazna."</string>
+<string name="error_apn_type">"Vrsta mreže pristupne točke nije podržana, molimo unesite ponovno!"</string>
+<string name="same_apn_type">"Unijeli ste istu vrstu mreže pristupne točke, molimo ponovno unesite!"</string>
+<string name="empty_apn_type">"Niste unijeli ili odabrali bilo koju vrstu mreže pristupne točke, molimo ponovno unesite!"</string>
+<string name="dual_settings_title_uui">Upravljanje SIM karticom</string>
+<string name="dual_voice_setting_title">"Podešavanje glasa"</string>
+<string name="dual_video_setting_title">"Podešavanje videa"</string>
+<string name="dual_mms_setting_title">"Podešavanje SMS-a"</string>
+<string name="dual_primary_setting_title">"Postavke primarne kartice"</string>
+<string name="dual_settings_title">"Postavke dvojne SIM kartice"</string>
+<string name="sim_name_setting_title">"Izmijenite ime SIM kartice"</string>
+<string name="sim_number_setting_title">"Izmijenite broj SIM kartice"</string>
+<string name="sim_number_setting_null">"Nije postavljeno"</string>
+<string name="sim_color_setting_title">"Podesite pozadinsku boju"</string>
+<string name="dual_settings_always_prompt">"Uvijek brzo"</string>
+<string name="mms_settings_auto">"automatski"</string>
+<string name="no_need_set_data_subscription">"Nema potrebe za postavljanjem podataka o pretplati."</string>
+<string name="voice_setting_title">"Ostale postavke poziva"</string>
+<string name="video_setting_title">"Podešavanje općih postavki  video poziva"</string>
+<string name="mms_setting_title">"Podešavanja MMS-a i SMS-a"</string>
+<string name="sim_reply_setting">"Podešavanje odgovora na Sim kartici"</string>
+<string name="reply_message_setting">"Odgovori na MMS ili SMS"</string>
+<string name="closeData">"Zatvori"</string>
+<string name="data_title">"Podešavanje podatkovne veze"</string>
+<string name="sel_sub_title">"Podešavanje stanja na čekanju"</string>
+<string name="sel_sub_summary">"Omogućiti ili onemogućiti SIM karticu"</string>
+<string name="set_data_subscription_timeout">"Podešavanje podatkovne veze je isteklo!"</string>
+<string name="set_dds_failed">"Greška! Izbrišite sve veze podataka i pokušajte kasnije!"</string>
+<string name="set_dds_success">"Podešavanje je uspjelo"</string>
+<string name="set_dds_success_gsm">"Podešavanje je uspjelo. "Podatkovna veza se prebacuje na sekundarni utor, LTE usluga nije dostupna."</string>
+<string name="set_data_subscription_progress">"Podešavanje, molimo sačekajte..."</string>
+<string name="set_data_subscription_error_ok">"Odredi"</string>
+<string name="set_data_subscription_error_title">"Pogreška"</string>
+<string name="set_data_subscription_error">"Bez ove SIM kartice, molimo provjerite i pokušajte ponovo!"</string>
+<string name="sim_retries_left">Preostali broj</string>
+<string name="menu_kill_apps_services">"Zatvorite sve aplikacije"</string>
+<string name="back_groud_data_usage_restrict_protocal">"Protokol korištenja pozadinskih podataka."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"Prihvatate li protokol korištenja pozadinskih podataka?"</string>
+<string name="apn_edit_quit">"Napusti"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Izmijenite pristupnu točku"</string>
+<string name="input_pin_limit">"Molimo umetnite 4-8 brojeva"</string>
+<string name="agps_supl_manual_settings">"SUPL ručno podešavanje poslužitelja"</string>
+<string name="agps_supl_manual_settings_summary">"Ručna postavka SUPL poslužitelj i ulaz"</string>
+<string name="str_clear">"Izbriši"</string>
+<string name="str_save">"Spremi"</string>
+<string name="gps_location_suplserver">"Poslužitelj"</string>
+<string name="agps_setting">"Podešavanje Agps-a"</string>
+<string name="open">"Otvori"</string>
+<string name="close">"Zatvori"</string>
+<string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Podešavanje mobilne mreže"</string>
+<string name="pin_enabled_success">"PIN broj SIM kartice je omogućen"</string>
+<string name="pin_disabled_success">"PIN broj SIM kartice je onemogućen"</string>
+<string name="gps_time_sync_attention_gps_on">"Popravljanje GPS-a će trajati oko 1 minut" Pored toga, GPS možda neće pružiti vrijeme zbog slabog okolnog signala. \n\nSigurni ste da želite koristiti vrijeme koje pruža GPS?"</string>
+<string name="gps_time_sync_attention_gps_off">"Kako biste koristili vrijeme koje pruža GPS, najprije morate instalirati GPS. Popravljanje GPS-a će trajati oko 1 minut. Pored toga, GPS možda neće pružiti vrijeme zbog slabog okolnog signala. \n\nSigurni ste da želite omogućiti GPS sada i čekati na vrijeme koje pruža GPS?"</string>
+<string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+<string name="sim_lock_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> podešavanje zaključavanja"</string>
+<string name="device_status_ex">"SIM<xliff:g id="SIM">%s</xliff:g> status"</string>
+<string name="lte_service">"4G usluga/"Odaberite primarnu karticu"</string>
+<string name="lte_enabled">"Omogućiti 4G uslugu"</string>
+<string name="lte_service_network_mode_settings_dialog_title">"Odaberite način mreže"</string>
+<string name="whether_close_lte_service">"Molimo potvrdite zatvaranje 4G usluge?"</string>
+<string name="whether_enable_lte_service">"Molimo potvrdite omogućavanje 4G usluge?"</string>
+<string name="whether_switch_lte_service_sim">"Želite li potvrditi želite li prebaciti 4G uslugu na ovu SIM karticu?"</string>
+<string name="lte_service_attention">"Pažnja"</string>
+<string name="lte_service_switch">"Prebacivanje 4G usluge, molimo sačekajte..."</string>
+<string-array name="lte_preferred_networks_choices">
+<item>"4G/3G/2G Višestruki način"</item>
+<item>"4G/3G/2G jedini način"</item>
+</string-array>
+<string name="wifi_alarm_category_title">"Postavke Wi-Fi alarma"</string>
+<string name="wifi_connect_alarm_title">"Automatski poveži Wi-Fi"</string>
+<string name="wifi_disconnect_alarm_title">"Automatski odspoji Wi-Fi"</string>
+<string name="wifi_alarm_time_title">"Postavi vrijeme"</string>
+<string name="not_stand_by">"Zabranjeno"</string>
+<string name="main_card_slot">"PRI. "</string>
+<string name="gsm_card_slot">"SEC. "</string>
+<string name="cellular_data_title">"Mobilni podaci"</string>
+<string name="sim_selection_required_pref">"Odabir je potreban"</string>
+<string name="stand_by_set_changed_prompt">"Stanje aktivacije SIM kartice će biti izmijenjeno, nastaviti?"</string>
+<string name="okay">"U redu"</string>
+<string name="primary_card_switching">"Podešavanje\uff0cmolimo sačekajte..."</string>
+<string name="select_primary_card">"Odaberite primarnu karticu"</string>
+<string name="sim_calls_ask_first_prefs_title">"Pitaj svaki put"</string>
+<string name="sim_preferred_title">"Ažurirati preferiranu SIM karticu?"</string>
+<string name="sim_preferred_message">"<xliff:g id="new_sim">%1$s</xliff:g> je jedina SIM kartica na vašem uređaju. Želite li koristiti ovaj SIM za mobilne podatke, pozive i SMS poruke? "</string>
+<string name="select_sim_for_data">"Odaberite SIM za podatke"</string>
+<string name="select_sim_for_calls">"Pozovite sa"</string>
+<string name="sim_card_select_title">"Odaberite SIM karticu"</string>
+<string name="select_primary_slot_description_4g">"(Primarna kartica podržava 4G/2G uslugu, sekundarna kartica podržava samo 2 G uslugu. )""</string>
+<string name="whether_switch_primary_card">"Molimo potvrdite promjenu primarne kartice na povu karticu?\n(Stanični podaci će se također premjestiti na ovu karticu.)"</string>
+<string-array name="light_color_picker">
+<item>"Zelena"</item>
+<item>"Plava"</item>
+<item>"Indigo"</item>
+<item>"Ljubičasta"</item>
+<item>"Ružičasto"</item>
+<item>"Crvena"</item>
+<item>"Žuta"</item>
+</string-array>
+<string name="select_primary_slot_description">"(Primarna kartica podržava način rada WCDMA/GSM, sekundarna kartica podržava samo GSM način rada.)"</string>
+<string name="sim_pref_divider">"Preferirana SIM kartica za"</string>
+<string name="calls_title">"Pozivi"</string>
+<string name="sms_messages_title">"SIM poruke"</string>
+<string name="feature_bar_softkey_edit">"Uređivanje"</string>
+<string name="feature_bar_softkey_off">"Onemogućeno"</string>
+<string name="feature_bar_softkey_on">"uključeno"</string>
+<string name="feature_bar_softkey_options">"Odaberi"</string>
+<string name="dialog_restore_default_apn">Sve je APN koje dodate će biti uklonjene, a preostali APN će se vratiti na zadane postavke. Jeste li sigurni da želite nastaviti?"</string>
+</resources>

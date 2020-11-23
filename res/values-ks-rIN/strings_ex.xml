@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">" ترتیب چھء دیوان apn قسمس"</string>
+<string name="user_could_input_apn_type">" استعمال کرن وول دی apn قسم"</string>
+<string name="could_not_input_the_same_apn_type">" ہیکنء دیتھ ہیوی apn قسم"</string>
+<string name="apn_type_message">" اتھ منز ہیکنء پنن قسم آسن توہندس نیوس APN منز، ہیکنء طاقت تھاویتھ APN چننس۔"</string>
+<string name="error_apn_type_message">" APN قسم گژھنء خالی آسن"</string>
+<string name="error_apn_type">" Apn قسم یس توہی دیتو چھنء ساتھ دیوان، مہربانی کریتھ دباییو دبارء!"</string>
+<string name="same_apn_type">" توہی دباءو ہیوی قسمک Apn، مہربانی کریتھ دباییو دبارء!"</string>
+<string name="empty_apn_type">" توہی دیتو نء یا چنو نء کنتء قسمک APN، مہربانی کریتھ دباییو دبارء!"</string>
+<string name="dual_settings_title_uui">"کارڈک انتظام""</string>
+<string name="dual_voice_setting_title">" آواز ہنز ترتیب"</string>
+<string name="dual_video_setting_title">" ویڈیو ترتیب"</string>
+<string name="dual_mms_setting_title">"SMS ترتیب"</string>
+<string name="dual_primary_setting_title">" گوڈنگ کارڈک ترتیب"</string>
+<string name="dual_settings_title">" زء Sim ہند ترتیب"</string>
+<string name="sim_name_setting_title">" ترمیم کریو SIM ناوس"</string>
+<string name="sim_number_setting_title">" ترتیم کریو SIM نمبرس"</string>
+<string name="sim_number_setting_null">چھن سیٹ</string>
+<string name="sim_color_setting_title">" تھاییو بیک گراونڈ رنگ"</string>
+<string name="dual_settings_always_prompt">" پریتھ ساتء فوری طور"</string>
+<string name="mms_settings_auto">"آٹو"</string>
+<string name="no_need_set_data_subscription">" کہان ضرورت چھنء ڈیٹا سبسکرپشن کرنچ۔"</string>
+<string name="voice_setting_title">" آوازء کال ہنز ترتیب"</string>
+<string name="video_setting_title">" ویڈیو کالء ہنز ترتیب"</string>
+<string name="mms_setting_title">"MMS تء SMS ترتیب"</string>
+<string name="sim_reply_setting">" Sim جوابک ترتیب"</string>
+<string name="reply_message_setting">" جواب MMS یا SMS"</string>
+<string name="closeData">بند</string>
+<string name="data_title">" ڈیٹا کنکشنچ ترتیب"</string>
+<string name="sel_sub_title">" سٹینڈباۓ ترتیب"</string>
+<string name="sel_sub_summary">" یالء ترایو یا بند کرییو SIM کارڈ"</string>
+<string name="set_data_subscription_timeout">" ڈٹیا کنکشنک واقھ مکلیاو!"</string>
+<string name="set_dds_failed">" غلطی!صاف کرییو تمام ڈیٹا کنکشن تء دوبارء کرییو کوشش!"</string>
+<string name="set_dds_success">" تھاونء آو کامیابی سان"</string>
+<string name="set_dds_success_gsm">" تھاونء آو کامیابی سان۔ ڈیٹا کنکشن آو فیرنء دویمس سلاٹس منز۔ LTE سروس چھنء موجود۔"</string>
+<string name="set_data_subscription_progress">" تھاوان چھء، مہربانی کریتھ پراریو۔۔۔"</string>
+<string name="set_data_subscription_error_ok">"ٹھیک"</string>
+<string name="set_data_subscription_error_title">"نكس"</string>
+<string name="set_data_subscription_error">" یمء SIM کارڈء ورۓ، مہربانی کریتھ کریو توثیق تء کریو دبارء کوشش!"</string>
+<string name="sim_retries_left">" روزن وایل نمبر چھء"</string>
+<string name="menu_kill_apps_services">بند کرییو ساری ایپلیکیشنس</string>
+<string name="back_groud_data_usage_restrict_protocal">" بیک گراونڈ ڈیٹا استعمالک پروٹوکال۔"</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">" قبول کریو بیک گراونڈ ڈیٹا استعمالک پروٹوکال؟"</string>
+<string name="apn_edit_quit">"ترک"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> ترمیم کرییو ایکسس پوینٹس"</string>
+<string name="input_pin_limit">" مہربانی کریتھ دییو 4-8 نمبر"</string>
+<string name="agps_supl_manual_settings">" SUPL سرور پانۓ ترتیب"</string>
+<string name="agps_supl_manual_settings_summary">" پانۓ تھاییو SUPL سرور تء پورٹ"</string>
+<string name="str_clear">"صاف"</string>
+<string name="str_save">"محفوظ تھايو"</string>
+<string name="gps_location_suplserver">سرور</string>
+<string name="agps_setting">" Agps ترتیب"</string>
+<string name="open">"كھولیو"</string>
+<string name="close">بند</string>
+<string name="mobile_network_settings_ex">" SIM<xliff:g id="SIM">%s</xliff:g> موبایل نٹورک ترتیب"</string>
+<string name="pin_enabled_success">"SIM PIN چھء یالء"</string>
+<string name="pin_disabled_success">"SIM PIN چھء بند"</string>
+<string name="gps_time_sync_attention_gps_on">اتھ لگ زیاد كھوت زیاد اكھ منٹ GPS درستت کرن کھتریم وراي، GPS گاس ناکاءم وقت پھرهام كرنس منز کمزور سگنل باپتھ. \n\n توہی چھوا يكيك ذ توہی کرییو استعمال GPS فراہم کی ہی کہ وقت؟</string>
+<string name="gps_time_sync_attention_gps_off">ایم بروه ذ توہی کرییو استعمال GPS فراہم کی ہی کہ وقت، توہی پذيو گوڑ GPS کارگر بناونتھ لگ تیل زیاد كھوت زیاد اكھ منٹ GPS درستت کرن کھتریم وراي، GPS گاس ناکاءم وقت پھرهام كرنس منز کمزور سگنل باپتھ. \n\n توہی چھوا يكيك ذ توہی بنايو کارگر GPS ون ت: پرارو GPS فراہم کی ہی کہ وقت کھتر؟ </string>
+<string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+<string name="sim_lock_settings_ex">" سم <xliff:g id="SIM">%s</xliff:g> لاک ترتیب"</string>
+<string name="device_status_ex">" سم <xliff:g id="SIM">%s</xliff:g> سٹیٹس"</string>
+<string name="lte_service">" 4G کامء/ چنیو گوڈنک کارڈ"</string>
+<string name="lte_enabled">" یالء تراییو 4G سروس"</string>
+<string name="lte_service_network_mode_settings_dialog_title">چنو نیٹ ورک تریقء</string>
+<string name="whether_close_lte_service">" مہربانی کریتھ دیو منظوری زء توہی چھوا يژھان 4G سروس بند کرن؟"</string>
+<string name="whether_enable_lte_service">" مہربانی کریتھ دیو منظوری زء توہی چھوا يژھان 4G سروس یلء تراون؟"</string>
+<string name="whether_switch_lte_service_sim">" مہربانی کریتھ کریو تصدیق زء توہی چھوا یژھان فیرن 4G سروس یتھ SIM کارڈس منز؟"</string>
+<string name="lte_service_attention">"ہوشیار"</string>
+<string name="lte_service_switch">" فیران چھء 4G سروس، مہربانی کریتھ پراریو۔۔۔"</string>
+<string-array name="lte_preferred_networks_choices">
+<item>4G / 3G / 2G واريا تریقء</item>
+<item>3G / 2G واحد تریقء</item>
+</string-array>
+<string name="wifi_alarm_category_title">Wi-Fi الارم کی ترتیبات</string>
+<string name="wifi_connect_alarm_title">پاني منسلک Wi-Fi</string>
+<string name="wifi_disconnect_alarm_title">پاني گاس Wi-Fi کٹ</string>
+<string name="wifi_alarm_time_title">"تھاوو وقت"</string>
+<string name="not_stand_by">ركاون</string>
+<string name="main_card_slot">پری.</string>
+<string name="gsm_card_slot">سیکنڈس</string>
+<string name="cellular_data_title">سیلولر ڈیٹا</string>
+<string name="sim_selection_required_pref">انتخابات كرنچ ضرورت</string>
+<string name="stand_by_set_changed_prompt">SIM ایکٹیویشن تریقء ہیکہ بدلتھ، مہربانی كریتھ کرییو مولوم کہ جاری چھا تھاون؟</string>
+<string name="okay">"ٹھیک"</string>
+<string name="primary_card_switching">ترتیبات \uff0c مہربانی كریتھ ركو ...</string>
+<string name="select_primary_card">چنو پرائمری کارڈ</string>
+<string name="sim_calls_ask_first_prefs_title">"وانو پریتھ وقت"</string>
+<string name="sim_preferred_title">اپ ڈیٹ کرییو پسديد SIM کارڈ؟</string>
+<string name="sim_preferred_message">"<xliff:g id="new_sim">%1$s</xliff:g> چھی اكي SIM تہندس الس منز .کیا توہی چھوا یء SIM يسان استعمال کیرن سیلولر ڈیٹا کھتر، کالس، ت SMS میسسگیس؟"</string>
+<string name="select_sim_for_data">ڈیٹا کھتر چنو اكھ SIM</string>
+<string name="select_sim_for_calls">کال سیتھ</string>
+<string name="sim_card_select_title">چنو SIM کارڈ</string>
+<string name="select_primary_slot_description_4g">" ( گوڈنک کارڈ چھء ساتھ دیوان 4G/2G کامء، دویم کارڈ چھء صرف 2G کامء ساتھ دیوان۔ )"</string>
+<string name="whether_switch_primary_card">مہربانی كریتھ کرییو مولوم کہ گڑینك کارڈ بدلی يتھ کارڈز سیتھ؟ \n(سیلولر ڈیٹا گسی شفٹ کارڈز سیتھ.)</string>
+<string-array name="light_color_picker">
+<item>سبذ</item>
+<item>نيول</item>
+<item>انڈگو</item>
+<item>واگني</item>
+<item> گولئب</item>
+<item>ووذول</item>
+<item>لدر</item>
+</string-array>
+<string name="select_primary_slot_description">"(گڈنك کارڈ چھی سپورٹ کرن WCDMA / GSM موڈ، ديم کارڈ چھی سپورٹ کرن صرف GSM موڈ.)"</string>
+<string name="sim_pref_divider">"ترجي SIM کھتر"</string>
+<string name="calls_title">كالز</string>
+<string name="sms_messages_title">SMS میسیجذ</string>
+<string name="feature_bar_softkey_edit">درستت كرن</string>
+<string name="feature_bar_softkey_off">"بند"</string>
+<string name="feature_bar_softkey_on">"ییل"</string>
+<string name="feature_bar_softkey_options">"چنو"</string>
+<string name="dialog_restore_default_apn">تمام APN یوم توہی جڑيو ین هٹاون، ت: باقی APN کیرن دبار ٹھیک ڈیفالٹ سیٹگستوہی چھوا يكيك ذ اس تھاوو چلائیں؟</string>
+</resources>

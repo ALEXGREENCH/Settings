@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"ตั้งค่าประเภท APN"</string>
+<string name="user_could_input_apn_type">"ผู้ใช้สามารถใส่ APN "</string>
+<string name="could_not_input_the_same_apn_type">"ไม่สามารถเข้าประเภท APN เดียวกัน"</string>
+<string name="apn_type_message">"ไม่มีการพิมพ์เริ่มต้นใน APN ใหม่ของคุณจะไม่สามารถที่จะเลือก APN."</string>
+<string name="error_apn_type_message">"ประเภทAPN ไม่สามารถว่าง"</string>
+<string name="error_apn_type">"ประเภท APN ที่ใส่ไม่สนับสนุนโปรดใส่อีกครั้ง!"</string>
+<string name="same_apn_type">"คุณใส่ APN ชนิดเดียวกันโปรดใส่อีกครั้ง!"</string>
+<string name="empty_apn_type">"คุณไม่ได้ใส่หรือเลือกชนิดของ APN โปรดใส่อีกครั้ง!"</string>
+<string name="dual_settings_title_uui">"การจัดการSIM"</string>
+<string name="dual_voice_setting_title">"ตั้งค่าเสียง"</string>
+<string name="dual_video_setting_title">"ตั้งค่าวีดีโอ"</string>
+<string name="dual_mms_setting_title">"ตั้งค่าSMS "</string>
+<string name="dual_settings_title">"ตั้งค่าSimคู่ "</string>
+<string name="sim_name_setting_title">"แก้ไขชื่อ SIM "</string>
+<string name="sim_color_setting_title">"ตั้งสีพื้นหลัง"</string>
+<string name="dual_settings_always_prompt">"ให้เสมอ"</string>
+<string name="mms_settings_auto">"อัตโนมัติ"</string>
+<string name="no_need_set_data_subscription">"ไม่จำเป็นต้องตั้งสมาชิกรับข้อมูล."</string>
+<string name="voice_setting_title">"ตั้งค่าโทรเสียง"</string>
+<string name="video_setting_title">"ตั้งค่าโทรวีดีโอ"</string>
+<string name="mms_setting_title">"ตั้งค่าMMS และ SMS "</string>
+<string name="sim_reply_setting">"Simตั้งค่าการตอบกลับ"</string>
+<string name="reply_message_setting">"ตอบ MMS หรือSms"</string>
+<string name="closeData">"ปิด"</string>
+<string name="data_title">"ตั้งค่าการเชื่อมต่อข้อมูล"</string>
+<string name="sel_sub_title">"ตั้งค่าสแตนบาย"</string>
+<string name="sel_sub_summary">"เปิดหรือปิดการใช้งานSIM การ์ด"</string>
+<string name="set_data_subscription_timeout">"ตั้งค่าเชื่อมต่อข้อมูลหมดเวลา"</string>
+<string name="set_dds_failed">"ผิดพลาด! ล้างการเชื่อมต่อข้อมูลและลองอีกครั้ง"</string>
+<string name="set_dds_success">"ตั้งเรียบร้อย"</string>
+<string name="set_data_subscription_progress">"ติดตั้ง, กรุณารอสักครู่ ..."</string>
+<string name="set_data_subscription_error_ok">"ตรวจสอบ"</string>
+<string name="set_data_subscription_error_title">"ผิดพลาด"</string>
+<string name="set_data_subscription_error">"ถ้าไม่มีSIM การ์ดนี้โปรดตรวจสอบและลองอีกครั้ง"</string>
+<string name="sim_retries_left">"จำนวนที่เหลืออยู่"</string>
+<string name="menu_kill_apps_services">"ปิดการใช้งานทั้งหมด"</string>
+<string name="back_groud_data_usage_restrict_protocal">"พื้นหลังข้อมูลการใช้งานโปรโตคอล."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"ยอมรับการใช้ข้อมูลโปรโตคอล?"</string>
+<string name="apn_edit_quit">"ออก"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> เข้าถึงแก้ไขจุดเชื่อม"</string>
+<string name="input_pin_limit">"กรุณาใส่หมายเลข 4 - 8 "</string>
+    <string name="agps_supl_manual_settings">"SUPL ตั้งค่าระบบด้วยตัวเอง"</string>
+     <string name="agps_supl_manual_settings_summary">"คู่มือการใช้งานเซิร์ฟเวอร์ SUPL และพอร์ต""</string>
+     <string name="str_clear">"ล้าง"</string>
+     <string name="str_save">บันทึก</string>
+     <string name="gps_location_suplserver">"เซิร์ฟเวอร์"</string>
+    <string name="agps_setting">"Agps กำลังตั้งค่า"</string>
+    <string name="open">"เปิด"</string>
+    <string name="close">ปิด</string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g>ตั้งค่าเครือข่ายมือถือ "</string>
+    <string name="pin_enabled_success">"เปิดการใช้งาน PIN ของซิมแล้ว"</string>
+    <string name="pin_disabled_success">"ปิดใช้งาน PIN ของซิม"</string>
+    <string name="gps_time_sync_attention_gps_on">""มันต้องใช้เวลามากที่สุด 1 นาทีที่จะได้รับโปรแกรมแก้ไขGPS. นอกเหนือจากGPSอาจจะล้มเหลวเพื่อให้เวลาต่อสัญญาณที่อ่อน. \n\nคุณแน่ใจที่จะใช้จีพีเอสให้เวลาที่"</string>
+    <string name="gps_time_sync_attention_gps_off">"การใช้งานGPSให้เวลาคุณต้องเปิดใช้งานGPSครั้งแรก. ก็แล้วใช้เวลามากที่สุด 1 นาทีที่จะได้รับโปรแกรมแก้ไขGPS. นอกเหนือจากGPSอาจจะล้มเหลวเพื่อให้เวลาที่เนื่องจากสัญญาณอ่อนแอสิ่งแวดล้อม. \n\n\ คุณแน่ใจหรือว่าจะเปิดใช้งานGPSในขณะนี้และ รอให้GPSให้เวลาที่ "</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+    <string name="sim_lock_settings_ex">SIM<xliff:g id="SIM">%s</xliff:g> ตั้งค่าการล๊อค</string>
+    <string name="device_status_ex">SIM<xliff:g id="SIM">%s</xliff:g> สถานะ</string>
+    <string name="dual_primary_setting_title">"การตั้งค่าบัตรหลัก"</string>
+     <string name="sim_number_setting_title">"แก้ไขจำนวนซิม"</string>
+     <string name="sim_number_setting_null">"ไม่ได้ตั้งค่า"</string>
+     <string name="set_dds_success_gsm">"การตั้งค่าการเชื่อมต่อข้อมูลไปยังช่องรองสวิทช์สำเร็จ! บริการ LTE ใช้งานไม่ได้"</string>
+     <string name="lte_service">"บริการ 4G / เลือกบัตรหลัก"</string>
+     <string name="lte_enabled">"เปิดใช้บริการ 4G"</string>
+     <string name="lte_service_network_mode_settings_dialog_title">"เลือกโหมดเครือข่าย"</string>
+     <string name="whether_close_lte_service">"ได้โปรดยืนยันคุณต้องการที่จะปิดการให้บริการ 4G?"</string>
+     <string name="whether_enable_lte_service">"ได้โปรดยืนยันคุณต้องการที่จะเปิดการให้บริการ 4G?"</string>
+     <string name="whether_switch_lte_service_sim">"โปรดยืนยันการให้บริการ 4G ในซิมการ์ดนี้?"</string>
+     <string name="lte_service_attention">"ความสนใจ"</string>
+     <string name="lte_service_switch">"กำลังใช้บริการ 4G โปรดรอ ... "</string>
+     <string-array name="lte_preferred_networks_choices">
+        <item>"4G/3G/2Gมีหลายรูปแบบ"</item>
+        <item>รูปแบบ3G/2G เท่านั้น</item>
+    </string-array>
+     <string name="wifi_alarm_category_title">"ตั้งค่าการเตือน Wi-Fi"</string>
+     <string name="wifi_connect_alarm_title">"เชื่อมต่อ Wi-Fi โดยอัตโนมัติ"</string>
+     <string name="wifi_disconnect_alarm_title">"ตัดการเชื่อมต่อ Wi-Fi อัตโนมัติ"</string>
+     <string name="wifi_alarm_time_title">"ตั้งเวลา"</string>
+     <string name="not_stand_by">"ต้องห้าม"</string>
+     <string name="main_card_slot">"มาสเตอร์การ์ด"</string>
+     <string name="gsm_card_slot">"การ์ดรอง"</string>
+     <string name="cellular_data_title">"เครือข่ายข้อมูลมือถือ"</string>
+     <string name="sim_selection_required_pref">"จำเป็นต้องเลือก"</string>
+     <string name="stand_by_set_changed_prompt">"สถานะยืนยันการใช้งานซิมจะมีการเปลี่ยนแปลงโปรดยืนยันว่าจะต่อหรือไม่?"</string>
+     <string name="okay">"ตกลง"</string>
+     <string name="primary_card_switching">"ตั้งค่าโปรดรอ ... "</string>
+     <string name="select_primary_card">"เลือกบัตรหลัก"</string>
+     <string name="sim_calls_ask_first_prefs_title">"สอบถามทุกครั้ง"</string>
+     <string name="sim_preferred_title">"ต้องการปรับปรุงแนะนำซิมการ์ดไหม?"</string>
+     <string name="sim_preferred_message">"<xliff:g id="new_sim">%1$s</xliff:g> เป็นเพียงซิมการ์ดในอุปกรณ์นี้ คุณต้องการที่ใช้ซิมการ์ดนี้เชื่อมต่อเครือข่ายข้อมูลโทรศัพท์มือถือสนทนาหรือส่งข้อความSMS"</string>
+     <string name="select_sim_for_data">"เลือกเครือข่ายข้อมูลซิมการ์ด"</string>
+     <string name="select_sim_for_calls">"เลือกซิมการ์ดสำหรับการสนทนาเสียง"</string>
+     <string name="sim_card_select_title">เลือกSIM</string>
+     <string name="select_primary_slot_description_4g">"(การ์ดหลักรองรับบริการ 4G / 2G การ์ดรองรองรับเฉพาะบริการ 2G)"</string>
+     <string name="whether_switch_primary_card">"เพื่อยืนยันบัตรหลักบัตรแท็บ \n(เครือข่ายข้อมูลมือถือจะถูกตัดให้การ์ดใบนี้.)"</string>
+     <string-array name="light_color_picker">
+        <item>"เขียว"</item>
+        <item>"น้ำเงิน"</item>
+        <item>"สีคราม"</item>
+        <item>"สีม่วง"</item>
+        <item>"ชมพู"</item>
+        <item>"แดง"</item>
+        <item>"เหลือง"</item>
+    </string-array>
+     <string name="select_primary_slot_description">(บัตรหลักสนับสนุนโหมด WCDMA / GSM บัตรรองสนับสนุนเฉพาะโหมด GSM)</string>
+     <string name="sim_pref_divider">"ซิมการ์ดที่ต้องการสำหรับ"</string>
+     <string name="calls_title">โทรทั้งหมด</string>
+     <string name="sms_messages_title">"ข้อความ SMS"</string>
+     <string name="feature_bar_softkey_edit">แก้ไข</string>
+     <string name="feature_bar_softkey_off">"ปิด"</string>
+     <string name="feature_bar_softkey_on">"เปิด"</string>
+     <string name="feature_bar_softkey_options">"เลือก"</string>
+     <string name="dialog_restore_default_apn">"ทุก APN เพิ่มจะถูกลบออกและส่วนที่เหลือจะได้รับการ APN กำลังเริ่มต้นตั่งค่า.คุณแน่ใจหรือว่าจะดำเนินการต่อ?"</string>
+</resources>
